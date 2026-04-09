@@ -8,7 +8,7 @@ do
   # Step 2.1: Skill Embedding
   python3 embed.py --layer 1 --model Qwen3-Embedding-4B
   
-  # Step 2.2: Step Clustering
+  # Step 2.2: Skill Clustering
   python3 cluster_raptor.py --layer 1
   
   # Step 3: LLM-based Skill Cluster Refinement
