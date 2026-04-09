@@ -41,10 +41,10 @@ echo "DASHSCOPE_API_KEY=your_key" > .env
 ```
 
 Download from [HuggingFace](https://huggingface.co/datasets/shawnzzzh/AgenticDataBench):
-- Datasets: `unzip datasets.zip -d datasets/`
+- Datasets: unzip and place the `datasets/` folder inside `generator/`
 - Embeddings: `steps-embed.npy` → `../skill_cluster/data/`
 
-Copy `domain_connections/*.txt` to `datasets/<domain>/domain_connections.txt`.
+For each file in `domain_connections/` with the naming pattern `domain_connections(<domain>).txt`, copy it to the corresponding subdirectory in `datasets/` and rename it to `domain_connections.txt`.
 
 ## Usage
 
