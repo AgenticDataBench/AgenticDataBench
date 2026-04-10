@@ -347,7 +347,7 @@ def main():
 Examples:
     python test_profiler.py
     python test_profiler.py --domain agriculture
-    python test_profiler.py --domain e-commerce --detailed true
+    python test_profiler.py --domain ecommerce --detailed true
     python test_profiler.py data.csv
     python test_profiler.py file1.csv file2.json --detailed false
         """
