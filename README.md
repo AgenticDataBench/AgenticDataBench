@@ -67,7 +67,7 @@ python3 evaluate.py --output_dir output/da-agent-qwen-{experiment_id}
 ```
 
 <div align="center">
-<img src="docs/img/pipeline.png" width="600px">
+<img src="docs/img/pipeline.png" width="400px">
 </div>
 
 ## 📊 Result Uploading

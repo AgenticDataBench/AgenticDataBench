@@ -1,4 +1,4 @@
-# Skill Cluster Construction
+# Hierarchical Skill Extraction
 
 Extracts representative data science skills from Stack Overflow task solutions through skill-aligned hierarchical clustering.
 
