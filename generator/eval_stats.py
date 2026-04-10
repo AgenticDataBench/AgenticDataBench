@@ -77,7 +77,7 @@ def count_skills():
     files = _collect_eval_case_files()
 
     if not files:
-        print("未找到 eval_cases 文件")
+        print("No eval_cases files found")
         return
 
     all_skills = set()
@@ -115,11 +115,11 @@ def count_skills():
         print(f"[{domain}] {domain_case_counts[domain]} cases, {len(domain_skills[domain])} unique skills")
 
     print(f"\n{'='*60}")
-    print(f"共扫描 {len(files)} 个领域, {total_cases} 个 cases")
-    print(f"全部不同 skills 数量: {len(all_skills)}")
+    print(f"Scanned {len(files)} domains, {total_cases} cases")
+    print(f"Total unique skills: {len(all_skills)}")
 
     print(f"\n{'='*60}")
-    print("按出现次数排序的 skills:")
+    print("Skills sorted by frequency:")
     for skill, count in skill_counter.most_common():
         print(f"  {count:>5}x  {skill}")
 
@@ -433,7 +433,7 @@ def count_annotate_skills(base_dir=ANNOTATE_RESULTS_DIR):
     question_files = _collect_annotate_question_files(base_dir)
 
     if not question_files:
-        print(f"未找到评测案例 JSON 文件 (目录: {base_dir})")
+        print(f"No evaluation case JSON files found (directory: {base_dir})")
         return
 
     all_skills = set()
@@ -487,21 +487,15 @@ def count_annotate_skills(base_dir=ANNOTATE_RESULTS_DIR):
 
     # --- Totals ---
     print(f"\n{'='*60}")
-    print(f"共扫描 {len(domain_skills)} 个领域, {total_cases} 个 cases")
-    print(f"全部不同 skills 数量: {len(all_skills)}")
-    print(f"全部不同 llm_skills 数量: {len(all_llm_skills)}")
+    print(f"Scanned {len(domain_skills)} domains, {total_cases} cases")
+    print(f"Total unique skills: {len(all_skills)}")
 
     # --- Skill frequency (skills) ---
     print(f"\n{'='*60}")
-    print(f"按出现次数排序的 skills (共 {len(all_skills)} 个):")
+    print(f"Skills sorted by frequency (total {len(all_skills)}):")
     for skill, count in skill_counter.most_common():
         print(f"  {count:>5}x  {skill}")
 
-    # --- Skill frequency (llm_skills) ---
-    print(f"\n{'='*60}")
-    print(f"按出现次数排序的 llm_skills (共 {len(all_llm_skills)} 个):")
-    for skill, count in llm_skill_counter.most_common():
-        print(f"  {count:>5}x  {skill}")
 
 
 # ---------------------------------------------------------------------------
