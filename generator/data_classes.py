@@ -116,10 +116,10 @@ class SolutionPath:
 class EvalCase:
     """Final evaluation case output"""
     question: str
-    data_sources: List[str]       # 数据文件在数据集中的相对路径
-    skills: List[str]             # 解决问题必需的技能 (aux skills + main skill，main skill 在最后)
+    data_sources: List[str]       # relative paths to data files within the dataset
+    skills: List[str]             # skills required to solve the problem (aux skills + main skill, main skill last)
     domain: str
-    pipeline: List[Dict[str, Any]]  # 参考解决问题步骤
+    pipeline: List[Dict[str, Any]]  # reference solution steps
     synthesis_time_seconds: float = 0.0
     token_usage: Dict[str, int] = field(default_factory=lambda: {
         "prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0
