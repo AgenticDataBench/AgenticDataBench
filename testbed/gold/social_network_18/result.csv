@@ -1,0 +1,19 @@
+airline,sentiment,count,percentage
+American,negative,1864,71.58
+American,neutral,433,16.63
+American,positive,307,11.79
+Delta,negative,955,42.98
+Delta,neutral,723,32.54
+Delta,positive,544,24.48
+Southwest,negative,1186,49.01
+Southwest,neutral,664,27.44
+Southwest,positive,570,23.55
+US Airways,negative,2263,77.69
+US Airways,neutral,381,13.08
+US Airways,positive,269,9.23
+United,negative,2633,68.89
+United,neutral,697,18.24
+United,positive,492,12.87
+Virgin America,negative,181,35.91
+Virgin America,neutral,171,33.93
+Virgin America,positive,152,30.16

@@ -1,0 +1,2 @@
+pattern_id,comorbidity_combo,days_before_anomaly,anomaly_duration_days,support_count
+1,"('cad',)",45,7,1

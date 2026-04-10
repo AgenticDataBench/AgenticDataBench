@@ -28,7 +28,7 @@ def config() -> argparse.Namespace:
     parser.add_argument("--stop_token", type=str, default=None)
     
     # example config
-    parser.add_argument("--task_config","-t", type=str, default="tasks/examples.jsonl")
+    parser.add_argument("--task_config","-t", type=str, default="tasks/dev.jsonl")
     parser.add_argument("--source_dir", type=str, default="datasets")
     parser.add_argument("--example_index", "-i", type=str, default="all", help="index range of the examples to run, e.g., '0-10', '2,3', 'all'")
     parser.add_argument("--example_name", "-n", type=str, default="", help="name of the example to run")

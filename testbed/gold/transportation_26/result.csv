@@ -1,0 +1,4 @@
+parameter,mean,hdi_3%,hdi_97%
+global_intercept,15.296,-2.537,30.793
+beta_pt_p,0.234,-0.262,0.95
+beta_wfh_p,0.795,-0.366,2.076

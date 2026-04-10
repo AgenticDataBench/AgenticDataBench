@@ -1,0 +1,3138 @@
+[
+  {
+    "entity_id":1004650,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1353151,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":147.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1353703,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":43.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1407277,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":89.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1465268,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":73.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1564130,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1566339,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":145.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1656916,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":57.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1720431,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":115.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1915945,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":113.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1933618,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":91.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1986087,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":1992715,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2011493,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":73.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2067827,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":46.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2163928,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":114.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2196513,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":447.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2269969,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2279358,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2366069,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":130.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2406387,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":173.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2486471,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":208.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2528998,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":84.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2545015,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":73.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2549433,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":105.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2623441,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":146.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2638906,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":135.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2705182,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":53.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2718437,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":130.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2732244,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":93.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2750470,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":158.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2780294,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":57.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":2993482,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":159.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3221582,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":96.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3239808,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3404946,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":71.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3408812,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":65.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3412126,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":209.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3426485,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3538602,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":119.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3721966,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":73.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":3779405,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4093664,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":102.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4129011,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":191.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4338885,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":323.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4416759,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":109.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4442717,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4811654,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":163.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":4867436,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":5098297,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":72.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":5127017,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":282.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":5334682,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":42.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":5339653,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":119.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":5761610,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":33.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":5935584,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":106.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6085258,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6125575,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":41.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6263650,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":42.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6374110,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":38.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6540353,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":96.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6612152,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6622093,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":148.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6856268,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":43.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6985507,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":147.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":7198694,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":68.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":7430108,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":60.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":7678643,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":125.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":7736635,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":81.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":8571712,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":138.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":8600984,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":71.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":8658976,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":81.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":8704264,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":35.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":8922975,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9342171,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":70.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9458706,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":46.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9460363,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9487426,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":132.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9497367,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9613350,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9622739,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":108.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9634890,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":81.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9658086,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":9781801,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":132.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10035307,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":72.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10054085,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":54.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10155709,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":87.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10212043,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":84.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10276110,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":139.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10299859,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":110.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10471072,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":174.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10526302,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":58.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":10653331,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":220.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":11058719,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":83.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":11292894,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":97.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":11721479,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":86.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":11746885,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":116.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":11810399,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":66.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":11817027,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":12134599,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":54.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":12213578,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":12736606,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":12937091,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13040924,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13215451,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":61.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13504303,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":79.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13526395,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":60.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13604270,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":43.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13662814,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":52.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13686010,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":116.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13808621,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":58.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13838445,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":141.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13901407,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":118.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":13916872,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":14015181,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":144.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":14049424,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":14750845,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":136.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":14776803,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15276634,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":35.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15348985,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":77.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15415261,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15424651,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15519646,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":44.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15597520,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15621269,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":50.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15654960,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15767629,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":52.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":15778675,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":70.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":16133804,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":63.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":16291209,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":92.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":16534221,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":74.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":16571225,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":38.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":16583928,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":42.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":16820865,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":17056145,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":17163843,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":33.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":17472579,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":17577516,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":53.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":17850352,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":78.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":18674384,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":18965998,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":19110148,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":44.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":19123404,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":19681779,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":19719335,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":19750816,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":19825377,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20329075,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":41.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20340121,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":112.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20395903,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20764287,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":21465156,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":59.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":21498846,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":23145252,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28486546,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":152.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28500905,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":89.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28528520,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":44.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28611918,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":77.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28669909,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":53.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28718512,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":122.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28760486,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":43.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28791415,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":104.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28829524,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":38.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28862662,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28880335,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":33.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":28953239,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":41.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29036636,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":207.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29091866,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":115.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29104569,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":58.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29128870,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":31.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29141573,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29390661,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":116.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29433188,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":83.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29538125,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":269.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29574577,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":67.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29907613,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":131.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":29925287,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":60.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30003714,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":70.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30327914,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":60.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30335094,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30393085,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":63.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30404683,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":212.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30426775,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":145.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30494156,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":255.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30524533,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":84.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30527846,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30547177,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30554909,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":92.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30588047,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":118.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30595779,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":142.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30636649,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":68.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30746005,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":68.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":30837134,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":228.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31018841,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":56.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31045351,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31107761,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":50.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31274556,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":281.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31275108,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":245.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31294439,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":57.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31331995,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":124.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31441351,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":218.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31453501,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":114.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31478907,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":33.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31523643,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":64.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31718605,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":93.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31721367,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31778254,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":68.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31803107,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":72.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":31860546,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":161.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32055508,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":225.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32096378,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":124.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32106320,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":51.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32125098,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":111.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32405114,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":162.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32427206,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":121.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32427758,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":160.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32429415,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":47.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":32557549,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":35.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":33240192,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":61.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":33424660,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":168.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":33430735,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":136.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34004023,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":47.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34180206,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":97.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34288457,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":56.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34508825,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34578967,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":62.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34596088,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":58.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34668439,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":78.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34760121,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":231.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34871134,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":61.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":34882180,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35025778,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":44.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35044556,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35248907,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":83.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35274313,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":221.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35354396,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":120.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35375936,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":74.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":35945909,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":117.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36069625,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":52.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36153574,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":33.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36239733,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":118.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36282260,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":490.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36440218,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":177.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36530243,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":87.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36706426,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":91.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36798661,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":215.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36885924,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":31.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":36917957,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":46.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":37206258,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":110.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":37387412,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":37677370,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":37698357,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":41.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":37801637,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":31.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":37979478,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":56.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38077235,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":47.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38134674,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":42.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38192666,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":140.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38258942,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":204.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38555527,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":52.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38889116,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":81.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":38989082,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":78.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39085735,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":78.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39217735,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39219944,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":145.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39310521,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":57.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39374035,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":115.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39569550,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":113.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39587223,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":91.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39639692,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39646319,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39665098,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":73.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39721432,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":46.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39817532,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":114.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39850118,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":447.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39923574,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":39932963,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40019674,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":130.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40059992,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":173.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40140076,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":208.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40182603,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":84.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40198619,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":73.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40203038,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":105.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40277046,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":146.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40292510,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":135.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40358786,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":53.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40372042,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":130.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40414016,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":42.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40524476,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":38.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40690719,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":96.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40762518,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":40772459,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":148.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":41006634,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":43.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":41135872,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":147.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":41349060,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":68.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":41576056,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":78.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":42864571,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":97.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":43293156,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":86.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":43318562,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":116.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":43382077,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":66.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":43388704,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":43706277,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":54.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":43785256,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":44308284,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":44508769,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":44612601,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":44787128,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":61.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45075981,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":79.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45098073,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":60.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45175947,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":43.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45234491,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":52.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45257687,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":116.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45380298,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":58.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45410122,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":141.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45473084,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":118.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45488549,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45586858,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":144.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":45621101,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":46322522,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":136.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":46348480,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":46848311,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":35.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":46920663,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":77.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":46986939,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":46996328,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47091323,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":44.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47169198,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47192947,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":50.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47226637,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":40.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47339306,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":52.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47350352,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":70.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47485666,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":47904861,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":70.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48021397,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":46.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48023053,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48050116,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":132.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48060058,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48176041,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":49.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48185430,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":108.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48197580,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":81.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48220777,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":39.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48344492,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":132.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48597998,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":72.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48616776,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":54.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48718399,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":87.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48774734,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":84.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48838801,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":139.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":48862549,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":110.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":49033762,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":174.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":49088992,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":58.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":49216021,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":220.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":49621410,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":83.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":49855585,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":97.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":50284170,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":86.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":50309575,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":116.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":50373090,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":66.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":50379718,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":50697290,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":54.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":50776269,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":51299297,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":51499782,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":51603614,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":51778141,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":61.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":51921739,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":33.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":52230475,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":36.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":52335412,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":53.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":52608248,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":78.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":53432280,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":53723894,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":53868044,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":44.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":53881300,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":54439675,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":54477231,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":55086970,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":41.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":55098016,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":112.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":55153799,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":55522183,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":37.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":56042449,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":66.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":56049077,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":48.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":56366650,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":54.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":56445628,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":56968657,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":103.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":57169141,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":55.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":57272974,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":76.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20329075,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":41.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20340121,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":112.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":20395903,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":32.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":6085258,
+    "source_type":"Airbnb",
+    "rating":5.0,
+    "visit_volume":34.0,
+    "country":"United States"
+  },
+  {
+    "entity_id":"(NATURAL HISTORY MUSEUM) SOUTH KENSINGTON",
+    "source_type":"indoors",
+    "rating":4.33,
+    "visit_volume":325006.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"SCIENCE MUSEUM GROUP SOUTH KENSINGTON ",
+    "source_type":"indoors",
+    "rating":5.0,
+    "visit_volume":207812.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"TATE BRITAIN ",
+    "source_type":"indoors",
+    "rating":4.69,
+    "visit_volume":230582.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"TATE MODERN  ",
+    "source_type":"indoors",
+    "rating":4.0,
+    "visit_volume":366603.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"BRITISH MUSEUM",
+    "source_type":"indoors",
+    "rating":5.0,
+    "visit_volume":402611.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"NATIONAL GALLERY",
+    "source_type":"indoors",
+    "rating":5.0,
+    "visit_volume":370000.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"NATIONAL MUSEUMS LIVERPOOL",
+    "source_type":"indoors",
+    "rating":4.2,
+    "visit_volume":391545.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"NATIONAL PORTRAIT GALLERY",
+    "source_type":"indoors",
+    "rating":4.8,
+    "visit_volume":213201.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"(ROYAL ARMOURIES) WHITE TOWER (BASED AT THE TOWER OF LONDON) ",
+    "source_type":"indoors",
+    "rating":4.64,
+    "visit_volume":203276.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"(VICTORIA & ALBERT MUSEUM) TOTAL",
+    "source_type":"indoors",
+    "rating":4.0,
+    "visit_volume":302291.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Canaveral",
+    "source_type":"outdoors",
+    "rating":4.6666666667,
+    "visit_volume":105657.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Cape Cod",
+    "source_type":"outdoors",
+    "rating":4.8888888889,
+    "visit_volume":580466.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Cape Hatteras",
+    "source_type":"outdoors",
+    "rating":4.8,
+    "visit_volume":269403.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Capitol Reef",
+    "source_type":"outdoors",
+    "rating":4.6666666667,
+    "visit_volume":102187.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Cedar Breaks",
+    "source_type":"outdoors",
+    "rating":4.64,
+    "visit_volume":141800.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Crater Lake",
+    "source_type":"outdoors",
+    "rating":4.8732394366,
+    "visit_volume":121701.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Cumberland Gap",
+    "source_type":"outdoors",
+    "rating":4.8888888889,
+    "visit_volume":114342.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Cuyahoga Valley",
+    "source_type":"outdoors",
+    "rating":4.1666666667,
+    "visit_volume":239958.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Denali",
+    "source_type":"outdoors",
+    "rating":4.7878787879,
+    "visit_volume":127291.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Devils Tower",
+    "source_type":"outdoors",
+    "rating":4.7435897436,
+    "visit_volume":116467.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Everglades",
+    "source_type":"outdoors",
+    "rating":4.8823529412,
+    "visit_volume":127371.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Ford's Theatre",
+    "source_type":"outdoors",
+    "rating":4.5846153846,
+    "visit_volume":100471.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Assateague Island",
+    "source_type":"outdoors",
+    "rating":4.7333333333,
+    "visit_volume":257410.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Fort Matanzas",
+    "source_type":"outdoors",
+    "rating":4.725,
+    "visit_volume":107380.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Fort McHenry",
+    "source_type":"outdoors",
+    "rating":4.6825396825,
+    "visit_volume":124710.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Fort Sumter",
+    "source_type":"outdoors",
+    "rating":4.6666666667,
+    "visit_volume":113952.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Gettysburg",
+    "source_type":"outdoors",
+    "rating":4.8582677165,
+    "visit_volume":117255.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Glen Canyon",
+    "source_type":"outdoors",
+    "rating":4.6666666667,
+    "visit_volume":232535.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Grand Teton",
+    "source_type":"outdoors",
+    "rating":4.8636363636,
+    "visit_volume":420542.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Haleakala",
+    "source_type":"outdoors",
+    "rating":4.875,
+    "visit_volume":103977.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Hawaii Volcanoes",
+    "source_type":"outdoors",
+    "rating":4.7234042553,
+    "visit_volume":121625.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Hot Springs",
+    "source_type":"outdoors",
+    "rating":4.0,
+    "visit_volume":134039.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Independence",
+    "source_type":"outdoors",
+    "rating":4.7407407407,
+    "visit_volume":313592.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Joshua Tree",
+    "source_type":"outdoors",
+    "rating":4.6666666667,
+    "visit_volume":120911.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Kenai Fjords",
+    "source_type":"outdoors",
+    "rating":4.8529411765,
+    "visit_volume":107851.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Kennesaw Mountain",
+    "source_type":"outdoors",
+    "rating":4.6,
+    "visit_volume":209028.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Kings Canyon",
+    "source_type":"outdoors",
+    "rating":4.68,
+    "visit_volume":120909.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Lake Mead",
+    "source_type":"outdoors",
+    "rating":4.6666666667,
+    "visit_volume":615300.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Mammoth Cave",
+    "source_type":"outdoors",
+    "rating":4.5256410256,
+    "visit_volume":103454.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Minute Man",
+    "source_type":"outdoors",
+    "rating":4.8571428571,
+    "visit_volume":115009.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Mount Rainier",
+    "source_type":"outdoors",
+    "rating":4.8285714286,
+    "visit_volume":154566.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Mount Rushmore",
+    "source_type":"outdoors",
+    "rating":4.7727272727,
+    "visit_volume":290369.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Muir Woods",
+    "source_type":"outdoors",
+    "rating":4.756097561,
+    "visit_volume":108851.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Padre Island",
+    "source_type":"outdoors",
+    "rating":4.4642857143,
+    "visit_volume":99526.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Pictured Rocks",
+    "source_type":"outdoors",
+    "rating":4.9607843137,
+    "visit_volume":116159.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"San Antonio Missions",
+    "source_type":"outdoors",
+    "rating":4.8181818182,
+    "visit_volume":123905.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"San Francisco Maritime",
+    "source_type":"outdoors",
+    "rating":5.0,
+    "visit_volume":335840.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Sleeping Bear Dunes",
+    "source_type":"outdoors",
+    "rating":4.9210526316,
+    "visit_volume":130319.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Big Cypress",
+    "source_type":"outdoors",
+    "rating":4.8333333333,
+    "visit_volume":112583.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Statue of Liberty",
+    "source_type":"outdoors",
+    "rating":4.5658914729,
+    "visit_volume":302179.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Theodore Roosevelt NP",
+    "source_type":"outdoors",
+    "rating":4.6470588235,
+    "visit_volume":120562.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Valley Forge",
+    "source_type":"outdoors",
+    "rating":4.5333333333,
+    "visit_volume":159054.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Wolf Trap",
+    "source_type":"outdoors",
+    "rating":4.5555555556,
+    "visit_volume":125710.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Bryce Canyon",
+    "source_type":"outdoors",
+    "rating":4.9054054054,
+    "visit_volume":203491.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":"Cabrillo",
+    "source_type":"outdoors",
+    "rating":4.3636363636,
+    "visit_volume":98672.0,
+    "country":"United Kingdom"
+  },
+  {
+    "entity_id":640,
+    "source_type":"TripAdvisor",
+    "rating":5.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":841,
+    "source_type":"TripAdvisor",
+    "rating":5.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":673,
+    "source_type":"TripAdvisor",
+    "rating":4.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":650,
+    "source_type":"TripAdvisor",
+    "rating":4.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":824,
+    "source_type":"TripAdvisor",
+    "rating":5.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":748,
+    "source_type":"TripAdvisor",
+    "rating":4.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":737,
+    "source_type":"TripAdvisor",
+    "rating":5.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  },
+  {
+    "entity_id":369,
+    "source_type":"TripAdvisor",
+    "rating":4.0,
+    "visit_volume":1.0,
+    "country":"Indonesia"
+  }
+]

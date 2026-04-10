@@ -1,0 +1,5 @@
+user_type,follower_tier,avg_retweet_efficiency,avg_like_efficiency,avg_total_efficiency,high_efficiency_ratio
+human,small,226.04,224.63,450.67,98.75%
+human,medium,13.1,12.87,25.97,44.72%
+bot,small,287.89,271.81,559.7,100.00%
+bot,medium,12.96,12.78,25.74,44.68%

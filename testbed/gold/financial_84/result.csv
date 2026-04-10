@@ -1,0 +1,3 @@
+concentration_category,AVG(T2.rr_since_this_year),AVG(T2.annualized_rr_in_three_year)
+中低集中度,28.433511288825695,9.63260383312262
+高集中度,21.80209633576111,6.967732640681818

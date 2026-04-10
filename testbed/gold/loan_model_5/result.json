@@ -1,0 +1,5 @@
+{
+  "full_model_test_auc": 0.632843210290651,
+  "simplified_model_test_auc": 0.6244464813315395,
+  "selected_feature_count": 15
+}

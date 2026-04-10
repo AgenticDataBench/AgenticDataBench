@@ -1,0 +1,11 @@
+rank,username,pagerank_score,mention_count,follower_count
+1,ksmith,0.000393,2,1336
+2,msmith,0.000316,3,3648
+3,bjohnson,0.000258,5,9818
+4,fsmith,0.000256,5,5595
+5,xwilson,0.000251,5,580
+6,rjohnson,0.000237,5,4307
+7,rperez,0.000236,2,5455
+8,vwilliams,0.000234,3,1593
+9,gjones,0.00023,5,14
+10,bjones,0.000229,4,8830

@@ -1,0 +1,4249 @@
+country,year,actual_top_crop,predicted_crop,prediction_probability
+Afghanistan,1990,Maize,Barley,0.28
+Afghanistan,1991,Maize,Barley,0.28
+Afghanistan,1992,Maize,Barley,0.28
+Afghanistan,1993,Maize,Barley,0.28
+Afghanistan,1994,Maize,Barley,0.28
+Afghanistan,1995,Maize,Barley,0.28
+Afghanistan,1996,Maize,Barley,0.28
+Afghanistan,1997,Maize,Barley,0.28
+Afghanistan,1998,Maize,Barley,0.28
+Afghanistan,1999,Maize,Barley,0.28
+Afghanistan,2000,Maize,Barley,0.28
+Afghanistan,2001,Maize,Barley,0.28
+Afghanistan,2002,Maize,Barley,0.28
+Afghanistan,2003,Wheat,Barley,0.37
+Afghanistan,2004,Maize,Barley,0.28
+Afghanistan,2005,Wheat,Barley,0.37
+Afghanistan,2006,Maize,Barley,0.28
+Afghanistan,2007,Maize,Barley,0.28
+Afghanistan,2008,Maize,Barley,0.28
+Afghanistan,2009,Maize,Barley,0.28
+Afghanistan,2010,Wheat,Barley,0.37
+Afghanistan,2011,Maize,Barley,0.28
+Afghanistan,2012,Maize,Barley,0.28
+Afghanistan,2013,Maize,Barley,0.28
+Albania,1990,Maize,Barley,0.28
+Albania,1991,Maize,Barley,0.28
+Albania,1992,Maize,Barley,0.28
+Albania,1993,Wheat,Barley,0.37
+Albania,1994,Maize,Barley,0.28
+Albania,1995,Maize,Barley,0.28
+Albania,1996,Maize,Barley,0.28
+Albania,1997,Maize,Barley,0.28
+Albania,1998,Maize,Barley,0.28
+Albania,1999,Maize,Barley,0.28
+Albania,2000,Maize,Barley,0.28
+Albania,2001,Maize,Barley,0.28
+Albania,2002,Maize,Barley,0.28
+Albania,2003,Maize,Barley,0.28
+Albania,2004,Maize,Barley,0.28
+Albania,2005,Maize,Barley,0.28
+Albania,2006,Maize,Barley,0.28
+Albania,2007,Maize,Barley,0.28
+Albania,2008,Maize,Barley,0.28
+Albania,2009,Maize,Barley,0.28
+Albania,2010,Maize,Barley,0.28
+Albania,2011,Maize,Barley,0.28
+Albania,2012,Maize,Barley,0.28
+Albania,2013,Maize,Barley,0.28
+Algeria,1990,Sorghum,Wheat,0.34
+Algeria,1991,Sorghum,Wheat,0.34
+Algeria,1992,Sorghum,Wheat,0.34
+Algeria,1993,Sorghum,Wheat,0.34
+Algeria,1994,Wheat,Barley,0.37
+Algeria,1995,Maize,Barley,0.28
+Algeria,1996,Maize,Barley,0.28
+Algeria,1997,Sorghum,Wheat,0.34
+Algeria,1998,Sorghum,Wheat,0.34
+Algeria,1999,Sorghum,Wheat,0.34
+Algeria,2000,Sorghum,Wheat,0.34
+Algeria,2001,Sorghum,Wheat,0.34
+Algeria,2002,Sorghum,Wheat,0.34
+Algeria,2003,Maize,Barley,0.28
+Algeria,2004,Sorghum,Wheat,0.34
+Algeria,2005,Maize,Barley,0.28
+Algeria,2006,Maize,Barley,0.28
+Algeria,2007,Sorghum,Wheat,0.34
+Algeria,2008,Sorghum,Wheat,0.34
+Algeria,2009,Sorghum,Wheat,0.34
+Algeria,2010,Sorghum,Wheat,0.34
+Algeria,2011,Sorghum,Wheat,0.34
+Algeria,2012,Sorghum,Wheat,0.34
+Algeria,2013,Sorghum,Wheat,0.34
+Angola,1990,Wheat,Barley,0.36
+Angola,1991,Wheat,Barley,0.36
+Angola,1992,Wheat,Barley,0.41
+Angola,1993,Wheat,Barley,0.36
+Angola,1994,Wheat,Barley,0.36
+Angola,1995,Wheat,Barley,0.36
+Angola,1996,Wheat,Barley,0.36
+Angola,1997,Wheat,Barley,0.36
+Angola,1998,Wheat,Barley,0.31
+Angola,1999,Wheat,Barley,0.36
+Angola,2000,Wheat,Barley,0.36
+Angola,2001,Wheat,Barley,0.36
+Angola,2002,Wheat,Barley,0.36
+Angola,2003,Wheat,Barley,0.36
+Angola,2004,Wheat,Barley,0.36
+Angola,2005,Wheat,Barley,0.36
+Angola,2006,Wheat,Barley,0.36
+Angola,2007,Wheat,Barley,0.36
+Angola,2008,Wheat,Barley,0.36
+Angola,2009,Wheat,Barley,0.36
+Angola,2010,Wheat,Barley,0.36
+Angola,2011,Wheat,Barley,0.36
+Angola,2012,Wheat,Barley,0.36
+Angola,2013,Maize,Wheat,0.37
+Antigua and Barbuda,1990,Maize,Barley,0.28
+Antigua and Barbuda,1991,Maize,Barley,0.28
+Antigua and Barbuda,1992,Maize,Barley,0.28
+Antigua and Barbuda,1993,Maize,Barley,0.28
+Antigua and Barbuda,1994,Maize,Barley,0.28
+Antigua and Barbuda,1995,Maize,Barley,0.28
+Antigua and Barbuda,1996,Maize,Barley,0.28
+Antigua and Barbuda,1997,Maize,Barley,0.28
+Antigua and Barbuda,1998,Maize,Barley,0.28
+Antigua and Barbuda,1999,Maize,Barley,0.28
+Antigua and Barbuda,2000,Maize,Barley,0.28
+Antigua and Barbuda,2001,Maize,Barley,0.28
+Antigua and Barbuda,2002,Maize,Barley,0.28
+Antigua and Barbuda,2003,Maize,Barley,0.28
+Antigua and Barbuda,2004,Maize,Barley,0.28
+Antigua and Barbuda,2005,Maize,Barley,0.28
+Antigua and Barbuda,2006,Maize,Barley,0.28
+Antigua and Barbuda,2007,Maize,Barley,0.28
+Antigua and Barbuda,2008,Maize,Barley,0.28
+Antigua and Barbuda,2009,Maize,Barley,0.28
+Antigua and Barbuda,2010,Maize,Barley,0.28
+Antigua and Barbuda,2011,Maize,Barley,0.28
+Antigua and Barbuda,2012,Maize,Barley,0.28
+Antigua and Barbuda,2013,Maize,Barley,0.28
+Argentina,1990,Maize,Barley,0.28
+Argentina,1991,Maize,Barley,0.28
+Argentina,1992,Maize,Barley,0.28
+Argentina,1993,Maize,Barley,0.28
+Argentina,1994,Maize,Barley,0.28
+Argentina,1995,Maize,Barley,0.28
+Argentina,1996,Maize,Barley,0.28
+Argentina,1997,Maize,Barley,0.28
+Argentina,1998,Maize,Barley,0.28
+Argentina,1999,Maize,Barley,0.28
+Argentina,2000,Maize,Barley,0.28
+Argentina,2001,Maize,Barley,0.28
+Argentina,2002,Maize,Barley,0.28
+Argentina,2003,Maize,Barley,0.28
+Argentina,2004,Maize,Barley,0.28
+Argentina,2005,Maize,Barley,0.28
+Argentina,2006,Maize,Barley,0.28
+Argentina,2007,Maize,Barley,0.28
+Argentina,2008,Maize,Barley,0.28
+Argentina,2009,Maize,Barley,0.28
+Argentina,2010,Maize,Barley,0.28
+Argentina,2011,Maize,Barley,0.28
+Argentina,2012,Maize,Barley,0.28
+Argentina,2013,Maize,Barley,0.28
+Armenia,1992,Maize,Barley,0.28
+Armenia,1993,Maize,Barley,0.28
+Armenia,1994,Maize,Barley,0.28
+Armenia,1995,Wheat,Barley,0.37
+Armenia,1996,Wheat,Barley,0.37
+Armenia,1997,Maize,Barley,0.28
+Armenia,1998,Maize,Barley,0.28
+Armenia,1999,Maize,Barley,0.28
+Armenia,2000,Maize,Barley,0.28
+Armenia,2001,Maize,Barley,0.28
+Armenia,2002,Maize,Barley,0.28
+Armenia,2003,Maize,Barley,0.28
+Armenia,2004,Maize,Barley,0.28
+Armenia,2005,Maize,Barley,0.28
+Armenia,2006,Maize,Barley,0.28
+Armenia,2007,Maize,Barley,0.28
+Armenia,2008,Maize,Barley,0.28
+Armenia,2009,Maize,Barley,0.28
+Armenia,2010,Maize,Barley,0.28
+Armenia,2011,Maize,Barley,0.28
+Armenia,2012,Maize,Barley,0.28
+Armenia,2013,Maize,Barley,0.28
+Australia,1990,Maize,Barley,0.28
+Australia,1991,Maize,Barley,0.28
+Australia,1992,Maize,Barley,0.28
+Australia,1993,Maize,Barley,0.28
+Australia,1994,Maize,Barley,0.28
+Australia,1995,Maize,Barley,0.28
+Australia,1996,Maize,Barley,0.28
+Australia,1997,Maize,Barley,0.28
+Australia,1998,Maize,Barley,0.28
+Australia,1999,Maize,Barley,0.28
+Australia,2000,Maize,Barley,0.28
+Australia,2001,Maize,Barley,0.28
+Australia,2002,Maize,Barley,0.28
+Australia,2003,Maize,Barley,0.28
+Australia,2004,Maize,Barley,0.28
+Australia,2005,Maize,Barley,0.28
+Australia,2006,Maize,Barley,0.28
+Australia,2007,Maize,Barley,0.28
+Australia,2008,Maize,Barley,0.28
+Australia,2009,Maize,Barley,0.28
+Australia,2010,Maize,Barley,0.28
+Australia,2011,Maize,Barley,0.28
+Australia,2012,Maize,Barley,0.28
+Australia,2013,Maize,Barley,0.28
+Austria,1990,Maize,Barley,0.28
+Austria,1991,Maize,Barley,0.28
+Austria,1992,Maize,Barley,0.28
+Austria,1993,Maize,Barley,0.28
+Austria,1994,Maize,Barley,0.28
+Austria,1995,Maize,Barley,0.28
+Austria,1996,Maize,Barley,0.28
+Austria,1997,Maize,Barley,0.28
+Austria,1998,Maize,Barley,0.28
+Austria,1999,Maize,Barley,0.28
+Austria,2000,Maize,Barley,0.28
+Austria,2001,Maize,Barley,0.28
+Austria,2002,Maize,Barley,0.28
+Austria,2003,Maize,Barley,0.28
+Austria,2004,Maize,Barley,0.28
+Austria,2005,Maize,Barley,0.28
+Austria,2006,Maize,Barley,0.28
+Austria,2007,Maize,Barley,0.28
+Austria,2008,Maize,Barley,0.28
+Austria,2009,Maize,Barley,0.28
+Austria,2010,Maize,Barley,0.28
+Austria,2011,Maize,Barley,0.28
+Austria,2012,Maize,Barley,0.28
+Austria,2013,Maize,Barley,0.28
+Azerbaijan,1992,Wheat,Barley,0.37
+Azerbaijan,1993,Wheat,Barley,0.37
+Azerbaijan,1994,Wheat,Barley,0.37
+Azerbaijan,1995,Wheat,Barley,0.37
+Azerbaijan,1996,Maize,Barley,0.28
+Azerbaijan,1997,Maize,Barley,0.28
+Azerbaijan,1998,Maize,Barley,0.28
+Azerbaijan,1999,Maize,Barley,0.28
+Azerbaijan,2000,Maize,Barley,0.28
+Azerbaijan,2001,Maize,Barley,0.28
+Azerbaijan,2002,Maize,Barley,0.28
+Azerbaijan,2003,Maize,Barley,0.28
+Azerbaijan,2004,Maize,Barley,0.28
+Azerbaijan,2005,Maize,Barley,0.28
+Azerbaijan,2006,Maize,Barley,0.28
+Azerbaijan,2007,Maize,Barley,0.28
+Azerbaijan,2008,Maize,Barley,0.28
+Azerbaijan,2009,Maize,Barley,0.28
+Azerbaijan,2010,Maize,Barley,0.28
+Azerbaijan,2011,Maize,Barley,0.28
+Azerbaijan,2012,Maize,Barley,0.28
+Azerbaijan,2013,Maize,Barley,0.28
+Bahamas,1990,Maize,Wheat,0.29
+Bahamas,1991,Maize,Wheat,0.28
+Bahamas,1992,Maize,Teff,0.28
+Bahamas,1993,Maize,Teff,0.28
+Bahamas,1994,Maize,Wheat,0.29
+Bahamas,1995,Maize,Teff,0.28
+Bahamas,1996,Maize,Teff,0.28
+Bahamas,1997,Maize,Wheat,0.29
+Bahamas,1998,Maize,Wheat,0.29
+Bahamas,1999,Maize,Teff,0.28
+Bahamas,2000,Maize,Teff,0.28
+Bahamas,2001,Maize,Teff,0.28
+Bahamas,2002,Maize,Wheat,0.29
+Bahamas,2003,Maize,Wheat,0.29
+Bahamas,2004,Maize,Teff,0.28
+Bahamas,2005,Maize,Teff,0.28
+Bahamas,2006,Maize,Teff,0.28
+Bahamas,2007,Maize,Wheat,0.29
+Bahamas,2008,Maize,Wheat,0.28
+Bahamas,2009,Maize,Teff,0.28
+Bahamas,2010,Maize,Wheat,0.37
+Bahamas,2011,Maize,Wheat,0.29
+Bahamas,2012,Maize,Teff,0.28
+Bahamas,2013,Maize,Wheat,0.29
+Bangladesh,1990,Wheat,Wheat,0.34
+Bangladesh,1991,Wheat,Barley,0.31
+Bangladesh,1992,Wheat,Barley,0.31
+Bangladesh,1993,Wheat,Barley,0.31
+Bangladesh,1994,Wheat,Barley,0.31
+Bangladesh,1995,Wheat,Wheat,0.34
+Bangladesh,1996,Wheat,Wheat,0.34
+Bangladesh,1997,Wheat,Barley,0.31
+Bangladesh,1998,Wheat,Wheat,0.34
+Bangladesh,1999,Wheat,Wheat,0.34
+Bangladesh,2000,Wheat,Barley,0.31
+Bangladesh,2001,Maize,Wheat,0.29
+Bangladesh,2002,Maize,Wheat,0.29
+Bangladesh,2003,Maize,Wheat,0.29
+Bangladesh,2004,Maize,Wheat,0.29
+Bangladesh,2005,Maize,Wheat,0.29
+Bangladesh,2006,Maize,Wheat,0.31
+Bangladesh,2007,Maize,Wheat,0.29
+Bangladesh,2008,Maize,Wheat,0.29
+Bangladesh,2009,Maize,Wheat,0.31
+Bangladesh,2010,Maize,Wheat,0.31
+Bangladesh,2011,Maize,Wheat,0.29
+Bangladesh,2012,Maize,Wheat,0.3
+Bangladesh,2013,Maize,Wheat,0.31
+Barbados,1990,Maize,Barley,0.28
+Barbados,1991,Maize,Barley,0.28
+Barbados,1992,Maize,Barley,0.28
+Barbados,1993,Maize,Barley,0.28
+Barbados,1994,Maize,Barley,0.28
+Barbados,1995,Maize,Barley,0.28
+Barbados,1996,Maize,Barley,0.28
+Barbados,1997,Maize,Barley,0.28
+Barbados,1998,Maize,Barley,0.28
+Barbados,1999,Maize,Barley,0.28
+Barbados,2000,Maize,Barley,0.28
+Barbados,2001,Maize,Barley,0.28
+Barbados,2002,Maize,Barley,0.28
+Barbados,2003,Maize,Barley,0.28
+Barbados,2004,Maize,Barley,0.28
+Barbados,2005,Maize,Barley,0.28
+Barbados,2006,Maize,Barley,0.28
+Barbados,2007,Maize,Barley,0.28
+Barbados,2008,Maize,Barley,0.28
+Barbados,2009,Maize,Barley,0.28
+Barbados,2010,Maize,Barley,0.28
+Barbados,2011,Maize,Barley,0.28
+Barbados,2012,Maize,Barley,0.28
+Barbados,2013,Maize,Barley,0.28
+Belarus,1992,Maize,Barley,0.28
+Belarus,1993,Wheat,Barley,0.37
+Belarus,1994,Wheat,Barley,0.37
+Belarus,1995,Wheat,Barley,0.37
+Belarus,1996,Maize,Barley,0.28
+Belarus,1997,Wheat,Barley,0.37
+Belarus,1998,Maize,Barley,0.28
+Belarus,1999,Maize,Barley,0.28
+Belarus,2000,Maize,Barley,0.28
+Belarus,2001,Maize,Barley,0.28
+Belarus,2002,Maize,Barley,0.28
+Belarus,2003,Maize,Barley,0.28
+Belarus,2004,Maize,Barley,0.28
+Belarus,2005,Maize,Barley,0.28
+Belarus,2006,Maize,Barley,0.28
+Belarus,2007,Maize,Barley,0.28
+Belarus,2008,Maize,Barley,0.28
+Belarus,2009,Maize,Barley,0.28
+Belarus,2010,Maize,Barley,0.28
+Belarus,2011,Maize,Barley,0.28
+Belarus,2012,Maize,Barley,0.28
+Belarus,2013,Maize,Barley,0.28
+Belgium,2000,Maize,Barley,0.28
+Belgium,2001,Maize,Barley,0.28
+Belgium,2002,Maize,Barley,0.28
+Belgium,2003,Maize,Barley,0.28
+Belgium,2004,Maize,Barley,0.28
+Belgium,2005,Maize,Barley,0.28
+Belgium,2006,Maize,Barley,0.28
+Belgium,2007,Maize,Barley,0.28
+Belgium,2008,Maize,Barley,0.28
+Belgium,2009,Maize,Barley,0.28
+Belgium,2010,Maize,Barley,0.28
+Belgium,2011,Maize,Barley,0.28
+Belgium,2012,Maize,Barley,0.28
+Belgium,2013,Maize,Barley,0.28
+Belgium-Luxembourg,1990,Maize,Barley,0.28
+Belgium-Luxembourg,1991,Maize,Barley,0.28
+Belgium-Luxembourg,1992,Maize,Barley,0.28
+Belgium-Luxembourg,1993,Maize,Barley,0.28
+Belgium-Luxembourg,1994,Maize,Barley,0.28
+Belgium-Luxembourg,1995,Maize,Barley,0.28
+Belgium-Luxembourg,1996,Wheat,Barley,0.37
+Belgium-Luxembourg,1997,Maize,Barley,0.28
+Belgium-Luxembourg,1998,Maize,Barley,0.28
+Belgium-Luxembourg,1999,Maize,Barley,0.28
+Belize,1990,Sorghum,Wheat,0.34
+Belize,1991,Sorghum,Wheat,0.34
+Belize,1992,Sorghum,Wheat,0.34
+Belize,1993,Sorghum,Wheat,0.34
+Belize,1994,Sorghum,Wheat,0.34
+Belize,1995,Sorghum,Wheat,0.34
+Belize,1996,Sorghum,Wheat,0.34
+Belize,1997,Sorghum,Wheat,0.34
+Belize,1998,Sorghum,Wheat,0.34
+Belize,1999,Sorghum,Wheat,0.34
+Belize,2000,Sorghum,Wheat,0.34
+Belize,2001,Sorghum,Wheat,0.34
+Belize,2002,Sorghum,Wheat,0.34
+Belize,2003,Sorghum,Wheat,0.34
+Belize,2004,Sorghum,Wheat,0.34
+Belize,2005,Maize,Barley,0.28
+Belize,2006,Maize,Barley,0.28
+Belize,2007,Maize,Barley,0.28
+Belize,2008,Maize,Barley,0.28
+Belize,2009,Maize,Barley,0.28
+Belize,2010,Sorghum,Wheat,0.34
+Belize,2011,Maize,Barley,0.28
+Belize,2012,Maize,Barley,0.28
+Belize,2013,Maize,Barley,0.28
+Benin,1990,Maize,Barley,0.28
+Benin,1991,Maize,Barley,0.28
+Benin,1992,Maize,Barley,0.28
+Benin,1993,Maize,Barley,0.28
+Benin,1994,Maize,Barley,0.28
+Benin,1995,Maize,Barley,0.28
+Benin,1996,Maize,Barley,0.28
+Benin,1997,Maize,Barley,0.28
+Benin,1998,Maize,Barley,0.28
+Benin,1999,Maize,Barley,0.28
+Benin,2000,Maize,Barley,0.28
+Benin,2001,Maize,Barley,0.28
+Benin,2002,Maize,Barley,0.28
+Benin,2003,Maize,Barley,0.28
+Benin,2004,Maize,Barley,0.28
+Benin,2005,Maize,Barley,0.28
+Benin,2006,Maize,Barley,0.28
+Benin,2007,Maize,Barley,0.28
+Benin,2008,Maize,Barley,0.28
+Benin,2009,Maize,Barley,0.28
+Benin,2010,Sorghum,Wheat,0.34
+Benin,2011,Maize,Barley,0.28
+Benin,2012,Sorghum,Wheat,0.34
+Benin,2013,Sorghum,Wheat,0.34
+Bhutan,1990,Maize,Barley,0.28
+Bhutan,1991,Maize,Barley,0.28
+Bhutan,1992,Maize,Barley,0.28
+Bhutan,1993,Wheat,Barley,0.37
+Bhutan,1994,Maize,Barley,0.28
+Bhutan,1995,Maize,Barley,0.28
+Bhutan,1996,Maize,Barley,0.28
+Bhutan,1997,Maize,Barley,0.28
+Bhutan,1998,Maize,Barley,0.28
+Bhutan,1999,Maize,Barley,0.28
+Bhutan,2000,Maize,Barley,0.28
+Bhutan,2001,Maize,Barley,0.28
+Bhutan,2002,Maize,Barley,0.28
+Bhutan,2003,Maize,Barley,0.28
+Bhutan,2004,Maize,Barley,0.28
+Bhutan,2005,Maize,Barley,0.28
+Bhutan,2006,Maize,Barley,0.28
+Bhutan,2007,Maize,Barley,0.28
+Bhutan,2008,Maize,Barley,0.28
+Bhutan,2009,Maize,Barley,0.28
+Bhutan,2010,Maize,Barley,0.28
+Bhutan,2011,Maize,Barley,0.28
+Bhutan,2012,Maize,Barley,0.28
+Bhutan,2013,Maize,Barley,0.28
+Bolivia (Plurinational State of),1990,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1991,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1992,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1993,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1994,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1995,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1996,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1997,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1998,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),1999,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2000,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2001,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2002,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2003,Maize,Barley,0.28
+Bolivia (Plurinational State of),2004,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2005,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2006,Maize,Barley,0.28
+Bolivia (Plurinational State of),2007,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2008,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2009,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2010,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2011,Sorghum,Wheat,0.34
+Bolivia (Plurinational State of),2012,Maize,Barley,0.28
+Bolivia (Plurinational State of),2013,Maize,Barley,0.28
+Bosnia and Herzegovina,1992,Maize,Barley,0.28
+Bosnia and Herzegovina,1993,Maize,Barley,0.28
+Bosnia and Herzegovina,1994,Maize,Barley,0.28
+Bosnia and Herzegovina,1995,Maize,Barley,0.28
+Bosnia and Herzegovina,1996,Maize,Barley,0.28
+Bosnia and Herzegovina,1997,Maize,Barley,0.28
+Bosnia and Herzegovina,1998,Maize,Barley,0.28
+Bosnia and Herzegovina,1999,Maize,Barley,0.28
+Bosnia and Herzegovina,2000,Wheat,Barley,0.37
+Bosnia and Herzegovina,2001,Maize,Barley,0.28
+Bosnia and Herzegovina,2002,Maize,Barley,0.28
+Bosnia and Herzegovina,2003,Maize,Barley,0.28
+Bosnia and Herzegovina,2004,Maize,Barley,0.28
+Bosnia and Herzegovina,2005,Maize,Barley,0.28
+Bosnia and Herzegovina,2006,Maize,Barley,0.28
+Bosnia and Herzegovina,2007,Wheat,Barley,0.37
+Bosnia and Herzegovina,2008,Maize,Barley,0.28
+Bosnia and Herzegovina,2009,Maize,Barley,0.28
+Bosnia and Herzegovina,2010,Maize,Barley,0.28
+Bosnia and Herzegovina,2011,Maize,Barley,0.28
+Bosnia and Herzegovina,2012,Wheat,Barley,0.37
+Bosnia and Herzegovina,2013,Maize,Barley,0.28
+Botswana,1990,Wheat,Barley,0.37
+Botswana,1991,Wheat,Barley,0.37
+Botswana,1992,Wheat,Barley,0.37
+Botswana,1993,Wheat,Barley,0.37
+Botswana,1994,Wheat,Barley,0.37
+Botswana,1995,Wheat,Barley,0.37
+Botswana,1996,Wheat,Barley,0.37
+Botswana,1997,Wheat,Barley,0.37
+Botswana,1998,Wheat,Barley,0.37
+Botswana,1999,Wheat,Barley,0.37
+Botswana,2000,Wheat,Barley,0.37
+Botswana,2001,Wheat,Barley,0.37
+Botswana,2002,Wheat,Barley,0.37
+Botswana,2003,Sorghum,Wheat,0.34
+Botswana,2004,Wheat,Barley,0.37
+Botswana,2005,Sorghum,Wheat,0.34
+Botswana,2006,Wheat,Barley,0.37
+Botswana,2007,Sorghum,Wheat,0.34
+Botswana,2008,Wheat,Barley,0.37
+Botswana,2009,Sorghum,Wheat,0.34
+Botswana,2010,Sorghum,Wheat,0.34
+Botswana,2011,Sorghum,Wheat,0.34
+Botswana,2012,Sorghum,Wheat,0.34
+Botswana,2013,Sorghum,Wheat,0.34
+Brazil,1990,Maize,Barley,0.28
+Brazil,1991,Maize,Barley,0.28
+Brazil,1992,Maize,Barley,0.28
+Brazil,1993,Maize,Barley,0.28
+Brazil,1994,Maize,Barley,0.28
+Brazil,1995,Maize,Barley,0.28
+Brazil,1996,Maize,Barley,0.28
+Brazil,1997,Maize,Barley,0.28
+Brazil,1998,Maize,Barley,0.28
+Brazil,1999,Maize,Barley,0.28
+Brazil,2000,Maize,Barley,0.28
+Brazil,2001,Maize,Barley,0.28
+Brazil,2002,Maize,Barley,0.28
+Brazil,2003,Maize,Barley,0.28
+Brazil,2004,Maize,Barley,0.28
+Brazil,2005,Maize,Barley,0.28
+Brazil,2006,Maize,Barley,0.28
+Brazil,2007,Maize,Barley,0.28
+Brazil,2008,Maize,Barley,0.28
+Brazil,2009,Maize,Barley,0.28
+Brazil,2010,Maize,Barley,0.28
+Brazil,2011,Maize,Barley,0.28
+Brazil,2012,Maize,Barley,0.28
+Brazil,2013,Maize,Barley,0.28
+Bulgaria,1990,Wheat,Barley,0.37
+Bulgaria,1991,Maize,Barley,0.28
+Bulgaria,1992,Wheat,Barley,0.37
+Bulgaria,1993,Wheat,Barley,0.37
+Bulgaria,1994,Wheat,Barley,0.37
+Bulgaria,1995,Maize,Barley,0.28
+Bulgaria,1996,Maize,Barley,0.28
+Bulgaria,1997,Maize,Barley,0.28
+Bulgaria,1998,Wheat,Barley,0.37
+Bulgaria,1999,Maize,Barley,0.28
+Bulgaria,2000,Wheat,Barley,0.37
+Bulgaria,2001,Wheat,Barley,0.37
+Bulgaria,2002,Maize,Barley,0.28
+Bulgaria,2003,Maize,Barley,0.28
+Bulgaria,2004,Maize,Barley,0.28
+Bulgaria,2005,Maize,Barley,0.28
+Bulgaria,2006,Maize,Barley,0.28
+Bulgaria,2007,Maize,Barley,0.28
+Bulgaria,2008,Wheat,Barley,0.37
+Bulgaria,2009,Maize,Barley,0.28
+Bulgaria,2010,Maize,Barley,0.28
+Bulgaria,2011,Maize,Barley,0.28
+Bulgaria,2012,Wheat,Barley,0.37
+Bulgaria,2013,Maize,Barley,0.28
+Burkina Faso,1990,Maize,Wheat,0.34
+Burkina Faso,1991,Maize,Wheat,0.34
+Burkina Faso,1992,Maize,Wheat,0.34
+Burkina Faso,1993,Maize,Wheat,0.34
+Burkina Faso,1994,Maize,Wheat,0.35
+Burkina Faso,1995,Maize,Wheat,0.34
+Burkina Faso,1996,Maize,Wheat,0.34
+Burkina Faso,1997,Maize,Wheat,0.34
+Burkina Faso,1998,Maize,Wheat,0.34
+Burkina Faso,1999,Maize,Wheat,0.34
+Burkina Faso,2000,Maize,Wheat,0.34
+Burkina Faso,2001,Maize,Wheat,0.34
+Burkina Faso,2002,Maize,Wheat,0.34
+Burkina Faso,2003,Maize,Wheat,0.34
+Burkina Faso,2004,Maize,Wheat,0.34
+Burkina Faso,2005,Maize,Wheat,0.34
+Burkina Faso,2006,Maize,Wheat,0.34
+Burkina Faso,2007,Maize,Wheat,0.34
+Burkina Faso,2008,Maize,Wheat,0.34
+Burkina Faso,2009,Maize,Wheat,0.34
+Burkina Faso,2010,Maize,Wheat,0.34
+Burkina Faso,2011,Maize,Wheat,0.34
+Burkina Faso,2012,Maize,Wheat,0.34
+Burkina Faso,2013,Maize,Wheat,0.34
+Burundi,1990,Maize,Barley,0.28
+Burundi,1991,Maize,Barley,0.28
+Burundi,1992,Maize,Barley,0.28
+Burundi,1993,Maize,Barley,0.28
+Burundi,1994,Maize,Barley,0.28
+Burundi,1995,Sorghum,Wheat,0.34
+Burundi,1996,Sorghum,Wheat,0.34
+Burundi,1997,Maize,Barley,0.28
+Burundi,1998,Sorghum,Wheat,0.34
+Burundi,1999,Sorghum,Wheat,0.34
+Burundi,2000,Sorghum,Wheat,0.34
+Burundi,2001,Sorghum,Wheat,0.34
+Burundi,2002,Sorghum,Wheat,0.34
+Burundi,2003,Sorghum,Wheat,0.34
+Burundi,2004,Sorghum,Wheat,0.34
+Burundi,2005,Sorghum,Wheat,0.34
+Burundi,2006,Sorghum,Wheat,0.34
+Burundi,2007,Sorghum,Wheat,0.34
+Burundi,2008,Sorghum,Wheat,0.34
+Burundi,2009,Sorghum,Wheat,0.34
+Burundi,2010,Sorghum,Wheat,0.34
+Burundi,2011,Maize,Barley,0.28
+Burundi,2012,Maize,Barley,0.28
+Burundi,2013,Maize,Barley,0.28
+Cabo Verde,1990,Maize,Barley,0.28
+Cabo Verde,1991,Maize,Barley,0.28
+Cabo Verde,1992,Maize,Barley,0.28
+Cabo Verde,1993,Maize,Barley,0.28
+Cabo Verde,1994,Maize,Barley,0.28
+Cabo Verde,1995,Maize,Barley,0.28
+Cabo Verde,1996,Maize,Barley,0.28
+Cabo Verde,1997,Maize,Barley,0.28
+Cabo Verde,1998,Maize,Barley,0.28
+Cabo Verde,1999,Maize,Barley,0.28
+Cabo Verde,2000,Maize,Barley,0.28
+Cabo Verde,2001,Maize,Barley,0.28
+Cabo Verde,2002,Maize,Barley,0.28
+Cabo Verde,2003,Maize,Barley,0.28
+Cabo Verde,2004,Maize,Barley,0.28
+Cabo Verde,2005,Maize,Barley,0.28
+Cabo Verde,2006,Maize,Barley,0.28
+Cabo Verde,2007,Maize,Barley,0.28
+Cabo Verde,2008,Maize,Barley,0.28
+Cabo Verde,2009,Maize,Barley,0.28
+Cabo Verde,2010,Maize,Barley,0.28
+Cabo Verde,2011,Maize,Barley,0.28
+Cabo Verde,2012,Maize,Barley,0.28
+Cabo Verde,2013,Maize,Barley,0.28
+Cambodia,1990,Maize,Barley,0.28
+Cambodia,1991,Maize,Barley,0.28
+Cambodia,1992,Maize,Barley,0.28
+Cambodia,1993,Maize,Barley,0.28
+Cambodia,1994,Maize,Barley,0.28
+Cambodia,1995,Maize,Barley,0.28
+Cambodia,1996,Maize,Barley,0.28
+Cambodia,1997,Maize,Barley,0.28
+Cambodia,1998,Maize,Barley,0.28
+Cambodia,1999,Maize,Barley,0.28
+Cambodia,2000,Maize,Barley,0.28
+Cambodia,2001,Maize,Barley,0.28
+Cambodia,2002,Maize,Barley,0.28
+Cambodia,2003,Maize,Barley,0.28
+Cambodia,2004,Maize,Barley,0.28
+Cambodia,2005,Maize,Barley,0.28
+Cambodia,2006,Maize,Barley,0.28
+Cambodia,2007,Maize,Barley,0.28
+Cambodia,2008,Maize,Barley,0.28
+Cambodia,2009,Maize,Barley,0.28
+Cambodia,2010,Maize,Barley,0.28
+Cambodia,2011,Maize,Barley,0.28
+Cambodia,2012,Maize,Barley,0.28
+Cambodia,2013,Maize,Barley,0.28
+Cameroon,1990,Maize,Teff,0.28
+Cameroon,1991,Maize,Teff,0.28
+Cameroon,1992,Maize,Wheat,0.37
+Cameroon,1993,Wheat,Barley,0.36
+Cameroon,1994,Wheat,Barley,0.36
+Cameroon,1995,Maize,Teff,0.28
+Cameroon,1996,Maize,Teff,0.28
+Cameroon,1997,Maize,Teff,0.28
+Cameroon,1998,Maize,Wheat,0.28
+Cameroon,1999,Maize,Teff,0.28
+Cameroon,2000,Maize,Wheat,0.37
+Cameroon,2001,Maize,Teff,0.28
+Cameroon,2002,Maize,Teff,0.28
+Cameroon,2003,Maize,Teff,0.28
+Cameroon,2004,Maize,Teff,0.28
+Cameroon,2005,Maize,Teff,0.28
+Cameroon,2006,Maize,Teff,0.28
+Cameroon,2007,Maize,Teff,0.28
+Cameroon,2008,Maize,Teff,0.28
+Cameroon,2009,Maize,Teff,0.28
+Cameroon,2010,Maize,Wheat,0.28
+Cameroon,2011,Maize,Teff,0.28
+Cameroon,2012,Maize,Teff,0.28
+Cameroon,2013,Maize,Teff,0.28
+Canada,1990,Maize,Barley,0.28
+Canada,1991,Maize,Barley,0.28
+Canada,1992,Maize,Barley,0.28
+Canada,1993,Maize,Barley,0.28
+Canada,1994,Maize,Barley,0.28
+Canada,1995,Maize,Barley,0.28
+Canada,1996,Maize,Barley,0.28
+Canada,1997,Maize,Barley,0.28
+Canada,1998,Maize,Barley,0.28
+Canada,1999,Maize,Barley,0.28
+Canada,2000,Maize,Barley,0.28
+Canada,2001,Maize,Barley,0.28
+Canada,2002,Maize,Barley,0.28
+Canada,2003,Maize,Barley,0.28
+Canada,2004,Maize,Barley,0.28
+Canada,2005,Maize,Barley,0.28
+Canada,2006,Maize,Barley,0.28
+Canada,2007,Maize,Barley,0.28
+Canada,2008,Maize,Barley,0.28
+Canada,2009,Maize,Barley,0.28
+Canada,2010,Maize,Barley,0.28
+Canada,2011,Maize,Barley,0.28
+Canada,2012,Maize,Barley,0.28
+Canada,2013,Maize,Barley,0.28
+Central African Republic,1990,Sorghum,Wheat,0.32
+Central African Republic,1991,Sorghum,Wheat,0.32
+Central African Republic,1992,Sorghum,Wheat,0.37
+Central African Republic,1993,Sorghum,Wheat,0.32
+Central African Republic,1994,Maize,Teff,0.28
+Central African Republic,1995,Maize,Teff,0.28
+Central African Republic,1996,Maize,Teff,0.28
+Central African Republic,1997,Maize,Wheat,0.28
+Central African Republic,1998,Maize,Wheat,0.29
+Central African Republic,1999,Maize,Teff,0.28
+Central African Republic,2000,Maize,Teff,0.28
+Central African Republic,2001,Maize,Teff,0.28
+Central African Republic,2002,Sorghum,Wheat,0.32
+Central African Republic,2003,Maize,Teff,0.28
+Central African Republic,2004,Maize,Wheat,0.28
+Central African Republic,2005,Maize,Wheat,0.29
+Central African Republic,2006,Sorghum,Bean,0.3
+Central African Republic,2007,Sorghum,Bean,0.3
+Central African Republic,2008,Sorghum,Bean,0.3
+Central African Republic,2009,Sorghum,Bean,0.32
+Central African Republic,2010,Maize,Wheat,0.29
+Central African Republic,2011,Maize,Teff,0.28
+Central African Republic,2012,Maize,Teff,0.28
+Central African Republic,2013,Maize,Wheat,0.28
+Chad,1990,Wheat,Barley,0.37
+Chad,1991,Wheat,Barley,0.37
+Chad,1992,Wheat,Barley,0.37
+Chad,1993,Wheat,Barley,0.37
+Chad,1994,Wheat,Barley,0.37
+Chad,1995,Wheat,Barley,0.37
+Chad,1996,Wheat,Barley,0.37
+Chad,1997,Wheat,Barley,0.37
+Chad,1998,Wheat,Barley,0.37
+Chad,1999,Wheat,Barley,0.37
+Chad,2000,Wheat,Barley,0.37
+Chad,2001,Wheat,Barley,0.37
+Chad,2002,Wheat,Barley,0.37
+Chad,2003,Wheat,Barley,0.37
+Chad,2004,Maize,Barley,0.28
+Chad,2005,Wheat,Barley,0.37
+Chad,2006,Maize,Barley,0.28
+Chad,2007,Wheat,Barley,0.37
+Chad,2008,Wheat,Barley,0.37
+Chad,2009,Wheat,Barley,0.37
+Chad,2010,Wheat,Barley,0.37
+Chad,2011,Maize,Barley,0.28
+Chad,2012,Wheat,Barley,0.37
+Chad,2013,Wheat,Barley,0.37
+Chile,1990,Maize,Barley,0.28
+Chile,1991,Maize,Barley,0.28
+Chile,1992,Maize,Barley,0.28
+Chile,1993,Maize,Barley,0.28
+Chile,1994,Maize,Barley,0.28
+Chile,1995,Maize,Barley,0.28
+Chile,1996,Maize,Barley,0.28
+Chile,1997,Maize,Barley,0.28
+Chile,1998,Maize,Barley,0.28
+Chile,1999,Maize,Barley,0.28
+Chile,2000,Maize,Barley,0.28
+Chile,2001,Maize,Barley,0.28
+Chile,2002,Maize,Barley,0.28
+Chile,2003,Maize,Barley,0.28
+Chile,2004,Maize,Barley,0.28
+Chile,2005,Maize,Barley,0.28
+Chile,2006,Maize,Barley,0.28
+Chile,2007,Maize,Barley,0.28
+Chile,2008,Maize,Barley,0.28
+Chile,2009,Maize,Barley,0.28
+Chile,2010,Maize,Barley,0.28
+Chile,2011,Maize,Barley,0.28
+Chile,2012,Maize,Barley,0.28
+Chile,2013,Maize,Barley,0.28
+China,1990,Maize,Barley,0.28
+China,1991,Maize,Barley,0.28
+China,1992,Maize,Barley,0.28
+China,1993,Maize,Barley,0.28
+China,1994,Maize,Barley,0.28
+China,1995,Maize,Barley,0.28
+China,1996,Maize,Barley,0.28
+China,1997,Maize,Barley,0.28
+China,1998,Maize,Barley,0.28
+China,1999,Maize,Barley,0.28
+China,2000,Maize,Barley,0.28
+China,2001,Maize,Barley,0.28
+China,2002,Maize,Barley,0.28
+China,2003,Maize,Barley,0.28
+China,2004,Maize,Barley,0.28
+China,2005,Maize,Barley,0.28
+China,2006,Maize,Barley,0.28
+China,2007,Maize,Barley,0.28
+China,2008,Maize,Barley,0.28
+China,2009,Maize,Barley,0.28
+China,2010,Maize,Barley,0.28
+China,2011,Maize,Barley,0.28
+China,2012,Maize,Barley,0.28
+China,2013,Maize,Barley,0.28
+"China, Taiwan Province of",1990,Maize,Barley,0.28
+"China, Taiwan Province of",1991,Maize,Barley,0.28
+"China, Taiwan Province of",1992,Maize,Barley,0.28
+"China, Taiwan Province of",1993,Maize,Barley,0.28
+"China, Taiwan Province of",1994,Maize,Barley,0.28
+"China, Taiwan Province of",1995,Maize,Barley,0.28
+"China, Taiwan Province of",1996,Maize,Barley,0.28
+"China, Taiwan Province of",1997,Maize,Barley,0.28
+"China, Taiwan Province of",1998,Maize,Barley,0.28
+"China, Taiwan Province of",1999,Maize,Barley,0.28
+"China, Taiwan Province of",2000,Maize,Barley,0.28
+"China, Taiwan Province of",2001,Maize,Barley,0.28
+"China, Taiwan Province of",2002,Maize,Barley,0.28
+"China, Taiwan Province of",2003,Maize,Barley,0.28
+"China, Taiwan Province of",2004,Maize,Barley,0.28
+"China, Taiwan Province of",2005,Maize,Barley,0.28
+"China, Taiwan Province of",2006,Maize,Barley,0.28
+"China, Taiwan Province of",2007,Maize,Barley,0.28
+"China, Taiwan Province of",2008,Maize,Barley,0.28
+"China, Taiwan Province of",2009,Maize,Barley,0.28
+"China, Taiwan Province of",2010,Maize,Barley,0.28
+"China, Taiwan Province of",2011,Maize,Barley,0.28
+"China, Taiwan Province of",2012,Maize,Barley,0.28
+"China, Taiwan Province of",2013,Maize,Barley,0.28
+"China, mainland",1990,Maize,Barley,0.28
+"China, mainland",1991,Maize,Barley,0.28
+"China, mainland",1992,Maize,Barley,0.28
+"China, mainland",1993,Maize,Barley,0.28
+"China, mainland",1994,Maize,Barley,0.28
+"China, mainland",1995,Maize,Barley,0.28
+"China, mainland",1996,Maize,Barley,0.28
+"China, mainland",1997,Maize,Barley,0.28
+"China, mainland",1998,Maize,Barley,0.28
+"China, mainland",1999,Maize,Barley,0.28
+"China, mainland",2000,Maize,Barley,0.28
+"China, mainland",2001,Maize,Barley,0.28
+"China, mainland",2002,Maize,Barley,0.28
+"China, mainland",2003,Maize,Barley,0.28
+"China, mainland",2004,Maize,Barley,0.28
+"China, mainland",2005,Maize,Barley,0.28
+"China, mainland",2006,Maize,Barley,0.28
+"China, mainland",2007,Maize,Barley,0.28
+"China, mainland",2008,Maize,Barley,0.28
+"China, mainland",2009,Maize,Barley,0.28
+"China, mainland",2010,Maize,Barley,0.28
+"China, mainland",2011,Maize,Barley,0.28
+"China, mainland",2012,Maize,Barley,0.28
+"China, mainland",2013,Maize,Barley,0.28
+Colombia,1990,Sorghum,Wheat,0.37
+Colombia,1991,Sorghum,Wheat,0.37
+Colombia,1992,Sorghum,Wheat,0.32
+Colombia,1993,Sorghum,Wheat,0.37
+Colombia,1994,Sorghum,Wheat,0.37
+Colombia,1995,Sorghum,Wheat,0.37
+Colombia,1996,Sorghum,Wheat,0.37
+Colombia,1997,Sorghum,Wheat,0.32
+Colombia,1998,Sorghum,Wheat,0.32
+Colombia,1999,Sorghum,Wheat,0.37
+Colombia,2000,Sorghum,Wheat,0.37
+Colombia,2001,Sorghum,Wheat,0.37
+Colombia,2002,Sorghum,Wheat,0.32
+Colombia,2003,Sorghum,Wheat,0.32
+Colombia,2004,Sorghum,Wheat,0.32
+Colombia,2005,Sorghum,Wheat,0.32
+Colombia,2006,Sorghum,Wheat,0.32
+Colombia,2007,Sorghum,Wheat,0.32
+Colombia,2008,Sorghum,Wheat,0.37
+Colombia,2009,Sorghum,Wheat,0.32
+Colombia,2010,Sorghum,Wheat,0.32
+Colombia,2011,Sorghum,Wheat,0.37
+Colombia,2012,Sorghum,Wheat,0.32
+Colombia,2013,Sorghum,Wheat,0.32
+Comoros,1990,Maize,Barley,0.28
+Comoros,1991,Maize,Barley,0.28
+Comoros,1992,Maize,Barley,0.28
+Comoros,1993,Maize,Barley,0.28
+Comoros,1994,Maize,Barley,0.28
+Comoros,1995,Maize,Barley,0.28
+Comoros,1996,Maize,Barley,0.28
+Comoros,1997,Maize,Barley,0.28
+Comoros,1998,Maize,Barley,0.28
+Comoros,1999,Maize,Barley,0.28
+Comoros,2000,Maize,Barley,0.28
+Comoros,2001,Maize,Barley,0.28
+Comoros,2002,Maize,Barley,0.28
+Comoros,2003,Maize,Barley,0.28
+Comoros,2004,Maize,Barley,0.28
+Comoros,2005,Maize,Barley,0.28
+Comoros,2006,Maize,Barley,0.28
+Comoros,2007,Maize,Barley,0.28
+Comoros,2008,Maize,Barley,0.28
+Comoros,2009,Maize,Barley,0.28
+Comoros,2010,Maize,Barley,0.28
+Comoros,2011,Maize,Barley,0.28
+Comoros,2012,Maize,Barley,0.28
+Comoros,2013,Maize,Barley,0.28
+Congo,1990,Maize,Wheat,0.34
+Congo,1991,Maize,Wheat,0.37
+Congo,1992,Maize,Wheat,0.34
+Congo,1993,Maize,Wheat,0.37
+Congo,1994,Maize,Wheat,0.37
+Congo,1995,Maize,Wheat,0.37
+Congo,1996,Maize,Wheat,0.37
+Congo,1997,Maize,Wheat,0.37
+Congo,1998,Maize,Teff,0.28
+Congo,1999,Maize,Wheat,0.37
+Congo,2000,Maize,Wheat,0.37
+Congo,2001,Maize,Wheat,0.37
+Congo,2002,Maize,Wheat,0.37
+Congo,2003,Maize,Wheat,0.37
+Congo,2004,Maize,Wheat,0.37
+Congo,2005,Maize,Wheat,0.37
+Congo,2006,Maize,Wheat,0.37
+Congo,2007,Maize,Wheat,0.37
+Congo,2008,Maize,Wheat,0.37
+Congo,2009,Maize,Wheat,0.37
+Congo,2010,Maize,Wheat,0.37
+Congo,2011,Maize,Wheat,0.37
+Congo,2012,Maize,Wheat,0.37
+Congo,2013,Maize,Wheat,0.37
+Costa Rica,1990,Maize,Barley,0.28
+Costa Rica,1991,Sorghum,Wheat,0.34
+Costa Rica,1992,Maize,Barley,0.28
+Costa Rica,1993,Maize,Barley,0.28
+Costa Rica,1994,Maize,Barley,0.28
+Costa Rica,1995,Maize,Barley,0.28
+Costa Rica,1996,Maize,Barley,0.28
+Costa Rica,1997,Maize,Barley,0.28
+Costa Rica,1998,Maize,Barley,0.28
+Costa Rica,1999,Maize,Barley,0.28
+Costa Rica,2000,Maize,Barley,0.28
+Costa Rica,2001,Maize,Barley,0.28
+Costa Rica,2002,Maize,Barley,0.28
+Costa Rica,2003,Maize,Barley,0.28
+Costa Rica,2004,Maize,Barley,0.28
+Costa Rica,2005,Maize,Barley,0.28
+Costa Rica,2006,Maize,Barley,0.28
+Costa Rica,2007,Maize,Barley,0.28
+Costa Rica,2008,Maize,Barley,0.28
+Costa Rica,2009,Maize,Barley,0.28
+Costa Rica,2010,Maize,Barley,0.28
+Costa Rica,2011,Maize,Barley,0.28
+Costa Rica,2012,Maize,Barley,0.28
+Costa Rica,2013,Maize,Barley,0.28
+Croatia,1992,Sorghum,Wheat,0.34
+Croatia,1993,Maize,Barley,0.28
+Croatia,1994,Maize,Barley,0.28
+Croatia,1995,Maize,Barley,0.28
+Croatia,1996,Maize,Barley,0.28
+Croatia,1997,Maize,Barley,0.28
+Croatia,1998,Maize,Barley,0.28
+Croatia,1999,Maize,Barley,0.28
+Croatia,2000,Wheat,Barley,0.37
+Croatia,2001,Maize,Barley,0.28
+Croatia,2002,Maize,Barley,0.28
+Croatia,2003,Maize,Barley,0.28
+Croatia,2004,Maize,Barley,0.28
+Croatia,2005,Maize,Barley,0.28
+Croatia,2006,Maize,Barley,0.28
+Croatia,2007,Maize,Barley,0.28
+Croatia,2008,Maize,Barley,0.28
+Croatia,2009,Maize,Barley,0.28
+Croatia,2010,Maize,Barley,0.28
+Croatia,2011,Maize,Barley,0.28
+Croatia,2012,Wheat,Barley,0.37
+Croatia,2013,Maize,Barley,0.28
+Cuba,1990,Sorghum,Wheat,0.34
+Cuba,1991,Maize,Barley,0.28
+Cuba,1992,Maize,Barley,0.28
+Cuba,1993,Maize,Barley,0.28
+Cuba,1994,Maize,Barley,0.28
+Cuba,1995,Maize,Barley,0.28
+Cuba,1996,Maize,Barley,0.28
+Cuba,1997,Maize,Barley,0.28
+Cuba,1998,Maize,Barley,0.28
+Cuba,1999,Maize,Barley,0.28
+Cuba,2000,Maize,Barley,0.28
+Cuba,2001,Maize,Barley,0.28
+Cuba,2002,Maize,Barley,0.28
+Cuba,2003,Maize,Barley,0.28
+Cuba,2004,Maize,Barley,0.28
+Cuba,2005,Maize,Barley,0.28
+Cuba,2006,Maize,Barley,0.28
+Cuba,2007,Maize,Barley,0.28
+Cuba,2008,Maize,Barley,0.28
+Cuba,2009,Sorghum,Wheat,0.34
+Cuba,2010,Sorghum,Wheat,0.34
+Cuba,2011,Maize,Barley,0.28
+Cuba,2012,Maize,Barley,0.28
+Cuba,2013,Maize,Barley,0.28
+Cyprus,1990,Wheat,Barley,0.37
+Cyprus,1991,Wheat,Barley,0.37
+Cyprus,1992,Wheat,Barley,0.37
+Cyprus,1993,Wheat,Barley,0.37
+Cyprus,1994,Wheat,Barley,0.37
+Cyprus,1995,Wheat,Barley,0.37
+Cyprus,1996,Wheat,Barley,0.37
+Cyprus,1997,Wheat,Barley,0.37
+Cyprus,1998,Wheat,Barley,0.37
+Cyprus,1999,Wheat,Barley,0.37
+Cyprus,2000,Wheat,Barley,0.37
+Cyprus,2001,Wheat,Barley,0.37
+Cyprus,2002,Wheat,Barley,0.37
+Cyprus,2003,Wheat,Barley,0.37
+Cyprus,2004,Wheat,Barley,0.37
+Cyprus,2005,Wheat,Barley,0.37
+Cyprus,2006,Wheat,Barley,0.37
+Cyprus,2007,Wheat,Barley,0.37
+Cyprus,2008,Wheat,Barley,0.37
+Cyprus,2009,Wheat,Barley,0.37
+Cyprus,2010,Wheat,Barley,0.37
+Cyprus,2011,Wheat,Barley,0.37
+Cyprus,2012,Wheat,Barley,0.37
+Cyprus,2013,Wheat,Barley,0.37
+Czechia,1993,Maize,Barley,0.28
+Czechia,1994,Wheat,Barley,0.37
+Czechia,1995,Wheat,Barley,0.37
+Czechia,1996,Maize,Barley,0.28
+Czechia,1997,Maize,Barley,0.28
+Czechia,1998,Maize,Barley,0.28
+Czechia,1999,Maize,Barley,0.28
+Czechia,2000,Maize,Barley,0.28
+Czechia,2001,Maize,Barley,0.28
+Czechia,2002,Maize,Barley,0.28
+Czechia,2003,Maize,Barley,0.28
+Czechia,2004,Maize,Barley,0.28
+Czechia,2005,Maize,Barley,0.28
+Czechia,2006,Maize,Barley,0.28
+Czechia,2007,Maize,Barley,0.28
+Czechia,2008,Maize,Barley,0.28
+Czechia,2009,Maize,Barley,0.28
+Czechia,2010,Maize,Barley,0.28
+Czechia,2011,Maize,Barley,0.28
+Czechia,2012,Maize,Barley,0.28
+Czechia,2013,Maize,Barley,0.28
+Czechoslovakia,1990,Wheat,Barley,0.37
+Czechoslovakia,1991,Maize,Barley,0.28
+Czechoslovakia,1992,Wheat,Barley,0.37
+Côte d'Ivoire,1990,Maize,Barley,0.28
+Côte d'Ivoire,1991,Maize,Barley,0.28
+Côte d'Ivoire,1992,Maize,Barley,0.28
+Côte d'Ivoire,1993,Maize,Barley,0.28
+Côte d'Ivoire,1994,Maize,Barley,0.28
+Côte d'Ivoire,1995,Maize,Barley,0.28
+Côte d'Ivoire,1996,Maize,Barley,0.28
+Côte d'Ivoire,1997,Maize,Barley,0.28
+Côte d'Ivoire,1998,Maize,Barley,0.28
+Côte d'Ivoire,1999,Maize,Barley,0.28
+Côte d'Ivoire,2000,Maize,Barley,0.28
+Côte d'Ivoire,2001,Maize,Barley,0.28
+Côte d'Ivoire,2002,Maize,Barley,0.28
+Côte d'Ivoire,2003,Maize,Barley,0.28
+Côte d'Ivoire,2004,Maize,Barley,0.28
+Côte d'Ivoire,2005,Maize,Barley,0.28
+Côte d'Ivoire,2006,Maize,Barley,0.28
+Côte d'Ivoire,2007,Maize,Barley,0.28
+Côte d'Ivoire,2008,Maize,Barley,0.28
+Côte d'Ivoire,2009,Maize,Barley,0.28
+Côte d'Ivoire,2010,Maize,Barley,0.28
+Côte d'Ivoire,2011,Maize,Barley,0.28
+Côte d'Ivoire,2012,Maize,Barley,0.28
+Côte d'Ivoire,2013,Maize,Barley,0.28
+Democratic People's Republic of Korea,1990,Maize,Barley,0.28
+Democratic People's Republic of Korea,1991,Maize,Barley,0.28
+Democratic People's Republic of Korea,1992,Maize,Barley,0.28
+Democratic People's Republic of Korea,1993,Maize,Barley,0.28
+Democratic People's Republic of Korea,1994,Maize,Barley,0.28
+Democratic People's Republic of Korea,1995,Maize,Barley,0.28
+Democratic People's Republic of Korea,1996,Maize,Barley,0.28
+Democratic People's Republic of Korea,1997,Maize,Barley,0.28
+Democratic People's Republic of Korea,1998,Maize,Barley,0.28
+Democratic People's Republic of Korea,1999,Maize,Barley,0.28
+Democratic People's Republic of Korea,2000,Maize,Barley,0.28
+Democratic People's Republic of Korea,2001,Maize,Barley,0.28
+Democratic People's Republic of Korea,2002,Maize,Barley,0.28
+Democratic People's Republic of Korea,2003,Maize,Barley,0.28
+Democratic People's Republic of Korea,2004,Maize,Barley,0.28
+Democratic People's Republic of Korea,2005,Maize,Barley,0.28
+Democratic People's Republic of Korea,2006,Maize,Barley,0.28
+Democratic People's Republic of Korea,2007,Maize,Barley,0.28
+Democratic People's Republic of Korea,2008,Maize,Barley,0.28
+Democratic People's Republic of Korea,2009,Maize,Barley,0.28
+Democratic People's Republic of Korea,2010,Maize,Barley,0.28
+Democratic People's Republic of Korea,2011,Maize,Barley,0.28
+Democratic People's Republic of Korea,2012,Maize,Barley,0.28
+Democratic People's Republic of Korea,2013,Maize,Barley,0.28
+Democratic Republic of the Congo,1990,Wheat,Barley,0.37
+Democratic Republic of the Congo,1991,Wheat,Barley,0.37
+Democratic Republic of the Congo,1992,Wheat,Barley,0.37
+Democratic Republic of the Congo,1993,Wheat,Barley,0.37
+Democratic Republic of the Congo,1994,Wheat,Barley,0.37
+Democratic Republic of the Congo,1995,Wheat,Barley,0.37
+Democratic Republic of the Congo,1996,Wheat,Barley,0.37
+Democratic Republic of the Congo,1997,Wheat,Barley,0.37
+Democratic Republic of the Congo,1998,Wheat,Barley,0.37
+Democratic Republic of the Congo,1999,Wheat,Barley,0.37
+Democratic Republic of the Congo,2000,Wheat,Barley,0.37
+Democratic Republic of the Congo,2001,Wheat,Barley,0.37
+Democratic Republic of the Congo,2002,Wheat,Barley,0.37
+Democratic Republic of the Congo,2003,Wheat,Barley,0.37
+Democratic Republic of the Congo,2004,Wheat,Barley,0.37
+Democratic Republic of the Congo,2005,Wheat,Barley,0.37
+Democratic Republic of the Congo,2006,Wheat,Barley,0.37
+Democratic Republic of the Congo,2007,Wheat,Barley,0.37
+Democratic Republic of the Congo,2008,Wheat,Barley,0.37
+Democratic Republic of the Congo,2009,Wheat,Barley,0.37
+Democratic Republic of the Congo,2010,Wheat,Barley,0.37
+Democratic Republic of the Congo,2011,Wheat,Barley,0.37
+Democratic Republic of the Congo,2012,Wheat,Barley,0.37
+Democratic Republic of the Congo,2013,Wheat,Barley,0.37
+Denmark,1990,Wheat,Barley,0.37
+Denmark,1991,Wheat,Barley,0.37
+Denmark,1992,Wheat,Barley,0.37
+Denmark,1993,Wheat,Barley,0.37
+Denmark,1994,Wheat,Barley,0.37
+Denmark,1995,Wheat,Barley,0.37
+Denmark,1996,Wheat,Barley,0.37
+Denmark,1997,Wheat,Barley,0.37
+Denmark,1998,Wheat,Barley,0.37
+Denmark,1999,Wheat,Barley,0.37
+Denmark,2000,Wheat,Barley,0.37
+Denmark,2001,Wheat,Barley,0.37
+Denmark,2002,Wheat,Barley,0.37
+Denmark,2003,Wheat,Barley,0.37
+Denmark,2004,Wheat,Barley,0.37
+Denmark,2005,Wheat,Barley,0.37
+Denmark,2006,Wheat,Barley,0.37
+Denmark,2007,Wheat,Barley,0.37
+Denmark,2008,Wheat,Barley,0.37
+Denmark,2009,Wheat,Barley,0.37
+Denmark,2010,Wheat,Barley,0.37
+Denmark,2011,Wheat,Barley,0.37
+Denmark,2012,Wheat,Barley,0.37
+Denmark,2013,Wheat,Barley,0.37
+Djibouti,1990,Maize,Barley,0.28
+Djibouti,1991,Maize,Barley,0.28
+Djibouti,1992,Maize,Barley,0.28
+Djibouti,1993,Maize,Barley,0.28
+Djibouti,1994,Maize,Barley,0.28
+Djibouti,1995,Maize,Barley,0.28
+Djibouti,1996,Maize,Barley,0.28
+Djibouti,1997,Maize,Barley,0.28
+Djibouti,1998,Maize,Barley,0.28
+Djibouti,1999,Maize,Barley,0.28
+Djibouti,2000,Maize,Barley,0.28
+Djibouti,2001,Maize,Barley,0.28
+Djibouti,2002,Maize,Barley,0.28
+Djibouti,2003,Maize,Barley,0.28
+Djibouti,2004,Maize,Barley,0.28
+Djibouti,2005,Maize,Barley,0.28
+Djibouti,2006,Maize,Barley,0.28
+Djibouti,2007,Maize,Barley,0.28
+Djibouti,2008,Maize,Barley,0.28
+Djibouti,2009,Maize,Barley,0.28
+Djibouti,2010,Maize,Barley,0.28
+Djibouti,2011,Maize,Barley,0.28
+Djibouti,2012,Maize,Barley,0.28
+Djibouti,2013,Maize,Barley,0.28
+Dominica,1990,Maize,Barley,0.28
+Dominica,1991,Maize,Barley,0.28
+Dominica,1992,Maize,Barley,0.28
+Dominica,1993,Maize,Barley,0.28
+Dominica,1994,Maize,Barley,0.28
+Dominica,1995,Maize,Barley,0.28
+Dominica,1996,Maize,Barley,0.28
+Dominica,1997,Maize,Barley,0.28
+Dominica,1998,Maize,Barley,0.28
+Dominica,1999,Maize,Barley,0.28
+Dominica,2000,Maize,Barley,0.28
+Dominica,2001,Maize,Barley,0.28
+Dominica,2002,Maize,Barley,0.28
+Dominica,2003,Maize,Barley,0.28
+Dominica,2004,Maize,Barley,0.28
+Dominica,2005,Maize,Barley,0.28
+Dominica,2006,Maize,Barley,0.28
+Dominica,2007,Maize,Barley,0.28
+Dominica,2008,Maize,Barley,0.28
+Dominica,2009,Maize,Barley,0.28
+Dominica,2010,Maize,Barley,0.28
+Dominica,2011,Maize,Barley,0.28
+Dominica,2012,Maize,Barley,0.28
+Dominica,2013,Maize,Barley,0.28
+Dominican Republic,1990,Sorghum,Bean,0.32
+Dominican Republic,1991,Sorghum,Bean,0.32
+Dominican Republic,1992,Sorghum,Bean,0.32
+Dominican Republic,1993,Sorghum,Bean,0.32
+Dominican Republic,1994,Sorghum,Bean,0.33
+Dominican Republic,1995,Sorghum,Bean,0.33
+Dominican Republic,1996,Sorghum,Bean,0.33
+Dominican Republic,1997,Sorghum,Bean,0.31
+Dominican Republic,1998,Sorghum,Bean,0.31
+Dominican Republic,1999,Sorghum,Bean,0.32
+Dominican Republic,2000,Sorghum,Bean,0.32
+Dominican Republic,2001,Sorghum,Bean,0.33
+Dominican Republic,2002,Sorghum,Bean,0.33
+Dominican Republic,2003,Sorghum,Bean,0.31
+Dominican Republic,2004,Sorghum,Bean,0.33
+Dominican Republic,2005,Sorghum,Bean,0.33
+Dominican Republic,2006,Sorghum,Bean,0.33
+Dominican Republic,2007,Sorghum,Bean,0.31
+Dominican Republic,2008,Sorghum,Bean,0.32
+Dominican Republic,2009,Sorghum,Bean,0.33
+Dominican Republic,2010,Sorghum,Bean,0.33
+Dominican Republic,2011,Maize,Wheat,0.32
+Dominican Republic,2012,Maize,Wheat,0.32
+Dominican Republic,2013,Maize,Wheat,0.32
+Ecuador,1990,Sorghum,Wheat,0.34
+Ecuador,1991,Sorghum,Wheat,0.34
+Ecuador,1992,Sorghum,Wheat,0.34
+Ecuador,1993,Sorghum,Wheat,0.34
+Ecuador,1994,Maize,Barley,0.28
+Ecuador,1995,Sorghum,Wheat,0.34
+Ecuador,1996,Sorghum,Wheat,0.34
+Ecuador,1997,Sorghum,Wheat,0.34
+Ecuador,1998,Sorghum,Wheat,0.34
+Ecuador,1999,Sorghum,Wheat,0.34
+Ecuador,2000,Sorghum,Wheat,0.34
+Ecuador,2001,Sorghum,Wheat,0.34
+Ecuador,2002,Sorghum,Wheat,0.34
+Ecuador,2003,Sorghum,Wheat,0.34
+Ecuador,2004,Sorghum,Wheat,0.34
+Ecuador,2005,Maize,Barley,0.28
+Ecuador,2006,Maize,Barley,0.28
+Ecuador,2007,Maize,Barley,0.28
+Ecuador,2008,Maize,Barley,0.28
+Ecuador,2009,Maize,Barley,0.28
+Ecuador,2010,Maize,Barley,0.28
+Ecuador,2011,Maize,Barley,0.28
+Ecuador,2012,Maize,Barley,0.28
+Ecuador,2013,Maize,Barley,0.28
+Egypt,1990,Maize,Barley,0.28
+Egypt,1991,Maize,Barley,0.28
+Egypt,1992,Maize,Barley,0.28
+Egypt,1993,Maize,Barley,0.28
+Egypt,1994,Maize,Barley,0.28
+Egypt,1995,Maize,Barley,0.28
+Egypt,1996,Maize,Barley,0.28
+Egypt,1997,Maize,Barley,0.28
+Egypt,1998,Maize,Barley,0.28
+Egypt,1999,Maize,Barley,0.28
+Egypt,2000,Maize,Barley,0.28
+Egypt,2001,Maize,Barley,0.28
+Egypt,2002,Maize,Barley,0.28
+Egypt,2003,Maize,Barley,0.28
+Egypt,2004,Maize,Barley,0.28
+Egypt,2005,Maize,Barley,0.28
+Egypt,2006,Maize,Barley,0.28
+Egypt,2007,Maize,Barley,0.28
+Egypt,2008,Maize,Barley,0.28
+Egypt,2009,Maize,Barley,0.28
+Egypt,2010,Maize,Barley,0.28
+Egypt,2011,Maize,Barley,0.28
+Egypt,2012,Maize,Barley,0.28
+Egypt,2013,Maize,Barley,0.28
+El Salvador,1990,Maize,Wheat,0.29
+El Salvador,1991,Maize,Wheat,0.29
+El Salvador,1992,Maize,Wheat,0.29
+El Salvador,1993,Maize,Wheat,0.29
+El Salvador,1994,Maize,Wheat,0.3
+El Salvador,1995,Maize,Wheat,0.29
+El Salvador,1996,Maize,Wheat,0.29
+El Salvador,1997,Maize,Wheat,0.31
+El Salvador,1998,Maize,Wheat,0.31
+El Salvador,1999,Maize,Wheat,0.28
+El Salvador,2000,Maize,Wheat,0.29
+El Salvador,2001,Maize,Wheat,0.29
+El Salvador,2002,Maize,Wheat,0.29
+El Salvador,2003,Maize,Wheat,0.29
+El Salvador,2004,Maize,Wheat,0.29
+El Salvador,2005,Maize,Wheat,0.29
+El Salvador,2006,Maize,Wheat,0.29
+El Salvador,2007,Maize,Wheat,0.29
+El Salvador,2008,Maize,Wheat,0.29
+El Salvador,2009,Maize,Wheat,0.29
+El Salvador,2010,Maize,Wheat,0.29
+El Salvador,2011,Maize,Wheat,0.29
+El Salvador,2012,Maize,Wheat,0.29
+El Salvador,2013,Maize,Wheat,0.31
+Eritrea,1993,Sorghum,Wheat,0.37
+Eritrea,1994,Sorghum,Wheat,0.37
+Eritrea,1995,Wheat,Barley,0.36
+Eritrea,1996,Maize,Wheat,0.37
+Eritrea,1997,Wheat,Barley,0.36
+Eritrea,1998,Sorghum,Wheat,0.37
+Eritrea,1999,Sorghum,Wheat,0.37
+Eritrea,2000,Wheat,Barley,0.36
+Eritrea,2001,Wheat,Barley,0.36
+Eritrea,2002,Maize,Wheat,0.37
+Eritrea,2003,Maize,Teff,0.28
+Eritrea,2004,Wheat,Barley,0.36
+Eritrea,2005,Wheat,Barley,0.36
+Eritrea,2006,Wheat,Barley,0.36
+Eritrea,2007,Sorghum,Wheat,0.37
+Eritrea,2008,Wheat,Barley,0.36
+Eritrea,2009,Wheat,Barley,0.31
+Eritrea,2010,Wheat,Barley,0.31
+Eritrea,2011,Wheat,Barley,0.36
+Eritrea,2012,Wheat,Barley,0.31
+Eritrea,2013,Wheat,Barley,0.31
+Estonia,1992,Wheat,Barley,0.37
+Estonia,1993,Wheat,Barley,0.37
+Estonia,1994,Wheat,Barley,0.37
+Estonia,1995,Wheat,Barley,0.37
+Estonia,1996,Wheat,Barley,0.37
+Estonia,1997,Wheat,Barley,0.37
+Estonia,1998,Wheat,Barley,0.37
+Estonia,1999,Wheat,Barley,0.37
+Estonia,2000,Wheat,Barley,0.37
+Estonia,2001,Wheat,Barley,0.37
+Estonia,2002,Wheat,Barley,0.37
+Estonia,2003,Wheat,Barley,0.37
+Estonia,2004,Wheat,Barley,0.37
+Estonia,2005,Wheat,Barley,0.37
+Estonia,2006,Wheat,Barley,0.37
+Estonia,2007,Wheat,Barley,0.37
+Estonia,2008,Wheat,Barley,0.37
+Estonia,2009,Wheat,Barley,0.37
+Estonia,2010,Wheat,Barley,0.37
+Estonia,2011,Wheat,Barley,0.37
+Estonia,2012,Wheat,Barley,0.37
+Estonia,2013,Wheat,Barley,0.37
+Eswatini,1990,Wheat,Barley,0.37
+Eswatini,1991,Wheat,Barley,0.37
+Eswatini,1992,Wheat,Barley,0.37
+Eswatini,1993,Wheat,Barley,0.37
+Eswatini,1994,Wheat,Barley,0.37
+Eswatini,1995,Maize,Barley,0.28
+Eswatini,1996,Maize,Barley,0.28
+Eswatini,1997,Maize,Barley,0.28
+Eswatini,1998,Maize,Barley,0.28
+Eswatini,1999,Maize,Barley,0.28
+Eswatini,2000,Maize,Barley,0.28
+Eswatini,2001,Wheat,Barley,0.37
+Eswatini,2002,Wheat,Barley,0.37
+Eswatini,2003,Wheat,Barley,0.37
+Eswatini,2004,Wheat,Barley,0.37
+Eswatini,2005,Wheat,Barley,0.37
+Eswatini,2006,Wheat,Barley,0.37
+Eswatini,2007,Wheat,Barley,0.37
+Eswatini,2008,Wheat,Barley,0.37
+Eswatini,2009,Wheat,Barley,0.37
+Eswatini,2010,Wheat,Barley,0.37
+Eswatini,2011,Wheat,Barley,0.37
+Eswatini,2012,Wheat,Barley,0.37
+Eswatini,2013,Wheat,Barley,0.37
+Ethiopia,1993,Maize,Barley,0.28
+Ethiopia,1994,Maize,Barley,0.28
+Ethiopia,1995,Maize,Barley,0.28
+Ethiopia,1996,Maize,Barley,0.28
+Ethiopia,1997,Maize,Barley,0.28
+Ethiopia,1998,Maize,Barley,0.28
+Ethiopia,1999,Maize,Barley,0.28
+Ethiopia,2000,Maize,Barley,0.28
+Ethiopia,2001,Maize,Barley,0.28
+Ethiopia,2002,Maize,Barley,0.28
+Ethiopia,2003,Maize,Barley,0.28
+Ethiopia,2004,Maize,Barley,0.28
+Ethiopia,2005,Maize,Barley,0.28
+Ethiopia,2006,Maize,Barley,0.28
+Ethiopia,2007,Maize,Barley,0.28
+Ethiopia,2008,Maize,Barley,0.28
+Ethiopia,2009,Maize,Barley,0.28
+Ethiopia,2010,Maize,Barley,0.28
+Ethiopia,2011,Maize,Barley,0.28
+Ethiopia,2012,Maize,Barley,0.28
+Ethiopia,2013,Maize,Barley,0.28
+Ethiopia PDR,1990,Maize,Barley,0.28
+Ethiopia PDR,1991,Wheat,Barley,0.37
+Ethiopia PDR,1992,Maize,Barley,0.28
+Fiji,1990,Sorghum,Wheat,0.34
+Fiji,1991,Sorghum,Wheat,0.34
+Fiji,1992,Sorghum,Wheat,0.34
+Fiji,1993,Sorghum,Wheat,0.34
+Fiji,1994,Sorghum,Wheat,0.34
+Fiji,1995,Sorghum,Wheat,0.34
+Fiji,1996,Sorghum,Wheat,0.34
+Fiji,1997,Maize,Barley,0.28
+Fiji,1998,Sorghum,Wheat,0.34
+Fiji,1999,Sorghum,Wheat,0.34
+Fiji,2000,Sorghum,Wheat,0.34
+Fiji,2001,Sorghum,Wheat,0.34
+Fiji,2002,Sorghum,Wheat,0.34
+Fiji,2003,Sorghum,Wheat,0.34
+Fiji,2004,Sorghum,Wheat,0.34
+Fiji,2005,Sorghum,Wheat,0.34
+Fiji,2006,Sorghum,Wheat,0.34
+Fiji,2007,Sorghum,Wheat,0.34
+Fiji,2008,Sorghum,Wheat,0.34
+Fiji,2009,Sorghum,Wheat,0.34
+Fiji,2010,Sorghum,Wheat,0.34
+Fiji,2011,Sorghum,Wheat,0.34
+Fiji,2012,Sorghum,Wheat,0.34
+Fiji,2013,Sorghum,Wheat,0.34
+Finland,1990,Wheat,Barley,0.37
+Finland,1991,Wheat,Barley,0.37
+Finland,1992,Wheat,Barley,0.37
+Finland,1993,Wheat,Barley,0.37
+Finland,1994,Wheat,Barley,0.37
+Finland,1995,Wheat,Barley,0.37
+Finland,1996,Wheat,Barley,0.37
+Finland,1997,Wheat,Barley,0.37
+Finland,1998,Wheat,Barley,0.37
+Finland,1999,Wheat,Barley,0.37
+Finland,2000,Wheat,Barley,0.37
+Finland,2001,Wheat,Barley,0.37
+Finland,2002,Wheat,Barley,0.37
+Finland,2003,Wheat,Barley,0.37
+Finland,2004,Wheat,Barley,0.37
+Finland,2005,Wheat,Barley,0.37
+Finland,2006,Wheat,Barley,0.37
+Finland,2007,Wheat,Barley,0.37
+Finland,2008,Wheat,Barley,0.37
+Finland,2009,Wheat,Barley,0.37
+Finland,2010,Wheat,Barley,0.37
+Finland,2011,Wheat,Barley,0.37
+Finland,2012,Wheat,Barley,0.37
+Finland,2013,Wheat,Barley,0.37
+France,1990,Wheat,Barley,0.37
+France,1991,Maize,Barley,0.28
+France,1992,Maize,Barley,0.28
+France,1993,Maize,Barley,0.28
+France,1994,Maize,Barley,0.28
+France,1995,Maize,Barley,0.28
+France,1996,Maize,Barley,0.28
+France,1997,Maize,Barley,0.28
+France,1998,Maize,Barley,0.28
+France,1999,Maize,Barley,0.28
+France,2000,Maize,Barley,0.28
+France,2001,Maize,Barley,0.28
+France,2002,Maize,Barley,0.28
+France,2003,Maize,Barley,0.28
+France,2004,Maize,Barley,0.28
+France,2005,Maize,Barley,0.28
+France,2006,Maize,Barley,0.28
+France,2007,Maize,Barley,0.28
+France,2008,Maize,Barley,0.28
+France,2009,Maize,Barley,0.28
+France,2010,Maize,Barley,0.28
+France,2011,Maize,Barley,0.28
+France,2012,Maize,Barley,0.28
+France,2013,Maize,Barley,0.28
+French Guiana,1991,Maize,Barley,0.28
+French Guiana,1992,Maize,Barley,0.28
+French Guiana,1993,Maize,Barley,0.28
+French Guiana,1994,Maize,Barley,0.28
+French Guiana,1995,Maize,Barley,0.28
+French Guiana,1996,Maize,Barley,0.28
+French Guiana,1997,Maize,Barley,0.28
+French Guiana,1998,Maize,Barley,0.28
+French Guiana,1999,Maize,Barley,0.28
+French Guiana,2000,Maize,Barley,0.28
+French Guiana,2001,Maize,Barley,0.28
+French Guiana,2002,Maize,Barley,0.28
+French Guiana,2003,Maize,Barley,0.28
+French Guiana,2004,Maize,Barley,0.28
+French Guiana,2005,Maize,Barley,0.28
+French Guiana,2006,Maize,Barley,0.28
+French Guiana,2007,Maize,Barley,0.28
+French Guiana,2008,Maize,Barley,0.28
+French Guiana,2009,Maize,Barley,0.28
+French Guiana,2010,Maize,Barley,0.28
+French Guiana,2011,Maize,Barley,0.28
+French Guiana,2012,Maize,Barley,0.28
+French Guiana,2013,Maize,Barley,0.28
+Gabon,1990,Maize,Wheat,0.3
+Gabon,1991,Maize,Wheat,0.29
+Gabon,1992,Maize,Wheat,0.29
+Gabon,1993,Maize,Wheat,0.29
+Gabon,1994,Maize,Wheat,0.3
+Gabon,1995,Maize,Wheat,0.32
+Gabon,1996,Maize,Wheat,0.29
+Gabon,1997,Maize,Wheat,0.31
+Gabon,1998,Maize,Wheat,0.32
+Gabon,1999,Maize,Wheat,0.31
+Gabon,2000,Maize,Wheat,0.3
+Gabon,2001,Maize,Wheat,0.29
+Gabon,2002,Maize,Wheat,0.31
+Gabon,2003,Maize,Wheat,0.32
+Gabon,2004,Maize,Wheat,0.31
+Gabon,2005,Maize,Wheat,0.31
+Gabon,2006,Maize,Wheat,0.32
+Gabon,2007,Maize,Wheat,0.32
+Gabon,2008,Maize,Wheat,0.32
+Gabon,2009,Maize,Wheat,0.32
+Gabon,2010,Maize,Wheat,0.32
+Gabon,2011,Maize,Wheat,0.31
+Gabon,2012,Maize,Wheat,0.31
+Gabon,2013,Maize,Wheat,0.32
+Gambia,1990,Maize,Barley,0.28
+Gambia,1991,Maize,Barley,0.28
+Gambia,1992,Maize,Barley,0.28
+Gambia,1993,Maize,Barley,0.28
+Gambia,1994,Maize,Barley,0.28
+Gambia,1995,Maize,Barley,0.28
+Gambia,1996,Maize,Barley,0.28
+Gambia,1997,Maize,Barley,0.28
+Gambia,1998,Maize,Barley,0.28
+Gambia,1999,Maize,Barley,0.28
+Gambia,2000,Maize,Barley,0.28
+Gambia,2001,Maize,Barley,0.28
+Gambia,2002,Maize,Barley,0.28
+Gambia,2003,Maize,Barley,0.28
+Gambia,2004,Maize,Barley,0.28
+Gambia,2005,Sorghum,Wheat,0.34
+Gambia,2006,Sorghum,Wheat,0.34
+Gambia,2007,Maize,Barley,0.28
+Gambia,2008,Maize,Barley,0.28
+Gambia,2009,Maize,Barley,0.28
+Gambia,2010,Maize,Barley,0.28
+Gambia,2011,Maize,Barley,0.28
+Gambia,2012,Maize,Barley,0.28
+Gambia,2013,Sorghum,Wheat,0.34
+Georgia,1992,Maize,Barley,0.28
+Georgia,1993,Maize,Barley,0.28
+Georgia,1994,Maize,Barley,0.28
+Georgia,1995,Maize,Barley,0.28
+Georgia,1996,Maize,Barley,0.28
+Georgia,1997,Maize,Barley,0.28
+Georgia,1998,Maize,Barley,0.28
+Georgia,1999,Maize,Barley,0.28
+Georgia,2000,Maize,Barley,0.28
+Georgia,2001,Wheat,Barley,0.37
+Georgia,2002,Maize,Barley,0.28
+Georgia,2003,Maize,Barley,0.28
+Georgia,2004,Maize,Barley,0.28
+Georgia,2005,Maize,Barley,0.28
+Georgia,2006,Maize,Barley,0.28
+Georgia,2007,Maize,Barley,0.28
+Georgia,2008,Maize,Barley,0.28
+Georgia,2009,Maize,Barley,0.28
+Georgia,2010,Maize,Barley,0.28
+Georgia,2011,Maize,Barley,0.28
+Georgia,2012,Maize,Barley,0.28
+Georgia,2013,Maize,Barley,0.28
+Germany,1990,Maize,Barley,0.28
+Germany,1991,Maize,Barley,0.28
+Germany,1992,Maize,Barley,0.28
+Germany,1993,Maize,Barley,0.28
+Germany,1994,Maize,Barley,0.28
+Germany,1995,Maize,Barley,0.28
+Germany,1996,Maize,Barley,0.28
+Germany,1997,Maize,Barley,0.28
+Germany,1998,Maize,Barley,0.28
+Germany,1999,Maize,Barley,0.28
+Germany,2000,Maize,Barley,0.28
+Germany,2001,Maize,Barley,0.28
+Germany,2002,Maize,Barley,0.28
+Germany,2003,Maize,Barley,0.28
+Germany,2004,Maize,Barley,0.28
+Germany,2005,Maize,Barley,0.28
+Germany,2006,Maize,Barley,0.28
+Germany,2007,Maize,Barley,0.28
+Germany,2008,Maize,Barley,0.28
+Germany,2009,Maize,Barley,0.28
+Germany,2010,Maize,Barley,0.28
+Germany,2011,Maize,Barley,0.28
+Germany,2012,Maize,Barley,0.28
+Germany,2013,Maize,Barley,0.28
+Ghana,1990,Maize,Wheat,0.32
+Ghana,1991,Maize,Wheat,0.31
+Ghana,1992,Maize,Wheat,0.31
+Ghana,1993,Maize,Wheat,0.32
+Ghana,1994,Maize,Wheat,0.31
+Ghana,1995,Maize,Wheat,0.32
+Ghana,1996,Maize,Wheat,0.31
+Ghana,1997,Maize,Wheat,0.31
+Ghana,1998,Maize,Wheat,0.32
+Ghana,1999,Maize,Wheat,0.32
+Ghana,2000,Maize,Wheat,0.32
+Ghana,2001,Maize,Wheat,0.32
+Ghana,2002,Maize,Wheat,0.32
+Ghana,2003,Maize,Wheat,0.32
+Ghana,2004,Maize,Wheat,0.32
+Ghana,2005,Maize,Wheat,0.32
+Ghana,2006,Maize,Wheat,0.32
+Ghana,2007,Maize,Wheat,0.32
+Ghana,2008,Maize,Wheat,0.32
+Ghana,2009,Maize,Wheat,0.32
+Ghana,2010,Maize,Wheat,0.34
+Ghana,2011,Maize,Wheat,0.32
+Ghana,2012,Maize,Wheat,0.32
+Ghana,2013,Maize,Wheat,0.32
+Greece,1990,Maize,Barley,0.28
+Greece,1991,Maize,Barley,0.28
+Greece,1992,Maize,Barley,0.28
+Greece,1993,Maize,Barley,0.28
+Greece,1994,Maize,Barley,0.28
+Greece,1995,Maize,Barley,0.28
+Greece,1996,Maize,Barley,0.28
+Greece,1997,Maize,Barley,0.28
+Greece,1998,Maize,Barley,0.28
+Greece,1999,Maize,Barley,0.28
+Greece,2000,Maize,Barley,0.28
+Greece,2001,Maize,Barley,0.28
+Greece,2002,Maize,Barley,0.28
+Greece,2003,Maize,Barley,0.28
+Greece,2004,Maize,Barley,0.28
+Greece,2005,Maize,Barley,0.28
+Greece,2006,Maize,Barley,0.28
+Greece,2007,Maize,Barley,0.28
+Greece,2008,Maize,Barley,0.28
+Greece,2009,Maize,Barley,0.28
+Greece,2010,Maize,Barley,0.28
+Greece,2011,Maize,Barley,0.28
+Greece,2012,Maize,Barley,0.28
+Greece,2013,Maize,Barley,0.28
+Grenada,1990,Maize,Barley,0.28
+Grenada,1991,Maize,Barley,0.28
+Grenada,1992,Maize,Barley,0.28
+Grenada,1993,Maize,Barley,0.28
+Grenada,1994,Maize,Barley,0.28
+Grenada,1995,Maize,Barley,0.28
+Grenada,1996,Maize,Barley,0.28
+Grenada,1997,Maize,Barley,0.28
+Grenada,1998,Maize,Barley,0.28
+Grenada,1999,Maize,Barley,0.28
+Grenada,2000,Maize,Barley,0.28
+Grenada,2001,Maize,Barley,0.28
+Grenada,2002,Maize,Barley,0.28
+Grenada,2003,Maize,Barley,0.28
+Grenada,2004,Maize,Barley,0.28
+Grenada,2005,Maize,Barley,0.28
+Grenada,2006,Maize,Barley,0.28
+Grenada,2007,Maize,Barley,0.28
+Grenada,2008,Maize,Barley,0.28
+Grenada,2009,Maize,Barley,0.28
+Grenada,2010,Maize,Barley,0.28
+Grenada,2011,Maize,Barley,0.28
+Grenada,2012,Maize,Barley,0.28
+Grenada,2013,Maize,Barley,0.28
+Guam,1990,Maize,Barley,0.28
+Guam,1991,Maize,Barley,0.28
+Guam,1992,Maize,Barley,0.28
+Guam,1993,Maize,Barley,0.28
+Guam,1994,Maize,Barley,0.28
+Guam,1995,Maize,Barley,0.28
+Guam,1996,Maize,Barley,0.28
+Guam,1997,Maize,Barley,0.28
+Guam,1998,Maize,Barley,0.28
+Guam,1999,Maize,Barley,0.28
+Guam,2000,Maize,Barley,0.28
+Guam,2001,Maize,Barley,0.28
+Guam,2002,Maize,Barley,0.28
+Guam,2003,Maize,Barley,0.28
+Guam,2004,Maize,Barley,0.28
+Guam,2005,Maize,Barley,0.28
+Guam,2006,Maize,Barley,0.28
+Guam,2007,Maize,Barley,0.28
+Guam,2008,Maize,Barley,0.28
+Guam,2009,Maize,Barley,0.28
+Guam,2010,Maize,Barley,0.28
+Guam,2011,Maize,Barley,0.28
+Guam,2012,Maize,Barley,0.28
+Guam,2013,Maize,Barley,0.28
+Guatemala,1990,Maize,Barley,0.28
+Guatemala,1991,Wheat,Barley,0.37
+Guatemala,1992,Wheat,Barley,0.37
+Guatemala,1993,Wheat,Barley,0.37
+Guatemala,1994,Wheat,Barley,0.37
+Guatemala,1995,Wheat,Barley,0.37
+Guatemala,1996,Wheat,Barley,0.37
+Guatemala,1997,Wheat,Barley,0.37
+Guatemala,1998,Wheat,Barley,0.37
+Guatemala,1999,Wheat,Barley,0.37
+Guatemala,2000,Wheat,Barley,0.37
+Guatemala,2001,Wheat,Barley,0.37
+Guatemala,2002,Maize,Barley,0.28
+Guatemala,2003,Maize,Barley,0.28
+Guatemala,2004,Maize,Barley,0.28
+Guatemala,2005,Maize,Barley,0.28
+Guatemala,2006,Maize,Barley,0.28
+Guatemala,2007,Maize,Barley,0.28
+Guatemala,2008,Wheat,Barley,0.37
+Guatemala,2009,Wheat,Barley,0.37
+Guatemala,2010,Wheat,Barley,0.37
+Guatemala,2011,Wheat,Barley,0.37
+Guatemala,2012,Wheat,Barley,0.37
+Guatemala,2013,Maize,Barley,0.28
+Guinea,1990,Sorghum,Bean,0.31
+Guinea,1991,Sorghum,Bean,0.31
+Guinea,1992,Sorghum,Bean,0.33
+Guinea,1993,Sorghum,Bean,0.31
+Guinea,1994,Sorghum,Bean,0.33
+Guinea,1995,Sorghum,Bean,0.31
+Guinea,1996,Sorghum,Teff,0.26
+Guinea,1997,Maize,Wheat,0.32
+Guinea,1998,Maize,Wheat,0.34
+Guinea,1999,Maize,Wheat,0.32
+Guinea,2000,Maize,Wheat,0.32
+Guinea,2001,Maize,Wheat,0.34
+Guinea,2002,Maize,Wheat,0.34
+Guinea,2003,Maize,Wheat,0.34
+Guinea,2004,Maize,Wheat,0.34
+Guinea,2005,Maize,Wheat,0.35
+Guinea,2006,Maize,Wheat,0.32
+Guinea,2007,Maize,Wheat,0.32
+Guinea,2008,Maize,Wheat,0.34
+Guinea,2009,Maize,Wheat,0.34
+Guinea,2010,Maize,Wheat,0.35
+Guinea,2011,Maize,Wheat,0.34
+Guinea,2012,Maize,Wheat,0.32
+Guinea,2013,Maize,Wheat,0.32
+Guinea-Bissau,1990,Maize,Barley,0.28
+Guinea-Bissau,1991,Maize,Barley,0.28
+Guinea-Bissau,1992,Maize,Barley,0.28
+Guinea-Bissau,1993,Maize,Barley,0.28
+Guinea-Bissau,1994,Maize,Barley,0.28
+Guinea-Bissau,1995,Maize,Barley,0.28
+Guinea-Bissau,1996,Maize,Barley,0.28
+Guinea-Bissau,1997,Maize,Barley,0.28
+Guinea-Bissau,1998,Maize,Barley,0.28
+Guinea-Bissau,1999,Maize,Barley,0.28
+Guinea-Bissau,2000,Maize,Barley,0.28
+Guinea-Bissau,2001,Maize,Barley,0.28
+Guinea-Bissau,2002,Maize,Barley,0.28
+Guinea-Bissau,2003,Maize,Barley,0.28
+Guinea-Bissau,2004,Maize,Barley,0.28
+Guinea-Bissau,2005,Maize,Barley,0.28
+Guinea-Bissau,2006,Maize,Barley,0.28
+Guinea-Bissau,2007,Maize,Barley,0.28
+Guinea-Bissau,2008,Sorghum,Wheat,0.34
+Guinea-Bissau,2009,Maize,Barley,0.28
+Guinea-Bissau,2010,Sorghum,Wheat,0.34
+Guinea-Bissau,2011,Sorghum,Wheat,0.34
+Guinea-Bissau,2012,Sorghum,Wheat,0.34
+Guinea-Bissau,2013,Sorghum,Wheat,0.34
+Guyana,1990,Maize,Wheat,0.32
+Guyana,1991,Maize,Wheat,0.32
+Guyana,1992,Maize,Wheat,0.32
+Guyana,1993,Maize,Wheat,0.32
+Guyana,1994,Maize,Wheat,0.32
+Guyana,1995,Maize,Wheat,0.34
+Guyana,1996,Maize,Wheat,0.32
+Guyana,1997,Maize,Wheat,0.32
+Guyana,1998,Maize,Wheat,0.35
+Guyana,1999,Maize,Wheat,0.32
+Guyana,2000,Maize,Wheat,0.32
+Guyana,2001,Maize,Wheat,0.32
+Guyana,2002,Maize,Wheat,0.32
+Guyana,2003,Maize,Wheat,0.34
+Guyana,2004,Maize,Wheat,0.34
+Guyana,2005,Maize,Wheat,0.35
+Guyana,2006,Maize,Wheat,0.34
+Guyana,2007,Maize,Wheat,0.32
+Guyana,2008,Maize,Wheat,0.32
+Guyana,2009,Maize,Wheat,0.35
+Guyana,2010,Maize,Wheat,0.35
+Guyana,2011,Maize,Wheat,0.34
+Guyana,2012,Maize,Wheat,0.34
+Guyana,2013,Maize,Wheat,0.32
+Haiti,1990,Sorghum,Bean,0.31
+Haiti,1991,Sorghum,Bean,0.33
+Haiti,1992,Sorghum,Bean,0.33
+Haiti,1993,Maize,Wheat,0.32
+Haiti,1994,Maize,Wheat,0.32
+Haiti,1995,Maize,Wheat,0.32
+Haiti,1996,Maize,Wheat,0.32
+Haiti,1997,Maize,Wheat,0.35
+Haiti,1998,Maize,Wheat,0.34
+Haiti,1999,Maize,Wheat,0.32
+Haiti,2000,Maize,Wheat,0.32
+Haiti,2001,Maize,Wheat,0.32
+Haiti,2002,Sorghum,Teff,0.26
+Haiti,2003,Sorghum,Teff,0.26
+Haiti,2004,Sorghum,Teff,0.26
+Haiti,2005,Sorghum,Teff,0.26
+Haiti,2006,Sorghum,Teff,0.26
+Haiti,2007,Sorghum,Teff,0.26
+Haiti,2008,Sorghum,Bean,0.31
+Haiti,2009,Sorghum,Teff,0.26
+Haiti,2010,Sorghum,Bean,0.31
+Haiti,2011,Sorghum,Bean,0.31
+Haiti,2012,Sorghum,Bean,0.31
+Haiti,2013,Maize,Wheat,0.32
+Honduras,1990,Maize,Wheat,0.37
+Honduras,1991,Maize,Wheat,0.37
+Honduras,1992,Maize,Wheat,0.37
+Honduras,1993,Maize,Wheat,0.37
+Honduras,1994,Maize,Wheat,0.37
+Honduras,1995,Maize,Wheat,0.37
+Honduras,1996,Maize,Wheat,0.37
+Honduras,1997,Maize,Teff,0.28
+Honduras,1998,Sorghum,Wheat,0.32
+Honduras,1999,Maize,Wheat,0.37
+Honduras,2000,Maize,Wheat,0.37
+Honduras,2001,Maize,Wheat,0.37
+Honduras,2002,Maize,Wheat,0.37
+Honduras,2003,Maize,Wheat,0.37
+Honduras,2004,Maize,Wheat,0.37
+Honduras,2005,Maize,Wheat,0.37
+Honduras,2006,Maize,Wheat,0.37
+Honduras,2007,Maize,Wheat,0.37
+Honduras,2008,Maize,Wheat,0.37
+Honduras,2009,Maize,Wheat,0.37
+Honduras,2010,Maize,Wheat,0.37
+Honduras,2011,Maize,Wheat,0.37
+Honduras,2012,Maize,Wheat,0.37
+Honduras,2013,Maize,Wheat,0.37
+Hungary,1990,Wheat,Barley,0.37
+Hungary,1991,Maize,Barley,0.28
+Hungary,1992,Wheat,Barley,0.37
+Hungary,1993,Maize,Barley,0.28
+Hungary,1994,Wheat,Barley,0.37
+Hungary,1995,Maize,Barley,0.28
+Hungary,1996,Maize,Barley,0.28
+Hungary,1997,Maize,Barley,0.28
+Hungary,1998,Maize,Barley,0.28
+Hungary,1999,Maize,Barley,0.28
+Hungary,2000,Maize,Barley,0.28
+Hungary,2001,Maize,Barley,0.28
+Hungary,2002,Maize,Barley,0.28
+Hungary,2003,Maize,Barley,0.28
+Hungary,2004,Maize,Barley,0.28
+Hungary,2005,Maize,Barley,0.28
+Hungary,2006,Maize,Barley,0.28
+Hungary,2007,Maize,Barley,0.28
+Hungary,2008,Maize,Barley,0.28
+Hungary,2009,Maize,Barley,0.28
+Hungary,2010,Maize,Barley,0.28
+Hungary,2011,Maize,Barley,0.28
+Hungary,2012,Maize,Barley,0.28
+Hungary,2013,Maize,Barley,0.28
+India,1990,Wheat,Barley,0.31
+India,1991,Wheat,Barley,0.31
+India,1992,Wheat,Barley,0.31
+India,1993,Wheat,Barley,0.32
+India,1994,Wheat,Barley,0.31
+India,1995,Wheat,Barley,0.31
+India,1996,Wheat,Barley,0.31
+India,1997,Wheat,Barley,0.31
+India,1998,Wheat,Wheat,0.34
+India,1999,Wheat,Wheat,0.34
+India,2000,Wheat,Wheat,0.34
+India,2001,Wheat,Wheat,0.34
+India,2002,Wheat,Wheat,0.35
+India,2003,Wheat,Wheat,0.34
+India,2004,Wheat,Wheat,0.34
+India,2005,Wheat,Barley,0.31
+India,2006,Wheat,Wheat,0.34
+India,2007,Wheat,Wheat,0.34
+India,2008,Wheat,Barley,0.31
+India,2009,Wheat,Wheat,0.35
+India,2010,Wheat,Wheat,0.35
+India,2011,Wheat,Barley,0.31
+India,2012,Wheat,Wheat,0.34
+India,2013,Wheat,Wheat,0.38
+Indonesia,1990,Maize,Wheat,0.32
+Indonesia,1991,Maize,Wheat,0.32
+Indonesia,1992,Maize,Wheat,0.32
+Indonesia,1993,Maize,Wheat,0.32
+Indonesia,1994,Maize,Wheat,0.32
+Indonesia,1995,Maize,Wheat,0.32
+Indonesia,1996,Maize,Wheat,0.32
+Indonesia,1997,Maize,Wheat,0.32
+Indonesia,1998,Maize,Wheat,0.34
+Indonesia,1999,Maize,Wheat,0.32
+Indonesia,2000,Maize,Wheat,0.32
+Indonesia,2001,Maize,Wheat,0.32
+Indonesia,2002,Maize,Wheat,0.32
+Indonesia,2003,Maize,Wheat,0.32
+Indonesia,2004,Maize,Wheat,0.32
+Indonesia,2005,Maize,Wheat,0.32
+Indonesia,2006,Maize,Wheat,0.32
+Indonesia,2007,Maize,Wheat,0.32
+Indonesia,2008,Maize,Wheat,0.32
+Indonesia,2009,Maize,Wheat,0.32
+Indonesia,2010,Maize,Wheat,0.32
+Indonesia,2011,Maize,Wheat,0.32
+Indonesia,2012,Maize,Wheat,0.32
+Indonesia,2013,Maize,Wheat,0.32
+Iran (Islamic Republic of),1990,Maize,Barley,0.28
+Iran (Islamic Republic of),1991,Maize,Barley,0.28
+Iran (Islamic Republic of),1992,Maize,Barley,0.28
+Iran (Islamic Republic of),1993,Maize,Barley,0.28
+Iran (Islamic Republic of),1994,Maize,Barley,0.28
+Iran (Islamic Republic of),1995,Maize,Barley,0.28
+Iran (Islamic Republic of),1996,Maize,Barley,0.28
+Iran (Islamic Republic of),1997,Maize,Barley,0.28
+Iran (Islamic Republic of),1998,Maize,Barley,0.28
+Iran (Islamic Republic of),1999,Maize,Barley,0.28
+Iran (Islamic Republic of),2000,Maize,Barley,0.28
+Iran (Islamic Republic of),2001,Maize,Barley,0.28
+Iran (Islamic Republic of),2002,Maize,Barley,0.28
+Iran (Islamic Republic of),2003,Maize,Barley,0.28
+Iran (Islamic Republic of),2004,Maize,Barley,0.28
+Iran (Islamic Republic of),2005,Maize,Barley,0.28
+Iran (Islamic Republic of),2006,Maize,Barley,0.28
+Iran (Islamic Republic of),2007,Maize,Barley,0.28
+Iran (Islamic Republic of),2008,Maize,Barley,0.28
+Iran (Islamic Republic of),2009,Maize,Barley,0.28
+Iran (Islamic Republic of),2010,Maize,Barley,0.28
+Iran (Islamic Republic of),2011,Maize,Barley,0.28
+Iran (Islamic Republic of),2012,Maize,Barley,0.28
+Iran (Islamic Republic of),2013,Maize,Barley,0.28
+Iraq,1990,Maize,Barley,0.28
+Iraq,1991,Maize,Barley,0.28
+Iraq,1992,Maize,Barley,0.28
+Iraq,1993,Maize,Barley,0.28
+Iraq,1994,Maize,Barley,0.28
+Iraq,1995,Maize,Barley,0.28
+Iraq,1996,Maize,Barley,0.28
+Iraq,1997,Maize,Barley,0.28
+Iraq,1998,Maize,Barley,0.28
+Iraq,1999,Maize,Barley,0.28
+Iraq,2000,Maize,Barley,0.28
+Iraq,2001,Maize,Barley,0.28
+Iraq,2002,Maize,Barley,0.28
+Iraq,2003,Maize,Barley,0.28
+Iraq,2004,Maize,Barley,0.28
+Iraq,2005,Maize,Barley,0.28
+Iraq,2006,Maize,Barley,0.28
+Iraq,2007,Maize,Barley,0.28
+Iraq,2008,Maize,Barley,0.28
+Iraq,2009,Maize,Barley,0.28
+Iraq,2010,Sorghum,Wheat,0.38
+Iraq,2011,Sorghum,Wheat,0.34
+Iraq,2012,Maize,Barley,0.28
+Iraq,2013,Maize,Wheat,0.3
+Ireland,1990,Wheat,Barley,0.37
+Ireland,1991,Wheat,Barley,0.37
+Ireland,1992,Wheat,Barley,0.37
+Ireland,1993,Wheat,Barley,0.37
+Ireland,1994,Wheat,Barley,0.37
+Ireland,1995,Wheat,Barley,0.37
+Ireland,1996,Wheat,Barley,0.37
+Ireland,1997,Wheat,Barley,0.37
+Ireland,1998,Wheat,Barley,0.37
+Ireland,1999,Wheat,Barley,0.37
+Ireland,2000,Wheat,Barley,0.37
+Ireland,2001,Wheat,Barley,0.37
+Ireland,2002,Wheat,Barley,0.37
+Ireland,2003,Wheat,Barley,0.37
+Ireland,2004,Wheat,Barley,0.37
+Ireland,2005,Wheat,Barley,0.37
+Ireland,2006,Wheat,Barley,0.37
+Ireland,2007,Wheat,Barley,0.37
+Ireland,2008,Wheat,Barley,0.37
+Ireland,2009,Wheat,Barley,0.37
+Ireland,2010,Wheat,Barley,0.37
+Ireland,2011,Wheat,Barley,0.37
+Ireland,2012,Wheat,Barley,0.37
+Ireland,2013,Wheat,Barley,0.37
+Israel,1990,Maize,Barley,0.28
+Israel,1991,Maize,Barley,0.28
+Israel,1992,Maize,Barley,0.28
+Israel,1993,Maize,Barley,0.28
+Israel,1994,Maize,Barley,0.28
+Israel,1995,Maize,Barley,0.28
+Israel,1996,Maize,Barley,0.28
+Israel,1997,Maize,Barley,0.28
+Israel,1998,Maize,Barley,0.28
+Israel,1999,Maize,Barley,0.28
+Israel,2000,Maize,Barley,0.28
+Israel,2001,Maize,Barley,0.28
+Israel,2002,Maize,Barley,0.28
+Israel,2003,Maize,Barley,0.28
+Israel,2004,Maize,Barley,0.28
+Israel,2005,Maize,Barley,0.28
+Israel,2006,Maize,Barley,0.28
+Israel,2007,Maize,Barley,0.28
+Israel,2008,Maize,Barley,0.28
+Israel,2009,Maize,Barley,0.28
+Israel,2010,Maize,Barley,0.28
+Israel,2011,Maize,Barley,0.28
+Israel,2012,Maize,Barley,0.28
+Israel,2013,Maize,Barley,0.28
+Italy,1990,Maize,Barley,0.28
+Italy,1991,Maize,Barley,0.28
+Italy,1992,Maize,Barley,0.28
+Italy,1993,Maize,Barley,0.28
+Italy,1994,Maize,Barley,0.28
+Italy,1995,Maize,Barley,0.28
+Italy,1996,Maize,Barley,0.28
+Italy,1997,Maize,Barley,0.28
+Italy,1998,Maize,Barley,0.28
+Italy,1999,Maize,Barley,0.28
+Italy,2000,Maize,Barley,0.28
+Italy,2001,Maize,Barley,0.28
+Italy,2002,Maize,Barley,0.28
+Italy,2003,Maize,Barley,0.28
+Italy,2004,Maize,Barley,0.28
+Italy,2005,Maize,Barley,0.28
+Italy,2006,Maize,Barley,0.28
+Italy,2007,Maize,Barley,0.28
+Italy,2008,Maize,Barley,0.28
+Italy,2009,Maize,Barley,0.28
+Italy,2010,Maize,Barley,0.28
+Italy,2011,Maize,Barley,0.28
+Italy,2012,Maize,Barley,0.28
+Italy,2013,Maize,Barley,0.28
+Jamaica,1990,Maize,Wheat,0.32
+Jamaica,1991,Maize,Wheat,0.32
+Jamaica,1992,Maize,Wheat,0.32
+Jamaica,1993,Maize,Wheat,0.32
+Jamaica,1994,Maize,Wheat,0.34
+Jamaica,1995,Maize,Wheat,0.34
+Jamaica,1996,Maize,Wheat,0.32
+Jamaica,1997,Maize,Wheat,0.35
+Jamaica,1998,Maize,Wheat,0.35
+Jamaica,1999,Maize,Wheat,0.32
+Jamaica,2000,Maize,Wheat,0.32
+Jamaica,2001,Maize,Wheat,0.32
+Jamaica,2002,Maize,Wheat,0.34
+Jamaica,2003,Maize,Wheat,0.34
+Jamaica,2004,Maize,Wheat,0.34
+Jamaica,2005,Maize,Wheat,0.34
+Jamaica,2006,Maize,Wheat,0.34
+Jamaica,2007,Maize,Wheat,0.34
+Jamaica,2008,Maize,Wheat,0.32
+Jamaica,2009,Maize,Wheat,0.34
+Jamaica,2010,Maize,Wheat,0.32
+Jamaica,2011,Maize,Wheat,0.32
+Jamaica,2012,Maize,Wheat,0.34
+Jamaica,2013,Maize,Wheat,0.34
+Japan,1990,Wheat,Barley,0.37
+Japan,1991,Wheat,Barley,0.37
+Japan,1992,Wheat,Barley,0.37
+Japan,1993,Wheat,Barley,0.37
+Japan,1994,Wheat,Barley,0.37
+Japan,1995,Wheat,Barley,0.37
+Japan,1996,Wheat,Barley,0.37
+Japan,1997,Wheat,Barley,0.37
+Japan,1998,Wheat,Barley,0.37
+Japan,1999,Wheat,Barley,0.37
+Japan,2000,Wheat,Barley,0.37
+Japan,2001,Wheat,Barley,0.37
+Japan,2002,Wheat,Barley,0.37
+Japan,2003,Wheat,Barley,0.37
+Japan,2004,Wheat,Barley,0.37
+Japan,2005,Wheat,Barley,0.37
+Japan,2006,Wheat,Barley,0.37
+Japan,2007,Wheat,Barley,0.37
+Japan,2008,Wheat,Barley,0.37
+Japan,2009,Wheat,Barley,0.37
+Japan,2010,Wheat,Barley,0.37
+Japan,2011,Wheat,Barley,0.37
+Japan,2012,Wheat,Barley,0.37
+Japan,2013,Wheat,Barley,0.37
+Jordan,1990,Maize,Barley,0.28
+Jordan,1991,Maize,Barley,0.28
+Jordan,1992,Maize,Barley,0.28
+Jordan,1993,Maize,Barley,0.28
+Jordan,1994,Sorghum,Wheat,0.34
+Jordan,1995,Sorghum,Wheat,0.34
+Jordan,1996,Maize,Barley,0.28
+Jordan,1997,Maize,Barley,0.28
+Jordan,1998,Maize,Barley,0.28
+Jordan,1999,Maize,Barley,0.28
+Jordan,2000,Sorghum,Wheat,0.34
+Jordan,2001,Sorghum,Wheat,0.34
+Jordan,2002,Maize,Barley,0.28
+Jordan,2003,Maize,Barley,0.28
+Jordan,2004,Sorghum,Wheat,0.34
+Jordan,2005,Maize,Barley,0.28
+Jordan,2006,Maize,Barley,0.28
+Jordan,2007,Maize,Barley,0.28
+Jordan,2008,Maize,Barley,0.28
+Jordan,2009,Maize,Barley,0.28
+Jordan,2010,Maize,Barley,0.28
+Jordan,2011,Sorghum,Wheat,0.34
+Jordan,2012,Sorghum,Wheat,0.34
+Jordan,2013,Maize,Barley,0.28
+Kazakhstan,1992,Maize,Barley,0.28
+Kazakhstan,1993,Maize,Barley,0.28
+Kazakhstan,1994,Maize,Barley,0.28
+Kazakhstan,1995,Maize,Barley,0.28
+Kazakhstan,1996,Maize,Barley,0.28
+Kazakhstan,1997,Maize,Barley,0.28
+Kazakhstan,1998,Maize,Barley,0.28
+Kazakhstan,1999,Sorghum,Wheat,0.34
+Kazakhstan,2000,Sorghum,Wheat,0.34
+Kazakhstan,2001,Maize,Barley,0.28
+Kazakhstan,2002,Maize,Barley,0.28
+Kazakhstan,2003,Maize,Barley,0.28
+Kazakhstan,2004,Maize,Barley,0.28
+Kazakhstan,2005,Maize,Barley,0.28
+Kazakhstan,2006,Maize,Barley,0.28
+Kazakhstan,2007,Maize,Barley,0.28
+Kazakhstan,2008,Maize,Barley,0.28
+Kazakhstan,2009,Maize,Barley,0.28
+Kazakhstan,2010,Maize,Barley,0.28
+Kazakhstan,2011,Maize,Barley,0.28
+Kazakhstan,2012,Maize,Barley,0.28
+Kazakhstan,2013,Maize,Barley,0.28
+Kenya,1990,Maize,Barley,0.28
+Kenya,1991,Wheat,Barley,0.37
+Kenya,1992,Wheat,Barley,0.37
+Kenya,1993,Maize,Barley,0.28
+Kenya,1994,Wheat,Barley,0.37
+Kenya,1995,Wheat,Barley,0.37
+Kenya,1996,Wheat,Barley,0.37
+Kenya,1997,Wheat,Barley,0.37
+Kenya,1998,Wheat,Barley,0.37
+Kenya,1999,Wheat,Barley,0.37
+Kenya,2000,Wheat,Barley,0.37
+Kenya,2001,Wheat,Barley,0.37
+Kenya,2002,Wheat,Barley,0.37
+Kenya,2003,Wheat,Barley,0.37
+Kenya,2004,Wheat,Barley,0.37
+Kenya,2005,Wheat,Barley,0.37
+Kenya,2006,Wheat,Barley,0.37
+Kenya,2007,Wheat,Barley,0.37
+Kenya,2008,Wheat,Barley,0.37
+Kenya,2009,Wheat,Barley,0.37
+Kenya,2010,Wheat,Barley,0.37
+Kenya,2011,Wheat,Barley,0.37
+Kenya,2012,Wheat,Barley,0.37
+Kenya,2013,Wheat,Barley,0.37
+Kuwait,1990,Maize,Barley,0.28
+Kuwait,1991,Maize,Barley,0.28
+Kuwait,1992,Maize,Barley,0.28
+Kuwait,1993,Maize,Barley,0.28
+Kuwait,1994,Maize,Barley,0.28
+Kuwait,1995,Maize,Barley,0.28
+Kuwait,1996,Maize,Barley,0.28
+Kuwait,1997,Maize,Barley,0.28
+Kuwait,1998,Maize,Barley,0.28
+Kuwait,1999,Maize,Barley,0.28
+Kuwait,2000,Maize,Barley,0.28
+Kuwait,2001,Maize,Barley,0.28
+Kuwait,2002,Maize,Barley,0.28
+Kuwait,2003,Maize,Barley,0.28
+Kuwait,2004,Maize,Barley,0.28
+Kuwait,2005,Maize,Barley,0.28
+Kuwait,2006,Maize,Barley,0.28
+Kuwait,2007,Maize,Barley,0.28
+Kuwait,2008,Maize,Barley,0.28
+Kuwait,2009,Maize,Barley,0.28
+Kuwait,2010,Maize,Barley,0.28
+Kuwait,2011,Maize,Barley,0.28
+Kuwait,2012,Maize,Barley,0.28
+Kuwait,2013,Maize,Barley,0.28
+Kyrgyzstan,1992,Maize,Barley,0.28
+Kyrgyzstan,1993,Maize,Barley,0.28
+Kyrgyzstan,1994,Maize,Barley,0.28
+Kyrgyzstan,1995,Maize,Barley,0.28
+Kyrgyzstan,1996,Maize,Barley,0.28
+Kyrgyzstan,1997,Maize,Barley,0.28
+Kyrgyzstan,1998,Maize,Barley,0.28
+Kyrgyzstan,1999,Maize,Barley,0.28
+Kyrgyzstan,2000,Maize,Barley,0.28
+Kyrgyzstan,2001,Maize,Barley,0.28
+Kyrgyzstan,2002,Maize,Barley,0.28
+Kyrgyzstan,2003,Maize,Barley,0.28
+Kyrgyzstan,2004,Maize,Barley,0.28
+Kyrgyzstan,2005,Maize,Barley,0.28
+Kyrgyzstan,2006,Maize,Barley,0.28
+Kyrgyzstan,2007,Maize,Barley,0.28
+Kyrgyzstan,2008,Maize,Barley,0.28
+Kyrgyzstan,2009,Maize,Barley,0.28
+Kyrgyzstan,2010,Maize,Barley,0.28
+Kyrgyzstan,2011,Maize,Barley,0.28
+Kyrgyzstan,2012,Maize,Barley,0.28
+Kyrgyzstan,2013,Maize,Barley,0.28
+Lao People's Democratic Republic,1990,Maize,Barley,0.28
+Lao People's Democratic Republic,1991,Maize,Barley,0.28
+Lao People's Democratic Republic,1992,Maize,Barley,0.28
+Lao People's Democratic Republic,1993,Maize,Barley,0.28
+Lao People's Democratic Republic,1994,Maize,Barley,0.28
+Lao People's Democratic Republic,1995,Maize,Barley,0.28
+Lao People's Democratic Republic,1996,Maize,Barley,0.28
+Lao People's Democratic Republic,1997,Maize,Barley,0.28
+Lao People's Democratic Republic,1998,Maize,Barley,0.28
+Lao People's Democratic Republic,1999,Maize,Barley,0.28
+Lao People's Democratic Republic,2000,Maize,Barley,0.28
+Lao People's Democratic Republic,2001,Maize,Barley,0.28
+Lao People's Democratic Republic,2002,Maize,Barley,0.28
+Lao People's Democratic Republic,2003,Maize,Barley,0.28
+Lao People's Democratic Republic,2004,Maize,Barley,0.28
+Lao People's Democratic Republic,2005,Maize,Barley,0.28
+Lao People's Democratic Republic,2006,Maize,Barley,0.28
+Lao People's Democratic Republic,2007,Maize,Barley,0.28
+Lao People's Democratic Republic,2008,Maize,Barley,0.28
+Lao People's Democratic Republic,2009,Maize,Barley,0.28
+Lao People's Democratic Republic,2010,Maize,Barley,0.28
+Lao People's Democratic Republic,2011,Maize,Barley,0.28
+Lao People's Democratic Republic,2012,Maize,Barley,0.28
+Lao People's Democratic Republic,2013,Maize,Barley,0.28
+Latvia,1992,Wheat,Barley,0.37
+Latvia,1993,Wheat,Barley,0.37
+Latvia,1994,Wheat,Barley,0.37
+Latvia,1995,Wheat,Barley,0.37
+Latvia,1996,Wheat,Barley,0.37
+Latvia,1997,Wheat,Barley,0.37
+Latvia,1998,Wheat,Barley,0.37
+Latvia,1999,Wheat,Barley,0.37
+Latvia,2000,Wheat,Barley,0.37
+Latvia,2001,Wheat,Barley,0.37
+Latvia,2002,Wheat,Barley,0.37
+Latvia,2003,Wheat,Barley,0.37
+Latvia,2004,Wheat,Barley,0.37
+Latvia,2005,Wheat,Barley,0.37
+Latvia,2006,Wheat,Barley,0.37
+Latvia,2007,Wheat,Barley,0.37
+Latvia,2008,Wheat,Barley,0.37
+Latvia,2009,Wheat,Barley,0.37
+Latvia,2010,Wheat,Barley,0.37
+Latvia,2011,Wheat,Barley,0.37
+Latvia,2012,Wheat,Barley,0.37
+Latvia,2013,Wheat,Barley,0.37
+Lebanon,1990,Wheat,Barley,0.37
+Lebanon,1991,Wheat,Barley,0.37
+Lebanon,1992,Wheat,Barley,0.37
+Lebanon,1993,Wheat,Barley,0.37
+Lebanon,1994,Wheat,Barley,0.37
+Lebanon,1995,Wheat,Barley,0.37
+Lebanon,1996,Wheat,Barley,0.37
+Lebanon,1997,Maize,Barley,0.28
+Lebanon,1998,Maize,Barley,0.28
+Lebanon,1999,Maize,Barley,0.28
+Lebanon,2000,Maize,Barley,0.28
+Lebanon,2001,Maize,Barley,0.28
+Lebanon,2002,Maize,Barley,0.28
+Lebanon,2003,Maize,Barley,0.28
+Lebanon,2004,Maize,Barley,0.28
+Lebanon,2005,Maize,Barley,0.28
+Lebanon,2006,Maize,Barley,0.28
+Lebanon,2007,Maize,Barley,0.28
+Lebanon,2008,Maize,Barley,0.28
+Lebanon,2009,Maize,Barley,0.28
+Lebanon,2010,Maize,Barley,0.28
+Lebanon,2011,Maize,Barley,0.28
+Lebanon,2012,Maize,Barley,0.28
+Lebanon,2013,Maize,Barley,0.28
+Lesotho,1990,Maize,Barley,0.28
+Lesotho,1991,Maize,Barley,0.28
+Lesotho,1992,Wheat,Barley,0.37
+Lesotho,1993,Sorghum,Wheat,0.34
+Lesotho,1994,Sorghum,Wheat,0.34
+Lesotho,1995,Maize,Barley,0.28
+Lesotho,1996,Wheat,Barley,0.37
+Lesotho,1997,Wheat,Barley,0.37
+Lesotho,1998,Wheat,Barley,0.37
+Lesotho,1999,Sorghum,Wheat,0.34
+Lesotho,2000,Sorghum,Wheat,0.34
+Lesotho,2001,Wheat,Barley,0.37
+Lesotho,2002,Maize,Barley,0.28
+Lesotho,2003,Maize,Barley,0.28
+Lesotho,2004,Wheat,Barley,0.37
+Lesotho,2005,Wheat,Barley,0.37
+Lesotho,2006,Maize,Barley,0.28
+Lesotho,2007,Maize,Barley,0.28
+Lesotho,2008,Maize,Barley,0.28
+Lesotho,2009,Sorghum,Wheat,0.34
+Lesotho,2010,Wheat,Barley,0.37
+Lesotho,2011,Wheat,Barley,0.37
+Lesotho,2012,Wheat,Barley,0.37
+Lesotho,2013,Wheat,Barley,0.37
+Libya,1990,Wheat,Barley,0.37
+Libya,1991,Maize,Barley,0.28
+Libya,1992,Maize,Barley,0.28
+Libya,1993,Maize,Barley,0.28
+Libya,1994,Maize,Barley,0.28
+Libya,1995,Maize,Barley,0.28
+Libya,1996,Maize,Barley,0.28
+Libya,1997,Maize,Barley,0.28
+Libya,1998,Maize,Barley,0.28
+Libya,1999,Maize,Barley,0.28
+Libya,2000,Maize,Barley,0.28
+Libya,2001,Maize,Barley,0.28
+Libya,2002,Maize,Barley,0.28
+Libya,2003,Maize,Barley,0.28
+Libya,2004,Maize,Barley,0.28
+Libya,2005,Maize,Barley,0.28
+Libya,2006,Maize,Barley,0.28
+Libya,2007,Maize,Barley,0.28
+Libya,2008,Maize,Barley,0.28
+Libya,2009,Maize,Barley,0.28
+Libya,2010,Maize,Barley,0.28
+Libya,2011,Maize,Barley,0.28
+Libya,2012,Maize,Barley,0.28
+Libya,2013,Maize,Barley,0.28
+Lithuania,1992,Wheat,Barley,0.37
+Lithuania,1993,Wheat,Barley,0.37
+Lithuania,1994,Wheat,Barley,0.37
+Lithuania,1995,Wheat,Barley,0.37
+Lithuania,1996,Wheat,Barley,0.37
+Lithuania,1997,Wheat,Barley,0.37
+Lithuania,1998,Wheat,Barley,0.37
+Lithuania,1999,Wheat,Barley,0.37
+Lithuania,2000,Wheat,Barley,0.37
+Lithuania,2001,Wheat,Barley,0.37
+Lithuania,2002,Wheat,Barley,0.37
+Lithuania,2003,Wheat,Barley,0.37
+Lithuania,2004,Wheat,Barley,0.37
+Lithuania,2005,Wheat,Barley,0.37
+Lithuania,2006,Wheat,Barley,0.37
+Lithuania,2007,Maize,Barley,0.28
+Lithuania,2008,Wheat,Barley,0.37
+Lithuania,2009,Maize,Barley,0.28
+Lithuania,2010,Maize,Barley,0.28
+Lithuania,2011,Maize,Barley,0.28
+Lithuania,2012,Maize,Barley,0.28
+Lithuania,2013,Maize,Barley,0.28
+Luxembourg,2000,Maize,Barley,0.28
+Luxembourg,2001,Maize,Barley,0.28
+Luxembourg,2002,Maize,Barley,0.28
+Luxembourg,2003,Wheat,Barley,0.37
+Luxembourg,2004,Maize,Barley,0.28
+Luxembourg,2005,Maize,Barley,0.28
+Luxembourg,2006,Maize,Barley,0.28
+Luxembourg,2007,Maize,Barley,0.28
+Luxembourg,2008,Wheat,Barley,0.37
+Luxembourg,2009,Wheat,Barley,0.37
+Luxembourg,2010,Maize,Barley,0.28
+Luxembourg,2011,Maize,Barley,0.28
+Luxembourg,2012,Maize,Barley,0.28
+Luxembourg,2013,Maize,Barley,0.28
+Madagascar,1990,Wheat,Barley,0.37
+Madagascar,1991,Wheat,Barley,0.37
+Madagascar,1992,Wheat,Barley,0.37
+Madagascar,1993,Wheat,Barley,0.37
+Madagascar,1994,Wheat,Barley,0.37
+Madagascar,1995,Wheat,Barley,0.37
+Madagascar,1996,Wheat,Barley,0.37
+Madagascar,1997,Wheat,Barley,0.37
+Madagascar,1998,Wheat,Barley,0.37
+Madagascar,1999,Wheat,Barley,0.37
+Madagascar,2000,Wheat,Barley,0.37
+Madagascar,2001,Wheat,Barley,0.37
+Madagascar,2002,Wheat,Barley,0.37
+Madagascar,2003,Wheat,Barley,0.37
+Madagascar,2004,Wheat,Barley,0.37
+Madagascar,2005,Wheat,Barley,0.37
+Madagascar,2006,Wheat,Barley,0.37
+Madagascar,2007,Wheat,Barley,0.37
+Madagascar,2008,Wheat,Barley,0.37
+Madagascar,2009,Wheat,Barley,0.37
+Madagascar,2010,Wheat,Barley,0.37
+Madagascar,2011,Wheat,Barley,0.37
+Madagascar,2012,Wheat,Barley,0.37
+Madagascar,2013,Wheat,Barley,0.37
+Malawi,1990,Maize,Barley,0.28
+Malawi,1991,Maize,Barley,0.28
+Malawi,1992,Maize,Barley,0.28
+Malawi,1993,Maize,Barley,0.28
+Malawi,1994,Maize,Barley,0.28
+Malawi,1995,Maize,Barley,0.28
+Malawi,1996,Maize,Barley,0.28
+Malawi,1997,Maize,Barley,0.28
+Malawi,1998,Maize,Barley,0.28
+Malawi,1999,Maize,Barley,0.28
+Malawi,2000,Maize,Barley,0.28
+Malawi,2001,Maize,Barley,0.28
+Malawi,2002,Maize,Barley,0.28
+Malawi,2003,Maize,Barley,0.28
+Malawi,2004,Maize,Barley,0.28
+Malawi,2005,Wheat,Barley,0.37
+Malawi,2006,Maize,Barley,0.28
+Malawi,2007,Maize,Barley,0.28
+Malawi,2008,Maize,Barley,0.28
+Malawi,2009,Maize,Barley,0.28
+Malawi,2010,Maize,Barley,0.28
+Malawi,2011,Maize,Barley,0.28
+Malawi,2012,Maize,Barley,0.28
+Malawi,2013,Maize,Barley,0.28
+Malaysia,1990,Maize,Wheat,0.32
+Malaysia,1991,Maize,Wheat,0.32
+Malaysia,1992,Maize,Wheat,0.32
+Malaysia,1993,Maize,Wheat,0.32
+Malaysia,1994,Maize,Wheat,0.32
+Malaysia,1995,Maize,Wheat,0.32
+Malaysia,1996,Maize,Wheat,0.32
+Malaysia,1997,Maize,Wheat,0.32
+Malaysia,1998,Maize,Wheat,0.35
+Malaysia,1999,Maize,Wheat,0.32
+Malaysia,2000,Maize,Wheat,0.32
+Malaysia,2001,Maize,Wheat,0.32
+Malaysia,2002,Maize,Wheat,0.34
+Malaysia,2003,Maize,Wheat,0.34
+Malaysia,2004,Maize,Wheat,0.34
+Malaysia,2005,Maize,Wheat,0.34
+Malaysia,2006,Maize,Wheat,0.32
+Malaysia,2007,Maize,Wheat,0.32
+Malaysia,2008,Maize,Wheat,0.32
+Malaysia,2009,Maize,Wheat,0.34
+Malaysia,2010,Maize,Wheat,0.35
+Malaysia,2011,Maize,Wheat,0.32
+Malaysia,2012,Maize,Wheat,0.34
+Malaysia,2013,Maize,Wheat,0.35
+Maldives,1990,Maize,Barley,0.28
+Maldives,1991,Maize,Barley,0.28
+Maldives,1992,Maize,Barley,0.28
+Maldives,1993,Maize,Barley,0.28
+Maldives,1994,Maize,Barley,0.28
+Maldives,1995,Maize,Barley,0.28
+Maldives,1997,Maize,Barley,0.28
+Maldives,1998,Maize,Barley,0.28
+Maldives,1999,Maize,Barley,0.28
+Maldives,2000,Maize,Barley,0.28
+Maldives,2001,Maize,Barley,0.28
+Maldives,2002,Maize,Barley,0.28
+Maldives,2003,Maize,Barley,0.28
+Maldives,2004,Maize,Barley,0.28
+Maldives,2005,Maize,Barley,0.28
+Maldives,2006,Maize,Barley,0.28
+Maldives,2007,Maize,Barley,0.28
+Maldives,2008,Maize,Barley,0.28
+Maldives,2009,Maize,Barley,0.28
+Maldives,2010,Maize,Barley,0.28
+Maldives,2011,Maize,Barley,0.28
+Maldives,2012,Maize,Barley,0.28
+Maldives,2013,Maize,Barley,0.28
+Mali,1990,Wheat,Wheat,0.41
+Mali,1991,Wheat,Wheat,0.41
+Mali,1992,Wheat,Wheat,0.38
+Mali,1993,Wheat,Wheat,0.41
+Mali,1994,Wheat,Wheat,0.38
+Mali,1995,Wheat,Wheat,0.38
+Mali,1996,Wheat,Wheat,0.41
+Mali,1997,Maize,Wheat,0.34
+Mali,1998,Wheat,Wheat,0.43
+Mali,1999,Wheat,Wheat,0.38
+Mali,2000,Wheat,Wheat,0.41
+Mali,2001,Wheat,Wheat,0.41
+Mali,2002,Wheat,Wheat,0.43
+Mali,2003,Wheat,Wheat,0.42
+Mali,2004,Wheat,Wheat,0.43
+Mali,2005,Wheat,Wheat,0.43
+Mali,2006,Wheat,Wheat,0.41
+Mali,2007,Wheat,Wheat,0.42
+Mali,2008,Wheat,Wheat,0.41
+Mali,2009,Maize,Wheat,0.35
+Mali,2010,Maize,Wheat,0.34
+Mali,2011,Wheat,Wheat,0.41
+Mali,2012,Wheat,Wheat,0.41
+Mali,2013,Wheat,Wheat,0.43
+Malta,1990,Wheat,Barley,0.37
+Malta,1991,Wheat,Barley,0.37
+Malta,1992,Wheat,Barley,0.37
+Malta,1993,Wheat,Barley,0.37
+Malta,1994,Wheat,Barley,0.37
+Malta,1995,Wheat,Barley,0.37
+Malta,1996,Wheat,Barley,0.37
+Malta,1997,Wheat,Barley,0.37
+Malta,1998,Wheat,Barley,0.37
+Malta,1999,Wheat,Barley,0.37
+Malta,2000,Wheat,Barley,0.37
+Malta,2001,Wheat,Barley,0.37
+Malta,2002,Wheat,Barley,0.37
+Malta,2003,Wheat,Barley,0.37
+Malta,2004,Wheat,Barley,0.37
+Malta,2005,Wheat,Barley,0.37
+Malta,2006,Wheat,Barley,0.37
+Malta,2007,Wheat,Barley,0.37
+Malta,2008,Wheat,Barley,0.37
+Malta,2009,Wheat,Barley,0.37
+Malta,2010,Wheat,Barley,0.37
+Malta,2011,Wheat,Barley,0.37
+Malta,2012,Wheat,Barley,0.37
+Malta,2013,Wheat,Barley,0.37
+Mauritania,1990,Wheat,Wheat,0.41
+Mauritania,1991,Wheat,Wheat,0.41
+Mauritania,1992,Wheat,Wheat,0.41
+Mauritania,1993,Maize,Wheat,0.34
+Mauritania,1994,Wheat,Wheat,0.38
+Mauritania,1995,Wheat,Wheat,0.41
+Mauritania,1996,Wheat,Wheat,0.42
+Mauritania,1997,Wheat,Wheat,0.43
+Mauritania,1998,Wheat,Wheat,0.43
+Mauritania,1999,Wheat,Wheat,0.38
+Mauritania,2000,Wheat,Wheat,0.41
+Mauritania,2001,Wheat,Wheat,0.43
+Mauritania,2002,Wheat,Wheat,0.41
+Mauritania,2003,Wheat,Wheat,0.41
+Mauritania,2004,Wheat,Wheat,0.41
+Mauritania,2005,Wheat,Wheat,0.43
+Mauritania,2006,Wheat,Wheat,0.41
+Mauritania,2007,Wheat,Wheat,0.41
+Mauritania,2008,Wheat,Wheat,0.43
+Mauritania,2009,Wheat,Wheat,0.41
+Mauritania,2010,Wheat,Wheat,0.43
+Mauritania,2011,Wheat,Wheat,0.41
+Mauritania,2012,Wheat,Wheat,0.41
+Mauritania,2013,Wheat,Wheat,0.43
+Mauritius,1990,Maize,Wheat,0.34
+Mauritius,1991,Maize,Wheat,0.37
+Mauritius,1992,Maize,Wheat,0.34
+Mauritius,1993,Maize,Wheat,0.34
+Mauritius,1994,Maize,Wheat,0.37
+Mauritius,1995,Maize,Wheat,0.37
+Mauritius,1996,Maize,Wheat,0.34
+Mauritius,1997,Maize,Wheat,0.37
+Mauritius,1998,Maize,Wheat,0.37
+Mauritius,1999,Maize,Wheat,0.37
+Mauritius,2000,Maize,Wheat,0.34
+Mauritius,2001,Maize,Wheat,0.37
+Mauritius,2002,Maize,Wheat,0.37
+Mauritius,2003,Maize,Wheat,0.37
+Mauritius,2004,Maize,Wheat,0.37
+Mauritius,2005,Maize,Wheat,0.37
+Mauritius,2006,Maize,Wheat,0.37
+Mauritius,2007,Maize,Wheat,0.37
+Mauritius,2008,Maize,Wheat,0.37
+Mauritius,2009,Maize,Wheat,0.37
+Mauritius,2010,Maize,Wheat,0.37
+Mauritius,2011,Maize,Wheat,0.37
+Mauritius,2012,Maize,Wheat,0.37
+Mauritius,2013,Maize,Wheat,0.37
+Mexico,1990,Wheat,Barley,0.37
+Mexico,1991,Wheat,Barley,0.37
+Mexico,1992,Wheat,Barley,0.37
+Mexico,1993,Wheat,Barley,0.37
+Mexico,1994,Wheat,Barley,0.37
+Mexico,1995,Wheat,Barley,0.37
+Mexico,1996,Wheat,Barley,0.37
+Mexico,1997,Wheat,Barley,0.37
+Mexico,1998,Wheat,Barley,0.37
+Mexico,1999,Wheat,Barley,0.37
+Mexico,2000,Wheat,Barley,0.37
+Mexico,2001,Wheat,Barley,0.37
+Mexico,2002,Wheat,Barley,0.37
+Mexico,2003,Wheat,Barley,0.37
+Mexico,2004,Wheat,Barley,0.37
+Mexico,2005,Wheat,Barley,0.37
+Mexico,2006,Wheat,Barley,0.37
+Mexico,2007,Wheat,Barley,0.37
+Mexico,2008,Wheat,Barley,0.37
+Mexico,2009,Wheat,Barley,0.37
+Mexico,2010,Wheat,Barley,0.37
+Mexico,2011,Wheat,Barley,0.37
+Mexico,2012,Wheat,Barley,0.37
+Mexico,2013,Wheat,Barley,0.37
+Micronesia (Federated States of),1991,Maize,Barley,0.28
+Micronesia (Federated States of),1992,Maize,Barley,0.28
+Micronesia (Federated States of),1993,Maize,Barley,0.28
+Micronesia (Federated States of),1994,Maize,Barley,0.28
+Micronesia (Federated States of),1995,Sorghum,Wheat,0.34
+Micronesia (Federated States of),1996,Sorghum,Wheat,0.34
+Micronesia (Federated States of),1997,Sorghum,Wheat,0.34
+Micronesia (Federated States of),1998,Sorghum,Wheat,0.34
+Micronesia (Federated States of),1999,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2000,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2001,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2002,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2003,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2004,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2005,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2006,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2007,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2008,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2009,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2010,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2011,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2012,Sorghum,Wheat,0.34
+Micronesia (Federated States of),2013,Sorghum,Wheat,0.34
+Mongolia,1990,Wheat,Barley,0.37
+Mongolia,1991,Wheat,Barley,0.37
+Mongolia,1992,Wheat,Barley,0.37
+Mongolia,1993,Wheat,Barley,0.37
+Mongolia,1994,Wheat,Barley,0.37
+Mongolia,1995,Wheat,Barley,0.37
+Mongolia,1996,Wheat,Barley,0.37
+Mongolia,1997,Wheat,Barley,0.37
+Mongolia,1998,Wheat,Barley,0.37
+Mongolia,1999,Wheat,Barley,0.37
+Mongolia,2000,Wheat,Barley,0.37
+Mongolia,2001,Wheat,Barley,0.37
+Mongolia,2002,Wheat,Barley,0.37
+Mongolia,2003,Wheat,Barley,0.37
+Mongolia,2004,Wheat,Barley,0.37
+Mongolia,2005,Wheat,Barley,0.37
+Mongolia,2006,Wheat,Barley,0.37
+Mongolia,2007,Wheat,Barley,0.37
+Mongolia,2008,Wheat,Barley,0.37
+Mongolia,2009,Wheat,Barley,0.37
+Mongolia,2010,Wheat,Barley,0.37
+Mongolia,2011,Wheat,Barley,0.37
+Mongolia,2012,Wheat,Barley,0.37
+Mongolia,2013,Wheat,Barley,0.37
+Montenegro,2006,Maize,Barley,0.28
+Montenegro,2007,Maize,Barley,0.28
+Montenegro,2008,Maize,Barley,0.28
+Montenegro,2009,Maize,Barley,0.28
+Montenegro,2010,Maize,Barley,0.28
+Montenegro,2011,Maize,Barley,0.28
+Montenegro,2012,Maize,Barley,0.28
+Montenegro,2013,Maize,Barley,0.28
+Montserrat,1990,Maize,Barley,0.28
+Montserrat,1991,Maize,Barley,0.28
+Montserrat,1992,Maize,Barley,0.28
+Montserrat,1993,Maize,Barley,0.28
+Montserrat,1994,Maize,Barley,0.28
+Montserrat,1995,Maize,Barley,0.28
+Montserrat,1996,Maize,Barley,0.28
+Montserrat,1997,Maize,Barley,0.28
+Montserrat,1998,Maize,Barley,0.28
+Montserrat,1999,Maize,Barley,0.28
+Montserrat,2000,Maize,Barley,0.28
+Montserrat,2001,Maize,Barley,0.28
+Montserrat,2002,Maize,Barley,0.28
+Montserrat,2003,Maize,Barley,0.28
+Montserrat,2004,Maize,Barley,0.28
+Montserrat,2005,Maize,Barley,0.28
+Montserrat,2006,Maize,Barley,0.28
+Montserrat,2007,Maize,Barley,0.28
+Montserrat,2008,Maize,Barley,0.28
+Montserrat,2009,Maize,Barley,0.28
+Montserrat,2010,Maize,Barley,0.28
+Montserrat,2011,Maize,Barley,0.28
+Montserrat,2012,Maize,Barley,0.28
+Montserrat,2013,Maize,Barley,0.28
+Morocco,1990,Wheat,Barley,0.37
+Morocco,1991,Wheat,Barley,0.37
+Morocco,1992,Wheat,Barley,0.37
+Morocco,1993,Sorghum,Wheat,0.34
+Morocco,1994,Wheat,Barley,0.37
+Morocco,1995,Wheat,Barley,0.37
+Morocco,1996,Wheat,Barley,0.37
+Morocco,1997,Maize,Barley,0.28
+Morocco,1998,Wheat,Barley,0.37
+Morocco,1999,Wheat,Barley,0.37
+Morocco,2000,Sorghum,Wheat,0.34
+Morocco,2001,Wheat,Barley,0.37
+Morocco,2002,Wheat,Barley,0.37
+Morocco,2003,Wheat,Barley,0.37
+Morocco,2004,Wheat,Barley,0.37
+Morocco,2005,Wheat,Barley,0.37
+Morocco,2006,Wheat,Barley,0.37
+Morocco,2007,Sorghum,Wheat,0.34
+Morocco,2008,Wheat,Barley,0.37
+Morocco,2009,Wheat,Barley,0.37
+Morocco,2010,Wheat,Barley,0.37
+Morocco,2011,Wheat,Barley,0.37
+Morocco,2012,Wheat,Barley,0.37
+Morocco,2013,Wheat,Barley,0.37
+Mozambique,1990,Wheat,Barley,0.37
+Mozambique,1991,Wheat,Barley,0.37
+Mozambique,1992,Wheat,Barley,0.37
+Mozambique,1993,Wheat,Barley,0.37
+Mozambique,1994,Wheat,Barley,0.37
+Mozambique,1995,Wheat,Barley,0.37
+Mozambique,1996,Wheat,Barley,0.37
+Mozambique,1997,Wheat,Barley,0.37
+Mozambique,1998,Wheat,Barley,0.37
+Mozambique,1999,Maize,Barley,0.28
+Mozambique,2000,Wheat,Barley,0.37
+Mozambique,2001,Wheat,Barley,0.37
+Mozambique,2002,Wheat,Barley,0.37
+Mozambique,2003,Wheat,Barley,0.37
+Mozambique,2004,Wheat,Barley,0.37
+Mozambique,2005,Wheat,Barley,0.37
+Mozambique,2006,Wheat,Barley,0.37
+Mozambique,2007,Wheat,Barley,0.37
+Mozambique,2008,Wheat,Barley,0.37
+Mozambique,2009,Wheat,Barley,0.37
+Mozambique,2010,Wheat,Barley,0.37
+Mozambique,2011,Wheat,Barley,0.37
+Mozambique,2012,Maize,Barley,0.28
+Mozambique,2013,Wheat,Barley,0.37
+Myanmar,1990,Maize,Barley,0.28
+Myanmar,1991,Maize,Barley,0.28
+Myanmar,1992,Maize,Barley,0.28
+Myanmar,1993,Maize,Barley,0.28
+Myanmar,1994,Maize,Barley,0.28
+Myanmar,1995,Maize,Barley,0.28
+Myanmar,1996,Maize,Barley,0.28
+Myanmar,1997,Maize,Barley,0.28
+Myanmar,1998,Maize,Barley,0.28
+Myanmar,1999,Maize,Barley,0.28
+Myanmar,2000,Maize,Barley,0.28
+Myanmar,2001,Maize,Barley,0.28
+Myanmar,2002,Maize,Barley,0.28
+Myanmar,2003,Maize,Barley,0.28
+Myanmar,2004,Maize,Barley,0.28
+Myanmar,2005,Maize,Barley,0.28
+Myanmar,2006,Maize,Barley,0.28
+Myanmar,2007,Maize,Barley,0.28
+Myanmar,2008,Maize,Barley,0.28
+Myanmar,2009,Maize,Barley,0.28
+Myanmar,2010,Maize,Barley,0.28
+Myanmar,2011,Maize,Barley,0.28
+Myanmar,2012,Maize,Barley,0.28
+Myanmar,2013,Maize,Barley,0.28
+Namibia,1990,Wheat,Barley,0.37
+Namibia,1991,Wheat,Barley,0.37
+Namibia,1992,Wheat,Barley,0.37
+Namibia,1993,Wheat,Barley,0.37
+Namibia,1994,Wheat,Barley,0.37
+Namibia,1995,Wheat,Barley,0.37
+Namibia,1996,Wheat,Barley,0.37
+Namibia,1997,Wheat,Barley,0.37
+Namibia,1998,Wheat,Barley,0.37
+Namibia,1999,Wheat,Barley,0.37
+Namibia,2000,Wheat,Barley,0.37
+Namibia,2001,Wheat,Barley,0.37
+Namibia,2002,Wheat,Barley,0.37
+Namibia,2003,Wheat,Barley,0.37
+Namibia,2004,Wheat,Barley,0.37
+Namibia,2005,Wheat,Barley,0.37
+Namibia,2006,Wheat,Barley,0.37
+Namibia,2007,Wheat,Barley,0.37
+Namibia,2008,Wheat,Barley,0.37
+Namibia,2009,Wheat,Barley,0.37
+Namibia,2010,Wheat,Barley,0.37
+Namibia,2011,Wheat,Barley,0.37
+Namibia,2012,Wheat,Barley,0.37
+Namibia,2013,Wheat,Barley,0.37
+Nepal,1990,Maize,Barley,0.28
+Nepal,1991,Maize,Barley,0.28
+Nepal,1992,Maize,Barley,0.28
+Nepal,1993,Maize,Barley,0.28
+Nepal,1994,Maize,Barley,0.28
+Nepal,1995,Maize,Barley,0.28
+Nepal,1996,Maize,Barley,0.28
+Nepal,1997,Maize,Barley,0.28
+Nepal,1998,Maize,Barley,0.28
+Nepal,1999,Wheat,Barley,0.37
+Nepal,2000,Wheat,Barley,0.37
+Nepal,2001,Wheat,Barley,0.37
+Nepal,2002,Wheat,Barley,0.37
+Nepal,2003,Wheat,Barley,0.37
+Nepal,2004,Wheat,Barley,0.37
+Nepal,2005,Wheat,Barley,0.37
+Nepal,2006,Wheat,Barley,0.37
+Nepal,2007,Wheat,Barley,0.37
+Nepal,2008,Wheat,Barley,0.37
+Nepal,2009,Maize,Barley,0.28
+Nepal,2010,Wheat,Barley,0.37
+Nepal,2011,Maize,Barley,0.28
+Nepal,2012,Maize,Barley,0.28
+Nepal,2013,Maize,Barley,0.28
+Netherlands,1990,Maize,Barley,0.28
+Netherlands,1991,Maize,Barley,0.28
+Netherlands,1992,Maize,Barley,0.28
+Netherlands,1993,Maize,Barley,0.28
+Netherlands,1994,Wheat,Barley,0.37
+Netherlands,1995,Wheat,Barley,0.37
+Netherlands,1996,Wheat,Barley,0.37
+Netherlands,1997,Wheat,Barley,0.37
+Netherlands,1998,Maize,Barley,0.28
+Netherlands,1999,Wheat,Barley,0.37
+Netherlands,2000,Maize,Barley,0.28
+Netherlands,2001,Maize,Barley,0.28
+Netherlands,2002,Maize,Barley,0.28
+Netherlands,2003,Wheat,Barley,0.37
+Netherlands,2004,Wheat,Barley,0.37
+Netherlands,2005,Maize,Barley,0.28
+Netherlands,2006,Maize,Barley,0.28
+Netherlands,2007,Maize,Barley,0.28
+Netherlands,2008,Maize,Barley,0.28
+Netherlands,2009,Maize,Barley,0.28
+Netherlands,2010,Maize,Barley,0.28
+Netherlands,2011,Maize,Barley,0.28
+Netherlands,2012,Maize,Barley,0.28
+Netherlands,2013,Maize,Barley,0.28
+New Caledonia,1990,Maize,Barley,0.28
+New Caledonia,1991,Maize,Barley,0.28
+New Caledonia,1992,Maize,Barley,0.28
+New Caledonia,1993,Maize,Barley,0.28
+New Caledonia,1994,Sorghum,Wheat,0.34
+New Caledonia,1995,Maize,Barley,0.28
+New Caledonia,1996,Maize,Barley,0.28
+New Caledonia,1997,Maize,Barley,0.28
+New Caledonia,1998,Maize,Barley,0.28
+New Caledonia,1999,Maize,Barley,0.28
+New Caledonia,2000,Maize,Barley,0.28
+New Caledonia,2001,Maize,Barley,0.28
+New Caledonia,2002,Maize,Barley,0.28
+New Caledonia,2003,Maize,Barley,0.28
+New Caledonia,2004,Wheat,Barley,0.37
+New Caledonia,2005,Wheat,Barley,0.37
+New Caledonia,2006,Maize,Barley,0.28
+New Caledonia,2007,Maize,Barley,0.28
+New Caledonia,2008,Maize,Barley,0.28
+New Caledonia,2009,Maize,Barley,0.28
+New Caledonia,2010,Maize,Barley,0.28
+New Caledonia,2011,Maize,Barley,0.28
+New Caledonia,2012,Maize,Barley,0.28
+New Caledonia,2013,Maize,Barley,0.28
+New Zealand,1990,Maize,Barley,0.28
+New Zealand,1991,Maize,Barley,0.28
+New Zealand,1992,Maize,Barley,0.28
+New Zealand,1993,Maize,Barley,0.28
+New Zealand,1994,Maize,Barley,0.28
+New Zealand,1995,Maize,Barley,0.28
+New Zealand,1996,Maize,Barley,0.28
+New Zealand,1997,Maize,Barley,0.28
+New Zealand,1998,Maize,Barley,0.28
+New Zealand,1999,Maize,Barley,0.28
+New Zealand,2000,Maize,Barley,0.28
+New Zealand,2001,Maize,Barley,0.28
+New Zealand,2002,Maize,Barley,0.28
+New Zealand,2003,Maize,Barley,0.28
+New Zealand,2004,Maize,Barley,0.28
+New Zealand,2005,Maize,Barley,0.28
+New Zealand,2006,Maize,Barley,0.28
+New Zealand,2007,Maize,Barley,0.28
+New Zealand,2008,Maize,Barley,0.28
+New Zealand,2009,Maize,Barley,0.28
+New Zealand,2010,Maize,Barley,0.28
+New Zealand,2011,Maize,Barley,0.28
+New Zealand,2012,Maize,Barley,0.28
+New Zealand,2013,Maize,Barley,0.28
+Nicaragua,1990,Sorghum,Bean,0.33
+Nicaragua,1991,Sorghum,Bean,0.33
+Nicaragua,1992,Sorghum,Bean,0.31
+Nicaragua,1993,Sorghum,Bean,0.33
+Nicaragua,1994,Sorghum,Bean,0.31
+Nicaragua,1995,Sorghum,Bean,0.31
+Nicaragua,1996,Sorghum,Bean,0.33
+Nicaragua,1997,Sorghum,Teff,0.26
+Nicaragua,1998,Sorghum,Teff,0.26
+Nicaragua,1999,Sorghum,Bean,0.33
+Nicaragua,2000,Sorghum,Bean,0.33
+Nicaragua,2001,Sorghum,Bean,0.33
+Nicaragua,2002,Sorghum,Bean,0.33
+Nicaragua,2003,Sorghum,Teff,0.26
+Nicaragua,2004,Sorghum,Bean,0.31
+Nicaragua,2005,Sorghum,Bean,0.31
+Nicaragua,2006,Sorghum,Teff,0.26
+Nicaragua,2007,Sorghum,Bean,0.31
+Nicaragua,2008,Sorghum,Bean,0.33
+Nicaragua,2009,Sorghum,Bean,0.31
+Nicaragua,2010,Sorghum,Bean,0.33
+Nicaragua,2011,Sorghum,Bean,0.33
+Nicaragua,2012,Sorghum,Bean,0.33
+Nicaragua,2013,Sorghum,Bean,0.31
+Niger,1990,Wheat,Wheat,0.43
+Niger,1991,Wheat,Wheat,0.43
+Niger,1992,Wheat,Wheat,0.43
+Niger,1993,Maize,Wheat,0.34
+Niger,1994,Wheat,Wheat,0.43
+Niger,1995,Wheat,Wheat,0.43
+Niger,1996,Wheat,Wheat,0.43
+Niger,1997,Wheat,Wheat,0.43
+Niger,1998,Wheat,Wheat,0.43
+Niger,1999,Wheat,Wheat,0.43
+Niger,2000,Wheat,Wheat,0.43
+Niger,2001,Wheat,Wheat,0.43
+Niger,2002,Wheat,Wheat,0.43
+Niger,2003,Wheat,Wheat,0.43
+Niger,2004,Wheat,Wheat,0.43
+Niger,2005,Wheat,Wheat,0.43
+Niger,2006,Wheat,Wheat,0.43
+Niger,2007,Wheat,Wheat,0.43
+Niger,2008,Wheat,Wheat,0.43
+Niger,2009,Wheat,Wheat,0.43
+Niger,2010,Wheat,Wheat,0.43
+Niger,2011,Wheat,Wheat,0.43
+Niger,2012,Wheat,Wheat,0.43
+Niger,2013,Wheat,Wheat,0.43
+Nigeria,1990,Maize,Wheat,0.32
+Nigeria,1991,Wheat,Wheat,0.38
+Nigeria,1992,Wheat,Wheat,0.35
+Nigeria,1993,Wheat,Wheat,0.38
+Nigeria,1994,Wheat,Wheat,0.35
+Nigeria,1995,Wheat,Wheat,0.38
+Nigeria,1996,Wheat,Wheat,0.38
+Nigeria,1997,Wheat,Wheat,0.38
+Nigeria,1998,Wheat,Wheat,0.41
+Nigeria,1999,Wheat,Wheat,0.38
+Nigeria,2000,Wheat,Wheat,0.38
+Nigeria,2001,Maize,Wheat,0.32
+Nigeria,2002,Maize,Wheat,0.32
+Nigeria,2003,Maize,Wheat,0.32
+Nigeria,2004,Maize,Wheat,0.32
+Nigeria,2005,Maize,Wheat,0.34
+Nigeria,2006,Maize,Wheat,0.34
+Nigeria,2007,Maize,Wheat,0.34
+Nigeria,2008,Maize,Wheat,0.32
+Nigeria,2009,Maize,Wheat,0.34
+Nigeria,2010,Maize,Wheat,0.35
+Nigeria,2011,Maize,Wheat,0.34
+Nigeria,2012,Maize,Wheat,0.32
+Nigeria,2013,Maize,Wheat,0.35
+Norway,1990,Wheat,Barley,0.37
+Norway,1991,Wheat,Barley,0.37
+Norway,1992,Wheat,Barley,0.37
+Norway,1993,Wheat,Barley,0.37
+Norway,1994,Wheat,Barley,0.37
+Norway,1995,Wheat,Barley,0.37
+Norway,1996,Wheat,Barley,0.37
+Norway,1997,Wheat,Barley,0.37
+Norway,1998,Wheat,Barley,0.37
+Norway,1999,Wheat,Barley,0.37
+Norway,2000,Wheat,Barley,0.37
+Norway,2001,Wheat,Barley,0.37
+Norway,2002,Wheat,Barley,0.37
+Norway,2003,Wheat,Barley,0.37
+Norway,2004,Wheat,Barley,0.37
+Norway,2005,Wheat,Barley,0.37
+Norway,2006,Wheat,Barley,0.37
+Norway,2007,Wheat,Barley,0.37
+Norway,2008,Wheat,Barley,0.37
+Norway,2009,Wheat,Barley,0.37
+Norway,2010,Wheat,Barley,0.37
+Norway,2011,Wheat,Barley,0.37
+Norway,2012,Wheat,Barley,0.37
+Norway,2013,Wheat,Barley,0.37
+Occupied Palestinian Territory,1994,Wheat,Barley,0.37
+Occupied Palestinian Territory,1995,Wheat,Barley,0.37
+Occupied Palestinian Territory,1996,Wheat,Barley,0.37
+Occupied Palestinian Territory,1997,Wheat,Barley,0.37
+Occupied Palestinian Territory,1998,Wheat,Barley,0.37
+Occupied Palestinian Territory,1999,Wheat,Barley,0.37
+Occupied Palestinian Territory,2000,Wheat,Barley,0.37
+Occupied Palestinian Territory,2001,Sorghum,Wheat,0.34
+Occupied Palestinian Territory,2002,Sorghum,Wheat,0.34
+Occupied Palestinian Territory,2003,Sorghum,Wheat,0.34
+Occupied Palestinian Territory,2004,Sorghum,Wheat,0.34
+Occupied Palestinian Territory,2005,Sorghum,Wheat,0.34
+Occupied Palestinian Territory,2006,Sorghum,Wheat,0.34
+Occupied Palestinian Territory,2007,Wheat,Barley,0.37
+Occupied Palestinian Territory,2008,Wheat,Barley,0.37
+Occupied Palestinian Territory,2009,Wheat,Barley,0.37
+Occupied Palestinian Territory,2010,Wheat,Barley,0.37
+Occupied Palestinian Territory,2011,Wheat,Barley,0.37
+Occupied Palestinian Territory,2012,Wheat,Barley,0.37
+Occupied Palestinian Territory,2013,Wheat,Barley,0.37
+Oman,1990,Sorghum,Wheat,0.34
+Oman,1991,Sorghum,Wheat,0.34
+Oman,1992,Sorghum,Wheat,0.34
+Oman,1993,Sorghum,Wheat,0.34
+Oman,1994,Sorghum,Wheat,0.34
+Oman,1995,Sorghum,Wheat,0.34
+Oman,1996,Sorghum,Wheat,0.34
+Oman,1997,Sorghum,Wheat,0.34
+Oman,1998,Sorghum,Wheat,0.34
+Oman,1999,Sorghum,Wheat,0.34
+Oman,2000,Sorghum,Wheat,0.34
+Oman,2001,Sorghum,Wheat,0.34
+Oman,2002,Sorghum,Wheat,0.34
+Oman,2003,Sorghum,Wheat,0.34
+Oman,2004,Sorghum,Wheat,0.34
+Oman,2005,Sorghum,Wheat,0.34
+Oman,2006,Sorghum,Wheat,0.34
+Oman,2007,Sorghum,Wheat,0.34
+Oman,2008,Sorghum,Wheat,0.34
+Oman,2009,Maize,Barley,0.28
+Oman,2010,Wheat,Barley,0.37
+Oman,2011,Maize,Barley,0.28
+Oman,2012,Maize,Barley,0.28
+Oman,2013,Maize,Barley,0.28
+Pacific Islands Trust Territory,1990,Sorghum,Wheat,0.34
+Pakistan,1990,Wheat,Barley,0.36
+Pakistan,1991,Wheat,Barley,0.4
+Pakistan,1992,Wheat,Barley,0.4
+Pakistan,1993,Wheat,Barley,0.36
+Pakistan,1994,Wheat,Barley,0.36
+Pakistan,1995,Wheat,Barley,0.4
+Pakistan,1996,Wheat,Barley,0.4
+Pakistan,1997,Wheat,Barley,0.36
+Pakistan,1998,Wheat,Barley,0.36
+Pakistan,1999,Wheat,Barley,0.36
+Pakistan,2000,Wheat,Barley,0.36
+Pakistan,2001,Wheat,Barley,0.36
+Pakistan,2002,Wheat,Barley,0.36
+Pakistan,2003,Wheat,Barley,0.36
+Pakistan,2004,Maize,Teff,0.28
+Pakistan,2005,Maize,Wheat,0.37
+Pakistan,2006,Maize,Wheat,0.37
+Pakistan,2007,Maize,Wheat,0.37
+Pakistan,2008,Maize,Wheat,0.37
+Pakistan,2009,Maize,Wheat,0.37
+Pakistan,2010,Maize,Wheat,0.37
+Pakistan,2011,Maize,Wheat,0.37
+Pakistan,2012,Maize,Wheat,0.37
+Pakistan,2013,Maize,Teff,0.28
+Panama,1990,Sorghum,Wheat,0.34
+Panama,1991,Sorghum,Wheat,0.34
+Panama,1992,Sorghum,Wheat,0.34
+Panama,1993,Sorghum,Wheat,0.34
+Panama,1994,Sorghum,Wheat,0.34
+Panama,1995,Sorghum,Wheat,0.34
+Panama,1996,Sorghum,Wheat,0.34
+Panama,1997,Sorghum,Wheat,0.34
+Panama,1998,Sorghum,Wheat,0.34
+Panama,1999,Sorghum,Wheat,0.34
+Panama,2000,Sorghum,Wheat,0.34
+Panama,2001,Sorghum,Wheat,0.34
+Panama,2002,Sorghum,Wheat,0.34
+Panama,2003,Sorghum,Wheat,0.34
+Panama,2004,Sorghum,Wheat,0.34
+Panama,2005,Sorghum,Wheat,0.34
+Panama,2006,Sorghum,Wheat,0.34
+Panama,2007,Sorghum,Wheat,0.34
+Panama,2008,Sorghum,Wheat,0.34
+Panama,2009,Sorghum,Wheat,0.34
+Panama,2010,Sorghum,Wheat,0.34
+Panama,2011,Sorghum,Wheat,0.34
+Panama,2012,Sorghum,Wheat,0.34
+Panama,2013,Sorghum,Wheat,0.34
+Papua New Guinea,1990,Sorghum,Wheat,0.32
+Papua New Guinea,1991,Sorghum,Wheat,0.32
+Papua New Guinea,1992,Maize,Teff,0.28
+Papua New Guinea,1993,Maize,Teff,0.28
+Papua New Guinea,1994,Maize,Teff,0.28
+Papua New Guinea,1995,Maize,Teff,0.28
+Papua New Guinea,1996,Maize,Teff,0.28
+Papua New Guinea,1997,Maize,Wheat,0.37
+Papua New Guinea,1998,Maize,Wheat,0.29
+Papua New Guinea,1999,Maize,Teff,0.28
+Papua New Guinea,2000,Maize,Teff,0.28
+Papua New Guinea,2001,Maize,Teff,0.28
+Papua New Guinea,2002,Maize,Teff,0.28
+Papua New Guinea,2003,Maize,Teff,0.28
+Papua New Guinea,2004,Maize,Teff,0.28
+Papua New Guinea,2005,Maize,Teff,0.28
+Papua New Guinea,2006,Maize,Teff,0.28
+Papua New Guinea,2007,Maize,Teff,0.28
+Papua New Guinea,2008,Maize,Teff,0.28
+Papua New Guinea,2009,Maize,Teff,0.28
+Papua New Guinea,2010,Maize,Wheat,0.29
+Papua New Guinea,2011,Maize,Teff,0.28
+Papua New Guinea,2012,Maize,Teff,0.28
+Papua New Guinea,2013,Maize,Teff,0.28
+Paraguay,1990,Maize,Barley,0.28
+Paraguay,1991,Maize,Barley,0.28
+Paraguay,1992,Maize,Barley,0.28
+Paraguay,1993,Wheat,Barley,0.37
+Paraguay,1994,Wheat,Barley,0.37
+Paraguay,1995,Maize,Barley,0.28
+Paraguay,1996,Wheat,Barley,0.37
+Paraguay,1997,Maize,Barley,0.28
+Paraguay,1998,Maize,Barley,0.28
+Paraguay,1999,Maize,Barley,0.28
+Paraguay,2000,Maize,Barley,0.28
+Paraguay,2001,Maize,Barley,0.28
+Paraguay,2002,Maize,Barley,0.28
+Paraguay,2003,Maize,Barley,0.28
+Paraguay,2004,Maize,Barley,0.28
+Paraguay,2005,Wheat,Barley,0.37
+Paraguay,2006,Maize,Barley,0.28
+Paraguay,2007,Maize,Barley,0.28
+Paraguay,2008,Maize,Barley,0.28
+Paraguay,2009,Sorghum,Wheat,0.34
+Paraguay,2010,Sorghum,Wheat,0.34
+Paraguay,2011,Sorghum,Wheat,0.34
+Paraguay,2012,Sorghum,Wheat,0.34
+Paraguay,2013,Sorghum,Wheat,0.34
+Peru,1990,Sorghum,Wheat,0.34
+Peru,1991,Sorghum,Wheat,0.34
+Peru,1992,Sorghum,Wheat,0.34
+Peru,1993,Sorghum,Wheat,0.34
+Peru,1994,Sorghum,Wheat,0.34
+Peru,1995,Sorghum,Wheat,0.34
+Peru,1996,Sorghum,Wheat,0.34
+Peru,1997,Sorghum,Wheat,0.34
+Peru,1998,Sorghum,Wheat,0.34
+Peru,1999,Sorghum,Wheat,0.34
+Peru,2000,Sorghum,Wheat,0.34
+Peru,2001,Maize,Barley,0.28
+Peru,2002,Maize,Barley,0.28
+Peru,2003,Maize,Barley,0.28
+Peru,2004,Sorghum,Wheat,0.34
+Peru,2005,Maize,Barley,0.28
+Peru,2006,Sorghum,Wheat,0.34
+Peru,2007,Maize,Barley,0.28
+Peru,2008,Sorghum,Wheat,0.34
+Peru,2009,Sorghum,Wheat,0.34
+Peru,2010,Maize,Barley,0.28
+Peru,2011,Sorghum,Wheat,0.34
+Peru,2012,Sorghum,Wheat,0.34
+Peru,2013,Sorghum,Wheat,0.34
+Philippines,1990,Sorghum,Bean,0.32
+Philippines,1991,Maize,Wheat,0.31
+Philippines,1992,Maize,Wheat,0.31
+Philippines,1993,Maize,Wheat,0.31
+Philippines,1994,Maize,Wheat,0.32
+Philippines,1995,Maize,Wheat,0.31
+Philippines,1996,Maize,Wheat,0.32
+Philippines,1997,Maize,Wheat,0.32
+Philippines,1998,Sorghum,Teff,0.26
+Philippines,1999,Sorghum,Bean,0.33
+Philippines,2000,Maize,Wheat,0.32
+Philippines,2001,Maize,Wheat,0.32
+Philippines,2002,Maize,Wheat,0.32
+Philippines,2003,Maize,Wheat,0.32
+Philippines,2004,Maize,Wheat,0.32
+Philippines,2005,Maize,Wheat,0.32
+Philippines,2006,Maize,Wheat,0.32
+Philippines,2007,Maize,Wheat,0.32
+Philippines,2008,Sorghum,Bean,0.33
+Philippines,2009,Sorghum,Bean,0.33
+Philippines,2010,Sorghum,Bean,0.31
+Philippines,2011,Sorghum,Bean,0.32
+Philippines,2012,Sorghum,Bean,0.33
+Philippines,2013,Sorghum,Teff,0.26
+Poland,1990,Maize,Barley,0.28
+Poland,1991,Maize,Barley,0.28
+Poland,1992,Maize,Barley,0.28
+Poland,1993,Maize,Barley,0.28
+Poland,1994,Maize,Barley,0.28
+Poland,1995,Maize,Barley,0.28
+Poland,1996,Maize,Barley,0.28
+Poland,1997,Maize,Barley,0.28
+Poland,1998,Maize,Barley,0.28
+Poland,1999,Maize,Barley,0.28
+Poland,2000,Maize,Barley,0.28
+Poland,2001,Maize,Barley,0.28
+Poland,2002,Maize,Barley,0.28
+Poland,2003,Maize,Barley,0.28
+Poland,2004,Maize,Barley,0.28
+Poland,2005,Maize,Barley,0.28
+Poland,2006,Maize,Barley,0.28
+Poland,2007,Maize,Barley,0.28
+Poland,2008,Maize,Barley,0.28
+Poland,2009,Maize,Barley,0.28
+Poland,2010,Maize,Barley,0.28
+Poland,2011,Maize,Barley,0.28
+Poland,2012,Maize,Barley,0.28
+Poland,2013,Maize,Barley,0.28
+Portugal,1990,Maize,Barley,0.28
+Portugal,1991,Maize,Barley,0.28
+Portugal,1992,Maize,Barley,0.28
+Portugal,1993,Maize,Barley,0.28
+Portugal,1994,Maize,Barley,0.28
+Portugal,1995,Maize,Barley,0.28
+Portugal,1996,Maize,Barley,0.28
+Portugal,1997,Maize,Barley,0.28
+Portugal,1998,Maize,Barley,0.28
+Portugal,1999,Maize,Barley,0.28
+Portugal,2000,Maize,Barley,0.28
+Portugal,2001,Maize,Barley,0.28
+Portugal,2002,Maize,Barley,0.28
+Portugal,2003,Maize,Barley,0.28
+Portugal,2004,Maize,Barley,0.28
+Portugal,2005,Maize,Barley,0.28
+Portugal,2006,Maize,Barley,0.28
+Portugal,2007,Maize,Barley,0.28
+Portugal,2008,Maize,Barley,0.28
+Portugal,2009,Maize,Barley,0.28
+Portugal,2010,Maize,Barley,0.28
+Portugal,2011,Maize,Barley,0.28
+Portugal,2012,Maize,Barley,0.28
+Portugal,2013,Maize,Barley,0.28
+Puerto Rico,1990,Maize,Barley,0.28
+Puerto Rico,1991,Maize,Barley,0.28
+Puerto Rico,1992,Maize,Barley,0.28
+Puerto Rico,1993,Maize,Barley,0.28
+Puerto Rico,1994,Maize,Barley,0.28
+Puerto Rico,1995,Maize,Barley,0.28
+Puerto Rico,1996,Maize,Barley,0.28
+Puerto Rico,1997,Maize,Barley,0.28
+Puerto Rico,1998,Maize,Barley,0.28
+Puerto Rico,1999,Maize,Barley,0.28
+Puerto Rico,2000,Maize,Barley,0.28
+Puerto Rico,2001,Maize,Barley,0.28
+Puerto Rico,2002,Maize,Barley,0.28
+Puerto Rico,2003,Maize,Barley,0.28
+Puerto Rico,2004,Maize,Barley,0.28
+Puerto Rico,2005,Maize,Barley,0.28
+Puerto Rico,2006,Maize,Barley,0.28
+Puerto Rico,2007,Maize,Barley,0.28
+Puerto Rico,2008,Maize,Barley,0.28
+Puerto Rico,2009,Maize,Barley,0.28
+Puerto Rico,2010,Maize,Barley,0.28
+Puerto Rico,2011,Maize,Barley,0.28
+Puerto Rico,2012,Maize,Barley,0.28
+Puerto Rico,2013,Maize,Barley,0.28
+Qatar,1990,Maize,Wheat,0.34
+Qatar,1991,Maize,Wheat,0.32
+Qatar,1992,Maize,Wheat,0.29
+Qatar,1993,Maize,Wheat,0.32
+Qatar,1994,Maize,Wheat,0.34
+Qatar,1995,Maize,Wheat,0.32
+Qatar,1996,Maize,Wheat,0.35
+Qatar,1997,Maize,Wheat,0.32
+Qatar,1998,Maize,Wheat,0.34
+Qatar,1999,Maize,Wheat,0.34
+Qatar,2000,Maize,Wheat,0.34
+Qatar,2001,Maize,Wheat,0.34
+Qatar,2002,Maize,Wheat,0.34
+Qatar,2003,Maize,Wheat,0.34
+Qatar,2004,Maize,Wheat,0.34
+Qatar,2005,Maize,Wheat,0.34
+Qatar,2006,Maize,Wheat,0.34
+Qatar,2007,Maize,Wheat,0.34
+Qatar,2008,Maize,Wheat,0.35
+Qatar,2009,Maize,Wheat,0.34
+Qatar,2010,Maize,Wheat,0.34
+Qatar,2011,Maize,Wheat,0.34
+Qatar,2012,Maize,Wheat,0.34
+Qatar,2013,Maize,Wheat,0.34
+Republic of Korea,1990,Maize,Barley,0.28
+Republic of Korea,1991,Maize,Barley,0.28
+Republic of Korea,1992,Maize,Barley,0.28
+Republic of Korea,1993,Maize,Barley,0.28
+Republic of Korea,1994,Maize,Barley,0.28
+Republic of Korea,1995,Wheat,Barley,0.37
+Republic of Korea,1996,Maize,Barley,0.28
+Republic of Korea,1997,Maize,Barley,0.28
+Republic of Korea,1998,Maize,Barley,0.28
+Republic of Korea,1999,Maize,Barley,0.28
+Republic of Korea,2000,Maize,Barley,0.28
+Republic of Korea,2001,Maize,Barley,0.28
+Republic of Korea,2002,Maize,Barley,0.28
+Republic of Korea,2003,Maize,Barley,0.28
+Republic of Korea,2004,Maize,Barley,0.28
+Republic of Korea,2005,Maize,Barley,0.28
+Republic of Korea,2006,Maize,Barley,0.28
+Republic of Korea,2007,Maize,Barley,0.28
+Republic of Korea,2008,Maize,Barley,0.28
+Republic of Korea,2009,Maize,Barley,0.28
+Republic of Korea,2010,Maize,Barley,0.28
+Republic of Korea,2011,Maize,Barley,0.28
+Republic of Korea,2012,Maize,Barley,0.28
+Republic of Korea,2013,Maize,Barley,0.28
+Republic of Moldova,1992,Wheat,Barley,0.37
+Republic of Moldova,1993,Wheat,Barley,0.37
+Republic of Moldova,1994,Maize,Barley,0.28
+Republic of Moldova,1995,Wheat,Barley,0.37
+Republic of Moldova,1996,Maize,Barley,0.28
+Republic of Moldova,1997,Maize,Barley,0.28
+Republic of Moldova,1998,Maize,Barley,0.28
+Republic of Moldova,1999,Maize,Barley,0.28
+Republic of Moldova,2000,Maize,Barley,0.28
+Republic of Moldova,2001,Wheat,Barley,0.37
+Republic of Moldova,2002,Maize,Barley,0.28
+Republic of Moldova,2003,Maize,Barley,0.28
+Republic of Moldova,2004,Maize,Barley,0.28
+Republic of Moldova,2005,Maize,Barley,0.28
+Republic of Moldova,2006,Maize,Barley,0.28
+Republic of Moldova,2007,Maize,Barley,0.28
+Republic of Moldova,2008,Maize,Barley,0.28
+Republic of Moldova,2009,Maize,Barley,0.28
+Republic of Moldova,2010,Maize,Barley,0.28
+Republic of Moldova,2011,Maize,Barley,0.28
+Republic of Moldova,2012,Maize,Barley,0.28
+Republic of Moldova,2013,Maize,Barley,0.28
+Romania,1990,Wheat,Barley,0.37
+Romania,1991,Maize,Barley,0.28
+Romania,1992,Wheat,Barley,0.37
+Romania,1993,Maize,Barley,0.28
+Romania,1994,Maize,Barley,0.28
+Romania,1995,Maize,Barley,0.28
+Romania,1996,Maize,Barley,0.28
+Romania,1997,Maize,Barley,0.28
+Romania,1998,Maize,Barley,0.28
+Romania,1999,Maize,Barley,0.28
+Romania,2000,Wheat,Barley,0.37
+Romania,2001,Maize,Barley,0.28
+Romania,2002,Maize,Barley,0.28
+Romania,2003,Maize,Barley,0.28
+Romania,2004,Maize,Barley,0.28
+Romania,2005,Maize,Barley,0.28
+Romania,2006,Maize,Barley,0.28
+Romania,2007,Maize,Barley,0.28
+Romania,2008,Wheat,Barley,0.37
+Romania,2009,Maize,Barley,0.28
+Romania,2010,Maize,Barley,0.28
+Romania,2011,Maize,Barley,0.28
+Romania,2012,Wheat,Barley,0.37
+Romania,2013,Maize,Barley,0.28
+Russian Federation,1992,Maize,Barley,0.28
+Russian Federation,1993,Maize,Barley,0.28
+Russian Federation,1994,Maize,Barley,0.28
+Russian Federation,1995,Maize,Barley,0.28
+Russian Federation,1996,Maize,Barley,0.28
+Russian Federation,1997,Maize,Barley,0.28
+Russian Federation,1998,Maize,Barley,0.28
+Russian Federation,1999,Maize,Barley,0.28
+Russian Federation,2000,Maize,Barley,0.28
+Russian Federation,2001,Wheat,Barley,0.37
+Russian Federation,2002,Maize,Barley,0.28
+Russian Federation,2003,Maize,Barley,0.28
+Russian Federation,2004,Maize,Barley,0.28
+Russian Federation,2005,Maize,Barley,0.28
+Russian Federation,2006,Maize,Barley,0.28
+Russian Federation,2007,Maize,Barley,0.28
+Russian Federation,2008,Maize,Barley,0.28
+Russian Federation,2009,Maize,Barley,0.28
+Russian Federation,2010,Maize,Barley,0.28
+Russian Federation,2011,Maize,Barley,0.28
+Russian Federation,2012,Maize,Barley,0.28
+Russian Federation,2013,Maize,Barley,0.28
+Rwanda,1990,Wheat,Barley,0.37
+Rwanda,1991,Sorghum,Wheat,0.34
+Rwanda,1992,Maize,Barley,0.28
+Rwanda,1993,Maize,Barley,0.28
+Rwanda,1994,Maize,Barley,0.28
+Rwanda,1995,Sorghum,Wheat,0.34
+Rwanda,1996,Sorghum,Wheat,0.34
+Rwanda,1997,Sorghum,Wheat,0.34
+Rwanda,1998,Sorghum,Wheat,0.34
+Rwanda,1999,Sorghum,Wheat,0.34
+Rwanda,2000,Sorghum,Wheat,0.34
+Rwanda,2001,Sorghum,Wheat,0.34
+Rwanda,2002,Sorghum,Wheat,0.34
+Rwanda,2003,Sorghum,Wheat,0.34
+Rwanda,2004,Sorghum,Wheat,0.34
+Rwanda,2005,Sorghum,Wheat,0.34
+Rwanda,2006,Sorghum,Wheat,0.34
+Rwanda,2007,Sorghum,Wheat,0.34
+Rwanda,2008,Wheat,Barley,0.37
+Rwanda,2009,Maize,Barley,0.28
+Rwanda,2010,Maize,Barley,0.28
+Rwanda,2011,Maize,Barley,0.28
+Rwanda,2012,Maize,Barley,0.28
+Rwanda,2013,Maize,Barley,0.28
+Réunion,1990,Maize,Barley,0.28
+Réunion,1991,Maize,Barley,0.28
+Réunion,1992,Maize,Barley,0.28
+Réunion,1993,Maize,Barley,0.28
+Réunion,1994,Maize,Barley,0.28
+Réunion,1995,Maize,Barley,0.28
+Réunion,1996,Maize,Barley,0.28
+Réunion,1997,Maize,Barley,0.28
+Réunion,1998,Maize,Barley,0.28
+Réunion,1999,Maize,Barley,0.28
+Réunion,2000,Maize,Barley,0.28
+Réunion,2001,Maize,Barley,0.28
+Réunion,2002,Maize,Barley,0.28
+Réunion,2003,Maize,Barley,0.28
+Réunion,2004,Maize,Barley,0.28
+Réunion,2005,Maize,Barley,0.28
+Réunion,2006,Maize,Barley,0.28
+Réunion,2007,Maize,Barley,0.28
+Réunion,2008,Maize,Barley,0.28
+Réunion,2009,Maize,Barley,0.28
+Réunion,2010,Maize,Barley,0.28
+Réunion,2011,Maize,Barley,0.28
+Réunion,2012,Maize,Barley,0.28
+Réunion,2013,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1990,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1991,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1992,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1993,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1994,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1995,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1996,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1997,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1998,Maize,Barley,0.28
+Saint Vincent and the Grenadines,1999,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2000,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2001,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2002,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2003,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2004,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2005,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2006,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2007,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2008,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2009,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2010,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2011,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2012,Maize,Barley,0.28
+Saint Vincent and the Grenadines,2013,Maize,Barley,0.28
+Sao Tome and Principe,1990,Maize,Barley,0.28
+Sao Tome and Principe,1991,Maize,Barley,0.28
+Sao Tome and Principe,1992,Maize,Barley,0.28
+Sao Tome and Principe,1993,Maize,Barley,0.28
+Sao Tome and Principe,1994,Maize,Barley,0.28
+Sao Tome and Principe,1995,Maize,Barley,0.28
+Sao Tome and Principe,1996,Maize,Barley,0.28
+Sao Tome and Principe,1997,Maize,Barley,0.28
+Sao Tome and Principe,1998,Maize,Barley,0.28
+Sao Tome and Principe,1999,Maize,Barley,0.28
+Sao Tome and Principe,2000,Maize,Barley,0.28
+Sao Tome and Principe,2001,Maize,Barley,0.28
+Sao Tome and Principe,2002,Maize,Barley,0.28
+Sao Tome and Principe,2003,Maize,Barley,0.28
+Sao Tome and Principe,2004,Maize,Barley,0.28
+Sao Tome and Principe,2005,Maize,Barley,0.28
+Sao Tome and Principe,2006,Maize,Barley,0.28
+Sao Tome and Principe,2007,Maize,Barley,0.28
+Sao Tome and Principe,2008,Maize,Barley,0.28
+Sao Tome and Principe,2009,Maize,Barley,0.28
+Sao Tome and Principe,2010,Maize,Barley,0.28
+Sao Tome and Principe,2011,Maize,Barley,0.28
+Sao Tome and Principe,2012,Maize,Barley,0.28
+Sao Tome and Principe,2013,Maize,Barley,0.28
+Saudi Arabia,1990,Wheat,Barley,0.31
+Saudi Arabia,1991,Wheat,Barley,0.31
+Saudi Arabia,1992,Wheat,Barley,0.36
+Saudi Arabia,1993,Wheat,Barley,0.31
+Saudi Arabia,1994,Wheat,Wheat,0.34
+Saudi Arabia,1995,Wheat,Wheat,0.34
+Saudi Arabia,1996,Wheat,Wheat,0.35
+Saudi Arabia,1997,Wheat,Barley,0.31
+Saudi Arabia,1998,Wheat,Wheat,0.35
+Saudi Arabia,1999,Wheat,Wheat,0.38
+Saudi Arabia,2000,Maize,Wheat,0.31
+Saudi Arabia,2001,Wheat,Wheat,0.35
+Saudi Arabia,2002,Wheat,Wheat,0.35
+Saudi Arabia,2003,Wheat,Wheat,0.38
+Saudi Arabia,2004,Wheat,Wheat,0.35
+Saudi Arabia,2005,Wheat,Wheat,0.35
+Saudi Arabia,2006,Maize,Wheat,0.3
+Saudi Arabia,2007,Wheat,Wheat,0.35
+Saudi Arabia,2008,Wheat,Wheat,0.35
+Saudi Arabia,2009,Wheat,Wheat,0.38
+Saudi Arabia,2010,Wheat,Wheat,0.41
+Saudi Arabia,2011,Wheat,Wheat,0.35
+Saudi Arabia,2012,Maize,Wheat,0.32
+Saudi Arabia,2013,Wheat,Wheat,0.41
+Senegal,1990,Maize,Teff,0.28
+Senegal,1991,Maize,Teff,0.28
+Senegal,1992,Maize,Teff,0.28
+Senegal,1993,Maize,Teff,0.28
+Senegal,1994,Maize,Wheat,0.37
+Senegal,1995,Maize,Teff,0.28
+Senegal,1996,Maize,Teff,0.28
+Senegal,1997,Maize,Wheat,0.29
+Senegal,1998,Maize,Wheat,0.29
+Senegal,1999,Maize,Wheat,0.37
+Senegal,2000,Maize,Teff,0.28
+Senegal,2001,Maize,Wheat,0.29
+Senegal,2002,Maize,Teff,0.28
+Senegal,2003,Maize,Teff,0.28
+Senegal,2004,Maize,Teff,0.28
+Senegal,2005,Maize,Wheat,0.29
+Senegal,2006,Maize,Teff,0.28
+Senegal,2007,Maize,Teff,0.28
+Senegal,2008,Maize,Teff,0.28
+Senegal,2009,Maize,Teff,0.28
+Senegal,2010,Maize,Wheat,0.29
+Senegal,2011,Maize,Teff,0.28
+Senegal,2012,Maize,Teff,0.28
+Senegal,2013,Maize,Wheat,0.37
+Serbia,2006,Maize,Barley,0.28
+Serbia,2007,Wheat,Barley,0.37
+Serbia,2008,Maize,Barley,0.28
+Serbia,2009,Maize,Barley,0.28
+Serbia,2010,Maize,Barley,0.28
+Serbia,2011,Maize,Barley,0.28
+Serbia,2012,Wheat,Barley,0.37
+Serbia,2013,Maize,Barley,0.28
+Serbia and Montenegro,1992,Wheat,Barley,0.37
+Serbia and Montenegro,1993,Wheat,Barley,0.37
+Serbia and Montenegro,1994,Wheat,Barley,0.37
+Serbia and Montenegro,1995,Maize,Barley,0.28
+Serbia and Montenegro,1996,Maize,Barley,0.28
+Serbia and Montenegro,1997,Maize,Barley,0.28
+Serbia and Montenegro,1998,Maize,Barley,0.28
+Serbia and Montenegro,1999,Maize,Barley,0.28
+Serbia and Montenegro,2000,Sorghum,Wheat,0.34
+Serbia and Montenegro,2001,Maize,Barley,0.28
+Serbia and Montenegro,2002,Maize,Barley,0.28
+Serbia and Montenegro,2003,Maize,Barley,0.28
+Serbia and Montenegro,2004,Maize,Barley,0.28
+Serbia and Montenegro,2005,Maize,Barley,0.28
+Sierra Leone,1990,Maize,Wheat,0.32
+Sierra Leone,1991,Maize,Wheat,0.32
+Sierra Leone,1992,Maize,Wheat,0.32
+Sierra Leone,1993,Maize,Wheat,0.32
+Sierra Leone,1994,Maize,Wheat,0.32
+Sierra Leone,1995,Maize,Wheat,0.32
+Sierra Leone,1996,Maize,Wheat,0.34
+Sierra Leone,1997,Maize,Wheat,0.32
+Sierra Leone,1998,Maize,Wheat,0.34
+Sierra Leone,1999,Maize,Wheat,0.32
+Sierra Leone,2000,Sorghum,Bean,0.31
+Sierra Leone,2001,Sorghum,Teff,0.26
+Sierra Leone,2002,Sorghum,Teff,0.26
+Sierra Leone,2003,Sorghum,Teff,0.26
+Sierra Leone,2004,Sorghum,Teff,0.26
+Sierra Leone,2005,Sorghum,Teff,0.26
+Sierra Leone,2006,Maize,Wheat,0.32
+Sierra Leone,2007,Sorghum,Bean,0.31
+Sierra Leone,2008,Sorghum,Teff,0.26
+Sierra Leone,2009,Sorghum,Teff,0.26
+Sierra Leone,2010,Maize,Wheat,0.35
+Sierra Leone,2011,Maize,Wheat,0.34
+Sierra Leone,2012,Maize,Wheat,0.32
+Sierra Leone,2013,Maize,Wheat,0.32
+Slovakia,1993,Maize,Barley,0.28
+Slovakia,1994,Wheat,Barley,0.37
+Slovakia,1995,Maize,Barley,0.28
+Slovakia,1996,Maize,Barley,0.28
+Slovakia,1997,Maize,Barley,0.28
+Slovakia,1998,Maize,Barley,0.28
+Slovakia,1999,Maize,Barley,0.28
+Slovakia,2000,Wheat,Barley,0.37
+Slovakia,2001,Maize,Barley,0.28
+Slovakia,2002,Maize,Barley,0.28
+Slovakia,2003,Maize,Barley,0.28
+Slovakia,2004,Maize,Barley,0.28
+Slovakia,2005,Maize,Barley,0.28
+Slovakia,2006,Maize,Barley,0.28
+Slovakia,2007,Maize,Barley,0.28
+Slovakia,2008,Maize,Barley,0.28
+Slovakia,2009,Maize,Barley,0.28
+Slovakia,2010,Maize,Barley,0.28
+Slovakia,2011,Maize,Barley,0.28
+Slovakia,2012,Maize,Barley,0.28
+Slovakia,2013,Maize,Barley,0.28
+Slovenia,1992,Wheat,Barley,0.37
+Slovenia,1993,Maize,Barley,0.28
+Slovenia,1994,Maize,Barley,0.28
+Slovenia,1995,Maize,Barley,0.28
+Slovenia,1996,Maize,Barley,0.28
+Slovenia,1997,Maize,Barley,0.28
+Slovenia,1998,Maize,Barley,0.28
+Slovenia,1999,Maize,Barley,0.28
+Slovenia,2000,Maize,Barley,0.28
+Slovenia,2001,Maize,Barley,0.28
+Slovenia,2002,Maize,Barley,0.28
+Slovenia,2003,Maize,Barley,0.28
+Slovenia,2004,Maize,Barley,0.28
+Slovenia,2005,Maize,Barley,0.28
+Slovenia,2006,Maize,Barley,0.28
+Slovenia,2007,Maize,Barley,0.28
+Slovenia,2008,Maize,Barley,0.28
+Slovenia,2009,Maize,Barley,0.28
+Slovenia,2010,Maize,Barley,0.28
+Slovenia,2011,Maize,Barley,0.28
+Slovenia,2012,Maize,Barley,0.28
+Slovenia,2013,Maize,Barley,0.28
+Somalia,1990,Maize,Wheat,0.34
+Somalia,1991,Maize,Wheat,0.34
+Somalia,1992,Maize,Wheat,0.35
+Somalia,1993,Maize,Wheat,0.32
+Somalia,1994,Maize,Wheat,0.34
+Somalia,1995,Maize,Wheat,0.34
+Somalia,1996,Maize,Wheat,0.34
+Somalia,1997,Maize,Wheat,0.34
+Somalia,1998,Maize,Wheat,0.35
+Somalia,1999,Maize,Wheat,0.34
+Somalia,2000,Maize,Wheat,0.35
+Somalia,2001,Maize,Wheat,0.35
+Somalia,2002,Maize,Wheat,0.35
+Somalia,2003,Maize,Wheat,0.34
+Somalia,2004,Maize,Wheat,0.35
+Somalia,2005,Maize,Wheat,0.34
+Somalia,2006,Maize,Wheat,0.35
+Somalia,2007,Maize,Wheat,0.34
+Somalia,2008,Maize,Wheat,0.35
+Somalia,2009,Maize,Wheat,0.34
+Somalia,2010,Maize,Wheat,0.34
+Somalia,2011,Maize,Wheat,0.34
+Somalia,2012,Maize,Wheat,0.34
+Somalia,2013,Maize,Wheat,0.35
+South Africa,1990,Maize,Barley,0.28
+South Africa,1991,Maize,Barley,0.28
+South Africa,1992,Wheat,Barley,0.37
+South Africa,1993,Maize,Barley,0.28
+South Africa,1994,Maize,Barley,0.28
+South Africa,1995,Sorghum,Wheat,0.34
+South Africa,1996,Sorghum,Wheat,0.34
+South Africa,1997,Sorghum,Wheat,0.34
+South Africa,1998,Sorghum,Wheat,0.34
+South Africa,1999,Wheat,Barley,0.37
+South Africa,2000,Sorghum,Wheat,0.34
+South Africa,2001,Wheat,Barley,0.37
+South Africa,2002,Sorghum,Wheat,0.34
+South Africa,2003,Sorghum,Wheat,0.34
+South Africa,2004,Maize,Barley,0.28
+South Africa,2005,Maize,Barley,0.28
+South Africa,2006,Maize,Barley,0.28
+South Africa,2007,Wheat,Barley,0.37
+South Africa,2008,Maize,Barley,0.28
+South Africa,2009,Maize,Barley,0.28
+South Africa,2010,Maize,Barley,0.28
+South Africa,2011,Maize,Barley,0.28
+South Africa,2012,Maize,Barley,0.28
+South Africa,2013,Maize,Barley,0.28
+South Sudan,2012,Sorghum,Wheat,0.34
+South Sudan,2013,Sorghum,Wheat,0.34
+Spain,1990,Maize,Barley,0.28
+Spain,1991,Maize,Barley,0.28
+Spain,1992,Maize,Barley,0.28
+Spain,1993,Maize,Barley,0.28
+Spain,1994,Maize,Barley,0.28
+Spain,1995,Maize,Barley,0.28
+Spain,1996,Maize,Barley,0.28
+Spain,1997,Maize,Barley,0.28
+Spain,1998,Maize,Barley,0.28
+Spain,1999,Maize,Barley,0.28
+Spain,2000,Maize,Barley,0.28
+Spain,2001,Maize,Barley,0.28
+Spain,2002,Maize,Barley,0.28
+Spain,2003,Maize,Barley,0.28
+Spain,2004,Maize,Barley,0.28
+Spain,2005,Maize,Barley,0.28
+Spain,2006,Maize,Barley,0.28
+Spain,2007,Maize,Barley,0.28
+Spain,2008,Maize,Barley,0.28
+Spain,2009,Maize,Barley,0.28
+Spain,2010,Maize,Barley,0.28
+Spain,2011,Maize,Barley,0.28
+Spain,2012,Maize,Barley,0.28
+Spain,2013,Maize,Barley,0.28
+Sri Lanka,1990,Maize,Wheat,0.31
+Sri Lanka,1991,Maize,Wheat,0.31
+Sri Lanka,1992,Maize,Wheat,0.29
+Sri Lanka,1993,Maize,Wheat,0.31
+Sri Lanka,1994,Maize,Wheat,0.31
+Sri Lanka,1995,Maize,Wheat,0.31
+Sri Lanka,1996,Maize,Wheat,0.31
+Sri Lanka,1997,Maize,Wheat,0.31
+Sri Lanka,1998,Maize,Wheat,0.32
+Sri Lanka,1999,Maize,Wheat,0.3
+Sri Lanka,2000,Maize,Wheat,0.31
+Sri Lanka,2001,Maize,Wheat,0.31
+Sri Lanka,2002,Maize,Wheat,0.32
+Sri Lanka,2003,Maize,Wheat,0.32
+Sri Lanka,2004,Maize,Wheat,0.31
+Sri Lanka,2005,Maize,Wheat,0.32
+Sri Lanka,2006,Maize,Wheat,0.31
+Sri Lanka,2007,Maize,Wheat,0.31
+Sri Lanka,2008,Maize,Wheat,0.31
+Sri Lanka,2009,Maize,Wheat,0.32
+Sri Lanka,2010,Maize,Wheat,0.32
+Sri Lanka,2011,Maize,Wheat,0.31
+Sri Lanka,2012,Maize,Wheat,0.32
+Sri Lanka,2013,Maize,Wheat,0.32
+Sudan,2012,Wheat,Wheat,0.43
+Sudan,2013,Wheat,Wheat,0.43
+Sudan (former),1990,Wheat,Barley,0.37
+Sudan (former),1991,Wheat,Barley,0.37
+Sudan (former),1992,Wheat,Barley,0.37
+Sudan (former),1993,Wheat,Barley,0.37
+Sudan (former),1994,Wheat,Barley,0.37
+Sudan (former),1995,Wheat,Barley,0.37
+Sudan (former),1996,Wheat,Barley,0.37
+Sudan (former),1997,Wheat,Barley,0.37
+Sudan (former),1998,Wheat,Barley,0.37
+Sudan (former),1999,Wheat,Barley,0.37
+Sudan (former),2000,Wheat,Barley,0.37
+Sudan (former),2001,Wheat,Barley,0.37
+Sudan (former),2002,Wheat,Barley,0.37
+Sudan (former),2003,Wheat,Barley,0.37
+Sudan (former),2004,Wheat,Barley,0.37
+Sudan (former),2005,Wheat,Barley,0.37
+Sudan (former),2006,Wheat,Barley,0.37
+Sudan (former),2007,Wheat,Barley,0.37
+Sudan (former),2008,Maize,Barley,0.28
+Sudan (former),2009,Maize,Barley,0.28
+Sudan (former),2010,Wheat,Barley,0.37
+Sudan (former),2011,Wheat,Barley,0.37
+Suriname,1990,Maize,Wheat,0.32
+Suriname,1991,Maize,Wheat,0.32
+Suriname,1992,Maize,Wheat,0.32
+Suriname,1993,Maize,Wheat,0.32
+Suriname,1994,Maize,Wheat,0.32
+Suriname,1995,Maize,Wheat,0.34
+Suriname,1996,Maize,Wheat,0.32
+Suriname,1997,Maize,Wheat,0.32
+Suriname,1998,Maize,Wheat,0.34
+Suriname,1999,Maize,Wheat,0.32
+Suriname,2000,Maize,Wheat,0.32
+Suriname,2001,Maize,Wheat,0.32
+Suriname,2002,Maize,Wheat,0.32
+Suriname,2003,Maize,Wheat,0.34
+Suriname,2004,Maize,Wheat,0.34
+Suriname,2005,Maize,Wheat,0.35
+Suriname,2006,Maize,Wheat,0.34
+Suriname,2007,Maize,Wheat,0.32
+Suriname,2008,Maize,Wheat,0.32
+Suriname,2009,Maize,Wheat,0.34
+Suriname,2010,Maize,Wheat,0.35
+Suriname,2011,Maize,Wheat,0.34
+Suriname,2012,Maize,Wheat,0.34
+Suriname,2013,Maize,Wheat,0.32
+Sweden,1990,Wheat,Barley,0.37
+Sweden,1991,Wheat,Barley,0.37
+Sweden,1992,Wheat,Barley,0.37
+Sweden,1993,Wheat,Barley,0.37
+Sweden,1994,Wheat,Barley,0.37
+Sweden,1995,Wheat,Barley,0.37
+Sweden,1996,Wheat,Barley,0.37
+Sweden,1997,Wheat,Barley,0.37
+Sweden,1998,Wheat,Barley,0.37
+Sweden,1999,Wheat,Barley,0.37
+Sweden,2000,Wheat,Barley,0.37
+Sweden,2001,Wheat,Barley,0.37
+Sweden,2002,Wheat,Barley,0.37
+Sweden,2003,Wheat,Barley,0.37
+Sweden,2004,Wheat,Barley,0.37
+Sweden,2005,Wheat,Barley,0.37
+Sweden,2006,Wheat,Barley,0.37
+Sweden,2007,Wheat,Barley,0.37
+Sweden,2008,Wheat,Barley,0.37
+Sweden,2009,Wheat,Barley,0.37
+Sweden,2010,Wheat,Barley,0.37
+Sweden,2011,Wheat,Barley,0.37
+Sweden,2012,Wheat,Barley,0.37
+Sweden,2013,Wheat,Barley,0.37
+Switzerland,1990,Maize,Barley,0.28
+Switzerland,1991,Maize,Barley,0.28
+Switzerland,1992,Maize,Barley,0.28
+Switzerland,1993,Maize,Barley,0.28
+Switzerland,1994,Maize,Barley,0.28
+Switzerland,1995,Maize,Barley,0.28
+Switzerland,1996,Maize,Barley,0.28
+Switzerland,1997,Maize,Barley,0.28
+Switzerland,1998,Maize,Barley,0.28
+Switzerland,1999,Maize,Barley,0.28
+Switzerland,2000,Maize,Barley,0.28
+Switzerland,2001,Maize,Barley,0.28
+Switzerland,2002,Maize,Barley,0.28
+Switzerland,2003,Wheat,Barley,0.37
+Switzerland,2004,Maize,Barley,0.28
+Switzerland,2005,Maize,Barley,0.28
+Switzerland,2006,Maize,Barley,0.28
+Switzerland,2007,Maize,Barley,0.28
+Switzerland,2008,Maize,Barley,0.28
+Switzerland,2009,Maize,Barley,0.28
+Switzerland,2010,Maize,Barley,0.28
+Switzerland,2011,Maize,Barley,0.28
+Switzerland,2012,Maize,Barley,0.28
+Switzerland,2013,Maize,Barley,0.28
+Syrian Arab Republic,1990,Maize,Barley,0.28
+Syrian Arab Republic,1991,Maize,Barley,0.28
+Syrian Arab Republic,1992,Maize,Barley,0.28
+Syrian Arab Republic,1993,Maize,Barley,0.28
+Syrian Arab Republic,1994,Maize,Barley,0.28
+Syrian Arab Republic,1995,Maize,Barley,0.28
+Syrian Arab Republic,1996,Maize,Barley,0.28
+Syrian Arab Republic,1997,Maize,Barley,0.28
+Syrian Arab Republic,1998,Maize,Barley,0.28
+Syrian Arab Republic,1999,Maize,Barley,0.28
+Syrian Arab Republic,2000,Maize,Barley,0.28
+Syrian Arab Republic,2001,Maize,Barley,0.28
+Syrian Arab Republic,2002,Maize,Barley,0.28
+Syrian Arab Republic,2003,Maize,Barley,0.28
+Syrian Arab Republic,2004,Maize,Barley,0.28
+Syrian Arab Republic,2005,Maize,Barley,0.28
+Syrian Arab Republic,2006,Maize,Barley,0.28
+Syrian Arab Republic,2007,Maize,Barley,0.28
+Syrian Arab Republic,2008,Maize,Barley,0.28
+Syrian Arab Republic,2009,Maize,Barley,0.28
+Syrian Arab Republic,2010,Maize,Barley,0.28
+Syrian Arab Republic,2011,Maize,Barley,0.28
+Syrian Arab Republic,2012,Maize,Barley,0.28
+Syrian Arab Republic,2013,Maize,Barley,0.28
+Tajikistan,1992,Maize,Barley,0.28
+Tajikistan,1993,Maize,Barley,0.28
+Tajikistan,1994,Maize,Barley,0.28
+Tajikistan,1995,Maize,Barley,0.28
+Tajikistan,1996,Maize,Barley,0.28
+Tajikistan,1997,Maize,Barley,0.28
+Tajikistan,1998,Maize,Barley,0.28
+Tajikistan,1999,Maize,Barley,0.28
+Tajikistan,2000,Maize,Barley,0.28
+Tajikistan,2001,Maize,Barley,0.28
+Tajikistan,2002,Maize,Barley,0.28
+Tajikistan,2003,Maize,Barley,0.28
+Tajikistan,2004,Maize,Barley,0.28
+Tajikistan,2005,Maize,Barley,0.28
+Tajikistan,2006,Maize,Barley,0.28
+Tajikistan,2007,Maize,Barley,0.28
+Tajikistan,2008,Maize,Barley,0.28
+Tajikistan,2009,Maize,Barley,0.28
+Tajikistan,2010,Maize,Barley,0.28
+Tajikistan,2011,Maize,Barley,0.28
+Tajikistan,2012,Maize,Barley,0.28
+Tajikistan,2013,Maize,Barley,0.28
+Thailand,1990,Maize,Wheat,0.35
+Thailand,1991,Maize,Wheat,0.35
+Thailand,1992,Maize,Wheat,0.34
+Thailand,1993,Maize,Wheat,0.34
+Thailand,1994,Maize,Wheat,0.35
+Thailand,1995,Maize,Wheat,0.35
+Thailand,1996,Maize,Wheat,0.34
+Thailand,1997,Maize,Wheat,0.34
+Thailand,1998,Maize,Wheat,0.34
+Thailand,1999,Maize,Wheat,0.34
+Thailand,2000,Maize,Wheat,0.34
+Thailand,2001,Maize,Wheat,0.35
+Thailand,2002,Maize,Wheat,0.35
+Thailand,2003,Maize,Wheat,0.35
+Thailand,2004,Maize,Wheat,0.35
+Thailand,2005,Maize,Wheat,0.35
+Thailand,2006,Maize,Wheat,0.35
+Thailand,2007,Maize,Wheat,0.35
+Thailand,2008,Maize,Wheat,0.34
+Thailand,2009,Maize,Wheat,0.35
+Thailand,2010,Maize,Wheat,0.34
+Thailand,2011,Maize,Wheat,0.34
+Thailand,2012,Maize,Wheat,0.34
+Thailand,2013,Maize,Wheat,0.34
+The former Yugoslav Republic of Macedonia,1992,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1993,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1994,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1995,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1996,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1997,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1998,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,1999,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2000,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2001,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2002,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2003,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2004,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2005,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2006,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2007,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2008,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2009,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2010,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2011,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2012,Maize,Barley,0.28
+The former Yugoslav Republic of Macedonia,2013,Maize,Barley,0.28
+Timor-Leste,1990,Maize,Barley,0.28
+Timor-Leste,1991,Maize,Barley,0.28
+Timor-Leste,1992,Maize,Barley,0.28
+Timor-Leste,1993,Maize,Barley,0.28
+Timor-Leste,1994,Maize,Barley,0.28
+Timor-Leste,1995,Maize,Barley,0.28
+Timor-Leste,1996,Maize,Barley,0.28
+Timor-Leste,1997,Maize,Barley,0.28
+Timor-Leste,1998,Maize,Barley,0.28
+Timor-Leste,1999,Maize,Barley,0.28
+Timor-Leste,2000,Maize,Barley,0.28
+Timor-Leste,2001,Maize,Barley,0.28
+Timor-Leste,2002,Maize,Barley,0.28
+Timor-Leste,2003,Maize,Barley,0.28
+Timor-Leste,2004,Maize,Barley,0.28
+Timor-Leste,2005,Maize,Barley,0.28
+Timor-Leste,2006,Maize,Barley,0.28
+Timor-Leste,2007,Maize,Barley,0.28
+Timor-Leste,2008,Maize,Barley,0.28
+Timor-Leste,2009,Maize,Barley,0.28
+Timor-Leste,2010,Maize,Barley,0.28
+Timor-Leste,2011,Maize,Barley,0.28
+Timor-Leste,2012,Maize,Barley,0.28
+Timor-Leste,2013,Maize,Barley,0.28
+Togo,1990,Maize,Barley,0.28
+Togo,1991,Maize,Barley,0.28
+Togo,1992,Maize,Barley,0.28
+Togo,1993,Maize,Barley,0.28
+Togo,1994,Maize,Barley,0.28
+Togo,1995,Sorghum,Wheat,0.34
+Togo,1996,Maize,Barley,0.28
+Togo,1997,Maize,Barley,0.28
+Togo,1998,Maize,Barley,0.28
+Togo,1999,Maize,Barley,0.28
+Togo,2000,Maize,Barley,0.28
+Togo,2001,Maize,Barley,0.28
+Togo,2002,Maize,Barley,0.28
+Togo,2003,Maize,Barley,0.28
+Togo,2004,Maize,Barley,0.28
+Togo,2005,Maize,Barley,0.28
+Togo,2006,Maize,Barley,0.28
+Togo,2007,Maize,Barley,0.28
+Togo,2008,Maize,Barley,0.28
+Togo,2009,Maize,Barley,0.28
+Togo,2010,Maize,Barley,0.28
+Togo,2011,Maize,Barley,0.28
+Togo,2012,Maize,Barley,0.28
+Togo,2013,Sorghum,Wheat,0.34
+Trinidad and Tobago,1990,Maize,Barley,0.28
+Trinidad and Tobago,1991,Maize,Barley,0.28
+Trinidad and Tobago,1992,Maize,Barley,0.28
+Trinidad and Tobago,1993,Maize,Barley,0.28
+Trinidad and Tobago,1994,Maize,Barley,0.28
+Trinidad and Tobago,1995,Maize,Barley,0.28
+Trinidad and Tobago,1996,Maize,Barley,0.28
+Trinidad and Tobago,1997,Maize,Barley,0.28
+Trinidad and Tobago,1998,Maize,Barley,0.28
+Trinidad and Tobago,1999,Maize,Barley,0.28
+Trinidad and Tobago,2000,Maize,Barley,0.28
+Trinidad and Tobago,2001,Maize,Barley,0.28
+Trinidad and Tobago,2002,Maize,Barley,0.28
+Trinidad and Tobago,2003,Maize,Barley,0.28
+Trinidad and Tobago,2004,Maize,Barley,0.28
+Trinidad and Tobago,2005,Maize,Barley,0.28
+Trinidad and Tobago,2006,Maize,Barley,0.28
+Trinidad and Tobago,2007,Maize,Barley,0.28
+Trinidad and Tobago,2008,Maize,Barley,0.28
+Trinidad and Tobago,2009,Maize,Barley,0.28
+Trinidad and Tobago,2010,Maize,Barley,0.28
+Trinidad and Tobago,2011,Maize,Barley,0.28
+Trinidad and Tobago,2012,Maize,Barley,0.28
+Trinidad and Tobago,2013,Maize,Barley,0.28
+Tunisia,1990,Wheat,Barley,0.37
+Tunisia,1991,Wheat,Barley,0.37
+Tunisia,1992,Wheat,Barley,0.37
+Tunisia,1993,Wheat,Barley,0.37
+Tunisia,1994,Wheat,Barley,0.37
+Tunisia,1995,Wheat,Barley,0.37
+Tunisia,1996,Wheat,Barley,0.37
+Tunisia,1997,Wheat,Barley,0.37
+Tunisia,1998,Wheat,Barley,0.37
+Tunisia,1999,Wheat,Barley,0.37
+Tunisia,2000,Wheat,Barley,0.37
+Tunisia,2001,Wheat,Barley,0.37
+Tunisia,2002,Wheat,Barley,0.37
+Tunisia,2003,Wheat,Barley,0.37
+Tunisia,2004,Wheat,Barley,0.37
+Tunisia,2005,Wheat,Barley,0.37
+Tunisia,2006,Wheat,Barley,0.37
+Tunisia,2007,Wheat,Barley,0.37
+Tunisia,2008,Wheat,Barley,0.37
+Tunisia,2009,Wheat,Barley,0.37
+Tunisia,2010,Wheat,Barley,0.37
+Tunisia,2011,Wheat,Barley,0.37
+Tunisia,2012,Wheat,Barley,0.37
+Tunisia,2013,Wheat,Barley,0.37
+Turkey,1990,Maize,Barley,0.28
+Turkey,1991,Maize,Barley,0.28
+Turkey,1992,Maize,Barley,0.28
+Turkey,1993,Maize,Barley,0.28
+Turkey,1994,Maize,Barley,0.28
+Turkey,1995,Maize,Barley,0.28
+Turkey,1996,Maize,Barley,0.28
+Turkey,1997,Maize,Barley,0.28
+Turkey,1998,Maize,Barley,0.28
+Turkey,1999,Maize,Barley,0.28
+Turkey,2000,Maize,Barley,0.28
+Turkey,2001,Maize,Barley,0.28
+Turkey,2002,Maize,Barley,0.28
+Turkey,2003,Maize,Barley,0.28
+Turkey,2004,Maize,Barley,0.28
+Turkey,2005,Maize,Barley,0.28
+Turkey,2006,Maize,Barley,0.28
+Turkey,2007,Maize,Barley,0.28
+Turkey,2008,Maize,Barley,0.28
+Turkey,2009,Maize,Barley,0.28
+Turkey,2010,Maize,Barley,0.28
+Turkey,2011,Maize,Barley,0.28
+Turkey,2012,Sorghum,Wheat,0.34
+Turkey,2013,Maize,Barley,0.28
+Turkmenistan,1992,Maize,Barley,0.28
+Turkmenistan,1993,Maize,Barley,0.28
+Turkmenistan,1994,Maize,Barley,0.28
+Turkmenistan,1995,Maize,Barley,0.28
+Turkmenistan,1996,Wheat,Barley,0.37
+Turkmenistan,1997,Wheat,Barley,0.37
+Turkmenistan,1998,Wheat,Barley,0.37
+Turkmenistan,1999,Wheat,Barley,0.37
+Turkmenistan,2000,Wheat,Barley,0.37
+Turkmenistan,2001,Wheat,Barley,0.37
+Turkmenistan,2002,Wheat,Barley,0.37
+Turkmenistan,2003,Wheat,Barley,0.37
+Turkmenistan,2004,Wheat,Barley,0.37
+Turkmenistan,2005,Wheat,Barley,0.37
+Turkmenistan,2006,Wheat,Barley,0.37
+Turkmenistan,2007,Maize,Barley,0.28
+Turkmenistan,2008,Maize,Barley,0.28
+Turkmenistan,2009,Maize,Barley,0.28
+Turkmenistan,2010,Maize,Barley,0.28
+Turkmenistan,2011,Maize,Barley,0.28
+Turkmenistan,2012,Maize,Barley,0.28
+Turkmenistan,2013,Wheat,Barley,0.37
+USSR,1990,Maize,Barley,0.28
+USSR,1991,Maize,Barley,0.28
+Uganda,1990,Wheat,Barley,0.36
+Uganda,1991,Wheat,Barley,0.37
+Uganda,1992,Wheat,Barley,0.4
+Uganda,1993,Wheat,Barley,0.4
+Uganda,1994,Wheat,Barley,0.39
+Uganda,1995,Wheat,Barley,0.4
+Uganda,1996,Wheat,Barley,0.4
+Uganda,1997,Wheat,Barley,0.36
+Uganda,1998,Wheat,Barley,0.41
+Uganda,1999,Wheat,Barley,0.4
+Uganda,2000,Maize,Wheat,0.34
+Uganda,2001,Maize,Wheat,0.3
+Uganda,2002,Maize,Wheat,0.34
+Uganda,2003,Maize,Wheat,0.37
+Uganda,2004,Wheat,Barley,0.36
+Uganda,2005,Wheat,Barley,0.36
+Uganda,2006,Wheat,Barley,0.4
+Uganda,2007,Wheat,Barley,0.4
+Uganda,2008,Maize,Wheat,0.34
+Uganda,2009,Maize,Wheat,0.37
+Uganda,2010,Maize,Wheat,0.37
+Uganda,2011,Maize,Wheat,0.34
+Uganda,2012,Maize,Wheat,0.37
+Uganda,2013,Maize,Wheat,0.37
+Ukraine,1992,Wheat,Barley,0.37
+Ukraine,1993,Wheat,Barley,0.37
+Ukraine,1994,Wheat,Barley,0.37
+Ukraine,1995,Wheat,Barley,0.37
+Ukraine,1996,Maize,Barley,0.28
+Ukraine,1997,Maize,Barley,0.28
+Ukraine,1998,Wheat,Barley,0.37
+Ukraine,1999,Maize,Barley,0.28
+Ukraine,2000,Maize,Barley,0.28
+Ukraine,2001,Maize,Barley,0.28
+Ukraine,2002,Maize,Barley,0.28
+Ukraine,2003,Maize,Barley,0.28
+Ukraine,2004,Maize,Barley,0.28
+Ukraine,2005,Maize,Barley,0.28
+Ukraine,2006,Maize,Barley,0.28
+Ukraine,2007,Maize,Barley,0.28
+Ukraine,2008,Maize,Barley,0.28
+Ukraine,2009,Maize,Barley,0.28
+Ukraine,2010,Maize,Barley,0.28
+Ukraine,2011,Maize,Barley,0.28
+Ukraine,2012,Maize,Barley,0.28
+Ukraine,2013,Maize,Barley,0.28
+United Arab Emirates,1990,Wheat,Wheat,0.38
+United Arab Emirates,1991,Maize,Wheat,0.31
+United Arab Emirates,1992,Maize,Wheat,0.29
+United Arab Emirates,1993,Maize,Wheat,0.32
+United Arab Emirates,1994,Maize,Wheat,0.32
+United Arab Emirates,1995,Maize,Wheat,0.32
+United Arab Emirates,1996,Maize,Wheat,0.32
+United Arab Emirates,1997,Maize,Wheat,0.32
+United Arab Emirates,1998,Maize,Wheat,0.34
+United Arab Emirates,1999,Maize,Wheat,0.34
+United Arab Emirates,2000,Maize,Wheat,0.35
+United Arab Emirates,2001,Maize,Wheat,0.35
+United Arab Emirates,2002,Maize,Wheat,0.35
+United Arab Emirates,2003,Maize,Wheat,0.34
+United Arab Emirates,2004,Maize,Wheat,0.34
+United Arab Emirates,2005,Maize,Wheat,0.35
+United Arab Emirates,2006,Maize,Wheat,0.35
+United Arab Emirates,2007,Maize,Wheat,0.34
+United Arab Emirates,2008,Maize,Wheat,0.34
+United Arab Emirates,2009,Maize,Wheat,0.34
+United Arab Emirates,2010,Maize,Wheat,0.34
+United Arab Emirates,2011,Maize,Wheat,0.34
+United Arab Emirates,2012,Maize,Wheat,0.34
+United Arab Emirates,2013,Maize,Wheat,0.34
+United Kingdom,1990,Wheat,Barley,0.37
+United Kingdom,1991,Wheat,Barley,0.37
+United Kingdom,1992,Wheat,Barley,0.37
+United Kingdom,1993,Wheat,Barley,0.37
+United Kingdom,1994,Wheat,Barley,0.37
+United Kingdom,1995,Wheat,Barley,0.37
+United Kingdom,1996,Wheat,Barley,0.37
+United Kingdom,1997,Wheat,Barley,0.37
+United Kingdom,1998,Wheat,Barley,0.37
+United Kingdom,1999,Wheat,Barley,0.37
+United Kingdom,2000,Wheat,Barley,0.37
+United Kingdom,2001,Wheat,Barley,0.37
+United Kingdom,2002,Wheat,Barley,0.37
+United Kingdom,2003,Wheat,Barley,0.37
+United Kingdom,2004,Wheat,Barley,0.37
+United Kingdom,2005,Wheat,Barley,0.37
+United Kingdom,2006,Wheat,Barley,0.37
+United Kingdom,2007,Wheat,Barley,0.37
+United Kingdom,2008,Wheat,Barley,0.37
+United Kingdom,2009,Wheat,Barley,0.37
+United Kingdom,2010,Wheat,Barley,0.37
+United Kingdom,2011,Wheat,Barley,0.37
+United Kingdom,2012,Wheat,Barley,0.37
+United Kingdom,2013,Wheat,Barley,0.37
+United Republic of Tanzania,1990,Wheat,Barley,0.37
+United Republic of Tanzania,1991,Wheat,Barley,0.37
+United Republic of Tanzania,1992,Wheat,Barley,0.37
+United Republic of Tanzania,1993,Wheat,Barley,0.37
+United Republic of Tanzania,1994,Maize,Barley,0.28
+United Republic of Tanzania,1995,Maize,Barley,0.28
+United Republic of Tanzania,1996,Maize,Barley,0.28
+United Republic of Tanzania,1997,Wheat,Barley,0.37
+United Republic of Tanzania,1998,Maize,Barley,0.28
+United Republic of Tanzania,1999,Maize,Barley,0.28
+United Republic of Tanzania,2000,Maize,Barley,0.28
+United Republic of Tanzania,2001,Maize,Barley,0.28
+United Republic of Tanzania,2002,Maize,Barley,0.28
+United Republic of Tanzania,2003,Wheat,Barley,0.37
+United Republic of Tanzania,2004,Wheat,Barley,0.37
+United Republic of Tanzania,2005,Wheat,Barley,0.37
+United Republic of Tanzania,2006,Wheat,Barley,0.37
+United Republic of Tanzania,2007,Maize,Barley,0.28
+United Republic of Tanzania,2008,Maize,Barley,0.28
+United Republic of Tanzania,2009,Maize,Barley,0.28
+United Republic of Tanzania,2010,Maize,Barley,0.28
+United Republic of Tanzania,2011,Maize,Barley,0.28
+United Republic of Tanzania,2012,Maize,Barley,0.28
+United Republic of Tanzania,2013,Maize,Barley,0.28
+United States of America,1990,Maize,Barley,0.28
+United States of America,1991,Maize,Barley,0.28
+United States of America,1992,Maize,Barley,0.28
+United States of America,1993,Maize,Barley,0.28
+United States of America,1994,Maize,Barley,0.28
+United States of America,1995,Maize,Barley,0.28
+United States of America,1996,Maize,Barley,0.28
+United States of America,1997,Maize,Barley,0.28
+United States of America,1998,Maize,Barley,0.28
+United States of America,1999,Maize,Barley,0.28
+United States of America,2000,Maize,Barley,0.28
+United States of America,2001,Maize,Barley,0.28
+United States of America,2002,Maize,Barley,0.28
+United States of America,2003,Maize,Barley,0.28
+United States of America,2004,Maize,Barley,0.28
+United States of America,2005,Maize,Barley,0.28
+United States of America,2006,Maize,Barley,0.28
+United States of America,2007,Maize,Barley,0.28
+United States of America,2008,Maize,Barley,0.28
+United States of America,2009,Maize,Barley,0.28
+United States of America,2010,Maize,Barley,0.28
+United States of America,2011,Maize,Barley,0.28
+United States of America,2012,Maize,Barley,0.28
+United States of America,2013,Maize,Barley,0.28
+Uruguay,1990,Sorghum,Wheat,0.34
+Uruguay,1991,Sorghum,Wheat,0.34
+Uruguay,1992,Sorghum,Wheat,0.34
+Uruguay,1993,Sorghum,Wheat,0.34
+Uruguay,1994,Sorghum,Wheat,0.34
+Uruguay,1995,Sorghum,Wheat,0.34
+Uruguay,1996,Sorghum,Wheat,0.34
+Uruguay,1997,Sorghum,Wheat,0.34
+Uruguay,1998,Maize,Barley,0.28
+Uruguay,1999,Maize,Barley,0.28
+Uruguay,2000,Wheat,Barley,0.37
+Uruguay,2001,Maize,Barley,0.28
+Uruguay,2002,Maize,Barley,0.28
+Uruguay,2003,Maize,Barley,0.28
+Uruguay,2004,Maize,Barley,0.28
+Uruguay,2005,Sorghum,Wheat,0.34
+Uruguay,2006,Maize,Barley,0.28
+Uruguay,2007,Maize,Barley,0.28
+Uruguay,2008,Maize,Barley,0.28
+Uruguay,2009,Sorghum,Wheat,0.34
+Uruguay,2010,Maize,Barley,0.28
+Uruguay,2011,Sorghum,Wheat,0.34
+Uruguay,2012,Maize,Barley,0.28
+Uruguay,2013,Maize,Barley,0.28
+Uzbekistan,1992,Maize,Barley,0.28
+Uzbekistan,1993,Maize,Barley,0.28
+Uzbekistan,1994,Maize,Barley,0.28
+Uzbekistan,1995,Maize,Barley,0.28
+Uzbekistan,1996,Maize,Barley,0.28
+Uzbekistan,1997,Maize,Barley,0.28
+Uzbekistan,1998,Maize,Barley,0.28
+Uzbekistan,1999,Sorghum,Wheat,0.34
+Uzbekistan,2000,Sorghum,Wheat,0.34
+Uzbekistan,2001,Sorghum,Wheat,0.34
+Uzbekistan,2002,Maize,Barley,0.28
+Uzbekistan,2003,Maize,Barley,0.28
+Uzbekistan,2004,Maize,Barley,0.28
+Uzbekistan,2005,Maize,Barley,0.28
+Uzbekistan,2006,Maize,Barley,0.28
+Uzbekistan,2007,Maize,Barley,0.28
+Uzbekistan,2008,Maize,Barley,0.28
+Uzbekistan,2009,Maize,Barley,0.28
+Uzbekistan,2010,Maize,Barley,0.28
+Uzbekistan,2011,Maize,Barley,0.28
+Uzbekistan,2012,Sorghum,Wheat,0.34
+Uzbekistan,2013,Sorghum,Wheat,0.34
+Vanuatu,1990,Maize,Barley,0.28
+Vanuatu,1991,Maize,Barley,0.28
+Vanuatu,1992,Maize,Barley,0.28
+Vanuatu,1993,Maize,Barley,0.28
+Vanuatu,1994,Maize,Barley,0.28
+Vanuatu,1995,Maize,Barley,0.28
+Vanuatu,1996,Maize,Barley,0.28
+Vanuatu,1997,Maize,Barley,0.28
+Vanuatu,1998,Maize,Barley,0.28
+Vanuatu,1999,Maize,Barley,0.28
+Vanuatu,2000,Maize,Barley,0.28
+Vanuatu,2001,Maize,Barley,0.28
+Vanuatu,2002,Maize,Barley,0.28
+Vanuatu,2003,Maize,Barley,0.28
+Vanuatu,2004,Maize,Barley,0.28
+Vanuatu,2005,Maize,Barley,0.28
+Vanuatu,2006,Maize,Barley,0.28
+Vanuatu,2007,Maize,Barley,0.28
+Vanuatu,2008,Maize,Barley,0.28
+Vanuatu,2009,Maize,Barley,0.28
+Vanuatu,2010,Maize,Barley,0.28
+Vanuatu,2011,Maize,Barley,0.28
+Vanuatu,2012,Maize,Barley,0.28
+Vanuatu,2013,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1990,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1991,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1992,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1993,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1994,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1995,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1996,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1997,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1998,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),1999,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2000,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2001,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2002,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2003,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2004,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2005,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2006,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2007,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2008,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2009,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2010,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2011,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2012,Maize,Barley,0.28
+Venezuela (Bolivarian Republic of),2013,Maize,Barley,0.28
+Viet Nam,1990,Maize,Barley,0.28
+Viet Nam,1991,Maize,Barley,0.28
+Viet Nam,1992,Maize,Barley,0.28
+Viet Nam,1993,Maize,Barley,0.28
+Viet Nam,1994,Maize,Barley,0.28
+Viet Nam,1995,Maize,Barley,0.28
+Viet Nam,1996,Maize,Barley,0.28
+Viet Nam,1997,Maize,Barley,0.28
+Viet Nam,1998,Maize,Barley,0.28
+Viet Nam,1999,Maize,Barley,0.28
+Viet Nam,2000,Maize,Barley,0.28
+Viet Nam,2001,Maize,Barley,0.28
+Viet Nam,2002,Maize,Barley,0.28
+Viet Nam,2003,Maize,Barley,0.28
+Viet Nam,2004,Maize,Barley,0.28
+Viet Nam,2005,Maize,Barley,0.28
+Viet Nam,2006,Maize,Barley,0.28
+Viet Nam,2007,Maize,Barley,0.28
+Viet Nam,2008,Maize,Barley,0.28
+Viet Nam,2009,Maize,Barley,0.28
+Viet Nam,2010,Maize,Barley,0.28
+Viet Nam,2011,Maize,Barley,0.28
+Viet Nam,2012,Maize,Barley,0.28
+Viet Nam,2013,Maize,Barley,0.28
+Yemen,1990,Wheat,Barley,0.37
+Yemen,1991,Maize,Barley,0.28
+Yemen,1992,Wheat,Barley,0.37
+Yemen,1993,Wheat,Barley,0.37
+Yemen,1994,Wheat,Barley,0.37
+Yemen,1995,Wheat,Barley,0.37
+Yemen,1996,Wheat,Barley,0.37
+Yemen,1997,Maize,Barley,0.28
+Yemen,1998,Wheat,Barley,0.37
+Yemen,1999,Wheat,Barley,0.37
+Yemen,2000,Wheat,Barley,0.37
+Yemen,2001,Wheat,Barley,0.37
+Yemen,2002,Wheat,Barley,0.37
+Yemen,2003,Wheat,Barley,0.37
+Yemen,2004,Wheat,Barley,0.37
+Yemen,2005,Wheat,Barley,0.37
+Yemen,2006,Maize,Barley,0.28
+Yemen,2007,Maize,Barley,0.28
+Yemen,2008,Maize,Barley,0.28
+Yemen,2009,Wheat,Barley,0.37
+Yemen,2010,Wheat,Barley,0.37
+Yemen,2011,Wheat,Barley,0.37
+Yemen,2012,Wheat,Barley,0.37
+Yemen,2013,Wheat,Barley,0.37
+Yugoslav SFR,1990,Wheat,Barley,0.37
+Yugoslav SFR,1991,Maize,Barley,0.28
+Zambia,1990,Wheat,Barley,0.37
+Zambia,1991,Wheat,Barley,0.37
+Zambia,1992,Wheat,Barley,0.37
+Zambia,1993,Wheat,Barley,0.37
+Zambia,1994,Wheat,Barley,0.37
+Zambia,1995,Wheat,Barley,0.37
+Zambia,1996,Wheat,Barley,0.37
+Zambia,1997,Wheat,Barley,0.37
+Zambia,1998,Wheat,Barley,0.37
+Zambia,1999,Wheat,Barley,0.37
+Zambia,2000,Wheat,Barley,0.37
+Zambia,2001,Wheat,Barley,0.37
+Zambia,2002,Wheat,Barley,0.37
+Zambia,2003,Wheat,Barley,0.37
+Zambia,2004,Wheat,Barley,0.37
+Zambia,2005,Wheat,Barley,0.37
+Zambia,2006,Wheat,Barley,0.37
+Zambia,2007,Wheat,Barley,0.37
+Zambia,2008,Wheat,Barley,0.37
+Zambia,2009,Wheat,Barley,0.37
+Zambia,2010,Wheat,Barley,0.37
+Zambia,2011,Wheat,Barley,0.37
+Zambia,2012,Wheat,Barley,0.37
+Zambia,2013,Wheat,Barley,0.37
+Zimbabwe,1990,Wheat,Barley,0.37
+Zimbabwe,1991,Wheat,Barley,0.37
+Zimbabwe,1992,Wheat,Barley,0.37
+Zimbabwe,1993,Wheat,Barley,0.37
+Zimbabwe,1994,Wheat,Barley,0.37
+Zimbabwe,1995,Wheat,Barley,0.37
+Zimbabwe,1996,Wheat,Barley,0.37
+Zimbabwe,1997,Wheat,Barley,0.37
+Zimbabwe,1998,Wheat,Barley,0.37
+Zimbabwe,1999,Wheat,Barley,0.37
+Zimbabwe,2000,Wheat,Barley,0.37
+Zimbabwe,2001,Wheat,Barley,0.37
+Zimbabwe,2002,Wheat,Barley,0.37
+Zimbabwe,2003,Wheat,Barley,0.37
+Zimbabwe,2004,Wheat,Barley,0.37
+Zimbabwe,2005,Wheat,Barley,0.37
+Zimbabwe,2006,Wheat,Barley,0.37
+Zimbabwe,2007,Wheat,Barley,0.37
+Zimbabwe,2008,Wheat,Barley,0.37
+Zimbabwe,2009,Wheat,Barley,0.37
+Zimbabwe,2010,Wheat,Barley,0.37
+Zimbabwe,2011,Wheat,Barley,0.37
+Zimbabwe,2012,Wheat,Barley,0.37
+Zimbabwe,2013,Wheat,Barley,0.37

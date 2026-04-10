@@ -1,0 +1,11 @@
+{
+  "total_observations": 4057,
+  "valid_observations": 4043,
+  "outliers_removed": 14,
+  "outlier_percentage": 0.35,
+  "volatility_thresholds": {
+    "median": 0.195,
+    "lower_bound": -0.8327,
+    "upper_bound": 1.2226
+  }
+}

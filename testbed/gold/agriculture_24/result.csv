@@ -1,0 +1,5179 @@
+country_clean,Year,top_crop,climate_plausible_crops,pesticide_value,gdp_md
+Albania,1961,Potatoes,,,15279.0
+Albania,1962,Potatoes,,,15279.0
+Albania,1963,Potatoes,,,15279.0
+Albania,1964,Potatoes,,,15279.0
+Albania,1965,Potatoes,,,15279.0
+Albania,1966,Potatoes,,,15279.0
+Albania,1967,Potatoes,,,15279.0
+Albania,1968,Potatoes,,,15279.0
+Albania,1969,Potatoes,,,15279.0
+Albania,1970,Potatoes,,,15279.0
+Albania,1971,Potatoes,,,15279.0
+Albania,1972,Potatoes,,,15279.0
+Albania,1973,Potatoes,,,15279.0
+Albania,1974,Potatoes,,,15279.0
+Albania,1975,Potatoes,,,15279.0
+Albania,1976,Potatoes,,,15279.0
+Albania,1977,Potatoes,,,15279.0
+Albania,1978,Potatoes,,,15279.0
+Albania,1979,Potatoes,,,15279.0
+Albania,1980,Potatoes,,,15279.0
+Albania,1981,Potatoes,,,15279.0
+Albania,1982,Potatoes,,,15279.0
+Albania,1983,Potatoes,,,15279.0
+Albania,1984,Potatoes,,,15279.0
+Albania,1985,Potatoes,,,15279.0
+Albania,1986,Potatoes,,,15279.0
+Albania,1987,Potatoes,,,15279.0
+Albania,1988,Potatoes,,,15279.0
+Albania,1989,Potatoes,,,15279.0
+Albania,1990,Potatoes,,121.0,15279.0
+Albania,1991,Potatoes,,121.0,15279.0
+Albania,1992,Potatoes,,121.0,15279.0
+Albania,1993,Potatoes,,121.0,15279.0
+Albania,1994,Potatoes,,201.0,15279.0
+Albania,1995,Potatoes,,251.0,15279.0
+Albania,1996,Potatoes,,313.96,15279.0
+Albania,1997,Potatoes,,376.93,15279.0
+Albania,1998,Potatoes,,439.89,15279.0
+Albania,1999,Potatoes,,502.86,15279.0
+Albania,2000,Potatoes,,565.82,15279.0
+Albania,2001,Potatoes,,628.79,15279.0
+Albania,2002,Potatoes,,691.75,15279.0
+Albania,2003,Potatoes,,754.71,15279.0
+Albania,2004,Potatoes,,817.68,15279.0
+Albania,2005,Potatoes,,880.64,15279.0
+Albania,2006,Potatoes,,943.61,15279.0
+Albania,2007,Potatoes,,1006.57,15279.0
+Albania,2008,Potatoes,,1069.54,15279.0
+Albania,2009,Potatoes,,1132.5,15279.0
+Albania,2010,Potatoes,,1311.17,15279.0
+Albania,2011,Potatoes,,1302.63,15279.0
+Albania,2012,Potatoes,,766.25,15279.0
+Albania,2013,Potatoes,,982.32,15279.0
+Albania,2014,Potatoes,,1365.34,15279.0
+Albania,2015,Potatoes,,1300.84,15279.0
+Albania,2016,Potatoes,,1419.44,15279.0
+American Samoa,1961,Cassava,,,636.0
+American Samoa,1962,Cassava,,,636.0
+American Samoa,1963,Cassava,,,636.0
+American Samoa,1964,Cassava,,,636.0
+American Samoa,1965,Cassava,,,636.0
+American Samoa,1966,Cassava,,,636.0
+American Samoa,1967,Cassava,,,636.0
+American Samoa,1968,Cassava,,,636.0
+American Samoa,1969,Cassava,,,636.0
+American Samoa,1970,Cassava,,,636.0
+American Samoa,1971,Cassava,,,636.0
+American Samoa,1972,Cassava,,,636.0
+American Samoa,1973,Cassava,,,636.0
+American Samoa,1974,Cassava,,,636.0
+American Samoa,1975,Cassava,,,636.0
+American Samoa,1976,Cassava,,,636.0
+American Samoa,1977,Cassava,,,636.0
+American Samoa,1978,Cassava,,,636.0
+American Samoa,1979,Cassava,,,636.0
+American Samoa,1980,Cassava,,,636.0
+American Samoa,1981,Cassava,,,636.0
+American Samoa,1982,Cassava,,,636.0
+American Samoa,1983,Cassava,,,636.0
+American Samoa,1984,Cassava,,,636.0
+American Samoa,1985,Cassava,,,636.0
+American Samoa,1986,Cassava,,,636.0
+American Samoa,1987,Cassava,,,636.0
+American Samoa,1988,Cassava,,,636.0
+American Samoa,1989,Cassava,,,636.0
+American Samoa,1990,Yams,,,636.0
+American Samoa,1991,Cassava,,,636.0
+American Samoa,1992,Cassava,,,636.0
+American Samoa,1993,Cassava,,,636.0
+American Samoa,1994,Cassava,,,636.0
+American Samoa,1995,Cassava,,,636.0
+American Samoa,1996,Cassava,,,636.0
+American Samoa,1997,Yams,,,636.0
+American Samoa,1998,Yams,,,636.0
+American Samoa,1999,Cassava,,,636.0
+American Samoa,2000,Cassava,,,636.0
+American Samoa,2001,Cassava,,,636.0
+American Samoa,2002,Cassava,,,636.0
+American Samoa,2003,Cassava,,,636.0
+American Samoa,2004,Cassava,,,636.0
+American Samoa,2005,Cassava,,,636.0
+American Samoa,2006,Cassava,,,636.0
+American Samoa,2007,Cassava,,,636.0
+American Samoa,2008,Cassava,,,636.0
+American Samoa,2009,Cassava,,,636.0
+American Samoa,2010,Cassava,,,636.0
+American Samoa,2011,Cassava,,,636.0
+American Samoa,2012,Cassava,,,636.0
+American Samoa,2013,Cassava,,,636.0
+American Samoa,2014,Cassava,,,636.0
+American Samoa,2015,Cassava,,,636.0
+American Samoa,2016,Cassava,,,636.0
+Antigua and Barbuda,1961,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1962,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1963,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1964,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1965,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1966,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1967,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1968,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1969,Yams,,,1661.0
+Antigua and Barbuda,1970,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1971,Yams,,,1661.0
+Antigua and Barbuda,1972,Yams,,,1661.0
+Antigua and Barbuda,1973,Yams,,,1661.0
+Antigua and Barbuda,1974,Yams,,,1661.0
+Antigua and Barbuda,1975,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1976,Yams,,,1661.0
+Antigua and Barbuda,1977,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1978,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1979,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1980,Cassava,,,1661.0
+Antigua and Barbuda,1981,Cassava,,,1661.0
+Antigua and Barbuda,1982,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1983,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1984,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1985,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1986,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1987,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1988,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1989,Sweet potatoes,,,1661.0
+Antigua and Barbuda,1990,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1991,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1992,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1993,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1994,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1995,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1996,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1997,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1998,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,1999,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2000,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2001,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2002,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2003,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2004,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2005,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2006,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2007,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2008,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2009,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2010,Sweet potatoes,,7.52,1661.0
+Antigua and Barbuda,2011,Sweet potatoes,,39.26,1661.0
+Antigua and Barbuda,2012,Sweet potatoes,,31.5,1661.0
+Antigua and Barbuda,2013,Sweet potatoes,,28.3,1661.0
+Antigua and Barbuda,2014,Sweet potatoes,,27.47,1661.0
+Antigua and Barbuda,2015,Sweet potatoes,,26.64,1661.0
+Antigua and Barbuda,2016,Sweet potatoes,,26.64,1661.0
+Argentina,1995,Potatoes,,37842.0,445445.0
+Argentina,1995,Potatoes,,37842.0,445445.0
+Argentina,1996,Potatoes,,54595.0,445445.0
+Argentina,1996,Potatoes,,54595.0,445445.0
+Argentina,1997,Potatoes,,77691.0,445445.0
+Argentina,1997,Potatoes,,77691.0,445445.0
+Argentina,1998,Potatoes,,62397.0,445445.0
+Argentina,1998,Potatoes,,62397.0,445445.0
+Argentina,1999,Potatoes,,62831.39,445445.0
+Argentina,1999,Potatoes,,62831.39,445445.0
+Argentina,2000,Potatoes,,63265.78,445445.0
+Argentina,2000,Potatoes,,63265.78,445445.0
+Argentina,2001,Potatoes,,63700.17,445445.0
+Argentina,2001,Potatoes,,63700.17,445445.0
+Argentina,2002,Potatoes,,64134.56,445445.0
+Argentina,2002,Potatoes,,64134.56,445445.0
+Argentina,2003,Potatoes,,64568.95,445445.0
+Argentina,2003,Potatoes,,64568.95,445445.0
+Argentina,2004,Potatoes,,65003.34,445445.0
+Argentina,2004,Potatoes,,65003.34,445445.0
+Argentina,2005,Potatoes,,65437.73,445445.0
+Argentina,2005,Potatoes,,65437.73,445445.0
+Argentina,2006,Potatoes,,65872.12,445445.0
+Argentina,2006,Potatoes,,65872.12,445445.0
+Argentina,2007,Potatoes,,81582.64,445445.0
+Argentina,2007,Potatoes,,81582.64,445445.0
+Argentina,2008,Potatoes,,87149.01,445445.0
+Argentina,2008,Potatoes,,87149.01,445445.0
+Argentina,2009,Potatoes,,61586.56,445445.0
+Argentina,2009,Potatoes,,61586.56,445445.0
+Argentina,2010,Potatoes,,105915.04,445445.0
+Argentina,2010,Potatoes,,105915.04,445445.0
+Argentina,2011,Potatoes,,100424.62,445445.0
+Argentina,2011,Potatoes,,100424.62,445445.0
+Argentina,2012,Potatoes,,136185.08,445445.0
+Argentina,2012,Potatoes,,136185.08,445445.0
+Argentina,2013,Potatoes,,171945.54,445445.0
+Argentina,2013,Potatoes,,171945.54,445445.0
+Argentina,2014,Potatoes,,207706.0,445445.0
+Argentina,2015,Potatoes,,207706.0,445445.0
+Argentina,2016,Potatoes,,207706.0,445445.0
+Armenia,1992,Potatoes,,8.0,13672.0
+Armenia,1993,Potatoes,,8.0,13672.0
+Armenia,1994,Potatoes,,23.0,13672.0
+Armenia,1995,Potatoes,,23.9,13672.0
+Armenia,1996,Potatoes,,32.0,13672.0
+Armenia,1997,Potatoes,,41.46,13672.0
+Armenia,1998,Potatoes,,50.92,13672.0
+Armenia,1999,Potatoes,,60.38,13672.0
+Armenia,2000,Potatoes,,69.85,13672.0
+Armenia,2001,Potatoes,,79.31,13672.0
+Armenia,2002,Potatoes,,88.77,13672.0
+Armenia,2003,Potatoes,,98.23,13672.0
+Armenia,2004,Potatoes,,204.77,13672.0
+Armenia,2005,Potatoes,,220.51,13672.0
+Armenia,2006,Potatoes,,227.55,13672.0
+Armenia,2007,Potatoes,,241.71,13672.0
+Armenia,2008,Potatoes,,218.2,13672.0
+Armenia,2009,Potatoes,,198.36,13672.0
+Armenia,2010,Potatoes,,278.72,13672.0
+Armenia,2011,Potatoes,,278.72,13672.0
+Armenia,2012,Potatoes,,278.72,13672.0
+Armenia,2013,Potatoes,,278.72,13672.0
+Armenia,2014,Potatoes,,278.72,13672.0
+Armenia,2015,Potatoes,,278.72,13672.0
+Armenia,2016,Potatoes,,278.72,13672.0
+Australia,1998,Potatoes,,37215.0,1396567.0
+Australia,1998,Potatoes,,37215.0,1396567.0
+Australia,1998,Potatoes,,37215.0,1396567.0
+Australia,1998,Potatoes,,37215.0,1396567.0
+Australia,1998,Potatoes,,37215.0,1396567.0
+Australia,1998,Potatoes,,37215.0,1396567.0
+Australia,2004,Potatoes,,36276.0,1396567.0
+Australia,2004,Potatoes,,36276.0,1396567.0
+Australia,2004,Potatoes,,36276.0,1396567.0
+Australia,2004,Potatoes,,36276.0,1396567.0
+Australia,2004,Potatoes,,36276.0,1396567.0
+Australia,2004,Potatoes,,36276.0,1396567.0
+Australia,2005,Potatoes,,34310.0,1396567.0
+Australia,2005,Potatoes,,34310.0,1396567.0
+Australia,2005,Potatoes,,34310.0,1396567.0
+Australia,2005,Potatoes,,34310.0,1396567.0
+Australia,2005,Potatoes,,34310.0,1396567.0
+Australia,2005,Potatoes,,34310.0,1396567.0
+Australia,2006,Potatoes,,35900.0,1396567.0
+Australia,2006,Potatoes,,35900.0,1396567.0
+Australia,2006,Potatoes,,35900.0,1396567.0
+Australia,2006,Potatoes,,35900.0,1396567.0
+Australia,2006,Potatoes,,35900.0,1396567.0
+Australia,2006,Potatoes,,35900.0,1396567.0
+Australia,2008,Potatoes,,42935.38,1396567.0
+Australia,2008,Potatoes,,42935.38,1396567.0
+Australia,2008,Potatoes,,42935.38,1396567.0
+Australia,2008,Potatoes,,42935.38,1396567.0
+Australia,2008,Potatoes,,42935.38,1396567.0
+Australia,2008,Potatoes,,42935.38,1396567.0
+Australia,2009,Potatoes,,38065.68,1396567.0
+Australia,2009,Potatoes,,38065.68,1396567.0
+Australia,2009,Potatoes,,38065.68,1396567.0
+Australia,2009,Potatoes,,38065.68,1396567.0
+Australia,2009,Potatoes,,38065.68,1396567.0
+Australia,2009,Potatoes,,38065.68,1396567.0
+Australia,2010,Potatoes,,42169.39,1396567.0
+Australia,2010,Potatoes,,42169.39,1396567.0
+Australia,2010,Potatoes,,42169.39,1396567.0
+Australia,2010,Potatoes,,42169.39,1396567.0
+Australia,2010,Potatoes,,42169.39,1396567.0
+Australia,2010,Potatoes,,42169.39,1396567.0
+Australia,2011,Potatoes,,47632.99,1396567.0
+Australia,2011,Potatoes,,47632.99,1396567.0
+Australia,2011,Potatoes,,47632.99,1396567.0
+Australia,2011,Potatoes,,47632.99,1396567.0
+Australia,2011,Potatoes,,47632.99,1396567.0
+Australia,2011,Potatoes,,47632.99,1396567.0
+Australia,2012,Potatoes,,48687.88,1396567.0
+Australia,2012,Potatoes,,48687.88,1396567.0
+Australia,2012,Potatoes,,48687.88,1396567.0
+Australia,2012,Potatoes,,48687.88,1396567.0
+Australia,2012,Potatoes,,48687.88,1396567.0
+Australia,2012,Potatoes,,48687.88,1396567.0
+Australia,2013,Potatoes,,45177.18,1396567.0
+Australia,2013,Potatoes,,45177.18,1396567.0
+Australia,2013,Potatoes,,45177.18,1396567.0
+Australia,2013,Potatoes,,45177.18,1396567.0
+Australia,2013,Potatoes,,45177.18,1396567.0
+Australia,2013,Potatoes,,45177.18,1396567.0
+Australia,2014,Potatoes,,49857.36,1396567.0
+Australia,2015,Potatoes,,50921.6,1396567.0
+Australia,2016,Potatoes,,50921.6,1396567.0
+Barbados,1961,Cassava,,,5209.0
+Barbados,1962,Cassava,,,5209.0
+Barbados,1963,Cassava,,,5209.0
+Barbados,1964,Cassava,,,5209.0
+Barbados,1965,Cassava,,,5209.0
+Barbados,1966,Cassava,,,5209.0
+Barbados,1967,Cassava,,,5209.0
+Barbados,1968,Cassava,,,5209.0
+Barbados,1969,Cassava,,,5209.0
+Barbados,1970,Cassava,,,5209.0
+Barbados,1971,Cassava,,,5209.0
+Barbados,1972,Cassava,,,5209.0
+Barbados,1973,Cassava,,,5209.0
+Barbados,1974,Cassava,,,5209.0
+Barbados,1975,Cassava,,,5209.0
+Barbados,1976,Cassava,,,5209.0
+Barbados,1977,Cassava,,,5209.0
+Barbados,1978,Cassava,,,5209.0
+Barbados,1979,Cassava,,,5209.0
+Barbados,1980,Cassava,,,5209.0
+Barbados,1981,Cassava,,,5209.0
+Barbados,1982,Cassava,,,5209.0
+Barbados,1983,Cassava,,,5209.0
+Barbados,1984,Cassava,,,5209.0
+Barbados,1985,Cassava,,,5209.0
+Barbados,1986,Cassava,,,5209.0
+Barbados,1987,Cassava,,,5209.0
+Barbados,1988,Cassava,,,5209.0
+Barbados,1989,Cassava,,,5209.0
+Barbados,1990,Cassava,,550.0,5209.0
+Barbados,1991,Cassava,,550.0,5209.0
+Barbados,1992,Cassava,,550.0,5209.0
+Barbados,1993,Cassava,,550.0,5209.0
+Barbados,1994,Cassava,,514.0,5209.0
+Barbados,1995,Cassava,,664.0,5209.0
+Barbados,1996,Cassava,,475.0,5209.0
+Barbados,1997,Cassava,,168.46,5209.0
+Barbados,1998,Cassava,,168.46,5209.0
+Barbados,1999,Cassava,,168.46,5209.0
+Barbados,2000,Cassava,,168.46,5209.0
+Barbados,2001,Cassava,,168.46,5209.0
+Barbados,2002,Cassava,,168.46,5209.0
+Barbados,2003,Cassava,,168.46,5209.0
+Barbados,2004,Sweet potatoes,,168.46,5209.0
+Barbados,2005,Sweet potatoes,,168.46,5209.0
+Barbados,2006,Sweet potatoes,,168.46,5209.0
+Barbados,2007,Cassava,,168.46,5209.0
+Barbados,2008,Cassava,,168.46,5209.0
+Barbados,2009,Sweet potatoes,,168.46,5209.0
+Barbados,2010,Sweet potatoes,,168.46,5209.0
+Barbados,2011,Sweet potatoes,,168.46,5209.0
+Barbados,2012,Sweet potatoes,,168.46,5209.0
+Barbados,2013,Sweet potatoes,,168.46,5209.0
+Barbados,2014,Sweet potatoes,,168.46,5209.0
+Barbados,2015,Sweet potatoes,,168.46,5209.0
+Barbados,2016,Sweet potatoes,,168.46,5209.0
+Belize,1961,"Rice, paddy",,,1879.0
+Belize,1962,"Rice, paddy",,,1879.0
+Belize,1963,"Rice, paddy",,,1879.0
+Belize,1964,"Rice, paddy",,,1879.0
+Belize,1965,"Rice, paddy",,,1879.0
+Belize,1966,"Rice, paddy",,,1879.0
+Belize,1967,Maize,,,1879.0
+Belize,1968,"Rice, paddy",,,1879.0
+Belize,1969,"Rice, paddy",,,1879.0
+Belize,1970,"Rice, paddy",,,1879.0
+Belize,1971,Maize,,,1879.0
+Belize,1972,"Rice, paddy",,,1879.0
+Belize,1973,"Rice, paddy",,,1879.0
+Belize,1974,"Rice, paddy",,,1879.0
+Belize,1975,"Rice, paddy",,,1879.0
+Belize,1976,"Rice, paddy",,,1879.0
+Belize,1977,"Rice, paddy",,,1879.0
+Belize,1978,"Rice, paddy",,,1879.0
+Belize,1979,"Rice, paddy",,,1879.0
+Belize,1980,"Rice, paddy",,,1879.0
+Belize,1981,"Rice, paddy",,,1879.0
+Belize,1982,"Rice, paddy",,,1879.0
+Belize,1983,"Rice, paddy",,,1879.0
+Belize,1984,"Rice, paddy",,,1879.0
+Belize,1985,"Rice, paddy",,,1879.0
+Belize,1986,"Rice, paddy",,,1879.0
+Belize,1987,"Rice, paddy",,,1879.0
+Belize,1988,"Rice, paddy",,,1879.0
+Belize,1989,Plantains and others,,,1879.0
+Belize,1990,Plantains and others,,771.0,1879.0
+Belize,1991,Plantains and others,,696.0,1879.0
+Belize,1992,Plantains and others,,997.0,1879.0
+Belize,1993,Plantains and others,,1057.83,1879.0
+Belize,1994,Plantains and others,,1118.67,1879.0
+Belize,1995,Plantains and others,,1179.5,1879.0
+Belize,1996,Plantains and others,,1240.33,1879.0
+Belize,1997,Cassava,,1301.17,1879.0
+Belize,1998,Potatoes,,1362.0,1879.0
+Belize,1999,Plantains and others,,1362.0,1879.0
+Belize,2000,Plantains and others,,1296.0,1879.0
+Belize,2001,Plantains and others,,1719.0,1879.0
+Belize,2002,Plantains and others,,1529.27,1879.0
+Belize,2003,Plantains and others,,1339.54,1879.0
+Belize,2004,Plantains and others,,1149.81,1879.0
+Belize,2005,Plantains and others,,960.08,1879.0
+Belize,2006,Plantains and others,,770.35,1879.0
+Belize,2007,Cassava,,674.46,1879.0
+Belize,2008,Plantains and others,,984.03,1879.0
+Belize,2009,Plantains and others,,788.61,1879.0
+Belize,2010,Plantains and others,,700.39,1879.0
+Belize,2011,Plantains and others,,826.58,1879.0
+Belize,2012,Plantains and others,,638.28,1879.0
+Belize,2013,Potatoes,,1036.68,1879.0
+Belize,2014,Plantains and others,,880.1,1879.0
+Belize,2015,Plantains and others,,880.1,1879.0
+Belize,2016,Plantains and others,,880.1,1879.0
+Benin,1961,Yams,,,14390.0
+Benin,1962,Yams,,,14390.0
+Benin,1963,Yams,,,14390.0
+Benin,1964,Yams,,,14390.0
+Benin,1965,Yams,,,14390.0
+Benin,1966,Yams,,,14390.0
+Benin,1967,Yams,,,14390.0
+Benin,1968,Yams,,,14390.0
+Benin,1969,Yams,,,14390.0
+Benin,1970,Yams,,,14390.0
+Benin,1971,Yams,,,14390.0
+Benin,1972,Yams,,,14390.0
+Benin,1973,Yams,,,14390.0
+Benin,1974,Yams,,,14390.0
+Benin,1975,Yams,,,14390.0
+Benin,1976,Yams,,,14390.0
+Benin,1977,Yams,,,14390.0
+Benin,1978,Yams,,,14390.0
+Benin,1979,Yams,,,14390.0
+Benin,1980,Yams,,,14390.0
+Benin,1981,Yams,,,14390.0
+Benin,1982,Yams,,,14390.0
+Benin,1983,Yams,,,14390.0
+Benin,1984,Yams,,,14390.0
+Benin,1985,Potatoes,,,14390.0
+Benin,1986,Potatoes,,,14390.0
+Benin,1987,Potatoes,,,14390.0
+Benin,1988,Potatoes,,,14390.0
+Benin,1989,Yams,,,14390.0
+Benin,1990,Yams,,,14390.0
+Benin,1991,Yams,,,14390.0
+Benin,1992,Yams,,,14390.0
+Benin,1993,Yams,,,14390.0
+Benin,1994,Yams,,,14390.0
+Benin,1995,Yams,,,14390.0
+Benin,1996,Yams,,,14390.0
+Benin,1997,Yams,,,14390.0
+Benin,1998,Yams,,,14390.0
+Benin,1999,Yams,,,14390.0
+Benin,2000,Yams,,,14390.0
+Benin,2001,Cassava,,,14390.0
+Benin,2002,Yams,,,14390.0
+Benin,2003,Cassava,,,14390.0
+Benin,2004,Yams,,,14390.0
+Benin,2005,Cassava,,,14390.0
+Benin,2006,Potatoes,,,14390.0
+Benin,2007,Cassava,,,14390.0
+Benin,2008,Yams,,,14390.0
+Benin,2009,Cassava,,,14390.0
+Benin,2010,Yams,,,14390.0
+Benin,2011,Cassava,,,14390.0
+Benin,2012,Cassava,,,14390.0
+Benin,2013,Cassava,,,14390.0
+Benin,2014,Yams,,,14390.0
+Benin,2015,Cassava,,,14390.0
+Benin,2016,Cassava,,,14390.0
+Bermuda,1961,Potatoes,,,7484.0
+Bermuda,1962,Potatoes,,,7484.0
+Bermuda,1963,Potatoes,,,7484.0
+Bermuda,1964,Potatoes,,,7484.0
+Bermuda,1965,Potatoes,,,7484.0
+Bermuda,1966,Potatoes,,,7484.0
+Bermuda,1967,Potatoes,,,7484.0
+Bermuda,1968,Potatoes,,,7484.0
+Bermuda,1969,Potatoes,,,7484.0
+Bermuda,1970,Potatoes,,,7484.0
+Bermuda,1971,Potatoes,,,7484.0
+Bermuda,1972,Potatoes,,,7484.0
+Bermuda,1973,Potatoes,,,7484.0
+Bermuda,1974,Potatoes,,,7484.0
+Bermuda,1975,Potatoes,,,7484.0
+Bermuda,1976,Potatoes,,,7484.0
+Bermuda,1977,Potatoes,,,7484.0
+Bermuda,1978,Potatoes,,,7484.0
+Bermuda,1979,Potatoes,,,7484.0
+Bermuda,1980,Sweet potatoes,,,7484.0
+Bermuda,1981,Potatoes,,,7484.0
+Bermuda,1982,Potatoes,,,7484.0
+Bermuda,1983,Potatoes,,,7484.0
+Bermuda,1984,Potatoes,,,7484.0
+Bermuda,1985,Potatoes,,,7484.0
+Bermuda,1986,Potatoes,,,7484.0
+Bermuda,1987,Potatoes,,,7484.0
+Bermuda,1988,Potatoes,,,7484.0
+Bermuda,1989,Potatoes,,,7484.0
+Bermuda,1990,Potatoes,,159.88,7484.0
+Bermuda,1991,Potatoes,,159.88,7484.0
+Bermuda,1992,Potatoes,,159.88,7484.0
+Bermuda,1993,Potatoes,,159.88,7484.0
+Bermuda,1994,Potatoes,,159.88,7484.0
+Bermuda,1995,Potatoes,,159.88,7484.0
+Bermuda,1996,Potatoes,,159.88,7484.0
+Bermuda,1997,Potatoes,,159.88,7484.0
+Bermuda,1998,Potatoes,,159.88,7484.0
+Bermuda,1999,Potatoes,,159.88,7484.0
+Bermuda,2000,Potatoes,,159.88,7484.0
+Bermuda,2001,Potatoes,,159.88,7484.0
+Bermuda,2002,Potatoes,,159.88,7484.0
+Bermuda,2003,Potatoes,,159.88,7484.0
+Bermuda,2004,Potatoes,,159.88,7484.0
+Bermuda,2005,Potatoes,,159.88,7484.0
+Bermuda,2006,Potatoes,,159.88,7484.0
+Bermuda,2007,Potatoes,,159.88,7484.0
+Bermuda,2008,Potatoes,,159.88,7484.0
+Bermuda,2009,Potatoes,,159.88,7484.0
+Bermuda,2010,Potatoes,,159.88,7484.0
+Bermuda,2011,Potatoes,,159.88,7484.0
+Bermuda,2012,Potatoes,,159.88,7484.0
+Bermuda,2013,Potatoes,,159.88,7484.0
+Bermuda,2014,Potatoes,,135.38,7484.0
+Bermuda,2015,Potatoes,,136.62,7484.0
+Bermuda,2016,Potatoes,,126.53,7484.0
+Bhutan,1961,Potatoes,,,2530.0
+Bhutan,1962,Potatoes,,,2530.0
+Bhutan,1963,Potatoes,,,2530.0
+Bhutan,1964,Potatoes,,,2530.0
+Bhutan,1965,Potatoes,,,2530.0
+Bhutan,1966,Potatoes,,,2530.0
+Bhutan,1967,Potatoes,,,2530.0
+Bhutan,1968,Potatoes,,,2530.0
+Bhutan,1969,Potatoes,,,2530.0
+Bhutan,1970,Potatoes,,,2530.0
+Bhutan,1971,Potatoes,,,2530.0
+Bhutan,1972,Potatoes,,,2530.0
+Bhutan,1973,Potatoes,,,2530.0
+Bhutan,1974,Potatoes,,,2530.0
+Bhutan,1975,Potatoes,,,2530.0
+Bhutan,1976,Potatoes,,,2530.0
+Bhutan,1977,Potatoes,,,2530.0
+Bhutan,1978,Potatoes,,,2530.0
+Bhutan,1979,Potatoes,,,2530.0
+Bhutan,1980,Potatoes,,,2530.0
+Bhutan,1981,Potatoes,,,2530.0
+Bhutan,1982,Potatoes,,,2530.0
+Bhutan,1983,Potatoes,,,2530.0
+Bhutan,1984,Potatoes,,,2530.0
+Bhutan,1985,Potatoes,,,2530.0
+Bhutan,1986,Potatoes,,,2530.0
+Bhutan,1987,Potatoes,,,2530.0
+Bhutan,1988,Potatoes,,,2530.0
+Bhutan,1989,Potatoes,,,2530.0
+Bhutan,1990,Potatoes,,3.5,2530.0
+Bhutan,1991,Potatoes,,3.83,2530.0
+Bhutan,1992,Potatoes,,3.59,2530.0
+Bhutan,1993,Potatoes,,2.64,2530.0
+Bhutan,1994,Potatoes,,13.01,2530.0
+Bhutan,1995,Potatoes,,15.7,2530.0
+Bhutan,1996,Potatoes,,17.5,2530.0
+Bhutan,1997,Potatoes,,1.17,2530.0
+Bhutan,1998,Potatoes,,1.3,2530.0
+Bhutan,1999,Potatoes,,1.35,2530.0
+Bhutan,2000,Potatoes,,1.9,2530.0
+Bhutan,2001,Potatoes,,1.64,2530.0
+Bhutan,2002,Potatoes,,1.4,2530.0
+Bhutan,2003,Potatoes,,7.78,2530.0
+Bhutan,2004,Potatoes,,9.36,2530.0
+Bhutan,2005,Potatoes,,1.74,2530.0
+Bhutan,2006,Potatoes,,8.88,2530.0
+Bhutan,2007,Potatoes,,9.48,2530.0
+Bhutan,2008,Potatoes,,7.67,2530.0
+Bhutan,2009,Potatoes,,7.48,2530.0
+Bhutan,2010,Potatoes,,8.41,2530.0
+Bhutan,2011,Potatoes,,9.38,2530.0
+Bhutan,2012,Potatoes,,7.5,2530.0
+Bhutan,2013,Potatoes,,5.31,2530.0
+Bhutan,2014,Potatoes,,3.14,2530.0
+Bhutan,2015,Potatoes,,6.24,2530.0
+Bhutan,2016,Potatoes,,7.03,2530.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1990,Potatoes,,49695.0,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1991,Potatoes,,58349.44,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1992,Potatoes,,67003.89,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1993,Potatoes,,75658.33,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1994,Potatoes,,84312.78,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1995,Potatoes,,92967.22,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1996,Potatoes,,101621.67,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1997,Potatoes,,110276.11,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1998,Potatoes,,118930.56,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,1999,Potatoes,,127585.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2000,Potatoes,,140423.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2001,Potatoes,,151523.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2002,Potatoes,,145552.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2003,Potatoes,,182446.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2004,Potatoes,,214725.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2005,Potatoes,,232232.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2006,Potatoes,,238716.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2007,Potatoes,,304031.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2008,Potatoes,,312637.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2009,Potatoes,,335742.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2010,Potatoes,,342580.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2011,Potatoes,,345026.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2012,Potatoes,,346583.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2013,Potatoes,,367778.0,1839758.0
+Brazil,2014,Potatoes,,352336.0,1839758.0
+Brazil,2015,Potatoes,,395646.0,1839758.0
+Brazil,2016,Potatoes,,377176.0,1839758.0
+Burkina Faso,1961,Cassava,,,15990.0
+Burkina Faso,1962,Cassava,,,15990.0
+Burkina Faso,1963,Cassava,,,15990.0
+Burkina Faso,1964,Cassava,,,15990.0
+Burkina Faso,1965,Cassava,,,15990.0
+Burkina Faso,1966,Cassava,,,15990.0
+Burkina Faso,1967,Cassava,,,15990.0
+Burkina Faso,1968,Cassava,,,15990.0
+Burkina Faso,1969,Cassava,,,15990.0
+Burkina Faso,1970,Cassava,,,15990.0
+Burkina Faso,1971,Yams,,,15990.0
+Burkina Faso,1972,Yams,,,15990.0
+Burkina Faso,1973,Yams,,,15990.0
+Burkina Faso,1974,Yams,,,15990.0
+Burkina Faso,1975,Yams,,,15990.0
+Burkina Faso,1976,Yams,,,15990.0
+Burkina Faso,1977,Yams,,,15990.0
+Burkina Faso,1978,Yams,,,15990.0
+Burkina Faso,1979,Yams,,,15990.0
+Burkina Faso,1980,Yams,,,15990.0
+Burkina Faso,1981,Yams,,,15990.0
+Burkina Faso,1982,Yams,,,15990.0
+Burkina Faso,1983,Yams,,,15990.0
+Burkina Faso,1984,Yams,,,15990.0
+Burkina Faso,1985,Yams,,,15990.0
+Burkina Faso,1986,Yams,,,15990.0
+Burkina Faso,1987,Yams,,,15990.0
+Burkina Faso,1988,Yams,,,15990.0
+Burkina Faso,1989,Yams,,,15990.0
+Burkina Faso,1990,Sweet potatoes,,29.1,15990.0
+Burkina Faso,1991,Potatoes,,29.1,15990.0
+Burkina Faso,1992,Potatoes,,29.1,15990.0
+Burkina Faso,1993,Potatoes,,17.0,15990.0
+Burkina Faso,1994,Potatoes,,6.0,15990.0
+Burkina Faso,1995,Yams,,3.04,15990.0
+Burkina Faso,1996,Yams,,39.16,15990.0
+Burkina Faso,1997,Yams,,75.29,15990.0
+Burkina Faso,1998,Yams,,111.41,15990.0
+Burkina Faso,1999,Sweet potatoes,,93.43,15990.0
+Burkina Faso,2000,Sweet potatoes,,75.44,15990.0
+Burkina Faso,2001,Sweet potatoes,,57.46,15990.0
+Burkina Faso,2002,Yams,,39.47,15990.0
+Burkina Faso,2003,Sweet potatoes,,21.49,15990.0
+Burkina Faso,2004,Yams,,1.28,15990.0
+Burkina Faso,2005,Sweet potatoes,,92.21,15990.0
+Burkina Faso,2006,Sweet potatoes,,109.24,15990.0
+Burkina Faso,2007,Sweet potatoes,,292.05,15990.0
+Burkina Faso,2008,Sweet potatoes,,190.92,15990.0
+Burkina Faso,2009,Sweet potatoes,,132.3,15990.0
+Burkina Faso,2010,Sweet potatoes,,442.89,15990.0
+Burkina Faso,2011,Sweet potatoes,,843.0,15990.0
+Burkina Faso,2012,Yams,,843.0,15990.0
+Burkina Faso,2013,Sweet potatoes,,843.0,15990.0
+Burkina Faso,2014,Yams,,843.0,15990.0
+Burkina Faso,2015,Sweet potatoes,,843.0,15990.0
+Burkina Faso,2016,Sweet potatoes,,843.0,15990.0
+Burundi,1961,Cassava,,,3012.0
+Burundi,1962,Cassava,,,3012.0
+Burundi,1963,Cassava,,,3012.0
+Burundi,1964,Cassava,,,3012.0
+Burundi,1965,Cassava,,,3012.0
+Burundi,1966,Cassava,,,3012.0
+Burundi,1967,Cassava,,,3012.0
+Burundi,1968,Cassava,,,3012.0
+Burundi,1969,Cassava,,,3012.0
+Burundi,1970,Cassava,,,3012.0
+Burundi,1971,Cassava,,,3012.0
+Burundi,1972,Cassava,,,3012.0
+Burundi,1973,Cassava,,,3012.0
+Burundi,1974,Cassava,,,3012.0
+Burundi,1975,Cassava,,,3012.0
+Burundi,1976,Cassava,,,3012.0
+Burundi,1977,Cassava,,,3012.0
+Burundi,1978,Cassava,,,3012.0
+Burundi,1979,Cassava,,,3012.0
+Burundi,1980,Cassava,,,3012.0
+Burundi,1981,Cassava,,,3012.0
+Burundi,1982,Cassava,,,3012.0
+Burundi,1983,Cassava,,,3012.0
+Burundi,1984,Cassava,,,3012.0
+Burundi,1985,Cassava,,,3012.0
+Burundi,1986,Cassava,,,3012.0
+Burundi,1987,Cassava,,,3012.0
+Burundi,1988,Cassava,,,3012.0
+Burundi,1989,Cassava,,,3012.0
+Burundi,1990,Cassava,,92.08,3012.0
+Burundi,1991,Cassava,,92.08,3012.0
+Burundi,1992,Cassava,,92.08,3012.0
+Burundi,1993,Cassava,,96.99,3012.0
+Burundi,1994,Cassava,,84.45,3012.0
+Burundi,1995,Cassava,,144.2,3012.0
+Burundi,1996,Cassava,,207.1,3012.0
+Burundi,1997,Cassava,,117.56,3012.0
+Burundi,1998,Cassava,,107.29,3012.0
+Burundi,1999,Cassava,,150.24,3012.0
+Burundi,2000,Cassava,,109.87,3012.0
+Burundi,2001,Cassava,,72.56,3012.0
+Burundi,2002,Cassava,,98.1,3012.0
+Burundi,2003,Cassava,,263.7,3012.0
+Burundi,2004,Cassava,,508.26,3012.0
+Burundi,2005,Cassava,,304.83,3012.0
+Burundi,2006,Cassava,,190.51,3012.0
+Burundi,2007,Cassava,,412.66,3012.0
+Burundi,2008,Sweet potatoes,,456.44,3012.0
+Burundi,2009,Sweet potatoes,,177.75,3012.0
+Burundi,2010,Sweet potatoes,,264.53,3012.0
+Burundi,2011,Sweet potatoes,,75.64,3012.0
+Burundi,2012,Yams,,98.59,3012.0
+Burundi,2013,Sweet potatoes,,956.06,3012.0
+Burundi,2014,Sweet potatoes,,34.92,3012.0
+Burundi,2015,Sweet potatoes,,28.18,3012.0
+Burundi,2016,Potatoes,,28.18,3012.0
+Cabo Verde,1961,Potatoes,,,1981.0
+Cabo Verde,1962,Potatoes,,,1981.0
+Cabo Verde,1963,Potatoes,,,1981.0
+Cabo Verde,1964,Potatoes,,,1981.0
+Cabo Verde,1965,Potatoes,,,1981.0
+Cabo Verde,1966,Potatoes,,,1981.0
+Cabo Verde,1967,Cassava,,,1981.0
+Cabo Verde,1968,Potatoes,,,1981.0
+Cabo Verde,1969,Potatoes,,,1981.0
+Cabo Verde,1970,Potatoes,,,1981.0
+Cabo Verde,1971,Cassava,,,1981.0
+Cabo Verde,1972,Potatoes,,,1981.0
+Cabo Verde,1973,Cassava,,,1981.0
+Cabo Verde,1974,Potatoes,,,1981.0
+Cabo Verde,1975,Potatoes,,,1981.0
+Cabo Verde,1976,Potatoes,,,1981.0
+Cabo Verde,1977,Potatoes,,,1981.0
+Cabo Verde,1978,Potatoes,,,1981.0
+Cabo Verde,1979,Potatoes,,,1981.0
+Cabo Verde,1980,Potatoes,,,1981.0
+Cabo Verde,1981,Potatoes,,,1981.0
+Cabo Verde,1982,Potatoes,,,1981.0
+Cabo Verde,1983,Cassava,,,1981.0
+Cabo Verde,1984,Potatoes,,,1981.0
+Cabo Verde,1985,Potatoes,,,1981.0
+Cabo Verde,1986,Potatoes,,,1981.0
+Cabo Verde,1987,Potatoes,,,1981.0
+Cabo Verde,1988,Potatoes,,,1981.0
+Cabo Verde,1989,Potatoes,,,1981.0
+Cabo Verde,1990,Potatoes,,1.0,1981.0
+Cabo Verde,1991,Potatoes,,1.0,1981.0
+Cabo Verde,1992,Potatoes,,1.0,1981.0
+Cabo Verde,1993,Potatoes,,1.0,1981.0
+Cabo Verde,1994,Cassava,,2.0,1981.0
+Cabo Verde,1995,Potatoes,,0.68,1981.0
+Cabo Verde,1996,Potatoes,,0.5,1981.0
+Cabo Verde,1997,Potatoes,,1.74,1981.0
+Cabo Verde,1998,Potatoes,,7.03,1981.0
+Cabo Verde,1999,Potatoes,,11.0,1981.0
+Cabo Verde,2000,Sweet potatoes,,7.0,1981.0
+Cabo Verde,2001,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2002,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2003,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2004,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2005,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2006,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2007,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2008,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2009,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2010,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2011,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2012,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2013,Sweet potatoes,,5.0,1981.0
+Cabo Verde,2014,Cassava,,5.0,1981.0
+Cabo Verde,2015,Cassava,,5.0,1981.0
+Cabo Verde,2016,Cassava,,5.0,1981.0
+Canada,1996,Potatoes,,35240.8,1736425.0
+Canada,1996,Potatoes,,35240.8,1736425.0
+Canada,1996,Potatoes,,35240.8,1736425.0
+Canada,1996,Potatoes,,35240.8,1736425.0
+Canada,1996,Potatoes,,35240.8,1736425.0
+Canada,1996,Potatoes,,35240.8,1736425.0
+Canada,1997,Potatoes,,38258.2,1736425.0
+Canada,1997,Potatoes,,38258.2,1736425.0
+Canada,1997,Potatoes,,38258.2,1736425.0
+Canada,1997,Potatoes,,38258.2,1736425.0
+Canada,1997,Potatoes,,38258.2,1736425.0
+Canada,1997,Potatoes,,38258.2,1736425.0
+Canada,1998,Potatoes,,41275.6,1736425.0
+Canada,1998,Potatoes,,41275.6,1736425.0
+Canada,1998,Potatoes,,41275.6,1736425.0
+Canada,1998,Potatoes,,41275.6,1736425.0
+Canada,1998,Potatoes,,41275.6,1736425.0
+Canada,1998,Potatoes,,41275.6,1736425.0
+Canada,1999,Potatoes,,44293.0,1736425.0
+Canada,1999,Potatoes,,44293.0,1736425.0
+Canada,1999,Potatoes,,44293.0,1736425.0
+Canada,1999,Potatoes,,44293.0,1736425.0
+Canada,1999,Potatoes,,44293.0,1736425.0
+Canada,1999,Potatoes,,44293.0,1736425.0
+Canada,2000,Potatoes,,39667.0,1736425.0
+Canada,2000,Potatoes,,39667.0,1736425.0
+Canada,2000,Potatoes,,39667.0,1736425.0
+Canada,2000,Potatoes,,39667.0,1736425.0
+Canada,2000,Potatoes,,39667.0,1736425.0
+Canada,2000,Potatoes,,39667.0,1736425.0
+Canada,2001,Potatoes,,38456.0,1736425.0
+Canada,2001,Potatoes,,38456.0,1736425.0
+Canada,2001,Potatoes,,38456.0,1736425.0
+Canada,2001,Potatoes,,38456.0,1736425.0
+Canada,2001,Potatoes,,38456.0,1736425.0
+Canada,2001,Potatoes,,38456.0,1736425.0
+Canada,2002,Potatoes,,34226.0,1736425.0
+Canada,2002,Potatoes,,34226.0,1736425.0
+Canada,2002,Potatoes,,34226.0,1736425.0
+Canada,2002,Potatoes,,34226.0,1736425.0
+Canada,2002,Potatoes,,34226.0,1736425.0
+Canada,2002,Potatoes,,34226.0,1736425.0
+Canada,2003,Potatoes,,35596.0,1736425.0
+Canada,2003,Potatoes,,35596.0,1736425.0
+Canada,2003,Potatoes,,35596.0,1736425.0
+Canada,2003,Potatoes,,35596.0,1736425.0
+Canada,2003,Potatoes,,35596.0,1736425.0
+Canada,2003,Potatoes,,35596.0,1736425.0
+Canada,2004,Potatoes,,36138.0,1736425.0
+Canada,2004,Potatoes,,36138.0,1736425.0
+Canada,2004,Potatoes,,36138.0,1736425.0
+Canada,2004,Potatoes,,36138.0,1736425.0
+Canada,2004,Potatoes,,36138.0,1736425.0
+Canada,2004,Potatoes,,36138.0,1736425.0
+Canada,2005,Potatoes,,36363.0,1736425.0
+Canada,2005,Potatoes,,36363.0,1736425.0
+Canada,2005,Potatoes,,36363.0,1736425.0
+Canada,2005,Potatoes,,36363.0,1736425.0
+Canada,2005,Potatoes,,36363.0,1736425.0
+Canada,2005,Potatoes,,36363.0,1736425.0
+Canada,2006,Potatoes,,36572.75,1736425.0
+Canada,2006,Potatoes,,36572.75,1736425.0
+Canada,2006,Potatoes,,36572.75,1736425.0
+Canada,2006,Potatoes,,36572.75,1736425.0
+Canada,2006,Potatoes,,36572.75,1736425.0
+Canada,2006,Potatoes,,36572.75,1736425.0
+Canada,2007,Potatoes,,45140.03,1736425.0
+Canada,2007,Potatoes,,45140.03,1736425.0
+Canada,2007,Potatoes,,45140.03,1736425.0
+Canada,2007,Potatoes,,45140.03,1736425.0
+Canada,2007,Potatoes,,45140.03,1736425.0
+Canada,2007,Potatoes,,45140.03,1736425.0
+Canada,2008,Potatoes,,53707.3,1736425.0
+Canada,2008,Potatoes,,53707.3,1736425.0
+Canada,2008,Potatoes,,53707.3,1736425.0
+Canada,2008,Potatoes,,53707.3,1736425.0
+Canada,2008,Potatoes,,53707.3,1736425.0
+Canada,2008,Potatoes,,53707.3,1736425.0
+Canada,2009,Potatoes,,54529.4,1736425.0
+Canada,2009,Potatoes,,54529.4,1736425.0
+Canada,2009,Potatoes,,54529.4,1736425.0
+Canada,2009,Potatoes,,54529.4,1736425.0
+Canada,2009,Potatoes,,54529.4,1736425.0
+Canada,2009,Potatoes,,54529.4,1736425.0
+Canada,2010,Potatoes,,61050.0,1736425.0
+Canada,2010,Potatoes,,61050.0,1736425.0
+Canada,2010,Potatoes,,61050.0,1736425.0
+Canada,2010,Potatoes,,61050.0,1736425.0
+Canada,2010,Potatoes,,61050.0,1736425.0
+Canada,2010,Potatoes,,61050.0,1736425.0
+Canada,2011,Potatoes,,62107.2,1736425.0
+Canada,2011,Potatoes,,62107.2,1736425.0
+Canada,2011,Potatoes,,62107.2,1736425.0
+Canada,2011,Potatoes,,62107.2,1736425.0
+Canada,2011,Potatoes,,62107.2,1736425.0
+Canada,2011,Potatoes,,62107.2,1736425.0
+Canada,2012,Potatoes,,73508.9,1736425.0
+Canada,2012,Potatoes,,73508.9,1736425.0
+Canada,2012,Potatoes,,73508.9,1736425.0
+Canada,2012,Potatoes,,73508.9,1736425.0
+Canada,2012,Potatoes,,73508.9,1736425.0
+Canada,2012,Potatoes,,73508.9,1736425.0
+Canada,2013,Potatoes,,81659.8,1736425.0
+Canada,2013,Potatoes,,81659.8,1736425.0
+Canada,2013,Potatoes,,81659.8,1736425.0
+Canada,2013,Potatoes,,81659.8,1736425.0
+Canada,2013,Potatoes,,81659.8,1736425.0
+Canada,2013,Potatoes,,81659.8,1736425.0
+Canada,2014,Potatoes,,76314.0,1736425.0
+Canada,2015,Potatoes,,75318.3,1736425.0
+Canada,2016,Potatoes,,75318.3,1736425.0
+Cayman Islands,1966,Sweet potatoes,,,5517.0
+Cayman Islands,1967,Sweet potatoes,,,5517.0
+Cayman Islands,1968,Sweet potatoes,,,5517.0
+Cayman Islands,1969,Sweet potatoes,,,5517.0
+Cayman Islands,1970,Sweet potatoes,,,5517.0
+Cayman Islands,1971,Sweet potatoes,,,5517.0
+Cayman Islands,1972,Sweet potatoes,,,5517.0
+Cayman Islands,1973,Sweet potatoes,,,5517.0
+Cayman Islands,1974,Sweet potatoes,,,5517.0
+Cayman Islands,1975,Sweet potatoes,,,5517.0
+Cayman Islands,1976,Sweet potatoes,,,5517.0
+Cayman Islands,1977,Sweet potatoes,,,5517.0
+Cayman Islands,1978,Cassava,,,5517.0
+Cayman Islands,1979,Sweet potatoes,,,5517.0
+Cayman Islands,1980,Sweet potatoes,,,5517.0
+Cayman Islands,1981,Sweet potatoes,,,5517.0
+Cayman Islands,1982,Sweet potatoes,,,5517.0
+Cayman Islands,1983,Cassava,,,5517.0
+Cayman Islands,1984,Yams,,,5517.0
+Cayman Islands,1985,Cassava,,,5517.0
+Cayman Islands,1986,Cassava,,,5517.0
+Cayman Islands,1987,Cassava,,,5517.0
+Cayman Islands,1988,Cassava,,,5517.0
+Cayman Islands,1989,Cassava,,,5517.0
+Cayman Islands,1990,Cassava,,,5517.0
+Cayman Islands,1991,Cassava,,,5517.0
+Cayman Islands,1992,Sweet potatoes,,,5517.0
+Cayman Islands,1993,Yams,,,5517.0
+Cayman Islands,1994,Cassava,,,5517.0
+Cayman Islands,1995,Cassava,,,5517.0
+Cayman Islands,1996,Sweet potatoes,,,5517.0
+Cayman Islands,1997,Cassava,,,5517.0
+Cayman Islands,1998,Sweet potatoes,,,5517.0
+Cayman Islands,1999,Yams,,,5517.0
+Cayman Islands,2000,Yams,,,5517.0
+Cayman Islands,2001,Yams,,,5517.0
+Cayman Islands,2002,Yams,,,5517.0
+Cayman Islands,2003,Yams,,,5517.0
+Cayman Islands,2004,Yams,,,5517.0
+Cayman Islands,2005,Yams,,,5517.0
+Cayman Islands,2006,Yams,,,5517.0
+Cayman Islands,2007,Yams,,,5517.0
+Cayman Islands,2008,Yams,,,5517.0
+Cayman Islands,2009,Yams,,,5517.0
+Cayman Islands,2010,Yams,,,5517.0
+Cayman Islands,2011,Yams,,,5517.0
+Cayman Islands,2012,Yams,,,5517.0
+Cayman Islands,2013,Yams,,,5517.0
+Cayman Islands,2014,Yams,,,5517.0
+Cayman Islands,2015,Yams,,,5517.0
+Cayman Islands,2016,Yams,,,5517.0
+Central African Republic,1961,Yams,,,2220.0
+Central African Republic,1962,Yams,,,2220.0
+Central African Republic,1963,Yams,,,2220.0
+Central African Republic,1964,Yams,,,2220.0
+Central African Republic,1965,Yams,,,2220.0
+Central African Republic,1966,Yams,,,2220.0
+Central African Republic,1967,Yams,,,2220.0
+Central African Republic,1968,Yams,,,2220.0
+Central African Republic,1969,Yams,,,2220.0
+Central African Republic,1970,Yams,,,2220.0
+Central African Republic,1971,Yams,,,2220.0
+Central African Republic,1972,Yams,,,2220.0
+Central African Republic,1973,Yams,,,2220.0
+Central African Republic,1974,Yams,,,2220.0
+Central African Republic,1975,Yams,,,2220.0
+Central African Republic,1976,Yams,,,2220.0
+Central African Republic,1977,Yams,,,2220.0
+Central African Republic,1978,Yams,,,2220.0
+Central African Republic,1979,Yams,,,2220.0
+Central African Republic,1980,Yams,,,2220.0
+Central African Republic,1981,Yams,,,2220.0
+Central African Republic,1982,Yams,,,2220.0
+Central African Republic,1983,Yams,,,2220.0
+Central African Republic,1984,Yams,,,2220.0
+Central African Republic,1985,Yams,,,2220.0
+Central African Republic,1986,Yams,,,2220.0
+Central African Republic,1987,Yams,,,2220.0
+Central African Republic,1988,Yams,,,2220.0
+Central African Republic,1989,Yams,,,2220.0
+Central African Republic,1990,Yams,,0.04,2220.0
+Central African Republic,1991,Yams,,0.04,2220.0
+Central African Republic,1992,Yams,,0.04,2220.0
+Central African Republic,1993,Yams,,0.25,2220.0
+Central African Republic,1994,Yams,,2.16,2220.0
+Central African Republic,1995,Yams,,22.87,2220.0
+Central African Republic,1996,Yams,,22.87,2220.0
+Central African Republic,1997,Yams,,22.87,2220.0
+Central African Republic,1998,Yams,,22.87,2220.0
+Central African Republic,1999,Yams,,22.87,2220.0
+Central African Republic,2000,Yams,,22.87,2220.0
+Central African Republic,2001,Yams,,22.87,2220.0
+Central African Republic,2002,Yams,,22.87,2220.0
+Central African Republic,2003,Yams,,22.87,2220.0
+Central African Republic,2004,Yams,,22.87,2220.0
+Central African Republic,2005,Yams,,22.87,2220.0
+Central African Republic,2006,Yams,,22.87,2220.0
+Central African Republic,2007,Yams,,22.87,2220.0
+Central African Republic,2008,Yams,,22.87,2220.0
+Central African Republic,2009,Yams,,22.87,2220.0
+Central African Republic,2010,Yams,,22.87,2220.0
+Central African Republic,2011,Yams,,22.87,2220.0
+Central African Republic,2012,Yams,,22.87,2220.0
+Central African Republic,2013,Yams,,22.87,2220.0
+Central African Republic,2014,Yams,,22.87,2220.0
+Central African Republic,2015,Yams,,22.87,2220.0
+Central African Republic,2016,Yams,,22.87,2220.0
+Chad,1961,Yams,,,11314.0
+Chad,1962,Yams,,,11314.0
+Chad,1963,Yams,,,11314.0
+Chad,1964,Yams,,,11314.0
+Chad,1965,Yams,,,11314.0
+Chad,1966,Yams,,,11314.0
+Chad,1967,Yams,,,11314.0
+Chad,1968,Yams,,,11314.0
+Chad,1969,Yams,,,11314.0
+Chad,1970,Yams,,,11314.0
+Chad,1971,Yams,,,11314.0
+Chad,1972,Yams,,,11314.0
+Chad,1973,Yams,,,11314.0
+Chad,1974,Yams,,,11314.0
+Chad,1975,Yams,,,11314.0
+Chad,1976,Yams,,,11314.0
+Chad,1977,Yams,,,11314.0
+Chad,1978,Yams,,,11314.0
+Chad,1979,Yams,,,11314.0
+Chad,1980,Yams,,,11314.0
+Chad,1981,Yams,,,11314.0
+Chad,1982,Yams,,,11314.0
+Chad,1983,Yams,,,11314.0
+Chad,1984,Yams,,,11314.0
+Chad,1985,Yams,,,11314.0
+Chad,1986,Yams,,,11314.0
+Chad,1987,Yams,,,11314.0
+Chad,1988,Yams,,,11314.0
+Chad,1989,Yams,,,11314.0
+Chad,1990,Yams,,57.0,11314.0
+Chad,1991,Yams,,60.0,11314.0
+Chad,1992,Yams,,45.0,11314.0
+Chad,1993,Yams,,5.0,11314.0
+Chad,1994,Yams,,15.0,11314.0
+Chad,1995,Yams,,2.0,11314.0
+Chad,1996,Yams,,1.0,11314.0
+Chad,1997,Yams,,42.0,11314.0
+Chad,1998,Yams,,42.0,11314.0
+Chad,1999,Yams,,42.0,11314.0
+Chad,2000,Cassava,,42.0,11314.0
+Chad,2001,Cassava,,42.0,11314.0
+Chad,2002,Cassava,,42.0,11314.0
+Chad,2003,Cassava,,42.0,11314.0
+Chad,2004,Yams,,42.0,11314.0
+Chad,2005,Sweet potatoes,,42.0,11314.0
+Chad,2006,Yams,,42.0,11314.0
+Chad,2007,Potatoes,,42.0,11314.0
+Chad,2008,Yams,,42.0,11314.0
+Chad,2009,Yams,,42.0,11314.0
+Chad,2010,Yams,,42.0,11314.0
+Chad,2011,Cassava,,42.0,11314.0
+Chad,2012,Sweet potatoes,,42.0,11314.0
+Chad,2013,Yams,,42.0,11314.0
+Chad,2014,Sweet potatoes,,42.0,11314.0
+Chad,2015,Sweet potatoes,,42.0,11314.0
+Chad,2016,Potatoes,,42.0,11314.0
+"China, mainland",1990,Sweet potatoes,,765307.0,
+"China, mainland",1991,Sweet potatoes,,765307.0,
+"China, mainland",1992,Sweet potatoes,,799174.0,
+"China, mainland",1993,Sweet potatoes,,844800.0,
+"China, mainland",1994,Sweet potatoes,,978551.0,
+"China, mainland",1995,Sweet potatoes,,1087044.0,
+"China, mainland",1996,Sweet potatoes,,1140812.0,
+"China, mainland",1997,Sweet potatoes,,1195466.0,
+"China, mainland",1998,Sweet potatoes,,1231699.0,
+"China, mainland",1999,Sweet potatoes,,1321620.0,
+"China, mainland",2000,Sweet potatoes,,1279533.0,
+"China, mainland",2001,Sweet potatoes,,1274820.0,
+"China, mainland",2002,Sweet potatoes,,1312285.0,
+"China, mainland",2003,Sweet potatoes,,1325226.0,
+"China, mainland",2004,Sweet potatoes,,1386028.0,
+"China, mainland",2005,Sweet potatoes,,1460000.0,
+"China, mainland",2006,Sweet potatoes,,1537000.0,
+"China, mainland",2007,Sweet potatoes,,1623000.0,
+"China, mainland",2008,Sweet potatoes,,1672300.0,
+"China, mainland",2009,Sweet potatoes,,1709000.0,
+"China, mainland",2010,Sweet potatoes,,1758000.0,
+"China, mainland",2011,Sweet potatoes,,1787002.0,
+"China, mainland",2012,Sweet potatoes,,1806000.0,
+"China, mainland",2013,Sweet potatoes,,1801862.0,
+"China, mainland",2014,Sweet potatoes,,1807000.0,
+"China, mainland",2015,Sweet potatoes,,1763000.0,
+"China, mainland",2016,Sweet potatoes,,1763000.0,
+Colombia,1998,Potatoes,,60687.0,323615.0
+Colombia,1998,Potatoes,,60687.0,323615.0
+Colombia,1999,Potatoes,,66088.0,323615.0
+Colombia,1999,Potatoes,,66088.0,323615.0
+Colombia,2000,Potatoes,,75843.0,323615.0
+Colombia,2000,Potatoes,,75843.0,323615.0
+Colombia,2001,Potatoes,,85515.3,323615.0
+Colombia,2001,Potatoes,,85515.3,323615.0
+Colombia,2002,Potatoes,,84023.26,323615.0
+Colombia,2002,Potatoes,,84023.26,323615.0
+Colombia,2003,Potatoes,,88772.15,323615.0
+Colombia,2003,Potatoes,,88772.15,323615.0
+Colombia,2004,Potatoes,,105514.19,323615.0
+Colombia,2004,Potatoes,,105514.19,323615.0
+Colombia,2005,Potatoes,,117881.45,323615.0
+Colombia,2005,Potatoes,,117881.45,323615.0
+Colombia,2006,Potatoes,,98328.63,323615.0
+Colombia,2006,Potatoes,,98328.63,323615.0
+Colombia,2007,Potatoes,,82439.06,323615.0
+Colombia,2007,Potatoes,,82439.06,323615.0
+Colombia,2008,Potatoes,,48538.97,323615.0
+Colombia,2008,Potatoes,,48538.97,323615.0
+Colombia,2009,Potatoes,,51435.13,323615.0
+Colombia,2009,Potatoes,,51435.13,323615.0
+Colombia,2010,Potatoes,,48618.46,323615.0
+Colombia,2010,Potatoes,,48618.46,323615.0
+Colombia,2011,Potatoes,,53797.0,323615.0
+Colombia,2011,Potatoes,,53797.0,323615.0
+Colombia,2012,Potatoes,,48727.73,323615.0
+Colombia,2012,Potatoes,,48727.73,323615.0
+Colombia,2013,Potatoes,,54563.38,323615.0
+Colombia,2013,Potatoes,,54563.38,323615.0
+Colombia,2014,Potatoes,,73744.34,323615.0
+Colombia,2015,Potatoes,,52883.0,323615.0
+Colombia,2016,Potatoes,,47343.85,323615.0
+Comoros,1961,Sweet potatoes,,,1165.0
+Comoros,1962,Sweet potatoes,,,1165.0
+Comoros,1963,Sweet potatoes,,,1165.0
+Comoros,1964,Sweet potatoes,,,1165.0
+Comoros,1965,Sweet potatoes,,,1165.0
+Comoros,1966,Sweet potatoes,,,1165.0
+Comoros,1967,Sweet potatoes,,,1165.0
+Comoros,1968,Sweet potatoes,,,1165.0
+Comoros,1969,Sweet potatoes,,,1165.0
+Comoros,1970,Sweet potatoes,,,1165.0
+Comoros,1971,Sweet potatoes,,,1165.0
+Comoros,1972,Sweet potatoes,,,1165.0
+Comoros,1973,Sweet potatoes,,,1165.0
+Comoros,1974,Sweet potatoes,,,1165.0
+Comoros,1975,Sweet potatoes,,,1165.0
+Comoros,1976,Sweet potatoes,,,1165.0
+Comoros,1977,Sweet potatoes,,,1165.0
+Comoros,1978,Sweet potatoes,,,1165.0
+Comoros,1979,Sweet potatoes,,,1165.0
+Comoros,1980,Sweet potatoes,,,1165.0
+Comoros,1981,Sweet potatoes,,,1165.0
+Comoros,1982,Sweet potatoes,,,1165.0
+Comoros,1983,Sweet potatoes,,,1165.0
+Comoros,1984,Sweet potatoes,,,1165.0
+Comoros,1985,Sweet potatoes,,,1165.0
+Comoros,1986,Sweet potatoes,,,1165.0
+Comoros,1987,Sweet potatoes,,,1165.0
+Comoros,1988,Sweet potatoes,,,1165.0
+Comoros,1989,Sweet potatoes,,,1165.0
+Comoros,1990,Potatoes,,0.7,1165.0
+Comoros,1991,Potatoes,,0.7,1165.0
+Comoros,1992,Potatoes,,0.7,1165.0
+Comoros,1993,Potatoes,,0.7,1165.0
+Comoros,1994,Potatoes,,0.7,1165.0
+Comoros,1995,Potatoes,,0.7,1165.0
+Comoros,1996,Potatoes,,0.7,1165.0
+Comoros,1997,Potatoes,,0.7,1165.0
+Comoros,1998,Potatoes,,0.7,1165.0
+Comoros,1999,Potatoes,,0.7,1165.0
+Comoros,2000,Potatoes,,0.7,1165.0
+Comoros,2001,Potatoes,,0.67,1165.0
+Comoros,2002,Potatoes,,0.64,1165.0
+Comoros,2003,Potatoes,,0.61,1165.0
+Comoros,2004,Potatoes,,0.58,1165.0
+Comoros,2005,Potatoes,,0.55,1165.0
+Comoros,2006,Potatoes,,0.52,1165.0
+Comoros,2007,Potatoes,,0.49,1165.0
+Comoros,2008,Potatoes,,0.27,1165.0
+Comoros,2009,Potatoes,,0.03,1165.0
+Comoros,2010,Potatoes,,0.03,1165.0
+Comoros,2011,Potatoes,,0.03,1165.0
+Comoros,2012,Potatoes,,0.03,1165.0
+Comoros,2013,Potatoes,,0.03,1165.0
+Comoros,2014,Potatoes,,0.03,1165.0
+Comoros,2015,Potatoes,,0.03,1165.0
+Comoros,2016,Potatoes,,0.03,1165.0
+Cook Islands,1961,Sweet potatoes,,,244.0
+Cook Islands,1962,Sweet potatoes,,,244.0
+Cook Islands,1963,Sweet potatoes,,,244.0
+Cook Islands,1964,Sweet potatoes,,,244.0
+Cook Islands,1965,Sweet potatoes,,,244.0
+Cook Islands,1966,Cassava,,,244.0
+Cook Islands,1967,Cassava,,,244.0
+Cook Islands,1968,Sweet potatoes,,,244.0
+Cook Islands,1969,Cassava,,,244.0
+Cook Islands,1970,Cassava,,,244.0
+Cook Islands,1971,Cassava,,,244.0
+Cook Islands,1972,Cassava,,,244.0
+Cook Islands,1973,Cassava,,,244.0
+Cook Islands,1974,Cassava,,,244.0
+Cook Islands,1975,Cassava,,,244.0
+Cook Islands,1976,Cassava,,,244.0
+Cook Islands,1977,Cassava,,,244.0
+Cook Islands,1978,Cassava,,,244.0
+Cook Islands,1979,Cassava,,,244.0
+Cook Islands,1980,Cassava,,,244.0
+Cook Islands,1981,Sweet potatoes,,,244.0
+Cook Islands,1982,Sweet potatoes,,,244.0
+Cook Islands,1983,Sweet potatoes,,,244.0
+Cook Islands,1984,Sweet potatoes,,,244.0
+Cook Islands,1985,Sweet potatoes,,,244.0
+Cook Islands,1986,Sweet potatoes,,,244.0
+Cook Islands,1987,Sweet potatoes,,,244.0
+Cook Islands,1988,Sweet potatoes,,,244.0
+Cook Islands,1989,Sweet potatoes,,,244.0
+Cook Islands,1990,Cassava,,1.0,244.0
+Cook Islands,1991,Cassava,,1.0,244.0
+Cook Islands,1992,Cassava,,1.0,244.0
+Cook Islands,1993,Sweet potatoes,,1.0,244.0
+Cook Islands,1994,Sweet potatoes,,0.0,244.0
+Cook Islands,1995,Sweet potatoes,,0.71,244.0
+Cook Islands,1996,Sweet potatoes,,0.9,244.0
+Cook Islands,1997,Sweet potatoes,,1.63,244.0
+Cook Islands,1998,Sweet potatoes,,1.58,244.0
+Cook Islands,1999,Sweet potatoes,,1.5,244.0
+Cook Islands,2000,Sweet potatoes,,1.5,244.0
+Cook Islands,2001,Sweet potatoes,,1.9,244.0
+Cook Islands,2002,Sweet potatoes,,2.29,244.0
+Cook Islands,2003,Sweet potatoes,,2.69,244.0
+Cook Islands,2004,Sweet potatoes,,2.79,244.0
+Cook Islands,2005,Sweet potatoes,,3.04,244.0
+Cook Islands,2006,Sweet potatoes,,3.21,244.0
+Cook Islands,2007,Sweet potatoes,,3.23,244.0
+Cook Islands,2008,Sweet potatoes,,3.6,244.0
+Cook Islands,2009,Sweet potatoes,,3.33,244.0
+Cook Islands,2010,Sweet potatoes,,3.33,244.0
+Cook Islands,2011,Sweet potatoes,,3.33,244.0
+Cook Islands,2012,Sweet potatoes,,3.33,244.0
+Cook Islands,2013,Sweet potatoes,,3.33,244.0
+Cook Islands,2014,Sweet potatoes,,3.33,244.0
+Cook Islands,2015,Sweet potatoes,,3.33,244.0
+Cook Islands,2016,Sweet potatoes,,3.33,244.0
+Djibouti,1981,Maize,,,3324.0
+Djibouti,1982,Maize,,,3324.0
+Djibouti,1983,Maize,,,3324.0
+Djibouti,1984,Maize,,,3324.0
+Djibouti,1985,Maize,,,3324.0
+Djibouti,1986,Maize,,,3324.0
+Djibouti,1987,Maize,,,3324.0
+Djibouti,1988,Maize,,,3324.0
+Djibouti,1989,Maize,,,3324.0
+Djibouti,1990,Maize,,,3324.0
+Djibouti,1991,Maize,,,3324.0
+Djibouti,1992,Maize,,,3324.0
+Djibouti,1993,Maize,,,3324.0
+Djibouti,1994,Maize,,,3324.0
+Djibouti,1995,Maize,,,3324.0
+Djibouti,1996,Maize,,,3324.0
+Djibouti,1997,Maize,,,3324.0
+Djibouti,1998,Maize,,,3324.0
+Djibouti,1999,Maize,,,3324.0
+Djibouti,2000,Maize,,,3324.0
+Djibouti,2001,Maize,,,3324.0
+Djibouti,2002,Maize,,,3324.0
+Djibouti,2003,Maize,,,3324.0
+Djibouti,2004,Maize,,,3324.0
+Djibouti,2005,Maize,,,3324.0
+Djibouti,2006,Maize,,,3324.0
+Djibouti,2007,Maize,,,3324.0
+Djibouti,2008,Maize,,,3324.0
+Djibouti,2009,Maize,,,3324.0
+Djibouti,2010,Maize,,,3324.0
+Djibouti,2011,Maize,,,3324.0
+Djibouti,2012,Maize,,,3324.0
+Djibouti,2013,Maize,,,3324.0
+Djibouti,2014,Maize,,,3324.0
+Djibouti,2015,Maize,,,3324.0
+Djibouti,2016,Maize,,,3324.0
+Dominica,1961,Cassava,,,582.0
+Dominica,1962,Cassava,,,582.0
+Dominica,1963,Cassava,,,582.0
+Dominica,1964,Cassava,,,582.0
+Dominica,1965,Cassava,,,582.0
+Dominica,1966,Cassava,,,582.0
+Dominica,1967,Cassava,,,582.0
+Dominica,1968,Cassava,,,582.0
+Dominica,1969,Cassava,,,582.0
+Dominica,1970,Cassava,,,582.0
+Dominica,1971,Cassava,,,582.0
+Dominica,1972,Cassava,,,582.0
+Dominica,1973,Cassava,,,582.0
+Dominica,1974,Cassava,,,582.0
+Dominica,1975,Yams,,,582.0
+Dominica,1976,Yams,,,582.0
+Dominica,1977,Yams,,,582.0
+Dominica,1978,Cassava,,,582.0
+Dominica,1979,Yams,,,582.0
+Dominica,1980,Yams,,,582.0
+Dominica,1981,Yams,,,582.0
+Dominica,1982,Yams,,,582.0
+Dominica,1983,Yams,,,582.0
+Dominica,1984,Yams,,,582.0
+Dominica,1985,Yams,,,582.0
+Dominica,1986,Yams,,,582.0
+Dominica,1987,Yams,,,582.0
+Dominica,1988,Yams,,,582.0
+Dominica,1989,Yams,,,582.0
+Dominica,1990,Yams,,,582.0
+Dominica,1991,Yams,,,582.0
+Dominica,1992,Yams,,,582.0
+Dominica,1993,Yams,,,582.0
+Dominica,1994,Yams,,,582.0
+Dominica,1995,Yams,,,582.0
+Dominica,1996,Yams,,,582.0
+Dominica,1997,Yams,,,582.0
+Dominica,1998,Yams,,,582.0
+Dominica,1999,Yams,,,582.0
+Dominica,2000,Yams,,,582.0
+Dominica,2001,Yams,,,582.0
+Dominica,2002,Yams,,,582.0
+Dominica,2003,Yams,,,582.0
+Dominica,2004,Yams,,,582.0
+Dominica,2005,Yams,,,582.0
+Dominica,2006,Yams,,,582.0
+Dominica,2007,Potatoes,,,582.0
+Dominica,2008,Potatoes,,,582.0
+Dominica,2009,Potatoes,,,582.0
+Dominica,2010,Potatoes,,,582.0
+Dominica,2011,Potatoes,,,582.0
+Dominica,2012,Potatoes,,,582.0
+Dominica,2013,Potatoes,,,582.0
+Dominica,2014,Potatoes,,,582.0
+Dominica,2015,Potatoes,,,582.0
+Dominica,2016,Potatoes,,,582.0
+Equatorial Guinea,1961,Sweet potatoes,,,11026.0
+Equatorial Guinea,1962,Sweet potatoes,,,11026.0
+Equatorial Guinea,1963,Sweet potatoes,,,11026.0
+Equatorial Guinea,1964,Sweet potatoes,,,11026.0
+Equatorial Guinea,1965,Sweet potatoes,,,11026.0
+Equatorial Guinea,1966,Sweet potatoes,,,11026.0
+Equatorial Guinea,1967,Sweet potatoes,,,11026.0
+Equatorial Guinea,1968,Sweet potatoes,,,11026.0
+Equatorial Guinea,1969,Sweet potatoes,,,11026.0
+Equatorial Guinea,1970,Sweet potatoes,,,11026.0
+Equatorial Guinea,1971,Sweet potatoes,,,11026.0
+Equatorial Guinea,1972,Sweet potatoes,,,11026.0
+Equatorial Guinea,1973,Sweet potatoes,,,11026.0
+Equatorial Guinea,1974,Sweet potatoes,,,11026.0
+Equatorial Guinea,1975,Sweet potatoes,,,11026.0
+Equatorial Guinea,1976,Sweet potatoes,,,11026.0
+Equatorial Guinea,1977,Sweet potatoes,,,11026.0
+Equatorial Guinea,1978,Sweet potatoes,,,11026.0
+Equatorial Guinea,1979,Sweet potatoes,,,11026.0
+Equatorial Guinea,1980,Sweet potatoes,,,11026.0
+Equatorial Guinea,1981,Sweet potatoes,,,11026.0
+Equatorial Guinea,1982,Sweet potatoes,,,11026.0
+Equatorial Guinea,1983,Sweet potatoes,,,11026.0
+Equatorial Guinea,1984,Sweet potatoes,,,11026.0
+Equatorial Guinea,1985,Sweet potatoes,,,11026.0
+Equatorial Guinea,1986,Sweet potatoes,,,11026.0
+Equatorial Guinea,1987,Sweet potatoes,,,11026.0
+Equatorial Guinea,1988,Sweet potatoes,,,11026.0
+Equatorial Guinea,1989,Sweet potatoes,,,11026.0
+Equatorial Guinea,1990,Sweet potatoes,,,11026.0
+Equatorial Guinea,1991,Plantains and others,,,11026.0
+Equatorial Guinea,1992,Plantains and others,,,11026.0
+Equatorial Guinea,1993,Plantains and others,,,11026.0
+Equatorial Guinea,1994,Plantains and others,,,11026.0
+Equatorial Guinea,1995,Plantains and others,,,11026.0
+Equatorial Guinea,1996,Plantains and others,,,11026.0
+Equatorial Guinea,1997,Plantains and others,,,11026.0
+Equatorial Guinea,1998,Plantains and others,,,11026.0
+Equatorial Guinea,1999,Plantains and others,,,11026.0
+Equatorial Guinea,2000,Plantains and others,,,11026.0
+Equatorial Guinea,2001,Plantains and others,,,11026.0
+Equatorial Guinea,2002,Plantains and others,,,11026.0
+Equatorial Guinea,2003,Plantains and others,,,11026.0
+Equatorial Guinea,2004,Plantains and others,,,11026.0
+Equatorial Guinea,2005,Plantains and others,,,11026.0
+Equatorial Guinea,2006,Plantains and others,,,11026.0
+Equatorial Guinea,2007,Plantains and others,,,11026.0
+Equatorial Guinea,2008,Plantains and others,,,11026.0
+Equatorial Guinea,2009,Plantains and others,,,11026.0
+Equatorial Guinea,2010,Plantains and others,,,11026.0
+Equatorial Guinea,2011,Plantains and others,,,11026.0
+Equatorial Guinea,2012,Sweet potatoes,,,11026.0
+Equatorial Guinea,2013,Sweet potatoes,,,11026.0
+Equatorial Guinea,2014,Sweet potatoes,,,11026.0
+Equatorial Guinea,2015,Sweet potatoes,,,11026.0
+Equatorial Guinea,2016,Sweet potatoes,,,11026.0
+Eritrea,1993,Potatoes,,4.44,2065.0
+Eritrea,1994,Potatoes,,4.44,2065.0
+Eritrea,1995,Potatoes,,4.44,2065.0
+Eritrea,1996,Potatoes,,4.44,2065.0
+Eritrea,1997,Potatoes,,30.92,2065.0
+Eritrea,1998,Potatoes,,19.61,2065.0
+Eritrea,1999,Potatoes,,22.28,2065.0
+Eritrea,2000,Potatoes,,24.96,2065.0
+Eritrea,2001,Potatoes,,27.63,2065.0
+Eritrea,2002,Potatoes,,27.63,2065.0
+Eritrea,2003,Potatoes,,27.63,2065.0
+Eritrea,2004,Potatoes,,27.63,2065.0
+Eritrea,2005,Potatoes,,27.63,2065.0
+Eritrea,2006,Potatoes,,27.63,2065.0
+Eritrea,2007,Potatoes,,27.63,2065.0
+Eritrea,2008,Potatoes,,27.63,2065.0
+Eritrea,2009,Potatoes,,27.63,2065.0
+Eritrea,2010,Potatoes,,27.63,2065.0
+Eritrea,2011,Potatoes,,27.63,2065.0
+Eritrea,2012,Potatoes,,27.63,2065.0
+Eritrea,2013,Potatoes,,27.63,2065.0
+Eritrea,2014,Wheat,,27.63,2065.0
+Eritrea,2015,Wheat,,27.63,2065.0
+Eritrea,2016,Wheat,,27.63,2065.0
+Faroe Islands,1961,Potatoes,,,3116.0
+Faroe Islands,1962,Potatoes,,,3116.0
+Faroe Islands,1963,Potatoes,,,3116.0
+Faroe Islands,1964,Potatoes,,,3116.0
+Faroe Islands,1965,Potatoes,,,3116.0
+Faroe Islands,1966,Potatoes,,,3116.0
+Faroe Islands,1967,Potatoes,,,3116.0
+Faroe Islands,1968,Potatoes,,,3116.0
+Faroe Islands,1969,Potatoes,,,3116.0
+Faroe Islands,1970,Potatoes,,,3116.0
+Faroe Islands,1971,Potatoes,,,3116.0
+Faroe Islands,1972,Potatoes,,,3116.0
+Faroe Islands,1973,Potatoes,,,3116.0
+Faroe Islands,1974,Potatoes,,,3116.0
+Faroe Islands,1975,Potatoes,,,3116.0
+Faroe Islands,1976,Potatoes,,,3116.0
+Faroe Islands,1977,Potatoes,,,3116.0
+Faroe Islands,1978,Potatoes,,,3116.0
+Faroe Islands,1979,Potatoes,,,3116.0
+Faroe Islands,1980,Potatoes,,,3116.0
+Faroe Islands,1981,Potatoes,,,3116.0
+Faroe Islands,1982,Potatoes,,,3116.0
+Faroe Islands,1983,Potatoes,,,3116.0
+Faroe Islands,1984,Potatoes,,,3116.0
+Faroe Islands,1985,Potatoes,,,3116.0
+Faroe Islands,1986,Potatoes,,,3116.0
+Faroe Islands,1987,Potatoes,,,3116.0
+Faroe Islands,1988,Potatoes,,,3116.0
+Faroe Islands,1989,Potatoes,,,3116.0
+Faroe Islands,1990,Potatoes,,,3116.0
+Faroe Islands,1991,Potatoes,,,3116.0
+Faroe Islands,1992,Potatoes,,,3116.0
+Faroe Islands,1993,Potatoes,,,3116.0
+Faroe Islands,1994,Potatoes,,,3116.0
+Faroe Islands,1995,Potatoes,,,3116.0
+Faroe Islands,1996,Potatoes,,,3116.0
+Faroe Islands,1997,Potatoes,,,3116.0
+Faroe Islands,1998,Potatoes,,,3116.0
+Faroe Islands,1999,Potatoes,,,3116.0
+Faroe Islands,2000,Potatoes,,,3116.0
+Faroe Islands,2001,Potatoes,,,3116.0
+Faroe Islands,2002,Potatoes,,,3116.0
+Faroe Islands,2003,Potatoes,,,3116.0
+Faroe Islands,2004,Potatoes,,,3116.0
+Faroe Islands,2005,Potatoes,,,3116.0
+Faroe Islands,2006,Potatoes,,,3116.0
+Faroe Islands,2007,Potatoes,,,3116.0
+Faroe Islands,2008,Potatoes,,,3116.0
+Faroe Islands,2009,Potatoes,,,3116.0
+Faroe Islands,2010,Potatoes,,,3116.0
+Faroe Islands,2011,Potatoes,,,3116.0
+Faroe Islands,2012,Potatoes,,,3116.0
+Faroe Islands,2013,Potatoes,,,3116.0
+Faroe Islands,2014,Potatoes,,,3116.0
+Faroe Islands,2015,Potatoes,,,3116.0
+Faroe Islands,2016,Potatoes,,,3116.0
+Fiji,1961,Cassava,,,5496.0
+Fiji,1962,Cassava,,,5496.0
+Fiji,1963,Cassava,,,5496.0
+Fiji,1964,Cassava,,,5496.0
+Fiji,1965,Cassava,,,5496.0
+Fiji,1966,Cassava,,,5496.0
+Fiji,1967,Cassava,,,5496.0
+Fiji,1968,Cassava,,,5496.0
+Fiji,1969,Cassava,,,5496.0
+Fiji,1970,Cassava,,,5496.0
+Fiji,1971,Cassava,,,5496.0
+Fiji,1972,Cassava,,,5496.0
+Fiji,1973,Cassava,,,5496.0
+Fiji,1974,Cassava,,,5496.0
+Fiji,1975,Cassava,,,5496.0
+Fiji,1976,Cassava,,,5496.0
+Fiji,1977,Cassava,,,5496.0
+Fiji,1978,Cassava,,,5496.0
+Fiji,1979,Cassava,,,5496.0
+Fiji,1980,Cassava,,,5496.0
+Fiji,1981,Cassava,,,5496.0
+Fiji,1982,Cassava,,,5496.0
+Fiji,1983,Cassava,,,5496.0
+Fiji,1984,Cassava,,,5496.0
+Fiji,1985,Cassava,,,5496.0
+Fiji,1986,Cassava,,,5496.0
+Fiji,1987,Sweet potatoes,,,5496.0
+Fiji,1988,Cassava,,,5496.0
+Fiji,1989,Cassava,,,5496.0
+Fiji,1990,Potatoes,,201.48,5496.0
+Fiji,1991,Sweet potatoes,,676.73,5496.0
+Fiji,1992,Sweet potatoes,,170.84,5496.0
+Fiji,1993,Sweet potatoes,,206.31,5496.0
+Fiji,1994,Cassava,,241.77,5496.0
+Fiji,1995,Cassava,,277.24,5496.0
+Fiji,1996,Cassava,,312.7,5496.0
+Fiji,1997,Cassava,,348.16,5496.0
+Fiji,1998,Yams,,383.63,5496.0
+Fiji,1999,Yams,,419.09,5496.0
+Fiji,2000,Cassava,,454.56,5496.0
+Fiji,2001,Cassava,,490.02,5496.0
+Fiji,2002,Cassava,,525.48,5496.0
+Fiji,2003,Cassava,,560.95,5496.0
+Fiji,2004,Cassava,,596.41,5496.0
+Fiji,2005,Cassava,,631.88,5496.0
+Fiji,2006,Cassava,,667.34,5496.0
+Fiji,2007,Cassava,,702.8,5496.0
+Fiji,2008,Cassava,,746.81,5496.0
+Fiji,2009,Cassava,,1121.72,5496.0
+Fiji,2010,Cassava,,1059.03,5496.0
+Fiji,2011,Cassava,,1103.1,5496.0
+Fiji,2012,Cassava,,1375.15,5496.0
+Fiji,2013,Cassava,,1265.34,5496.0
+Fiji,2014,Cassava,,1265.34,5496.0
+Fiji,2015,Cassava,,1265.34,5496.0
+Fiji,2016,Cassava,,1265.34,5496.0
+France,1990,Potatoes,,97701.0,2715518.0
+France,1991,Potatoes,,103434.0,2715518.0
+France,1992,Potatoes,,85249.0,2715518.0
+France,1993,Potatoes,,91953.0,2715518.0
+France,1994,Potatoes,,89515.0,2715518.0
+France,1995,Potatoes,,84011.0,2715518.0
+France,1996,Potatoes,,97890.0,2715518.0
+France,1997,Potatoes,,109792.0,2715518.0
+France,1998,Potatoes,,107753.0,2715518.0
+France,1999,Potatoes,,114695.0,2715518.0
+France,2000,Potatoes,,97878.0,2715518.0
+France,2001,Potatoes,,99694.0,2715518.0
+France,2002,Potatoes,,82448.0,2715518.0
+France,2003,Potatoes,,74531.0,2715518.0
+France,2004,Potatoes,,76099.0,2715518.0
+France,2005,Potatoes,,78265.0,2715518.0
+France,2006,Potatoes,,71612.0,2715518.0
+France,2007,Potatoes,,77255.0,2715518.0
+France,2008,Potatoes,,78577.0,2715518.0
+France,2009,Potatoes,,63676.0,2715518.0
+France,2010,Potatoes,,61903.0,2715518.0
+France,2011,Potatoes,,61039.0,2715518.0
+France,2012,Potatoes,,63547.59,2715518.0
+France,2013,Potatoes,,66497.29,2715518.0
+France,2014,Potatoes,,74909.6,2715518.0
+France,2015,Potatoes,,66531.02,2715518.0
+France,2016,Potatoes,,71951.22,2715518.0
+French Polynesia,1961,Cassava,,,5490.0
+French Polynesia,1962,Cassava,,,5490.0
+French Polynesia,1963,Cassava,,,5490.0
+French Polynesia,1964,Cassava,,,5490.0
+French Polynesia,1965,Cassava,,,5490.0
+French Polynesia,1966,Cassava,,,5490.0
+French Polynesia,1967,Cassava,,,5490.0
+French Polynesia,1968,Cassava,,,5490.0
+French Polynesia,1969,Cassava,,,5490.0
+French Polynesia,1970,Cassava,,,5490.0
+French Polynesia,1971,Cassava,,,5490.0
+French Polynesia,1972,Cassava,,,5490.0
+French Polynesia,1973,Cassava,,,5490.0
+French Polynesia,1974,Cassava,,,5490.0
+French Polynesia,1975,Cassava,,,5490.0
+French Polynesia,1976,Cassava,,,5490.0
+French Polynesia,1977,Cassava,,,5490.0
+French Polynesia,1978,Cassava,,,5490.0
+French Polynesia,1979,Cassava,,,5490.0
+French Polynesia,1980,Cassava,,,5490.0
+French Polynesia,1981,Cassava,,,5490.0
+French Polynesia,1982,Cassava,,,5490.0
+French Polynesia,1983,Cassava,,,5490.0
+French Polynesia,1984,Cassava,,,5490.0
+French Polynesia,1985,Cassava,,,5490.0
+French Polynesia,1986,Cassava,,,5490.0
+French Polynesia,1987,Cassava,,,5490.0
+French Polynesia,1988,Cassava,,,5490.0
+French Polynesia,1989,Cassava,,,5490.0
+French Polynesia,1990,Cassava,,41.3,5490.0
+French Polynesia,1991,Cassava,,41.3,5490.0
+French Polynesia,1992,Cassava,,41.3,5490.0
+French Polynesia,1993,Cassava,,41.3,5490.0
+French Polynesia,1994,Cassava,,41.3,5490.0
+French Polynesia,1995,Cassava,,41.3,5490.0
+French Polynesia,1996,Cassava,,41.3,5490.0
+French Polynesia,1997,Cassava,,41.3,5490.0
+French Polynesia,1998,Cassava,,41.3,5490.0
+French Polynesia,1999,Cassava,,41.3,5490.0
+French Polynesia,2000,Cassava,,41.3,5490.0
+French Polynesia,2001,Cassava,,41.3,5490.0
+French Polynesia,2002,Cassava,,41.3,5490.0
+French Polynesia,2003,Cassava,,44.33,5490.0
+French Polynesia,2004,Cassava,,47.35,5490.0
+French Polynesia,2005,Cassava,,55.33,5490.0
+French Polynesia,2006,Cassava,,45.3,5490.0
+French Polynesia,2007,Cassava,,48.64,5490.0
+French Polynesia,2008,Cassava,,53.82,5490.0
+French Polynesia,2009,Cassava,,45.43,5490.0
+French Polynesia,2010,Cassava,,27.73,5490.0
+French Polynesia,2011,Cassava,,43.21,5490.0
+French Polynesia,2012,Cassava,,29.1,5490.0
+French Polynesia,2013,Cassava,,25.7,5490.0
+French Polynesia,2014,Cassava,,37.03,5490.0
+French Polynesia,2015,Cassava,,31.68,5490.0
+French Polynesia,2016,Cassava,,25.66,5490.0
+Gabon,1961,Yams,,,16874.0
+Gabon,1962,Yams,,,16874.0
+Gabon,1963,Yams,,,16874.0
+Gabon,1964,Yams,,,16874.0
+Gabon,1965,Yams,,,16874.0
+Gabon,1966,Cassava,,,16874.0
+Gabon,1967,Yams,,,16874.0
+Gabon,1968,Cassava,,,16874.0
+Gabon,1969,Cassava,,,16874.0
+Gabon,1970,Yams,,,16874.0
+Gabon,1971,Yams,,,16874.0
+Gabon,1972,Yams,,,16874.0
+Gabon,1973,Yams,,,16874.0
+Gabon,1974,Yams,,,16874.0
+Gabon,1975,Yams,,,16874.0
+Gabon,1976,Yams,,,16874.0
+Gabon,1977,Yams,,,16874.0
+Gabon,1978,Yams,,,16874.0
+Gabon,1979,Yams,,,16874.0
+Gabon,1980,Yams,,,16874.0
+Gabon,1981,Yams,,,16874.0
+Gabon,1982,Yams,,,16874.0
+Gabon,1983,Yams,,,16874.0
+Gabon,1984,Yams,,,16874.0
+Gabon,1985,Yams,,,16874.0
+Gabon,1986,Yams,,,16874.0
+Gabon,1987,Yams,,,16874.0
+Gabon,1988,Yams,,,16874.0
+Gabon,1989,Yams,,,16874.0
+Gabon,1990,Yams,,,16874.0
+Gabon,1991,Yams,,,16874.0
+Gabon,1992,Yams,,,16874.0
+Gabon,1993,Yams,,,16874.0
+Gabon,1994,Yams,,,16874.0
+Gabon,1995,Yams,,,16874.0
+Gabon,1996,Yams,,,16874.0
+Gabon,1997,Yams,,,16874.0
+Gabon,1998,Yams,,,16874.0
+Gabon,1999,Yams,,,16874.0
+Gabon,2000,Yams,,,16874.0
+Gabon,2001,Yams,,,16874.0
+Gabon,2002,Yams,,,16874.0
+Gabon,2003,Yams,,,16874.0
+Gabon,2004,Yams,,,16874.0
+Gabon,2005,Yams,,,16874.0
+Gabon,2006,Yams,,,16874.0
+Gabon,2007,Yams,,,16874.0
+Gabon,2008,Yams,,,16874.0
+Gabon,2009,Yams,,,16874.0
+Gabon,2010,Yams,,,16874.0
+Gabon,2011,Yams,,,16874.0
+Gabon,2012,Yams,,,16874.0
+Gabon,2013,Yams,,,16874.0
+Gabon,2014,Yams,,,16874.0
+Gabon,2015,Yams,,,16874.0
+Gabon,2016,Yams,,,16874.0
+Gambia,1961,Cassava,,,1826.0
+Gambia,1962,Cassava,,,1826.0
+Gambia,1963,Cassava,,,1826.0
+Gambia,1964,Cassava,,,1826.0
+Gambia,1965,Cassava,,,1826.0
+Gambia,1966,Cassava,,,1826.0
+Gambia,1967,Cassava,,,1826.0
+Gambia,1968,Cassava,,,1826.0
+Gambia,1969,Cassava,,,1826.0
+Gambia,1970,Cassava,,,1826.0
+Gambia,1971,Cassava,,,1826.0
+Gambia,1972,Cassava,,,1826.0
+Gambia,1973,Cassava,,,1826.0
+Gambia,1974,Cassava,,,1826.0
+Gambia,1975,Cassava,,,1826.0
+Gambia,1976,Cassava,,,1826.0
+Gambia,1977,Cassava,,,1826.0
+Gambia,1978,Cassava,,,1826.0
+Gambia,1979,Cassava,,,1826.0
+Gambia,1980,Cassava,,,1826.0
+Gambia,1981,Cassava,,,1826.0
+Gambia,1982,Cassava,,,1826.0
+Gambia,1983,Cassava,,,1826.0
+Gambia,1984,Cassava,,,1826.0
+Gambia,1985,Cassava,,,1826.0
+Gambia,1986,Cassava,,,1826.0
+Gambia,1987,Cassava,,,1826.0
+Gambia,1988,Cassava,,,1826.0
+Gambia,1989,Cassava,,,1826.0
+Gambia,1990,Cassava,,34.0,1826.0
+Gambia,1991,Cassava,,34.0,1826.0
+Gambia,1992,Cassava,,34.0,1826.0
+Gambia,1993,Cassava,,20.03,1826.0
+Gambia,1994,Cassava,,2.02,1826.0
+Gambia,1995,Cassava,,8.04,1826.0
+Gambia,1996,Cassava,,8.31,1826.0
+Gambia,1997,Cassava,,74.73,1826.0
+Gambia,1998,Cassava,,141.16,1826.0
+Gambia,1999,Cassava,,207.58,1826.0
+Gambia,2000,Cassava,,274.0,1826.0
+Gambia,2001,Cassava,,237.0,1826.0
+Gambia,2002,Cassava,,250.0,1826.0
+Gambia,2003,Cassava,,345.0,1826.0
+Gambia,2004,Cassava,,559.0,1826.0
+Gambia,2005,Cassava,,813.0,1826.0
+Gambia,2006,Cassava,,2061.0,1826.0
+Gambia,2007,Cassava,,588.0,1826.0
+Gambia,2008,Cassava,,588.0,1826.0
+Gambia,2009,Cassava,,588.0,1826.0
+Gambia,2010,Cassava,,588.0,1826.0
+Gambia,2011,Cassava,,588.0,1826.0
+Gambia,2012,Cassava,,588.0,1826.0
+Gambia,2013,Cassava,,588.0,1826.0
+Gambia,2014,Cassava,,588.0,1826.0
+Gambia,2015,Cassava,,588.0,1826.0
+Gambia,2016,Cassava,,588.0,1826.0
+Georgia,1992,Potatoes,,,17477.0
+Georgia,1993,Potatoes,,,17477.0
+Georgia,1994,Potatoes,,,17477.0
+Georgia,1995,Potatoes,,,17477.0
+Georgia,1996,Potatoes,,,17477.0
+Georgia,1997,Potatoes,,,17477.0
+Georgia,1998,Potatoes,,,17477.0
+Georgia,1999,Potatoes,,,17477.0
+Georgia,2000,Potatoes,,,17477.0
+Georgia,2001,Potatoes,,,17477.0
+Georgia,2002,Potatoes,,,17477.0
+Georgia,2003,Potatoes,,,17477.0
+Georgia,2004,Potatoes,,,17477.0
+Georgia,2005,Potatoes,,,17477.0
+Georgia,2006,Potatoes,,,17477.0
+Georgia,2007,Potatoes,,,17477.0
+Georgia,2008,Potatoes,,,17477.0
+Georgia,2009,Potatoes,,,17477.0
+Georgia,2010,Potatoes,,,17477.0
+Georgia,2011,Potatoes,,,17477.0
+Georgia,2012,Potatoes,,,17477.0
+Georgia,2013,Potatoes,,,17477.0
+Georgia,2014,Potatoes,,,17477.0
+Georgia,2015,Potatoes,,,17477.0
+Georgia,2016,Potatoes,,,17477.0
+Germany,2000,Potatoes,,35273.17,3861123.0
+Germany,2000,Potatoes,,35273.17,3861123.0
+Germany,2000,Potatoes,,35273.17,3861123.0
+Germany,2002,Potatoes,,34431.72,3861123.0
+Germany,2002,Potatoes,,34431.72,3861123.0
+Germany,2002,Potatoes,,34431.72,3861123.0
+Germany,2003,Potatoes,,35539.26,3861123.0
+Germany,2003,Potatoes,,35539.26,3861123.0
+Germany,2003,Potatoes,,35539.26,3861123.0
+Germany,2004,Potatoes,,34930.37,3861123.0
+Germany,2004,Potatoes,,34930.37,3861123.0
+Germany,2004,Potatoes,,34930.37,3861123.0
+Germany,2005,Potatoes,,36386.27,3861123.0
+Germany,2005,Potatoes,,36386.27,3861123.0
+Germany,2005,Potatoes,,36386.27,3861123.0
+Germany,2006,Potatoes,,38540.15,3861123.0
+Germany,2006,Potatoes,,38540.15,3861123.0
+Germany,2006,Potatoes,,38540.15,3861123.0
+Germany,2007,Potatoes,,40740.64,3861123.0
+Germany,2007,Potatoes,,40740.64,3861123.0
+Germany,2007,Potatoes,,40740.64,3861123.0
+Germany,2008,Potatoes,,43413.01,3861123.0
+Germany,2008,Potatoes,,43413.01,3861123.0
+Germany,2008,Potatoes,,43413.01,3861123.0
+Germany,2009,Potatoes,,39289.43,3861123.0
+Germany,2009,Potatoes,,39289.43,3861123.0
+Germany,2009,Potatoes,,39289.43,3861123.0
+Germany,2010,Potatoes,,40832.42,3861123.0
+Germany,2010,Potatoes,,40832.42,3861123.0
+Germany,2010,Potatoes,,40832.42,3861123.0
+Germany,2011,Potatoes,,43754.35,3861123.0
+Germany,2011,Potatoes,,43754.35,3861123.0
+Germany,2011,Potatoes,,43754.35,3861123.0
+Germany,2012,Potatoes,,45522.5,3861123.0
+Germany,2012,Potatoes,,45522.5,3861123.0
+Germany,2012,Potatoes,,45522.5,3861123.0
+Germany,2013,Potatoes,,43756.1,3861123.0
+Germany,2013,Potatoes,,43756.1,3861123.0
+Germany,2013,Potatoes,,43756.1,3861123.0
+Germany,2014,Potatoes,,45836.29,3861123.0
+Germany,2015,Potatoes,,48131.97,3861123.0
+Germany,2016,Potatoes,,46920.98,3861123.0
+Grenada,1961,Cassava,,,1210.0
+Grenada,1962,Cassava,,,1210.0
+Grenada,1963,Cassava,,,1210.0
+Grenada,1964,Cassava,,,1210.0
+Grenada,1965,Cassava,,,1210.0
+Grenada,1966,Cassava,,,1210.0
+Grenada,1967,Cassava,,,1210.0
+Grenada,1968,Cassava,,,1210.0
+Grenada,1969,Cassava,,,1210.0
+Grenada,1970,Cassava,,,1210.0
+Grenada,1971,Cassava,,,1210.0
+Grenada,1972,Cassava,,,1210.0
+Grenada,1973,Cassava,,,1210.0
+Grenada,1974,Cassava,,,1210.0
+Grenada,1975,Cassava,,,1210.0
+Grenada,1976,Cassava,,,1210.0
+Grenada,1977,Cassava,,,1210.0
+Grenada,1978,Cassava,,,1210.0
+Grenada,1979,Cassava,,,1210.0
+Grenada,1980,Cassava,,,1210.0
+Grenada,1981,Cassava,,,1210.0
+Grenada,1982,Cassava,,,1210.0
+Grenada,1983,Cassava,,,1210.0
+Grenada,1984,Cassava,,,1210.0
+Grenada,1985,Plantains and others,,,1210.0
+Grenada,1986,Plantains and others,,,1210.0
+Grenada,1987,Plantains and others,,,1210.0
+Grenada,1988,Plantains and others,,,1210.0
+Grenada,1989,Plantains and others,,,1210.0
+Grenada,1990,Plantains and others,,,1210.0
+Grenada,1991,Plantains and others,,,1210.0
+Grenada,1992,Plantains and others,,,1210.0
+Grenada,1993,Plantains and others,,,1210.0
+Grenada,1994,Plantains and others,,,1210.0
+Grenada,1995,Plantains and others,,,1210.0
+Grenada,1996,Plantains and others,,,1210.0
+Grenada,1997,Plantains and others,,,1210.0
+Grenada,1998,Plantains and others,,,1210.0
+Grenada,1999,Plantains and others,,,1210.0
+Grenada,2000,Plantains and others,,,1210.0
+Grenada,2001,Plantains and others,,,1210.0
+Grenada,2002,Plantains and others,,,1210.0
+Grenada,2003,Plantains and others,,,1210.0
+Grenada,2004,Plantains and others,,,1210.0
+Grenada,2005,Plantains and others,,,1210.0
+Grenada,2006,Plantains and others,,,1210.0
+Grenada,2007,Plantains and others,,,1210.0
+Grenada,2008,Plantains and others,,,1210.0
+Grenada,2009,Plantains and others,,,1210.0
+Grenada,2010,Plantains and others,,,1210.0
+Grenada,2011,Plantains and others,,,1210.0
+Grenada,2012,Plantains and others,,,1210.0
+Grenada,2013,Cassava,,,1210.0
+Grenada,2014,Cassava,,,1210.0
+Grenada,2015,Cassava,,,1210.0
+Grenada,2016,Cassava,,,1210.0
+Guam,1961,Maize,,,5920.0
+Guam,1962,Maize,,,5920.0
+Guam,1963,Maize,,,5920.0
+Guam,1964,Maize,,,5920.0
+Guam,1965,Sweet potatoes,,,5920.0
+Guam,1966,Sweet potatoes,,,5920.0
+Guam,1967,Sweet potatoes,,,5920.0
+Guam,1968,Sweet potatoes,,,5920.0
+Guam,1969,Sweet potatoes,,,5920.0
+Guam,1970,Sweet potatoes,,,5920.0
+Guam,1971,Sweet potatoes,,,5920.0
+Guam,1972,Sweet potatoes,,,5920.0
+Guam,1973,Sweet potatoes,,,5920.0
+Guam,1974,Sweet potatoes,,,5920.0
+Guam,1975,Maize,,,5920.0
+Guam,1976,Maize,,,5920.0
+Guam,1977,Sweet potatoes,,,5920.0
+Guam,1978,Sweet potatoes,,,5920.0
+Guam,1979,Sweet potatoes,,,5920.0
+Guam,1980,Maize,,,5920.0
+Guam,1981,Sweet potatoes,,,5920.0
+Guam,1982,Sweet potatoes,,,5920.0
+Guam,1983,Sweet potatoes,,,5920.0
+Guam,1984,Sweet potatoes,,,5920.0
+Guam,1985,Sweet potatoes,,,5920.0
+Guam,1986,Sweet potatoes,,,5920.0
+Guam,1987,Sweet potatoes,,,5920.0
+Guam,1988,Sweet potatoes,,,5920.0
+Guam,1989,Sweet potatoes,,,5920.0
+Guam,1990,Sweet potatoes,,,5920.0
+Guam,1991,Sweet potatoes,,,5920.0
+Guam,1992,Sweet potatoes,,,5920.0
+Guam,1993,Sweet potatoes,,,5920.0
+Guam,1994,Sweet potatoes,,,5920.0
+Guam,1995,Sweet potatoes,,,5920.0
+Guam,1996,Sweet potatoes,,,5920.0
+Guam,1997,Sweet potatoes,,,5920.0
+Guam,1998,Sweet potatoes,,,5920.0
+Guam,1999,Sweet potatoes,,,5920.0
+Guam,2000,Sweet potatoes,,,5920.0
+Guam,2001,Sweet potatoes,,,5920.0
+Guam,2002,Sweet potatoes,,,5920.0
+Guam,2003,Sweet potatoes,,,5920.0
+Guam,2004,Sweet potatoes,,,5920.0
+Guam,2005,Sweet potatoes,,,5920.0
+Guam,2006,Sweet potatoes,,,5920.0
+Guam,2007,Sweet potatoes,,,5920.0
+Guam,2008,Sweet potatoes,,,5920.0
+Guam,2009,Sweet potatoes,,,5920.0
+Guam,2010,Sweet potatoes,,,5920.0
+Guam,2011,Sweet potatoes,,,5920.0
+Guam,2012,Sweet potatoes,,,5920.0
+Guam,2013,Sweet potatoes,,,5920.0
+Guam,2014,Sweet potatoes,,,5920.0
+Guam,2015,Sweet potatoes,,,5920.0
+Guam,2016,Sweet potatoes,,,5920.0
+Guinea,1961,Yams,,,12296.0
+Guinea,1962,Sweet potatoes,,,12296.0
+Guinea,1963,Yams,,,12296.0
+Guinea,1964,Yams,,,12296.0
+Guinea,1965,Yams,,,12296.0
+Guinea,1966,Sweet potatoes,,,12296.0
+Guinea,1967,Yams,,,12296.0
+Guinea,1968,Yams,,,12296.0
+Guinea,1969,Yams,,,12296.0
+Guinea,1970,Sweet potatoes,,,12296.0
+Guinea,1971,Yams,,,12296.0
+Guinea,1972,Yams,,,12296.0
+Guinea,1973,Yams,,,12296.0
+Guinea,1974,Yams,,,12296.0
+Guinea,1975,Yams,,,12296.0
+Guinea,1976,Yams,,,12296.0
+Guinea,1977,Yams,,,12296.0
+Guinea,1978,Yams,,,12296.0
+Guinea,1979,Yams,,,12296.0
+Guinea,1980,Yams,,,12296.0
+Guinea,1981,Yams,,,12296.0
+Guinea,1982,Yams,,,12296.0
+Guinea,1983,Yams,,,12296.0
+Guinea,1984,Yams,,,12296.0
+Guinea,1985,Yams,,,12296.0
+Guinea,1986,Yams,,,12296.0
+Guinea,1987,Yams,,,12296.0
+Guinea,1988,Yams,,,12296.0
+Guinea,1989,Yams,,,12296.0
+Guinea,1990,Yams,,80.0,12296.0
+Guinea,1991,Yams,,80.0,12296.0
+Guinea,1992,Yams,,80.0,12296.0
+Guinea,1993,Yams,,21.0,12296.0
+Guinea,1994,Yams,,39.0,12296.0
+Guinea,1995,Yams,,153.0,12296.0
+Guinea,1996,Yams,,157.0,12296.0
+Guinea,1997,Yams,,157.0,12296.0
+Guinea,1998,Yams,,181.35,12296.0
+Guinea,1999,Yams,,205.71,12296.0
+Guinea,2000,Yams,,230.06,12296.0
+Guinea,2001,Yams,,254.42,12296.0
+Guinea,2002,Yams,,278.77,12296.0
+Guinea,2003,Yams,,303.13,12296.0
+Guinea,2004,Yams,,327.49,12296.0
+Guinea,2005,Yams,,351.84,12296.0
+Guinea,2006,Yams,,376.19,12296.0
+Guinea,2007,Yams,,400.55,12296.0
+Guinea,2008,Yams,,424.9,12296.0
+Guinea,2009,Yams,,449.26,12296.0
+Guinea,2010,Yams,,556.24,12296.0
+Guinea,2011,Yams,,663.23,12296.0
+Guinea,2012,Yams,,770.21,12296.0
+Guinea,2013,Yams,,877.19,12296.0
+Guinea,2014,Yams,,400.65,12296.0
+Guinea,2015,Yams,,400.65,12296.0
+Guinea,2016,Yams,,400.65,12296.0
+Guinea-Bissau,1961,Plantains and others,,,1339.0
+Guinea-Bissau,1962,Plantains and others,,,1339.0
+Guinea-Bissau,1963,Plantains and others,,,1339.0
+Guinea-Bissau,1964,Plantains and others,,,1339.0
+Guinea-Bissau,1965,Plantains and others,,,1339.0
+Guinea-Bissau,1966,Plantains and others,,,1339.0
+Guinea-Bissau,1967,Plantains and others,,,1339.0
+Guinea-Bissau,1968,Plantains and others,,,1339.0
+Guinea-Bissau,1969,Plantains and others,,,1339.0
+Guinea-Bissau,1970,Plantains and others,,,1339.0
+Guinea-Bissau,1971,Plantains and others,,,1339.0
+Guinea-Bissau,1972,Plantains and others,,,1339.0
+Guinea-Bissau,1973,Plantains and others,,,1339.0
+Guinea-Bissau,1974,Plantains and others,,,1339.0
+Guinea-Bissau,1975,Plantains and others,,,1339.0
+Guinea-Bissau,1976,Plantains and others,,,1339.0
+Guinea-Bissau,1977,Plantains and others,,,1339.0
+Guinea-Bissau,1978,Plantains and others,,,1339.0
+Guinea-Bissau,1979,Plantains and others,,,1339.0
+Guinea-Bissau,1980,Plantains and others,,,1339.0
+Guinea-Bissau,1981,Plantains and others,,,1339.0
+Guinea-Bissau,1982,Plantains and others,,,1339.0
+Guinea-Bissau,1983,Plantains and others,,,1339.0
+Guinea-Bissau,1984,Cassava,,,1339.0
+Guinea-Bissau,1985,Cassava,,,1339.0
+Guinea-Bissau,1986,Cassava,,,1339.0
+Guinea-Bissau,1987,Cassava,,,1339.0
+Guinea-Bissau,1988,Cassava,,,1339.0
+Guinea-Bissau,1989,Cassava,,,1339.0
+Guinea-Bissau,1990,Cassava,,32.0,1339.0
+Guinea-Bissau,1991,Cassava,,38.0,1339.0
+Guinea-Bissau,1992,Cassava,,4.0,1339.0
+Guinea-Bissau,1993,Cassava,,25.0,1339.0
+Guinea-Bissau,1994,Cassava,,21.0,1339.0
+Guinea-Bissau,1995,Cassava,,17.0,1339.0
+Guinea-Bissau,1996,Cassava,,13.0,1339.0
+Guinea-Bissau,1997,Cassava,,9.0,1339.0
+Guinea-Bissau,1998,Cassava,,5.0,1339.0
+Guinea-Bissau,1999,Cassava,,1.0,1339.0
+Guinea-Bissau,2000,Cassava,,41.5,1339.0
+Guinea-Bissau,2001,Cassava,,82.0,1339.0
+Guinea-Bissau,2002,Cassava,,82.0,1339.0
+Guinea-Bissau,2003,Cassava,,82.0,1339.0
+Guinea-Bissau,2004,Cassava,,82.0,1339.0
+Guinea-Bissau,2005,Cassava,,82.0,1339.0
+Guinea-Bissau,2006,Cassava,,82.0,1339.0
+Guinea-Bissau,2007,Cassava,,82.0,1339.0
+Guinea-Bissau,2008,Cassava,,82.0,1339.0
+Guinea-Bissau,2009,Cassava,,82.0,1339.0
+Guinea-Bissau,2010,Cassava,,82.0,1339.0
+Guinea-Bissau,2011,Cassava,,82.0,1339.0
+Guinea-Bissau,2012,Cassava,,82.0,1339.0
+Guinea-Bissau,2013,Cassava,,82.0,1339.0
+Guinea-Bissau,2014,Cassava,,82.0,1339.0
+Guinea-Bissau,2015,Cassava,,82.0,1339.0
+Guinea-Bissau,2016,Cassava,,82.0,1339.0
+Guyana,1961,Plantains and others,,,5173.0
+Guyana,1962,Plantains and others,,,5173.0
+Guyana,1963,Plantains and others,,,5173.0
+Guyana,1964,Plantains and others,,,5173.0
+Guyana,1965,Plantains and others,,,5173.0
+Guyana,1966,Plantains and others,,,5173.0
+Guyana,1967,Plantains and others,,,5173.0
+Guyana,1968,Plantains and others,,,5173.0
+Guyana,1969,Plantains and others,,,5173.0
+Guyana,1970,Plantains and others,,,5173.0
+Guyana,1971,Plantains and others,,,5173.0
+Guyana,1972,Plantains and others,,,5173.0
+Guyana,1973,Plantains and others,,,5173.0
+Guyana,1974,Plantains and others,,,5173.0
+Guyana,1975,Plantains and others,,,5173.0
+Guyana,1976,Plantains and others,,,5173.0
+Guyana,1977,Plantains and others,,,5173.0
+Guyana,1978,Plantains and others,,,5173.0
+Guyana,1979,Plantains and others,,,5173.0
+Guyana,1980,"Rice, paddy",,,5173.0
+Guyana,1981,Plantains and others,,,5173.0
+Guyana,1982,Plantains and others,,,5173.0
+Guyana,1983,Plantains and others,,,5173.0
+Guyana,1984,Plantains and others,,,5173.0
+Guyana,1985,Plantains and others,,,5173.0
+Guyana,1986,Plantains and others,,,5173.0
+Guyana,1987,Plantains and others,,,5173.0
+Guyana,1988,Cassava,,,5173.0
+Guyana,1989,Cassava,,,5173.0
+Guyana,1990,Cassava,,289.9,5173.0
+Guyana,1991,Cassava,,289.9,5173.0
+Guyana,1992,Cassava,,289.9,5173.0
+Guyana,1993,Cassava,,289.9,5173.0
+Guyana,1994,Cassava,,289.9,5173.0
+Guyana,1995,Cassava,,289.9,5173.0
+Guyana,1996,Cassava,,289.9,5173.0
+Guyana,1997,Cassava,,289.9,5173.0
+Guyana,1998,Cassava,,289.9,5173.0
+Guyana,1999,Cassava,,289.9,5173.0
+Guyana,2000,Cassava,,289.9,5173.0
+Guyana,2001,Cassava,,289.9,5173.0
+Guyana,2002,Cassava,,289.9,5173.0
+Guyana,2003,Cassava,,289.9,5173.0
+Guyana,2004,Cassava,,289.9,5173.0
+Guyana,2005,Cassava,,270.78,5173.0
+Guyana,2006,Sweet potatoes,,343.12,5173.0
+Guyana,2007,Sweet potatoes,,246.5,5173.0
+Guyana,2008,Sweet potatoes,,234.27,5173.0
+Guyana,2009,Sweet potatoes,,264.47,5173.0
+Guyana,2010,Sweet potatoes,,211.83,5173.0
+Guyana,2011,Sweet potatoes,,400.76,5173.0
+Guyana,2012,Sweet potatoes,,427.73,5173.0
+Guyana,2013,Sweet potatoes,,358.72,5173.0
+Guyana,2014,Sweet potatoes,,358.72,5173.0
+Guyana,2015,Cassava,,358.72,5173.0
+Guyana,2016,Cassava,,358.72,5173.0
+Haiti,1961,Potatoes,,,14332.0
+Haiti,1962,Potatoes,,,14332.0
+Haiti,1963,Potatoes,,,14332.0
+Haiti,1964,Potatoes,,,14332.0
+Haiti,1965,Potatoes,,,14332.0
+Haiti,1966,Potatoes,,,14332.0
+Haiti,1967,Potatoes,,,14332.0
+Haiti,1968,Potatoes,,,14332.0
+Haiti,1969,Potatoes,,,14332.0
+Haiti,1970,Potatoes,,,14332.0
+Haiti,1971,Potatoes,,,14332.0
+Haiti,1972,Potatoes,,,14332.0
+Haiti,1973,Potatoes,,,14332.0
+Haiti,1974,Potatoes,,,14332.0
+Haiti,1975,Potatoes,,,14332.0
+Haiti,1976,Potatoes,,,14332.0
+Haiti,1977,Potatoes,,,14332.0
+Haiti,1978,Potatoes,,,14332.0
+Haiti,1979,Potatoes,,,14332.0
+Haiti,1980,Potatoes,,,14332.0
+Haiti,1981,Potatoes,,,14332.0
+Haiti,1982,Potatoes,,,14332.0
+Haiti,1983,Potatoes,,,14332.0
+Haiti,1984,Potatoes,,,14332.0
+Haiti,1985,Potatoes,,,14332.0
+Haiti,1986,Potatoes,,,14332.0
+Haiti,1987,Potatoes,,,14332.0
+Haiti,1988,Potatoes,,,14332.0
+Haiti,1989,Potatoes,,,14332.0
+Haiti,1990,Potatoes,,17.14,14332.0
+Haiti,1991,Potatoes,,18.86,14332.0
+Haiti,1992,Potatoes,,11.52,14332.0
+Haiti,1993,Potatoes,,6.96,14332.0
+Haiti,1994,Potatoes,,8.58,14332.0
+Haiti,1995,Potatoes,,12.32,14332.0
+Haiti,1996,Potatoes,,14.44,14332.0
+Haiti,1997,Potatoes,,16.35,14332.0
+Haiti,1998,Potatoes,,23.78,14332.0
+Haiti,1999,Potatoes,,26.32,14332.0
+Haiti,2000,Potatoes,,27.85,14332.0
+Haiti,2001,Potatoes,,27.85,14332.0
+Haiti,2002,Potatoes,,27.85,14332.0
+Haiti,2003,Potatoes,,27.85,14332.0
+Haiti,2004,Potatoes,,27.85,14332.0
+Haiti,2005,Potatoes,,27.85,14332.0
+Haiti,2006,Potatoes,,27.85,14332.0
+Haiti,2007,Potatoes,,27.85,14332.0
+Haiti,2008,Potatoes,,27.85,14332.0
+Haiti,2009,Potatoes,,27.85,14332.0
+Haiti,2010,Potatoes,,27.85,14332.0
+Haiti,2011,Potatoes,,27.85,14332.0
+Haiti,2012,Potatoes,,27.85,14332.0
+Haiti,2013,Potatoes,,27.85,14332.0
+Haiti,2014,Potatoes,,27.85,14332.0
+Haiti,2015,Potatoes,,27.85,14332.0
+Haiti,2016,Potatoes,,27.85,14332.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1990,Cassava,,75000.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1991,Cassava,,72133.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1992,Cassava,,70791.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1993,Cassava,,66388.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1994,Cassava,,61357.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1995,Cassava,,61257.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1996,Cassava,,56114.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1997,Cassava,,52279.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1998,Cassava,,49157.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,1999,Cassava,,46195.0,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2000,Cassava,,44957.52,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2001,Cassava,,43720.04,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2002,Cassava,,42482.56,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2003,Cassava,,41245.08,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2004,Cassava,,35113.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2005,Cassava,,35342.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2006,Cassava,,37423.0,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2010,Cassava,,40093.69,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2011,Cassava,,55540.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2012,Cassava,,52980.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2013,Cassava,,45620.0,2868929.0
+India,2014,Cassava,,60280.0,2868929.0
+India,2015,Potatoes,,56120.0,2868929.0
+India,2016,Cassava,,50410.0,2868929.0
+Italy,1990,Sweet potatoes,,100596.4,2003576.0
+Italy,1990,Sweet potatoes,,100596.4,2003576.0
+Italy,1991,Sweet potatoes,,88916.6,2003576.0
+Italy,1991,Sweet potatoes,,88916.6,2003576.0
+Italy,1992,Sweet potatoes,,88227.6,2003576.0
+Italy,1992,Sweet potatoes,,88227.6,2003576.0
+Italy,1993,Sweet potatoes,,89282.2,2003576.0
+Italy,1993,Sweet potatoes,,89282.2,2003576.0
+Italy,1994,Sweet potatoes,,81217.6,2003576.0
+Italy,1994,Sweet potatoes,,81217.6,2003576.0
+Italy,1995,Sweet potatoes,,84153.0,2003576.0
+Italy,1995,Sweet potatoes,,84153.0,2003576.0
+Italy,1996,Potatoes,,74617.2,2003576.0
+Italy,1996,Potatoes,,74617.2,2003576.0
+Italy,1997,Potatoes,,84799.0,2003576.0
+Italy,1997,Potatoes,,84799.0,2003576.0
+Italy,1998,Potatoes,,84117.0,2003576.0
+Italy,1998,Potatoes,,84117.0,2003576.0
+Italy,1999,Potatoes,,81583.0,2003576.0
+Italy,1999,Potatoes,,81583.0,2003576.0
+Italy,2000,Potatoes,,79447.0,2003576.0
+Italy,2000,Potatoes,,79447.0,2003576.0
+Italy,2001,Potatoes,,75978.0,2003576.0
+Italy,2001,Potatoes,,75978.0,2003576.0
+Italy,2002,Potatoes,,94211.0,2003576.0
+Italy,2002,Potatoes,,94211.0,2003576.0
+Italy,2003,Potatoes,,86058.0,2003576.0
+Italy,2003,Potatoes,,86058.0,2003576.0
+Italy,2004,Potatoes,,83810.0,2003576.0
+Italy,2004,Potatoes,,83810.0,2003576.0
+Italy,2005,Potatoes,,84647.0,2003576.0
+Italy,2005,Potatoes,,84647.0,2003576.0
+Italy,2006,Potatoes,,74349.0,2003576.0
+Italy,2006,Potatoes,,74349.0,2003576.0
+Italy,2007,Potatoes,,80454.0,2003576.0
+Italy,2007,Potatoes,,80454.0,2003576.0
+Italy,2008,Potatoes,,79643.0,2003576.0
+Italy,2008,Potatoes,,79643.0,2003576.0
+Italy,2009,Potatoes,,74172.0,2003576.0
+Italy,2009,Potatoes,,74172.0,2003576.0
+Italy,2010,Potatoes,,71613.0,2003576.0
+Italy,2010,Potatoes,,71613.0,2003576.0
+Italy,2011,Potatoes,,70690.0,2003576.0
+Italy,2011,Potatoes,,70690.0,2003576.0
+Italy,2012,Potatoes,,61889.0,2003576.0
+Italy,2012,Potatoes,,61889.0,2003576.0
+Italy,2013,Potatoes,,55633.0,2003576.0
+Italy,2013,Potatoes,,55633.0,2003576.0
+Italy,2014,Potatoes,,59422.0,2003576.0
+Italy,2015,Potatoes,,63322.0,2003576.0
+Italy,2016,Potatoes,,60259.0,2003576.0
+Jamaica,1961,Yams,,,16458.0
+Jamaica,1962,Yams,,,16458.0
+Jamaica,1963,Yams,,,16458.0
+Jamaica,1964,Yams,,,16458.0
+Jamaica,1965,Yams,,,16458.0
+Jamaica,1966,Yams,,,16458.0
+Jamaica,1967,Potatoes,,,16458.0
+Jamaica,1968,Yams,,,16458.0
+Jamaica,1969,Yams,,,16458.0
+Jamaica,1970,Yams,,,16458.0
+Jamaica,1971,Yams,,,16458.0
+Jamaica,1972,Yams,,,16458.0
+Jamaica,1973,Yams,,,16458.0
+Jamaica,1974,Yams,,,16458.0
+Jamaica,1975,Yams,,,16458.0
+Jamaica,1976,Yams,,,16458.0
+Jamaica,1977,Yams,,,16458.0
+Jamaica,1978,Yams,,,16458.0
+Jamaica,1979,Yams,,,16458.0
+Jamaica,1980,Yams,,,16458.0
+Jamaica,1981,Yams,,,16458.0
+Jamaica,1982,Yams,,,16458.0
+Jamaica,1983,Yams,,,16458.0
+Jamaica,1984,Yams,,,16458.0
+Jamaica,1985,Yams,,,16458.0
+Jamaica,1986,Plantains and others,,,16458.0
+Jamaica,1987,Plantains and others,,,16458.0
+Jamaica,1988,Plantains and others,,,16458.0
+Jamaica,1989,Plantains and others,,,16458.0
+Jamaica,1990,Plantains and others,,1415.65,16458.0
+Jamaica,1991,Plantains and others,,1415.65,16458.0
+Jamaica,1992,Plantains and others,,1415.65,16458.0
+Jamaica,1993,Cassava,,1415.65,16458.0
+Jamaica,1994,Cassava,,1415.65,16458.0
+Jamaica,1995,Cassava,,1445.12,16458.0
+Jamaica,1996,Cassava,,1573.58,16458.0
+Jamaica,1997,Cassava,,909.71,16458.0
+Jamaica,1998,Cassava,,909.71,16458.0
+Jamaica,1999,Cassava,,909.71,16458.0
+Jamaica,2000,Cassava,,909.71,16458.0
+Jamaica,2001,Cassava,,909.71,16458.0
+Jamaica,2002,Cassava,,909.71,16458.0
+Jamaica,2003,Cassava,,909.71,16458.0
+Jamaica,2004,Cassava,,909.71,16458.0
+Jamaica,2005,Cassava,,909.71,16458.0
+Jamaica,2006,Cassava,,909.71,16458.0
+Jamaica,2007,Cassava,,909.71,16458.0
+Jamaica,2008,Cassava,,909.71,16458.0
+Jamaica,2009,Cassava,,909.71,16458.0
+Jamaica,2010,Plantains and others,,909.71,16458.0
+Jamaica,2011,Plantains and others,,909.71,16458.0
+Jamaica,2012,Cassava,,909.71,16458.0
+Jamaica,2013,Cassava,,909.71,16458.0
+Jamaica,2014,Plantains and others,,909.71,16458.0
+Jamaica,2015,Cassava,,909.71,16458.0
+Jamaica,2016,Plantains and others,,909.71,16458.0
+Japan,1990,Potatoes,,79821.18,5081769.0
+Japan,1990,Potatoes,,79821.18,5081769.0
+Japan,1990,Potatoes,,79821.18,5081769.0
+Japan,1990,Potatoes,,79821.18,5081769.0
+Japan,1990,Potatoes,,79821.18,5081769.0
+Japan,1990,Potatoes,,79821.18,5081769.0
+Japan,1991,Potatoes,,79821.18,5081769.0
+Japan,1991,Potatoes,,79821.18,5081769.0
+Japan,1991,Potatoes,,79821.18,5081769.0
+Japan,1991,Potatoes,,79821.18,5081769.0
+Japan,1991,Potatoes,,79821.18,5081769.0
+Japan,1991,Potatoes,,79821.18,5081769.0
+Japan,1992,Potatoes,,79821.18,5081769.0
+Japan,1992,Potatoes,,79821.18,5081769.0
+Japan,1992,Potatoes,,79821.18,5081769.0
+Japan,1992,Potatoes,,79821.18,5081769.0
+Japan,1992,Potatoes,,79821.18,5081769.0
+Japan,1992,Potatoes,,79821.18,5081769.0
+Japan,1993,Potatoes,,79821.18,5081769.0
+Japan,1993,Potatoes,,79821.18,5081769.0
+Japan,1993,Potatoes,,79821.18,5081769.0
+Japan,1993,Potatoes,,79821.18,5081769.0
+Japan,1993,Potatoes,,79821.18,5081769.0
+Japan,1993,Potatoes,,79821.18,5081769.0
+Japan,1994,Potatoes,,79821.18,5081769.0
+Japan,1994,Potatoes,,79821.18,5081769.0
+Japan,1994,Potatoes,,79821.18,5081769.0
+Japan,1994,Potatoes,,79821.18,5081769.0
+Japan,1994,Potatoes,,79821.18,5081769.0
+Japan,1994,Potatoes,,79821.18,5081769.0
+Japan,1995,Potatoes,,79821.18,5081769.0
+Japan,1995,Potatoes,,79821.18,5081769.0
+Japan,1995,Potatoes,,79821.18,5081769.0
+Japan,1995,Potatoes,,79821.18,5081769.0
+Japan,1995,Potatoes,,79821.18,5081769.0
+Japan,1995,Potatoes,,79821.18,5081769.0
+Japan,1996,Potatoes,,79821.18,5081769.0
+Japan,1996,Potatoes,,79821.18,5081769.0
+Japan,1996,Potatoes,,79821.18,5081769.0
+Japan,1996,Potatoes,,79821.18,5081769.0
+Japan,1996,Potatoes,,79821.18,5081769.0
+Japan,1996,Potatoes,,79821.18,5081769.0
+Japan,1997,Potatoes,,79821.18,5081769.0
+Japan,1997,Potatoes,,79821.18,5081769.0
+Japan,1997,Potatoes,,79821.18,5081769.0
+Japan,1997,Potatoes,,79821.18,5081769.0
+Japan,1997,Potatoes,,79821.18,5081769.0
+Japan,1997,Potatoes,,79821.18,5081769.0
+Japan,1998,Potatoes,,79821.18,5081769.0
+Japan,1998,Potatoes,,79821.18,5081769.0
+Japan,1998,Potatoes,,79821.18,5081769.0
+Japan,1998,Potatoes,,79821.18,5081769.0
+Japan,1998,Potatoes,,79821.18,5081769.0
+Japan,1998,Potatoes,,79821.18,5081769.0
+Japan,1999,Potatoes,,79821.18,5081769.0
+Japan,1999,Potatoes,,79821.18,5081769.0
+Japan,1999,Potatoes,,79821.18,5081769.0
+Japan,1999,Potatoes,,79821.18,5081769.0
+Japan,1999,Potatoes,,79821.18,5081769.0
+Japan,1999,Potatoes,,79821.18,5081769.0
+Japan,2000,Potatoes,,79821.18,5081769.0
+Japan,2000,Potatoes,,79821.18,5081769.0
+Japan,2000,Potatoes,,79821.18,5081769.0
+Japan,2000,Potatoes,,79821.18,5081769.0
+Japan,2000,Potatoes,,79821.18,5081769.0
+Japan,2000,Potatoes,,79821.18,5081769.0
+Japan,2001,Potatoes,,78735.45,5081769.0
+Japan,2001,Potatoes,,78735.45,5081769.0
+Japan,2001,Potatoes,,78735.45,5081769.0
+Japan,2001,Potatoes,,78735.45,5081769.0
+Japan,2001,Potatoes,,78735.45,5081769.0
+Japan,2001,Potatoes,,78735.45,5081769.0
+Japan,2002,Potatoes,,70262.54,5081769.0
+Japan,2002,Potatoes,,70262.54,5081769.0
+Japan,2002,Potatoes,,70262.54,5081769.0
+Japan,2002,Potatoes,,70262.54,5081769.0
+Japan,2002,Potatoes,,70262.54,5081769.0
+Japan,2002,Potatoes,,70262.54,5081769.0
+Japan,2003,Potatoes,,67869.72,5081769.0
+Japan,2003,Potatoes,,67869.72,5081769.0
+Japan,2003,Potatoes,,67869.72,5081769.0
+Japan,2003,Potatoes,,67869.72,5081769.0
+Japan,2003,Potatoes,,67869.72,5081769.0
+Japan,2003,Potatoes,,67869.72,5081769.0
+Japan,2004,Potatoes,,64688.88,5081769.0
+Japan,2004,Potatoes,,64688.88,5081769.0
+Japan,2004,Potatoes,,64688.88,5081769.0
+Japan,2004,Potatoes,,64688.88,5081769.0
+Japan,2004,Potatoes,,64688.88,5081769.0
+Japan,2004,Potatoes,,64688.88,5081769.0
+Japan,2005,Potatoes,,63829.77,5081769.0
+Japan,2005,Potatoes,,63829.77,5081769.0
+Japan,2005,Potatoes,,63829.77,5081769.0
+Japan,2005,Potatoes,,63829.77,5081769.0
+Japan,2005,Potatoes,,63829.77,5081769.0
+Japan,2005,Potatoes,,63829.77,5081769.0
+Japan,2006,Potatoes,,65248.26,5081769.0
+Japan,2006,Potatoes,,65248.26,5081769.0
+Japan,2006,Potatoes,,65248.26,5081769.0
+Japan,2006,Potatoes,,65248.26,5081769.0
+Japan,2006,Potatoes,,65248.26,5081769.0
+Japan,2006,Potatoes,,65248.26,5081769.0
+Japan,2007,Potatoes,,61164.07,5081769.0
+Japan,2007,Potatoes,,61164.07,5081769.0
+Japan,2007,Potatoes,,61164.07,5081769.0
+Japan,2007,Potatoes,,61164.07,5081769.0
+Japan,2007,Potatoes,,61164.07,5081769.0
+Japan,2007,Potatoes,,61164.07,5081769.0
+Japan,2008,Potatoes,,58750.0,5081769.0
+Japan,2008,Potatoes,,58750.0,5081769.0
+Japan,2008,Potatoes,,58750.0,5081769.0
+Japan,2008,Potatoes,,58750.0,5081769.0
+Japan,2008,Potatoes,,58750.0,5081769.0
+Japan,2008,Potatoes,,58750.0,5081769.0
+Japan,2009,Potatoes,,60970.8,5081769.0
+Japan,2009,Potatoes,,60970.8,5081769.0
+Japan,2009,Potatoes,,60970.8,5081769.0
+Japan,2009,Potatoes,,60970.8,5081769.0
+Japan,2009,Potatoes,,60970.8,5081769.0
+Japan,2009,Potatoes,,60970.8,5081769.0
+Japan,2010,Potatoes,,55576.0,5081769.0
+Japan,2010,Potatoes,,55576.0,5081769.0
+Japan,2010,Potatoes,,55576.0,5081769.0
+Japan,2010,Potatoes,,55576.0,5081769.0
+Japan,2010,Potatoes,,55576.0,5081769.0
+Japan,2010,Potatoes,,55576.0,5081769.0
+Japan,2011,Potatoes,,51796.3,5081769.0
+Japan,2011,Potatoes,,51796.3,5081769.0
+Japan,2011,Potatoes,,51796.3,5081769.0
+Japan,2011,Potatoes,,51796.3,5081769.0
+Japan,2011,Potatoes,,51796.3,5081769.0
+Japan,2011,Potatoes,,51796.3,5081769.0
+Japan,2012,Potatoes,,54716.4,5081769.0
+Japan,2012,Potatoes,,54716.4,5081769.0
+Japan,2012,Potatoes,,54716.4,5081769.0
+Japan,2012,Potatoes,,54716.4,5081769.0
+Japan,2012,Potatoes,,54716.4,5081769.0
+Japan,2012,Potatoes,,54716.4,5081769.0
+Japan,2013,Potatoes,,52794.3,5081769.0
+Japan,2013,Potatoes,,52794.3,5081769.0
+Japan,2013,Potatoes,,52794.3,5081769.0
+Japan,2013,Potatoes,,52794.3,5081769.0
+Japan,2013,Potatoes,,52794.3,5081769.0
+Japan,2013,Potatoes,,52794.3,5081769.0
+Japan,2014,Potatoes,,53543.7,5081769.0
+Japan,2015,Potatoes,,54171.16,5081769.0
+Japan,2016,Potatoes,,51006.46,5081769.0
+Kyrgyzstan,1992,Potatoes,,2418.0,8454.0
+Kyrgyzstan,1993,Potatoes,,2200.86,8454.0
+Kyrgyzstan,1994,Potatoes,,1983.72,8454.0
+Kyrgyzstan,1995,Potatoes,,1766.59,8454.0
+Kyrgyzstan,1996,Potatoes,,1549.45,8454.0
+Kyrgyzstan,1997,Potatoes,,1332.31,8454.0
+Kyrgyzstan,1998,Potatoes,,1115.17,8454.0
+Kyrgyzstan,1999,Potatoes,,898.04,8454.0
+Kyrgyzstan,2000,Potatoes,,680.9,8454.0
+Kyrgyzstan,2001,Potatoes,,609.6,8454.0
+Kyrgyzstan,2002,Potatoes,,733.2,8454.0
+Kyrgyzstan,2003,Potatoes,,1302.6,8454.0
+Kyrgyzstan,2004,Potatoes,,1321.3,8454.0
+Kyrgyzstan,2005,Potatoes,,1081.1,8454.0
+Kyrgyzstan,2006,Potatoes,,796.0,8454.0
+Kyrgyzstan,2007,Potatoes,,1026.2,8454.0
+Kyrgyzstan,2008,Potatoes,,662.8,8454.0
+Kyrgyzstan,2009,Potatoes,,266.8,8454.0
+Kyrgyzstan,2010,Potatoes,,350.1,8454.0
+Kyrgyzstan,2011,Potatoes,,312.9,8454.0
+Kyrgyzstan,2012,Potatoes,,365.1,8454.0
+Kyrgyzstan,2013,Potatoes,,341.1,8454.0
+Kyrgyzstan,2014,Potatoes,,402.6,8454.0
+Kyrgyzstan,2015,Potatoes,,516.0,8454.0
+Kyrgyzstan,2016,Potatoes,,532.8,8454.0
+Lesotho,1961,Potatoes,,,2376.0
+Lesotho,1962,Potatoes,,,2376.0
+Lesotho,1963,Potatoes,,,2376.0
+Lesotho,1964,Potatoes,,,2376.0
+Lesotho,1965,Potatoes,,,2376.0
+Lesotho,1966,Potatoes,,,2376.0
+Lesotho,1967,Potatoes,,,2376.0
+Lesotho,1968,Potatoes,,,2376.0
+Lesotho,1969,Potatoes,,,2376.0
+Lesotho,1970,Potatoes,,,2376.0
+Lesotho,1971,Potatoes,,,2376.0
+Lesotho,1972,Potatoes,,,2376.0
+Lesotho,1973,Potatoes,,,2376.0
+Lesotho,1974,Potatoes,,,2376.0
+Lesotho,1975,Potatoes,,,2376.0
+Lesotho,1976,Potatoes,,,2376.0
+Lesotho,1977,Potatoes,,,2376.0
+Lesotho,1978,Potatoes,,,2376.0
+Lesotho,1979,Potatoes,,,2376.0
+Lesotho,1980,Potatoes,,,2376.0
+Lesotho,1981,Potatoes,,,2376.0
+Lesotho,1982,Potatoes,,,2376.0
+Lesotho,1983,Potatoes,,,2376.0
+Lesotho,1984,Potatoes,,,2376.0
+Lesotho,1985,Potatoes,,,2376.0
+Lesotho,1986,Potatoes,,,2376.0
+Lesotho,1987,Potatoes,,,2376.0
+Lesotho,1988,Potatoes,,,2376.0
+Lesotho,1989,Potatoes,,,2376.0
+Lesotho,1990,Potatoes,,0.3,2376.0
+Lesotho,1991,Potatoes,,0.3,2376.0
+Lesotho,1992,Potatoes,,0.3,2376.0
+Lesotho,1993,Potatoes,,0.3,2376.0
+Lesotho,1994,Potatoes,,0.3,2376.0
+Lesotho,1995,Potatoes,,0.3,2376.0
+Lesotho,1996,Potatoes,,0.3,2376.0
+Lesotho,1997,Potatoes,,0.3,2376.0
+Lesotho,1998,Potatoes,,0.3,2376.0
+Lesotho,1999,Potatoes,,0.3,2376.0
+Lesotho,2000,Potatoes,,0.3,2376.0
+Lesotho,2001,Potatoes,,0.3,2376.0
+Lesotho,2002,Potatoes,,0.3,2376.0
+Lesotho,2003,Potatoes,,0.3,2376.0
+Lesotho,2004,Potatoes,,0.3,2376.0
+Lesotho,2005,Potatoes,,0.53,2376.0
+Lesotho,2006,Potatoes,,5.25,2376.0
+Lesotho,2007,Potatoes,,35.27,2376.0
+Lesotho,2008,Potatoes,,37.44,2376.0
+Lesotho,2009,Potatoes,,77.7,2376.0
+Lesotho,2010,Potatoes,,80.07,2376.0
+Lesotho,2011,Potatoes,,175.27,2376.0
+Lesotho,2012,Potatoes,,271.84,2376.0
+Lesotho,2013,Potatoes,,62.32,2376.0
+Lesotho,2014,Potatoes,,62.32,2376.0
+Lesotho,2015,Potatoes,,62.32,2376.0
+Lesotho,2016,Potatoes,,62.32,2376.0
+Liberia,1961,Sweet potatoes,,,3070.0
+Liberia,1962,Sweet potatoes,,,3070.0
+Liberia,1963,Sweet potatoes,,,3070.0
+Liberia,1964,Sweet potatoes,,,3070.0
+Liberia,1965,Sweet potatoes,,,3070.0
+Liberia,1966,Sweet potatoes,,,3070.0
+Liberia,1967,Sweet potatoes,,,3070.0
+Liberia,1968,Sweet potatoes,,,3070.0
+Liberia,1969,Sweet potatoes,,,3070.0
+Liberia,1970,Sweet potatoes,,,3070.0
+Liberia,1971,Sweet potatoes,,,3070.0
+Liberia,1972,Sweet potatoes,,,3070.0
+Liberia,1973,Sweet potatoes,,,3070.0
+Liberia,1974,Sweet potatoes,,,3070.0
+Liberia,1975,Sweet potatoes,,,3070.0
+Liberia,1976,Sweet potatoes,,,3070.0
+Liberia,1977,Sweet potatoes,,,3070.0
+Liberia,1978,Sweet potatoes,,,3070.0
+Liberia,1979,Sweet potatoes,,,3070.0
+Liberia,1980,Sweet potatoes,,,3070.0
+Liberia,1981,Sweet potatoes,,,3070.0
+Liberia,1982,Sweet potatoes,,,3070.0
+Liberia,1983,Sweet potatoes,,,3070.0
+Liberia,1984,Sweet potatoes,,,3070.0
+Liberia,1985,Sweet potatoes,,,3070.0
+Liberia,1986,Sweet potatoes,,,3070.0
+Liberia,1987,Sweet potatoes,,,3070.0
+Liberia,1988,Sweet potatoes,,,3070.0
+Liberia,1989,Sweet potatoes,,,3070.0
+Liberia,1990,Sweet potatoes,,,3070.0
+Liberia,1991,Sweet potatoes,,,3070.0
+Liberia,1992,Sweet potatoes,,,3070.0
+Liberia,1993,Sweet potatoes,,,3070.0
+Liberia,1994,Sweet potatoes,,,3070.0
+Liberia,1995,Sweet potatoes,,,3070.0
+Liberia,1996,Sweet potatoes,,,3070.0
+Liberia,1997,Sweet potatoes,,,3070.0
+Liberia,1998,Sweet potatoes,,,3070.0
+Liberia,1999,Sweet potatoes,,,3070.0
+Liberia,2000,Sweet potatoes,,,3070.0
+Liberia,2001,Sweet potatoes,,,3070.0
+Liberia,2002,Sweet potatoes,,,3070.0
+Liberia,2003,Sweet potatoes,,,3070.0
+Liberia,2004,Sweet potatoes,,,3070.0
+Liberia,2005,Sweet potatoes,,,3070.0
+Liberia,2006,Sweet potatoes,,,3070.0
+Liberia,2007,Sweet potatoes,,,3070.0
+Liberia,2008,Sweet potatoes,,,3070.0
+Liberia,2009,Sweet potatoes,,,3070.0
+Liberia,2010,Sweet potatoes,,,3070.0
+Liberia,2011,Sweet potatoes,,,3070.0
+Liberia,2012,Sweet potatoes,,,3070.0
+Liberia,2013,Sweet potatoes,,,3070.0
+Liberia,2014,Sweet potatoes,,,3070.0
+Liberia,2015,Sweet potatoes,,,3070.0
+Liberia,2016,Sweet potatoes,,,3070.0
+Madagascar,1961,Potatoes,,,14114.0
+Madagascar,1962,Potatoes,,,14114.0
+Madagascar,1963,Potatoes,,,14114.0
+Madagascar,1964,Potatoes,,,14114.0
+Madagascar,1965,Potatoes,,,14114.0
+Madagascar,1966,Potatoes,,,14114.0
+Madagascar,1967,Potatoes,,,14114.0
+Madagascar,1968,Potatoes,,,14114.0
+Madagascar,1969,Potatoes,,,14114.0
+Madagascar,1970,Cassava,,,14114.0
+Madagascar,1971,Cassava,,,14114.0
+Madagascar,1972,Cassava,,,14114.0
+Madagascar,1973,Cassava,,,14114.0
+Madagascar,1974,Cassava,,,14114.0
+Madagascar,1975,Cassava,,,14114.0
+Madagascar,1976,Cassava,,,14114.0
+Madagascar,1977,Potatoes,,,14114.0
+Madagascar,1978,Potatoes,,,14114.0
+Madagascar,1979,Potatoes,,,14114.0
+Madagascar,1980,Cassava,,,14114.0
+Madagascar,1981,Potatoes,,,14114.0
+Madagascar,1982,Potatoes,,,14114.0
+Madagascar,1983,Potatoes,,,14114.0
+Madagascar,1984,Potatoes,,,14114.0
+Madagascar,1985,Potatoes,,,14114.0
+Madagascar,1986,Cassava,,,14114.0
+Madagascar,1987,Cassava,,,14114.0
+Madagascar,1988,Cassava,,,14114.0
+Madagascar,1989,Potatoes,,,14114.0
+Madagascar,1990,Potatoes,,128.41,14114.0
+Madagascar,1991,Cassava,,131.0,14114.0
+Madagascar,1992,Cassava,,101.06,14114.0
+Madagascar,1993,Cassava,,109.41,14114.0
+Madagascar,1994,Cassava,,76.15,14114.0
+Madagascar,1995,Cassava,,73.08,14114.0
+Madagascar,1996,Cassava,,152.01,14114.0
+Madagascar,1997,Cassava,,139.89,14114.0
+Madagascar,1998,Cassava,,88.26,14114.0
+Madagascar,1999,Cassava,,49.52,14114.0
+Madagascar,2000,Cassava,,130.46,14114.0
+Madagascar,2001,Cassava,,87.59,14114.0
+Madagascar,2002,Cassava,,240.84,14114.0
+Madagascar,2003,Cassava,,146.76,14114.0
+Madagascar,2004,Potatoes,,68.01,14114.0
+Madagascar,2005,Cassava,,114.51,14114.0
+Madagascar,2006,Cassava,,109.39,14114.0
+Madagascar,2007,Cassava,,93.88,14114.0
+Madagascar,2008,Cassava,,112.11,14114.0
+Madagascar,2009,Cassava,,143.9,14114.0
+Madagascar,2010,Cassava,,241.89,14114.0
+Madagascar,2011,Sweet potatoes,,310.36,14114.0
+Madagascar,2012,Cassava,,377.71,14114.0
+Madagascar,2013,Cassava,,507.94,14114.0
+Madagascar,2014,Cassava,,453.91,14114.0
+Madagascar,2015,Sweet potatoes,,401.39,14114.0
+Madagascar,2016,Sweet potatoes,,493.54,14114.0
+Malawi,1961,Cassava,,,7666.0
+Malawi,1962,Cassava,,,7666.0
+Malawi,1963,Cassava,,,7666.0
+Malawi,1964,Cassava,,,7666.0
+Malawi,1965,Cassava,,,7666.0
+Malawi,1966,Cassava,,,7666.0
+Malawi,1967,Cassava,,,7666.0
+Malawi,1968,Cassava,,,7666.0
+Malawi,1969,Potatoes,,,7666.0
+Malawi,1970,Potatoes,,,7666.0
+Malawi,1971,Potatoes,,,7666.0
+Malawi,1972,Potatoes,,,7666.0
+Malawi,1973,Potatoes,,,7666.0
+Malawi,1974,Potatoes,,,7666.0
+Malawi,1975,Potatoes,,,7666.0
+Malawi,1976,Potatoes,,,7666.0
+Malawi,1977,Potatoes,,,7666.0
+Malawi,1978,Potatoes,,,7666.0
+Malawi,1979,Potatoes,,,7666.0
+Malawi,1980,Potatoes,,,7666.0
+Malawi,1981,Potatoes,,,7666.0
+Malawi,1982,Potatoes,,,7666.0
+Malawi,1983,Potatoes,,,7666.0
+Malawi,1984,Potatoes,,,7666.0
+Malawi,1985,Potatoes,,,7666.0
+Malawi,1986,Potatoes,,,7666.0
+Malawi,1987,Potatoes,,,7666.0
+Malawi,1988,Potatoes,,,7666.0
+Malawi,1989,Potatoes,,,7666.0
+Malawi,1990,Potatoes,,173.19,7666.0
+Malawi,1991,Potatoes,,173.19,7666.0
+Malawi,1992,Potatoes,,173.19,7666.0
+Malawi,1993,Potatoes,,173.19,7666.0
+Malawi,1994,Potatoes,,173.19,7666.0
+Malawi,1995,Potatoes,,173.19,7666.0
+Malawi,1996,Potatoes,,173.19,7666.0
+Malawi,1997,Potatoes,,173.19,7666.0
+Malawi,1998,Potatoes,,131.59,7666.0
+Malawi,1999,Potatoes,,123.64,7666.0
+Malawi,2000,Cassava,,220.22,7666.0
+Malawi,2001,Cassava,,177.24,7666.0
+Malawi,2002,Cassava,,134.25,7666.0
+Malawi,2003,Cassava,,91.27,7666.0
+Malawi,2004,Cassava,,48.28,7666.0
+Malawi,2005,Cassava,,295.51,7666.0
+Malawi,2006,Cassava,,202.35,7666.0
+Malawi,2007,Cassava,,524.46,7666.0
+Malawi,2008,Cassava,,624.52,7666.0
+Malawi,2009,Cassava,,736.25,7666.0
+Malawi,2010,Cassava,,584.12,7666.0
+Malawi,2011,Cassava,,553.57,7666.0
+Malawi,2012,Cassava,,775.83,7666.0
+Malawi,2013,Cassava,,1500.27,7666.0
+Malawi,2014,Cassava,,2358.01,7666.0
+Malawi,2015,Cassava,,2358.01,7666.0
+Malawi,2016,Cassava,,2358.01,7666.0
+Malaysia,1990,Sweet potatoes,,39406.48,364681.0
+Malaysia,1991,Sweet potatoes,,39406.48,364681.0
+Malaysia,1992,Sweet potatoes,,39406.48,364681.0
+Malaysia,1993,Cassava,,39406.48,364681.0
+Malaysia,1994,Cassava,,39406.48,364681.0
+Malaysia,1995,Cassava,,39406.48,364681.0
+Malaysia,1996,Cassava,,39406.48,364681.0
+Malaysia,1997,Cassava,,39406.48,364681.0
+Malaysia,1998,Cassava,,39406.48,364681.0
+Malaysia,1999,Cassava,,39406.48,364681.0
+Malaysia,2000,Cassava,,39406.48,364681.0
+Malaysia,2001,Cassava,,39406.48,364681.0
+Malaysia,2002,Cassava,,39406.48,364681.0
+Malaysia,2003,Cassava,,39406.48,364681.0
+Malaysia,2004,Cassava,,39406.48,364681.0
+Malaysia,2005,Cassava,,39406.48,364681.0
+Malaysia,2006,Cassava,,39406.48,364681.0
+Malaysia,2007,Sweet potatoes,,46868.35,364681.0
+Malaysia,2008,Cassava,,54821.91,364681.0
+Malaysia,2009,Cassava,,52464.19,364681.0
+Malaysia,2010,Cassava,,60194.83,364681.0
+Malaysia,2011,Cassava,,41562.16,364681.0
+Malaysia,2012,Cassava,,49810.48,364681.0
+Malaysia,2013,Sweet potatoes,,61445.6,364681.0
+Malaysia,2014,Sweet potatoes,,49199.43,364681.0
+Malaysia,2015,Cassava,,49199.43,364681.0
+Malaysia,2016,Cassava,,49199.43,364681.0
+Maldives,1961,Maize,,,5642.0
+Maldives,1962,Maize,,,5642.0
+Maldives,1963,Maize,,,5642.0
+Maldives,1964,Maize,,,5642.0
+Maldives,1965,Maize,,,5642.0
+Maldives,1966,Maize,,,5642.0
+Maldives,1967,Maize,,,5642.0
+Maldives,1968,Maize,,,5642.0
+Maldives,1969,Cassava,,,5642.0
+Maldives,1970,Cassava,,,5642.0
+Maldives,1971,Cassava,,,5642.0
+Maldives,1972,Cassava,,,5642.0
+Maldives,1973,Cassava,,,5642.0
+Maldives,1974,Cassava,,,5642.0
+Maldives,1975,Cassava,,,5642.0
+Maldives,1976,Cassava,,,5642.0
+Maldives,1977,Cassava,,,5642.0
+Maldives,1978,Cassava,,,5642.0
+Maldives,1979,Cassava,,,5642.0
+Maldives,1980,Cassava,,,5642.0
+Maldives,1981,Cassava,,,5642.0
+Maldives,1982,Cassava,,,5642.0
+Maldives,1983,Cassava,,,5642.0
+Maldives,1984,Cassava,,,5642.0
+Maldives,1985,Cassava,,,5642.0
+Maldives,1986,Cassava,,,5642.0
+Maldives,1987,Cassava,,,5642.0
+Maldives,1988,Cassava,,,5642.0
+Maldives,1989,Cassava,,,5642.0
+Maldives,1990,Cassava,,44.33,5642.0
+Maldives,1991,Cassava,,44.33,5642.0
+Maldives,1992,Cassava,,44.33,5642.0
+Maldives,1993,Cassava,,44.33,5642.0
+Maldives,1994,Cassava,,44.33,5642.0
+Maldives,1995,Cassava,,44.33,5642.0
+Maldives,1996,Cassava,,44.33,5642.0
+Maldives,1997,Cassava,,44.33,5642.0
+Maldives,1998,Cassava,,44.33,5642.0
+Maldives,1999,Cassava,,44.33,5642.0
+Maldives,2000,Maize,,44.33,5642.0
+Maldives,2001,Cassava,,44.33,5642.0
+Maldives,2002,Cassava,,44.33,5642.0
+Maldives,2003,Maize,,44.33,5642.0
+Maldives,2004,Maize,,44.33,5642.0
+Maldives,2005,Maize,,44.33,5642.0
+Maldives,2006,Maize,,44.33,5642.0
+Maldives,2007,Maize,,44.33,5642.0
+Maldives,2008,Maize,,44.33,5642.0
+Maldives,2009,Maize,,44.33,5642.0
+Maldives,2010,Maize,,44.33,5642.0
+Maldives,2011,Maize,,44.33,5642.0
+Maldives,2012,Maize,,66.17,5642.0
+Maldives,2013,Maize,,236.16,5642.0
+Maldives,2014,Maize,,363.26,5642.0
+Maldives,2015,Maize,,363.26,5642.0
+Maldives,2016,Maize,,363.26,5642.0
+Mali,1961,Cassava,,,17279.0
+Mali,1962,Cassava,,,17279.0
+Mali,1963,Cassava,,,17279.0
+Mali,1964,Cassava,,,17279.0
+Mali,1965,Cassava,,,17279.0
+Mali,1966,Cassava,,,17279.0
+Mali,1967,Cassava,,,17279.0
+Mali,1968,Cassava,,,17279.0
+Mali,1969,Cassava,,,17279.0
+Mali,1970,Cassava,,,17279.0
+Mali,1971,Cassava,,,17279.0
+Mali,1972,Cassava,,,17279.0
+Mali,1973,Cassava,,,17279.0
+Mali,1974,Cassava,,,17279.0
+Mali,1975,Cassava,,,17279.0
+Mali,1976,Cassava,,,17279.0
+Mali,1977,Cassava,,,17279.0
+Mali,1978,Cassava,,,17279.0
+Mali,1979,Cassava,,,17279.0
+Mali,1980,Cassava,,,17279.0
+Mali,1981,Cassava,,,17279.0
+Mali,1982,Cassava,,,17279.0
+Mali,1983,Cassava,,,17279.0
+Mali,1984,Cassava,,,17279.0
+Mali,1985,Cassava,,,17279.0
+Mali,1986,Cassava,,,17279.0
+Mali,1987,Cassava,,,17279.0
+Mali,1988,Cassava,,,17279.0
+Mali,1989,Cassava,,,17279.0
+Mali,1990,Potatoes,,95.7,17279.0
+Mali,1991,Potatoes,,54.63,17279.0
+Mali,1992,Potatoes,,35.42,17279.0
+Mali,1993,Potatoes,,33.19,17279.0
+Mali,1994,Potatoes,,30.96,17279.0
+Mali,1995,Potatoes,,28.73,17279.0
+Mali,1996,Potatoes,,26.51,17279.0
+Mali,1997,Potatoes,,24.28,17279.0
+Mali,1998,Potatoes,,22.05,17279.0
+Mali,1999,Potatoes,,19.82,17279.0
+Mali,2000,Yams,,17.59,17279.0
+Mali,2001,Potatoes,,15.36,17279.0
+Mali,2002,Potatoes,,13.13,17279.0
+Mali,2003,Potatoes,,10.9,17279.0
+Mali,2004,Yams,,8.67,17279.0
+Mali,2005,Potatoes,,14.84,17279.0
+Mali,2006,Yams,,11.87,17279.0
+Mali,2007,Yams,,7.72,17279.0
+Mali,2008,Potatoes,,9.99,17279.0
+Mali,2009,Potatoes,,4.12,17279.0
+Mali,2010,Yams,,3.84,17279.0
+Mali,2011,Yams,,3.25,17279.0
+Mali,2012,Yams,,1.52,17279.0
+Mali,2013,Yams,,1.52,17279.0
+Mali,2014,Potatoes,,1.52,17279.0
+Mali,2015,Potatoes,,1.52,17279.0
+Mali,2016,Yams,,1.52,17279.0
+Malta,1961,Potatoes,,,14989.0
+Malta,1962,Potatoes,,,14989.0
+Malta,1963,Potatoes,,,14989.0
+Malta,1964,Potatoes,,,14989.0
+Malta,1965,Potatoes,,,14989.0
+Malta,1966,Potatoes,,,14989.0
+Malta,1967,Potatoes,,,14989.0
+Malta,1968,Potatoes,,,14989.0
+Malta,1969,Potatoes,,,14989.0
+Malta,1970,Potatoes,,,14989.0
+Malta,1971,Potatoes,,,14989.0
+Malta,1972,Potatoes,,,14989.0
+Malta,1973,Potatoes,,,14989.0
+Malta,1974,Potatoes,,,14989.0
+Malta,1975,Potatoes,,,14989.0
+Malta,1976,Potatoes,,,14989.0
+Malta,1977,Potatoes,,,14989.0
+Malta,1978,Potatoes,,,14989.0
+Malta,1979,Potatoes,,,14989.0
+Malta,1980,Potatoes,,,14989.0
+Malta,1981,Potatoes,,,14989.0
+Malta,1982,Potatoes,,,14989.0
+Malta,1983,Potatoes,,,14989.0
+Malta,1984,Potatoes,,,14989.0
+Malta,1985,Potatoes,,,14989.0
+Malta,1986,Potatoes,,,14989.0
+Malta,1987,Potatoes,,,14989.0
+Malta,1988,Potatoes,,,14989.0
+Malta,1989,Potatoes,,,14989.0
+Malta,1990,Potatoes,,326.48,14989.0
+Malta,1991,Potatoes,,326.48,14989.0
+Malta,1992,Potatoes,,326.48,14989.0
+Malta,1993,Potatoes,,326.48,14989.0
+Malta,1994,Potatoes,,447.26,14989.0
+Malta,1995,Potatoes,,210.34,14989.0
+Malta,1996,Potatoes,,154.0,14989.0
+Malta,1997,Potatoes,,258.38,14989.0
+Malta,1998,Potatoes,,260.8,14989.0
+Malta,1999,Potatoes,,138.79,14989.0
+Malta,2000,Potatoes,,181.92,14989.0
+Malta,2001,Potatoes,,111.77,14989.0
+Malta,2002,Potatoes,,113.25,14989.0
+Malta,2003,Potatoes,,114.73,14989.0
+Malta,2004,Potatoes,,116.21,14989.0
+Malta,2005,Potatoes,,117.69,14989.0
+Malta,2006,Potatoes,,119.17,14989.0
+Malta,2007,Potatoes,,120.65,14989.0
+Malta,2008,Potatoes,,121.27,14989.0
+Malta,2009,Potatoes,,121.89,14989.0
+Malta,2010,Potatoes,,122.51,14989.0
+Malta,2011,Potatoes,,123.14,14989.0
+Malta,2012,Potatoes,,123.76,14989.0
+Malta,2013,Potatoes,,124.38,14989.0
+Malta,2014,Potatoes,,125.0,14989.0
+Malta,2015,Potatoes,,125.0,14989.0
+Malta,2016,Potatoes,,125.0,14989.0
+Mauritania,1961,Potatoes,,,7600.0
+Mauritania,1962,Potatoes,,,7600.0
+Mauritania,1963,Potatoes,,,7600.0
+Mauritania,1964,Potatoes,,,7600.0
+Mauritania,1965,Potatoes,,,7600.0
+Mauritania,1966,Potatoes,,,7600.0
+Mauritania,1967,Potatoes,,,7600.0
+Mauritania,1968,Potatoes,,,7600.0
+Mauritania,1969,Potatoes,,,7600.0
+Mauritania,1970,Potatoes,,,7600.0
+Mauritania,1971,Potatoes,,,7600.0
+Mauritania,1972,Potatoes,,,7600.0
+Mauritania,1973,Potatoes,,,7600.0
+Mauritania,1974,Potatoes,,,7600.0
+Mauritania,1975,Potatoes,,,7600.0
+Mauritania,1976,Potatoes,,,7600.0
+Mauritania,1977,Potatoes,,,7600.0
+Mauritania,1978,Potatoes,,,7600.0
+Mauritania,1979,Potatoes,,,7600.0
+Mauritania,1980,Potatoes,,,7600.0
+Mauritania,1981,Potatoes,,,7600.0
+Mauritania,1982,Yams,,,7600.0
+Mauritania,1983,Yams,,,7600.0
+Mauritania,1984,Yams,,,7600.0
+Mauritania,1985,Yams,,,7600.0
+Mauritania,1986,Yams,,,7600.0
+Mauritania,1987,Yams,,,7600.0
+Mauritania,1988,Yams,,,7600.0
+Mauritania,1989,Yams,,,7600.0
+Mauritania,1990,Yams,,39.09,7600.0
+Mauritania,1991,Yams,,39.09,7600.0
+Mauritania,1992,Yams,,39.09,7600.0
+Mauritania,1993,Yams,,39.09,7600.0
+Mauritania,1994,Yams,,39.09,7600.0
+Mauritania,1995,Yams,,39.09,7600.0
+Mauritania,1996,Yams,,39.09,7600.0
+Mauritania,1997,Yams,,39.09,7600.0
+Mauritania,1998,Yams,,39.09,7600.0
+Mauritania,1999,Yams,,39.09,7600.0
+Mauritania,2000,Yams,,39.09,7600.0
+Mauritania,2001,Yams,,39.09,7600.0
+Mauritania,2002,Yams,,3.2,7600.0
+Mauritania,2003,Yams,,3.22,7600.0
+Mauritania,2004,Yams,,702.5,7600.0
+Mauritania,2005,Yams,,1.1,7600.0
+Mauritania,2006,Yams,,1.7,7600.0
+Mauritania,2007,Yams,,9.8,7600.0
+Mauritania,2008,Yams,,17.22,7600.0
+Mauritania,2009,Yams,,4.29,7600.0
+Mauritania,2010,Yams,,67.59,7600.0
+Mauritania,2011,Yams,,13.35,7600.0
+Mauritania,2012,Yams,,26.41,7600.0
+Mauritania,2013,Potatoes,,26.41,7600.0
+Mauritania,2014,Yams,,26.41,7600.0
+Mauritania,2015,Yams,,26.41,7600.0
+Mauritania,2016,Yams,,26.41,7600.0
+Mauritius,1961,Sweet potatoes,,,14048.0
+Mauritius,1962,Cassava,,,14048.0
+Mauritius,1963,Potatoes,,,14048.0
+Mauritius,1964,Sweet potatoes,,,14048.0
+Mauritius,1965,Sweet potatoes,,,14048.0
+Mauritius,1966,Cassava,,,14048.0
+Mauritius,1967,Cassava,,,14048.0
+Mauritius,1968,Potatoes,,,14048.0
+Mauritius,1969,Cassava,,,14048.0
+Mauritius,1970,Cassava,,,14048.0
+Mauritius,1971,Potatoes,,,14048.0
+Mauritius,1972,Cassava,,,14048.0
+Mauritius,1973,Cassava,,,14048.0
+Mauritius,1974,Potatoes,,,14048.0
+Mauritius,1975,Cassava,,,14048.0
+Mauritius,1976,Sweet potatoes,,,14048.0
+Mauritius,1977,Sweet potatoes,,,14048.0
+Mauritius,1978,Cassava,,,14048.0
+Mauritius,1979,Cassava,,,14048.0
+Mauritius,1980,Cassava,,,14048.0
+Mauritius,1981,Cassava,,,14048.0
+Mauritius,1982,Potatoes,,,14048.0
+Mauritius,1983,Potatoes,,,14048.0
+Mauritius,1984,Potatoes,,,14048.0
+Mauritius,1985,Potatoes,,,14048.0
+Mauritius,1986,Potatoes,,,14048.0
+Mauritius,1987,Potatoes,,,14048.0
+Mauritius,1988,Potatoes,,,14048.0
+Mauritius,1989,Potatoes,,,14048.0
+Mauritius,1990,Potatoes,,889.0,14048.0
+Mauritius,1991,Potatoes,,788.43,14048.0
+Mauritius,1992,Potatoes,,687.86,14048.0
+Mauritius,1993,Potatoes,,587.29,14048.0
+Mauritius,1994,Potatoes,,486.72,14048.0
+Mauritius,1995,Potatoes,,493.82,14048.0
+Mauritius,1996,Potatoes,,517.61,14048.0
+Mauritius,1997,Potatoes,,544.55,14048.0
+Mauritius,1998,Potatoes,,536.45,14048.0
+Mauritius,1999,Potatoes,,501.85,14048.0
+Mauritius,2000,Potatoes,,535.66,14048.0
+Mauritius,2001,Potatoes,,603.16,14048.0
+Mauritius,2002,Potatoes,,606.85,14048.0
+Mauritius,2003,Potatoes,,712.49,14048.0
+Mauritius,2004,Cassava,,697.91,14048.0
+Mauritius,2005,Potatoes,,698.23,14048.0
+Mauritius,2006,Potatoes,,623.96,14048.0
+Mauritius,2007,Potatoes,,644.12,14048.0
+Mauritius,2008,Potatoes,,781.32,14048.0
+Mauritius,2009,Potatoes,,749.41,14048.0
+Mauritius,2010,Potatoes,,731.46,14048.0
+Mauritius,2011,Potatoes,,685.98,14048.0
+Mauritius,2012,Potatoes,,636.91,14048.0
+Mauritius,2013,Potatoes,,671.77,14048.0
+Mauritius,2014,Potatoes,,665.37,14048.0
+Mauritius,2015,Potatoes,,628.52,14048.0
+Mauritius,2016,Potatoes,,664.2,14048.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1990,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1991,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1992,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1993,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1994,Sweet potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1995,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1996,Potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1997,Sweet potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1998,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,1999,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2000,Potatoes,,34468.93,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2005,Potatoes,,51741.99,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2006,Potatoes,,50891.95,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2007,Potatoes,,64501.28,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2008,Potatoes,,61732.11,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2009,Potatoes,,61690.08,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2010,Potatoes,,63402.29,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2011,Potatoes,,65961.1,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2012,Potatoes,,64512.22,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2013,Potatoes,,59920.18,1268870.0
+Mexico,2014,Potatoes,,53196.66,1268870.0
+Mexico,2015,Potatoes,,56518.2,1268870.0
+Mexico,2016,Potatoes,,57110.63,1268870.0
+Mongolia,1961,Potatoes,,,13996.0
+Mongolia,1962,Potatoes,,,13996.0
+Mongolia,1963,Potatoes,,,13996.0
+Mongolia,1964,Potatoes,,,13996.0
+Mongolia,1965,Potatoes,,,13996.0
+Mongolia,1966,Potatoes,,,13996.0
+Mongolia,1967,Potatoes,,,13996.0
+Mongolia,1968,Potatoes,,,13996.0
+Mongolia,1969,Potatoes,,,13996.0
+Mongolia,1970,Potatoes,,,13996.0
+Mongolia,1971,Potatoes,,,13996.0
+Mongolia,1972,Potatoes,,,13996.0
+Mongolia,1973,Potatoes,,,13996.0
+Mongolia,1974,Potatoes,,,13996.0
+Mongolia,1975,Potatoes,,,13996.0
+Mongolia,1976,Potatoes,,,13996.0
+Mongolia,1977,Potatoes,,,13996.0
+Mongolia,1978,Potatoes,,,13996.0
+Mongolia,1979,Potatoes,,,13996.0
+Mongolia,1980,Potatoes,,,13996.0
+Mongolia,1981,Potatoes,,,13996.0
+Mongolia,1982,Potatoes,,,13996.0
+Mongolia,1983,Potatoes,,,13996.0
+Mongolia,1984,Potatoes,,,13996.0
+Mongolia,1985,Potatoes,,,13996.0
+Mongolia,1986,Potatoes,,,13996.0
+Mongolia,1987,Potatoes,,,13996.0
+Mongolia,1988,Potatoes,,,13996.0
+Mongolia,1989,Potatoes,,,13996.0
+Mongolia,1990,Potatoes,,,13996.0
+Mongolia,1991,Potatoes,,,13996.0
+Mongolia,1992,Potatoes,,,13996.0
+Mongolia,1993,Potatoes,,,13996.0
+Mongolia,1994,Potatoes,,,13996.0
+Mongolia,1995,Potatoes,,,13996.0
+Mongolia,1996,Potatoes,,,13996.0
+Mongolia,1997,Potatoes,,,13996.0
+Mongolia,1998,Potatoes,,,13996.0
+Mongolia,1999,Potatoes,,,13996.0
+Mongolia,2000,Potatoes,,,13996.0
+Mongolia,2001,Potatoes,,,13996.0
+Mongolia,2002,Potatoes,,,13996.0
+Mongolia,2003,Potatoes,,,13996.0
+Mongolia,2004,Potatoes,,,13996.0
+Mongolia,2005,Potatoes,,,13996.0
+Mongolia,2006,Potatoes,,,13996.0
+Mongolia,2007,Potatoes,,,13996.0
+Mongolia,2008,Potatoes,,,13996.0
+Mongolia,2009,Potatoes,,,13996.0
+Mongolia,2010,Potatoes,,,13996.0
+Mongolia,2011,Potatoes,,,13996.0
+Mongolia,2012,Potatoes,,,13996.0
+Mongolia,2013,Potatoes,,,13996.0
+Mongolia,2014,Potatoes,,,13996.0
+Mongolia,2015,Potatoes,,,13996.0
+Mongolia,2016,Potatoes,,,13996.0
+Montenegro,2006,Potatoes,,0.55,5542.0
+Montenegro,2007,Potatoes,,0.55,5542.0
+Montenegro,2008,Potatoes,,0.55,5542.0
+Montenegro,2009,Potatoes,,0.55,5542.0
+Montenegro,2010,Potatoes,,66.0,5542.0
+Montenegro,2011,Potatoes,,75.0,5542.0
+Montenegro,2012,Potatoes,,71.0,5542.0
+Montenegro,2013,Potatoes,,82.0,5542.0
+Montenegro,2014,Potatoes,,90.0,5542.0
+Montenegro,2015,Potatoes,,76.0,5542.0
+Montenegro,2016,Potatoes,,90.0,5542.0
+Montserrat,1961,Potatoes,,,44.0
+Montserrat,1962,Potatoes,,,44.0
+Montserrat,1963,Potatoes,,,44.0
+Montserrat,1964,Potatoes,,,44.0
+Montserrat,1965,Potatoes,,,44.0
+Montserrat,1966,Potatoes,,,44.0
+Montserrat,1967,Potatoes,,,44.0
+Montserrat,1968,Potatoes,,,44.0
+Montserrat,1969,Potatoes,,,44.0
+Montserrat,1970,Sweet potatoes,,,44.0
+Montserrat,1971,Potatoes,,,44.0
+Montserrat,1972,Potatoes,,,44.0
+Montserrat,1973,Sweet potatoes,,,44.0
+Montserrat,1974,Potatoes,,,44.0
+Montserrat,1975,Potatoes,,,44.0
+Montserrat,1976,Potatoes,,,44.0
+Montserrat,1977,Sweet potatoes,,,44.0
+Montserrat,1978,Potatoes,,,44.0
+Montserrat,1979,Potatoes,,,44.0
+Montserrat,1980,Sweet potatoes,,,44.0
+Montserrat,1981,Potatoes,,,44.0
+Montserrat,1982,Potatoes,,,44.0
+Montserrat,1983,Potatoes,,,44.0
+Montserrat,1984,Potatoes,,,44.0
+Montserrat,1985,Potatoes,,,44.0
+Montserrat,1986,Potatoes,,,44.0
+Montserrat,1987,Potatoes,,,44.0
+Montserrat,1988,Potatoes,,,44.0
+Montserrat,1989,Potatoes,,,44.0
+Montserrat,1990,Potatoes,,,44.0
+Montserrat,1991,Potatoes,,,44.0
+Montserrat,1992,Potatoes,,,44.0
+Montserrat,1993,Potatoes,,,44.0
+Montserrat,1994,Potatoes,,,44.0
+Montserrat,1995,Potatoes,,,44.0
+Montserrat,1996,Potatoes,,,44.0
+Montserrat,1997,Potatoes,,,44.0
+Montserrat,1998,Maize,,,44.0
+Montserrat,1999,Maize,,,44.0
+Montserrat,2000,Maize,,,44.0
+Montserrat,2001,Maize,,,44.0
+Montserrat,2002,Maize,,,44.0
+Montserrat,2003,Maize,,,44.0
+Montserrat,2004,Maize,,,44.0
+Montserrat,2005,Maize,,,44.0
+Montserrat,2006,Maize,,,44.0
+Montserrat,2007,Maize,,,44.0
+Montserrat,2008,Maize,,,44.0
+Montserrat,2009,Maize,,,44.0
+Montserrat,2010,Maize,,,44.0
+Montserrat,2011,Maize,,,44.0
+Montserrat,2012,Maize,,,44.0
+Montserrat,2013,Maize,,,44.0
+Montserrat,2014,Maize,,,44.0
+Montserrat,2015,Maize,,,44.0
+Montserrat,2016,Maize,,,44.0
+Mozambique,1961,Sweet potatoes,,,15291.0
+Mozambique,1962,Potatoes,,,15291.0
+Mozambique,1963,Sweet potatoes,,,15291.0
+Mozambique,1964,Potatoes,,,15291.0
+Mozambique,1965,Potatoes,,,15291.0
+Mozambique,1966,Potatoes,,,15291.0
+Mozambique,1967,Potatoes,,,15291.0
+Mozambique,1968,Potatoes,,,15291.0
+Mozambique,1969,Potatoes,,,15291.0
+Mozambique,1970,Potatoes,,,15291.0
+Mozambique,1971,Potatoes,,,15291.0
+Mozambique,1972,Potatoes,,,15291.0
+Mozambique,1973,Potatoes,,,15291.0
+Mozambique,1974,Potatoes,,,15291.0
+Mozambique,1975,Potatoes,,,15291.0
+Mozambique,1976,Potatoes,,,15291.0
+Mozambique,1977,Potatoes,,,15291.0
+Mozambique,1978,Potatoes,,,15291.0
+Mozambique,1979,Potatoes,,,15291.0
+Mozambique,1980,Potatoes,,,15291.0
+Mozambique,1981,Potatoes,,,15291.0
+Mozambique,1982,Potatoes,,,15291.0
+Mozambique,1983,Potatoes,,,15291.0
+Mozambique,1984,Potatoes,,,15291.0
+Mozambique,1985,Potatoes,,,15291.0
+Mozambique,1986,Potatoes,,,15291.0
+Mozambique,1987,Potatoes,,,15291.0
+Mozambique,1988,Potatoes,,,15291.0
+Mozambique,1989,Potatoes,,,15291.0
+Mozambique,1990,Potatoes,,102.26,15291.0
+Mozambique,1991,Potatoes,,102.26,15291.0
+Mozambique,1992,Potatoes,,102.26,15291.0
+Mozambique,1993,Potatoes,,102.26,15291.0
+Mozambique,1994,Potatoes,,102.26,15291.0
+Mozambique,1995,Potatoes,,72.19,15291.0
+Mozambique,1996,Potatoes,,65.85,15291.0
+Mozambique,1997,Potatoes,,60.63,15291.0
+Mozambique,1998,Potatoes,,51.98,15291.0
+Mozambique,1999,Potatoes,,43.34,15291.0
+Mozambique,2000,Potatoes,,34.69,15291.0
+Mozambique,2001,Potatoes,,26.05,15291.0
+Mozambique,2002,Potatoes,,17.4,15291.0
+Mozambique,2003,Potatoes,,263.33,15291.0
+Mozambique,2004,Potatoes,,572.99,15291.0
+Mozambique,2005,Potatoes,,770.88,15291.0
+Mozambique,2006,Potatoes,,891.54,15291.0
+Mozambique,2007,Potatoes,,547.31,15291.0
+Mozambique,2008,Potatoes,,890.47,15291.0
+Mozambique,2009,Potatoes,,914.92,15291.0
+Mozambique,2010,Potatoes,,1187.1,15291.0
+Mozambique,2011,Potatoes,,766.93,15291.0
+Mozambique,2012,Sweet potatoes,,766.93,15291.0
+Mozambique,2013,Sweet potatoes,,766.93,15291.0
+Mozambique,2014,Potatoes,,766.93,15291.0
+Mozambique,2015,Potatoes,,766.93,15291.0
+Mozambique,2016,Potatoes,,766.93,15291.0
+Namibia,1961,Maize,,,12366.0
+Namibia,1962,Wheat,,,12366.0
+Namibia,1963,Wheat,,,12366.0
+Namibia,1964,Wheat,,,12366.0
+Namibia,1965,Wheat,,,12366.0
+Namibia,1966,Wheat,,,12366.0
+Namibia,1967,Wheat,,,12366.0
+Namibia,1968,Wheat,,,12366.0
+Namibia,1969,Wheat,,,12366.0
+Namibia,1970,Wheat,,,12366.0
+Namibia,1971,Wheat,,,12366.0
+Namibia,1972,Wheat,,,12366.0
+Namibia,1973,Wheat,,,12366.0
+Namibia,1974,Wheat,,,12366.0
+Namibia,1975,Wheat,,,12366.0
+Namibia,1976,Wheat,,,12366.0
+Namibia,1977,Wheat,,,12366.0
+Namibia,1978,Wheat,,,12366.0
+Namibia,1979,Wheat,,,12366.0
+Namibia,1980,Wheat,,,12366.0
+Namibia,1981,Wheat,,,12366.0
+Namibia,1982,Wheat,,,12366.0
+Namibia,1983,Wheat,,,12366.0
+Namibia,1984,Wheat,,,12366.0
+Namibia,1985,Wheat,,,12366.0
+Namibia,1986,Wheat,,,12366.0
+Namibia,1987,Wheat,,,12366.0
+Namibia,1988,Wheat,,,12366.0
+Namibia,1989,Wheat,,,12366.0
+Namibia,1990,Wheat,,42.0,12366.0
+Namibia,1991,Wheat,,39.0,12366.0
+Namibia,1992,Wheat,,48.0,12366.0
+Namibia,1993,Wheat,,56.0,12366.0
+Namibia,1994,Wheat,,56.0,12366.0
+Namibia,1995,Wheat,,56.0,12366.0
+Namibia,1996,Wheat,,56.0,12366.0
+Namibia,1997,Wheat,,56.0,12366.0
+Namibia,1998,Wheat,,56.0,12366.0
+Namibia,1999,Wheat,,56.0,12366.0
+Namibia,2000,Potatoes,,56.0,12366.0
+Namibia,2001,Potatoes,,56.0,12366.0
+Namibia,2002,Potatoes,,56.0,12366.0
+Namibia,2003,Potatoes,,56.0,12366.0
+Namibia,2004,Potatoes,,56.0,12366.0
+Namibia,2005,Potatoes,,56.0,12366.0
+Namibia,2006,Potatoes,,56.0,12366.0
+Namibia,2007,Potatoes,,56.0,12366.0
+Namibia,2008,Potatoes,,56.0,12366.0
+Namibia,2009,Potatoes,,56.0,12366.0
+Namibia,2010,Potatoes,,56.0,12366.0
+Namibia,2011,Potatoes,,56.0,12366.0
+Namibia,2012,Potatoes,,56.0,12366.0
+Namibia,2013,Potatoes,,56.0,12366.0
+Namibia,2014,Potatoes,,56.0,12366.0
+Namibia,2015,Potatoes,,56.0,12366.0
+Namibia,2016,Potatoes,,56.0,12366.0
+New Caledonia,1961,Yams,,,10770.0
+New Caledonia,1962,Yams,,,10770.0
+New Caledonia,1963,Potatoes,,,10770.0
+New Caledonia,1964,Potatoes,,,10770.0
+New Caledonia,1965,Yams,,,10770.0
+New Caledonia,1966,Yams,,,10770.0
+New Caledonia,1967,Cassava,,,10770.0
+New Caledonia,1968,Yams,,,10770.0
+New Caledonia,1969,Potatoes,,,10770.0
+New Caledonia,1970,Potatoes,,,10770.0
+New Caledonia,1971,Cassava,,,10770.0
+New Caledonia,1972,Cassava,,,10770.0
+New Caledonia,1973,Potatoes,,,10770.0
+New Caledonia,1974,Potatoes,,,10770.0
+New Caledonia,1975,Potatoes,,,10770.0
+New Caledonia,1976,Cassava,,,10770.0
+New Caledonia,1977,Cassava,,,10770.0
+New Caledonia,1978,Cassava,,,10770.0
+New Caledonia,1979,Cassava,,,10770.0
+New Caledonia,1980,Potatoes,,,10770.0
+New Caledonia,1981,Cassava,,,10770.0
+New Caledonia,1982,Cassava,,,10770.0
+New Caledonia,1983,Potatoes,,,10770.0
+New Caledonia,1984,Potatoes,,,10770.0
+New Caledonia,1985,Potatoes,,,10770.0
+New Caledonia,1986,Cassava,,,10770.0
+New Caledonia,1987,Potatoes,,,10770.0
+New Caledonia,1988,Potatoes,,,10770.0
+New Caledonia,1989,Potatoes,,,10770.0
+New Caledonia,1990,Potatoes,,28.2,10770.0
+New Caledonia,1991,Potatoes,,28.2,10770.0
+New Caledonia,1992,Potatoes,,28.2,10770.0
+New Caledonia,1993,Potatoes,,28.2,10770.0
+New Caledonia,1994,Potatoes,,28.2,10770.0
+New Caledonia,1995,Potatoes,,28.2,10770.0
+New Caledonia,1996,Potatoes,,28.2,10770.0
+New Caledonia,1997,Potatoes,,28.2,10770.0
+New Caledonia,1998,Potatoes,,28.2,10770.0
+New Caledonia,1999,Potatoes,,28.2,10770.0
+New Caledonia,2000,Potatoes,,28.2,10770.0
+New Caledonia,2001,Potatoes,,28.2,10770.0
+New Caledonia,2002,Potatoes,,28.2,10770.0
+New Caledonia,2003,Potatoes,,28.2,10770.0
+New Caledonia,2004,Potatoes,,28.2,10770.0
+New Caledonia,2005,Potatoes,,28.2,10770.0
+New Caledonia,2006,Potatoes,,28.2,10770.0
+New Caledonia,2007,Maize,,28.2,10770.0
+New Caledonia,2008,Potatoes,,28.2,10770.0
+New Caledonia,2009,Potatoes,,28.2,10770.0
+New Caledonia,2010,Potatoes,,32.6,10770.0
+New Caledonia,2011,Potatoes,,26.2,10770.0
+New Caledonia,2012,Potatoes,,26.4,10770.0
+New Caledonia,2013,Potatoes,,21.79,10770.0
+New Caledonia,2014,Potatoes,,8.85,10770.0
+New Caledonia,2015,Potatoes,,14.94,10770.0
+New Caledonia,2016,Potatoes,,25.33,10770.0
+Nicaragua,1961,Plantains and others,,,12520.0
+Nicaragua,1962,Plantains and others,,,12520.0
+Nicaragua,1963,Plantains and others,,,12520.0
+Nicaragua,1964,Plantains and others,,,12520.0
+Nicaragua,1965,Plantains and others,,,12520.0
+Nicaragua,1966,Plantains and others,,,12520.0
+Nicaragua,1967,Plantains and others,,,12520.0
+Nicaragua,1968,Plantains and others,,,12520.0
+Nicaragua,1969,Plantains and others,,,12520.0
+Nicaragua,1970,Plantains and others,,,12520.0
+Nicaragua,1971,Plantains and others,,,12520.0
+Nicaragua,1972,Plantains and others,,,12520.0
+Nicaragua,1973,Plantains and others,,,12520.0
+Nicaragua,1974,Plantains and others,,,12520.0
+Nicaragua,1975,Plantains and others,,,12520.0
+Nicaragua,1976,Plantains and others,,,12520.0
+Nicaragua,1977,Plantains and others,,,12520.0
+Nicaragua,1978,Plantains and others,,,12520.0
+Nicaragua,1979,Plantains and others,,,12520.0
+Nicaragua,1980,Cassava,,,12520.0
+Nicaragua,1981,Cassava,,,12520.0
+Nicaragua,1982,Cassava,,,12520.0
+Nicaragua,1983,Cassava,,,12520.0
+Nicaragua,1984,Cassava,,,12520.0
+Nicaragua,1985,Potatoes,,,12520.0
+Nicaragua,1986,Potatoes,,,12520.0
+Nicaragua,1987,Potatoes,,,12520.0
+Nicaragua,1988,Potatoes,,,12520.0
+Nicaragua,1989,Potatoes,,,12520.0
+Nicaragua,1990,Potatoes,,575.0,12520.0
+Nicaragua,1991,Potatoes,,575.0,12520.0
+Nicaragua,1992,Potatoes,,575.0,12520.0
+Nicaragua,1993,Potatoes,,977.0,12520.0
+Nicaragua,1994,Potatoes,,799.0,12520.0
+Nicaragua,1995,Potatoes,,876.0,12520.0
+Nicaragua,1996,Potatoes,,2041.7,12520.0
+Nicaragua,1997,Potatoes,,3207.4,12520.0
+Nicaragua,1998,Potatoes,,4373.1,12520.0
+Nicaragua,1999,Potatoes,,4097.16,12520.0
+Nicaragua,2000,Yams,,3925.63,12520.0
+Nicaragua,2001,Yams,,3603.5,12520.0
+Nicaragua,2002,Yams,,5715.36,12520.0
+Nicaragua,2003,Yams,,5613.57,12520.0
+Nicaragua,2004,Potatoes,,4581.73,12520.0
+Nicaragua,2005,Potatoes,,9391.92,12520.0
+Nicaragua,2006,Potatoes,,6889.26,12520.0
+Nicaragua,2007,Potatoes,,9850.26,12520.0
+Nicaragua,2008,Potatoes,,10173.91,12520.0
+Nicaragua,2009,Potatoes,,9387.95,12520.0
+Nicaragua,2010,Potatoes,,12242.19,12520.0
+Nicaragua,2011,Potatoes,,4932.05,12520.0
+Nicaragua,2012,Potatoes,,4413.82,12520.0
+Nicaragua,2013,Potatoes,,4413.82,12520.0
+Nicaragua,2014,Potatoes,,4413.82,12520.0
+Nicaragua,2015,Potatoes,,4413.82,12520.0
+Nicaragua,2016,Potatoes,,4413.82,12520.0
+Niger,1961,Sweet potatoes,,,12911.0
+Niger,1962,Sweet potatoes,,,12911.0
+Niger,1963,Sweet potatoes,,,12911.0
+Niger,1964,Sweet potatoes,,,12911.0
+Niger,1965,Sweet potatoes,,,12911.0
+Niger,1966,Sweet potatoes,,,12911.0
+Niger,1967,Sweet potatoes,,,12911.0
+Niger,1968,Sweet potatoes,,,12911.0
+Niger,1969,Cassava,,,12911.0
+Niger,1970,Cassava,,,12911.0
+Niger,1971,Cassava,,,12911.0
+Niger,1972,Sweet potatoes,,,12911.0
+Niger,1973,Sweet potatoes,,,12911.0
+Niger,1974,Cassava,,,12911.0
+Niger,1975,Sweet potatoes,,,12911.0
+Niger,1976,Cassava,,,12911.0
+Niger,1977,Potatoes,,,12911.0
+Niger,1978,Potatoes,,,12911.0
+Niger,1979,Potatoes,,,12911.0
+Niger,1980,Potatoes,,,12911.0
+Niger,1981,Potatoes,,,12911.0
+Niger,1982,Potatoes,,,12911.0
+Niger,1983,Potatoes,,,12911.0
+Niger,1984,Potatoes,,,12911.0
+Niger,1985,Potatoes,,,12911.0
+Niger,1986,Potatoes,,,12911.0
+Niger,1987,Potatoes,,,12911.0
+Niger,1988,Potatoes,,,12911.0
+Niger,1989,Potatoes,,,12911.0
+Niger,1990,Potatoes,,62.0,12911.0
+Niger,1991,Potatoes,,62.0,12911.0
+Niger,1992,Potatoes,,62.0,12911.0
+Niger,1993,Potatoes,,62.0,12911.0
+Niger,1994,Potatoes,,62.0,12911.0
+Niger,1995,Potatoes,,62.0,12911.0
+Niger,1996,Potatoes,,22.0,12911.0
+Niger,1997,Sweet potatoes,,34.0,12911.0
+Niger,1998,Potatoes,,36.0,12911.0
+Niger,1999,Sweet potatoes,,26.0,12911.0
+Niger,2000,Cassava,,62.0,12911.0
+Niger,2001,Cassava,,31.0,12911.0
+Niger,2002,Cassava,,29.44,12911.0
+Niger,2003,Sweet potatoes,,27.88,12911.0
+Niger,2004,Sweet potatoes,,26.31,12911.0
+Niger,2005,Sweet potatoes,,24.75,12911.0
+Niger,2006,Cassava,,21.12,12911.0
+Niger,2007,Sweet potatoes,,30.57,12911.0
+Niger,2008,Potatoes,,12.04,12911.0
+Niger,2009,Potatoes,,7.32,12911.0
+Niger,2010,Cassava,,11.49,12911.0
+Niger,2011,Potatoes,,10.59,12911.0
+Niger,2012,Potatoes,,21.37,12911.0
+Niger,2013,Potatoes,,21.37,12911.0
+Niger,2014,Potatoes,,21.37,12911.0
+Niger,2015,Potatoes,,21.37,12911.0
+Niger,2016,Potatoes,,21.37,12911.0
+Niue,1961,Cassava,,,10.0
+Niue,1962,Cassava,,,10.0
+Niue,1963,Cassava,,,10.0
+Niue,1964,Cassava,,,10.0
+Niue,1965,Sweet potatoes,,,10.0
+Niue,1966,Sweet potatoes,,,10.0
+Niue,1967,Sweet potatoes,,,10.0
+Niue,1968,Sweet potatoes,,,10.0
+Niue,1969,Sweet potatoes,,,10.0
+Niue,1970,Sweet potatoes,,,10.0
+Niue,1971,Sweet potatoes,,,10.0
+Niue,1972,Sweet potatoes,,,10.0
+Niue,1973,Sweet potatoes,,,10.0
+Niue,1974,Sweet potatoes,,,10.0
+Niue,1975,Sweet potatoes,,,10.0
+Niue,1976,Sweet potatoes,,,10.0
+Niue,1977,Sweet potatoes,,,10.0
+Niue,1978,Sweet potatoes,,,10.0
+Niue,1979,Sweet potatoes,,,10.0
+Niue,1980,Sweet potatoes,,,10.0
+Niue,1981,Sweet potatoes,,,10.0
+Niue,1982,Sweet potatoes,,,10.0
+Niue,1983,Sweet potatoes,,,10.0
+Niue,1984,Sweet potatoes,,,10.0
+Niue,1985,Sweet potatoes,,,10.0
+Niue,1986,Sweet potatoes,,,10.0
+Niue,1987,Sweet potatoes,,,10.0
+Niue,1988,Sweet potatoes,,,10.0
+Niue,1989,Sweet potatoes,,,10.0
+Niue,1990,Sweet potatoes,,,10.0
+Niue,1991,Sweet potatoes,,,10.0
+Niue,1992,Sweet potatoes,,,10.0
+Niue,1993,Sweet potatoes,,,10.0
+Niue,1994,Sweet potatoes,,,10.0
+Niue,1995,Sweet potatoes,,,10.0
+Niue,1996,Sweet potatoes,,,10.0
+Niue,1997,Sweet potatoes,,,10.0
+Niue,1998,Sweet potatoes,,,10.0
+Niue,1999,Sweet potatoes,,,10.0
+Niue,2000,Sweet potatoes,,,10.0
+Niue,2001,Sweet potatoes,,,10.0
+Niue,2002,Sweet potatoes,,,10.0
+Niue,2003,Sweet potatoes,,,10.0
+Niue,2004,Sweet potatoes,,,10.0
+Niue,2005,Sweet potatoes,,,10.0
+Niue,2006,Sweet potatoes,,,10.0
+Niue,2007,Sweet potatoes,,,10.0
+Niue,2008,Sweet potatoes,,,10.0
+Niue,2009,Sweet potatoes,,,10.0
+Niue,2010,Sweet potatoes,,,10.0
+Niue,2011,Sweet potatoes,,,10.0
+Niue,2012,Sweet potatoes,,,10.0
+Niue,2013,Sweet potatoes,,,10.0
+Niue,2014,Sweet potatoes,,,10.0
+Niue,2015,Sweet potatoes,,,10.0
+Niue,2016,Sweet potatoes,,,10.0
+Paraguay,2011,Potatoes,,34841.73,38145.0
+Paraguay,2012,Potatoes,,37267.6,38145.0
+Rwanda,1961,Yams,,,10354.0
+Rwanda,1962,Plantains and others,,,10354.0
+Rwanda,1963,Yams,,,10354.0
+Rwanda,1964,Cassava,,,10354.0
+Rwanda,1965,Yams,,,10354.0
+Rwanda,1966,Cassava,,,10354.0
+Rwanda,1967,Plantains and others,,,10354.0
+Rwanda,1968,Plantains and others,,,10354.0
+Rwanda,1969,Plantains and others,,,10354.0
+Rwanda,1970,Cassava,,,10354.0
+Rwanda,1971,Cassava,,,10354.0
+Rwanda,1972,Cassava,,,10354.0
+Rwanda,1973,Cassava,,,10354.0
+Rwanda,1974,Cassava,,,10354.0
+Rwanda,1975,Cassava,,,10354.0
+Rwanda,1976,Cassava,,,10354.0
+Rwanda,1977,Cassava,,,10354.0
+Rwanda,1978,Plantains and others,,,10354.0
+Rwanda,1979,Cassava,,,10354.0
+Rwanda,1980,Cassava,,,10354.0
+Rwanda,1981,Cassava,,,10354.0
+Rwanda,1982,Cassava,,,10354.0
+Rwanda,1983,Cassava,,,10354.0
+Rwanda,1984,Cassava,,,10354.0
+Rwanda,1985,Cassava,,,10354.0
+Rwanda,1986,Cassava,,,10354.0
+Rwanda,1987,Plantains and others,,,10354.0
+Rwanda,1988,Plantains and others,,,10354.0
+Rwanda,1989,Plantains and others,,,10354.0
+Rwanda,1990,Potatoes,,157.0,10354.0
+Rwanda,1991,Potatoes,,107.0,10354.0
+Rwanda,1992,Potatoes,,97.0,10354.0
+Rwanda,1993,Potatoes,,127.4,10354.0
+Rwanda,1994,Potatoes,,157.8,10354.0
+Rwanda,1995,Potatoes,,188.2,10354.0
+Rwanda,1996,Potatoes,,218.6,10354.0
+Rwanda,1997,Potatoes,,249.0,10354.0
+Rwanda,1998,Potatoes,,157.0,10354.0
+Rwanda,1999,Potatoes,,152.0,10354.0
+Rwanda,2000,Potatoes,,147.0,10354.0
+Rwanda,2001,Potatoes,,72.0,10354.0
+Rwanda,2002,Potatoes,,106.34,10354.0
+Rwanda,2003,Potatoes,,140.68,10354.0
+Rwanda,2004,Potatoes,,159.54,10354.0
+Rwanda,2005,Potatoes,,222.92,10354.0
+Rwanda,2006,Potatoes,,288.72,10354.0
+Rwanda,2007,Potatoes,,398.11,10354.0
+Rwanda,2008,Cassava,,321.75,10354.0
+Rwanda,2009,Cassava,,1187.6,10354.0
+Rwanda,2010,Cassava,,953.85,10354.0
+Rwanda,2011,Potatoes,,181.6,10354.0
+Rwanda,2012,Cassava,,925.52,10354.0
+Rwanda,2013,Cassava,,1841.5,10354.0
+Rwanda,2014,Cassava,,2060.91,10354.0
+Rwanda,2015,Cassava,,2484.21,10354.0
+Rwanda,2016,Cassava,,2027.03,10354.0
+Saint Kitts and Nevis,1961,Potatoes,,,1053.0
+Saint Kitts and Nevis,1962,Potatoes,,,1053.0
+Saint Kitts and Nevis,1963,Potatoes,,,1053.0
+Saint Kitts and Nevis,1964,Potatoes,,,1053.0
+Saint Kitts and Nevis,1965,Potatoes,,,1053.0
+Saint Kitts and Nevis,1966,Potatoes,,,1053.0
+Saint Kitts and Nevis,1967,Potatoes,,,1053.0
+Saint Kitts and Nevis,1968,Potatoes,,,1053.0
+Saint Kitts and Nevis,1969,Potatoes,,,1053.0
+Saint Kitts and Nevis,1970,Potatoes,,,1053.0
+Saint Kitts and Nevis,1971,Potatoes,,,1053.0
+Saint Kitts and Nevis,1972,Potatoes,,,1053.0
+Saint Kitts and Nevis,1973,Potatoes,,,1053.0
+Saint Kitts and Nevis,1974,Potatoes,,,1053.0
+Saint Kitts and Nevis,1975,Potatoes,,,1053.0
+Saint Kitts and Nevis,1976,Potatoes,,,1053.0
+Saint Kitts and Nevis,1977,Potatoes,,,1053.0
+Saint Kitts and Nevis,1978,Potatoes,,,1053.0
+Saint Kitts and Nevis,1979,Potatoes,,,1053.0
+Saint Kitts and Nevis,1980,Potatoes,,,1053.0
+Saint Kitts and Nevis,1981,Potatoes,,,1053.0
+Saint Kitts and Nevis,1982,Potatoes,,,1053.0
+Saint Kitts and Nevis,1983,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1984,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1985,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1986,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1987,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1988,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1989,Sweet potatoes,,,1053.0
+Saint Kitts and Nevis,1990,Sweet potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1991,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1992,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1993,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1994,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1995,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1996,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1997,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1998,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,1999,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,2000,Potatoes,,10.88,1053.0
+Saint Kitts and Nevis,2001,Potatoes,,10.28,1053.0
+Saint Kitts and Nevis,2002,Potatoes,,11.32,1053.0
+Saint Kitts and Nevis,2003,Potatoes,,11.92,1053.0
+Saint Kitts and Nevis,2004,Potatoes,,12.52,1053.0
+Saint Kitts and Nevis,2005,Potatoes,,12.62,1053.0
+Saint Kitts and Nevis,2006,Potatoes,,12.57,1053.0
+Saint Kitts and Nevis,2007,Potatoes,,12.57,1053.0
+Saint Kitts and Nevis,2008,Potatoes,,14.96,1053.0
+Saint Kitts and Nevis,2009,Potatoes,,15.08,1053.0
+Saint Kitts and Nevis,2010,Potatoes,,14.61,1053.0
+Saint Kitts and Nevis,2011,Potatoes,,14.78,1053.0
+Saint Kitts and Nevis,2012,Potatoes,,1.99,1053.0
+Saint Kitts and Nevis,2013,Potatoes,,0.94,1053.0
+Saint Kitts and Nevis,2014,Potatoes,,1.56,1053.0
+Saint Kitts and Nevis,2015,Yams,,1.56,1053.0
+Saint Kitts and Nevis,2016,Potatoes,,1.56,1053.0
+Saint Lucia,1961,Cassava,,,2122.0
+Saint Lucia,1962,Yams,,,2122.0
+Saint Lucia,1963,Yams,,,2122.0
+Saint Lucia,1964,Yams,,,2122.0
+Saint Lucia,1965,Yams,,,2122.0
+Saint Lucia,1966,Yams,,,2122.0
+Saint Lucia,1967,Yams,,,2122.0
+Saint Lucia,1968,Yams,,,2122.0
+Saint Lucia,1969,Yams,,,2122.0
+Saint Lucia,1970,Yams,,,2122.0
+Saint Lucia,1971,Yams,,,2122.0
+Saint Lucia,1972,Yams,,,2122.0
+Saint Lucia,1973,Yams,,,2122.0
+Saint Lucia,1974,Yams,,,2122.0
+Saint Lucia,1975,Sweet potatoes,,,2122.0
+Saint Lucia,1976,Sweet potatoes,,,2122.0
+Saint Lucia,1977,Sweet potatoes,,,2122.0
+Saint Lucia,1978,Sweet potatoes,,,2122.0
+Saint Lucia,1979,Sweet potatoes,,,2122.0
+Saint Lucia,1980,Sweet potatoes,,,2122.0
+Saint Lucia,1981,Sweet potatoes,,,2122.0
+Saint Lucia,1982,Sweet potatoes,,,2122.0
+Saint Lucia,1983,Sweet potatoes,,,2122.0
+Saint Lucia,1984,Sweet potatoes,,,2122.0
+Saint Lucia,1985,Sweet potatoes,,,2122.0
+Saint Lucia,1986,Sweet potatoes,,,2122.0
+Saint Lucia,1987,Sweet potatoes,,,2122.0
+Saint Lucia,1988,Sweet potatoes,,,2122.0
+Saint Lucia,1989,Sweet potatoes,,,2122.0
+Saint Lucia,1990,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1991,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1992,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1993,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1994,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1995,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1996,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1997,Sweet potatoes,,97.0,2122.0
+Saint Lucia,1998,Sweet potatoes,,49.0,2122.0
+Saint Lucia,1999,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2000,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2001,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2002,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2003,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2004,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2005,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2006,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2007,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2008,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2009,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2010,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2011,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2012,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2013,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2014,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2015,Sweet potatoes,,196.0,2122.0
+Saint Lucia,2016,Sweet potatoes,,196.0,2122.0
+Saint Vincent and the Grenadines,1961,Cassava,,,824.0
+Saint Vincent and the Grenadines,1962,Cassava,,,824.0
+Saint Vincent and the Grenadines,1963,Cassava,,,824.0
+Saint Vincent and the Grenadines,1964,Cassava,,,824.0
+Saint Vincent and the Grenadines,1965,Cassava,,,824.0
+Saint Vincent and the Grenadines,1966,Cassava,,,824.0
+Saint Vincent and the Grenadines,1967,Cassava,,,824.0
+Saint Vincent and the Grenadines,1968,Yams,,,824.0
+Saint Vincent and the Grenadines,1969,Cassava,,,824.0
+Saint Vincent and the Grenadines,1970,Cassava,,,824.0
+Saint Vincent and the Grenadines,1971,Cassava,,,824.0
+Saint Vincent and the Grenadines,1972,Cassava,,,824.0
+Saint Vincent and the Grenadines,1973,Cassava,,,824.0
+Saint Vincent and the Grenadines,1974,Cassava,,,824.0
+Saint Vincent and the Grenadines,1975,Cassava,,,824.0
+Saint Vincent and the Grenadines,1976,Cassava,,,824.0
+Saint Vincent and the Grenadines,1977,Cassava,,,824.0
+Saint Vincent and the Grenadines,1978,Cassava,,,824.0
+Saint Vincent and the Grenadines,1979,Cassava,,,824.0
+Saint Vincent and the Grenadines,1980,Cassava,,,824.0
+Saint Vincent and the Grenadines,1981,Cassava,,,824.0
+Saint Vincent and the Grenadines,1982,Yams,,,824.0
+Saint Vincent and the Grenadines,1983,Yams,,,824.0
+Saint Vincent and the Grenadines,1984,Yams,,,824.0
+Saint Vincent and the Grenadines,1985,Yams,,,824.0
+Saint Vincent and the Grenadines,1986,Yams,,,824.0
+Saint Vincent and the Grenadines,1987,Yams,,,824.0
+Saint Vincent and the Grenadines,1988,Yams,,,824.0
+Saint Vincent and the Grenadines,1989,Yams,,,824.0
+Saint Vincent and the Grenadines,1990,Yams,,,824.0
+Saint Vincent and the Grenadines,1991,Yams,,,824.0
+Saint Vincent and the Grenadines,1992,Yams,,,824.0
+Saint Vincent and the Grenadines,1993,Yams,,,824.0
+Saint Vincent and the Grenadines,1994,Yams,,,824.0
+Saint Vincent and the Grenadines,1995,Yams,,,824.0
+Saint Vincent and the Grenadines,1996,Yams,,,824.0
+Saint Vincent and the Grenadines,1997,Plantains and others,,,824.0
+Saint Vincent and the Grenadines,1998,Plantains and others,,,824.0
+Saint Vincent and the Grenadines,1999,Plantains and others,,,824.0
+Saint Vincent and the Grenadines,2000,Maize,,,824.0
+Saint Vincent and the Grenadines,2001,Maize,,,824.0
+Saint Vincent and the Grenadines,2002,Maize,,,824.0
+Saint Vincent and the Grenadines,2003,Maize,,,824.0
+Saint Vincent and the Grenadines,2004,Maize,,,824.0
+Saint Vincent and the Grenadines,2005,Maize,,,824.0
+Saint Vincent and the Grenadines,2006,Maize,,,824.0
+Saint Vincent and the Grenadines,2007,Maize,,,824.0
+Saint Vincent and the Grenadines,2008,Maize,,,824.0
+Saint Vincent and the Grenadines,2009,Maize,,,824.0
+Saint Vincent and the Grenadines,2010,Maize,,,824.0
+Saint Vincent and the Grenadines,2011,Maize,,,824.0
+Saint Vincent and the Grenadines,2012,Maize,,,824.0
+Saint Vincent and the Grenadines,2013,Maize,,,824.0
+Saint Vincent and the Grenadines,2014,Maize,,,824.0
+Saint Vincent and the Grenadines,2015,Maize,,,824.0
+Saint Vincent and the Grenadines,2016,Maize,,,824.0
+Samoa,1961,Yams,,,852.0
+Samoa,1962,Yams,,,852.0
+Samoa,1963,Yams,,,852.0
+Samoa,1964,Yams,,,852.0
+Samoa,1965,Yams,,,852.0
+Samoa,1966,Cassava,,,852.0
+Samoa,1967,Cassava,,,852.0
+Samoa,1968,Cassava,,,852.0
+Samoa,1969,Cassava,,,852.0
+Samoa,1970,Cassava,,,852.0
+Samoa,1971,Cassava,,,852.0
+Samoa,1972,Cassava,,,852.0
+Samoa,1973,Cassava,,,852.0
+Samoa,1974,Cassava,,,852.0
+Samoa,1975,Cassava,,,852.0
+Samoa,1976,Yams,,,852.0
+Samoa,1977,Yams,,,852.0
+Samoa,1978,Yams,,,852.0
+Samoa,1979,Yams,,,852.0
+Samoa,1980,Yams,,,852.0
+Samoa,1981,Yams,,,852.0
+Samoa,1982,Yams,,,852.0
+Samoa,1983,Cassava,,,852.0
+Samoa,1984,Cassava,,,852.0
+Samoa,1985,Cassava,,,852.0
+Samoa,1986,Cassava,,,852.0
+Samoa,1987,Cassava,,,852.0
+Samoa,1988,Cassava,,,852.0
+Samoa,1989,Cassava,,,852.0
+Samoa,1990,Cassava,,48.07,852.0
+Samoa,1991,Cassava,,48.07,852.0
+Samoa,1992,Cassava,,36.0,852.0
+Samoa,1993,Cassava,,23.53,852.0
+Samoa,1994,Cassava,,48.27,852.0
+Samoa,1995,Cassava,,44.18,852.0
+Samoa,1996,Cassava,,23.66,852.0
+Samoa,1997,Cassava,,29.78,852.0
+Samoa,1998,Cassava,,12.05,852.0
+Samoa,1999,Cassava,,10.02,852.0
+Samoa,2000,Cassava,,6.77,852.0
+Samoa,2001,Cassava,,6.77,852.0
+Samoa,2002,Cassava,,6.77,852.0
+Samoa,2003,Cassava,,6.77,852.0
+Samoa,2004,Cassava,,6.77,852.0
+Samoa,2005,Cassava,,6.77,852.0
+Samoa,2006,Cassava,,6.77,852.0
+Samoa,2007,Cassava,,6.77,852.0
+Samoa,2008,Cassava,,6.77,852.0
+Samoa,2009,Cassava,,6.77,852.0
+Samoa,2010,Cassava,,6.77,852.0
+Samoa,2011,Cassava,,6.77,852.0
+Samoa,2012,Cassava,,6.77,852.0
+Samoa,2013,Cassava,,6.77,852.0
+Samoa,2014,Cassava,,6.77,852.0
+Samoa,2015,Cassava,,6.77,852.0
+Samoa,2016,Cassava,,6.77,852.0
+Seychelles,1961,Cassava,,,1703.0
+Seychelles,1962,Cassava,,,1703.0
+Seychelles,1963,Cassava,,,1703.0
+Seychelles,1964,Cassava,,,1703.0
+Seychelles,1965,Cassava,,,1703.0
+Seychelles,1966,Cassava,,,1703.0
+Seychelles,1967,Cassava,,,1703.0
+Seychelles,1968,Cassava,,,1703.0
+Seychelles,1969,Cassava,,,1703.0
+Seychelles,1970,Cassava,,,1703.0
+Seychelles,1971,Cassava,,,1703.0
+Seychelles,1972,Cassava,,,1703.0
+Seychelles,1973,Cassava,,,1703.0
+Seychelles,1974,Cassava,,,1703.0
+Seychelles,1975,Cassava,,,1703.0
+Seychelles,1976,Cassava,,,1703.0
+Seychelles,1977,Cassava,,,1703.0
+Seychelles,1978,Cassava,,,1703.0
+Seychelles,1979,Cassava,,,1703.0
+Seychelles,1980,Cassava,,,1703.0
+Seychelles,1981,Cassava,,,1703.0
+Seychelles,1982,Cassava,,,1703.0
+Seychelles,1983,Cassava,,,1703.0
+Seychelles,1984,Cassava,,,1703.0
+Seychelles,1985,Cassava,,,1703.0
+Seychelles,1986,Cassava,,,1703.0
+Seychelles,1987,Cassava,,,1703.0
+Seychelles,1988,Cassava,,,1703.0
+Seychelles,1989,Cassava,,,1703.0
+Seychelles,1990,Cassava,,10.29,1703.0
+Seychelles,1991,Cassava,,9.06,1703.0
+Seychelles,1992,Cassava,,8.63,1703.0
+Seychelles,1993,Cassava,,30.77,1703.0
+Seychelles,1994,Cassava,,32.85,1703.0
+Seychelles,1995,Cassava,,35.69,1703.0
+Seychelles,1996,Cassava,,34.73,1703.0
+Seychelles,1997,Cassava,,24.31,1703.0
+Seychelles,1998,Cassava,,18.75,1703.0
+Seychelles,1999,Cassava,,18.75,1703.0
+Seychelles,2000,Cassava,,18.75,1703.0
+Seychelles,2001,Cassava,,18.75,1703.0
+Seychelles,2002,Cassava,,18.75,1703.0
+Seychelles,2003,Cassava,,18.75,1703.0
+Seychelles,2004,Cassava,,18.75,1703.0
+Seychelles,2005,Cassava,,18.75,1703.0
+Seychelles,2006,Cassava,,18.75,1703.0
+Seychelles,2007,Cassava,,18.75,1703.0
+Seychelles,2008,Cassava,,18.75,1703.0
+Seychelles,2009,Cassava,,18.75,1703.0
+Seychelles,2010,Cassava,,18.75,1703.0
+Seychelles,2011,Cassava,,18.75,1703.0
+Seychelles,2012,Cassava,,18.75,1703.0
+Seychelles,2013,Cassava,,18.75,1703.0
+Seychelles,2014,Cassava,,18.75,1703.0
+Seychelles,2015,Cassava,,18.75,1703.0
+Seychelles,2016,Cassava,,18.75,1703.0
+Sierra Leone,1961,Plantains and others,,,4121.0
+Sierra Leone,1962,Plantains and others,,,4121.0
+Sierra Leone,1963,Plantains and others,,,4121.0
+Sierra Leone,1964,Plantains and others,,,4121.0
+Sierra Leone,1965,Cassava,,,4121.0
+Sierra Leone,1966,Cassava,,,4121.0
+Sierra Leone,1967,Cassava,,,4121.0
+Sierra Leone,1968,Cassava,,,4121.0
+Sierra Leone,1969,Cassava,,,4121.0
+Sierra Leone,1970,Cassava,,,4121.0
+Sierra Leone,1971,Cassava,,,4121.0
+Sierra Leone,1972,Cassava,,,4121.0
+Sierra Leone,1973,Cassava,,,4121.0
+Sierra Leone,1974,Cassava,,,4121.0
+Sierra Leone,1975,Cassava,,,4121.0
+Sierra Leone,1976,Cassava,,,4121.0
+Sierra Leone,1977,Cassava,,,4121.0
+Sierra Leone,1978,Cassava,,,4121.0
+Sierra Leone,1979,Cassava,,,4121.0
+Sierra Leone,1980,Plantains and others,,,4121.0
+Sierra Leone,1981,Plantains and others,,,4121.0
+Sierra Leone,1982,Plantains and others,,,4121.0
+Sierra Leone,1983,Plantains and others,,,4121.0
+Sierra Leone,1984,Plantains and others,,,4121.0
+Sierra Leone,1985,Plantains and others,,,4121.0
+Sierra Leone,1986,Cassava,,,4121.0
+Sierra Leone,1987,Plantains and others,,,4121.0
+Sierra Leone,1988,Plantains and others,,,4121.0
+Sierra Leone,1989,Cassava,,,4121.0
+Sierra Leone,1990,Cassava,,,4121.0
+Sierra Leone,1991,Cassava,,,4121.0
+Sierra Leone,1992,Cassava,,,4121.0
+Sierra Leone,1993,Cassava,,,4121.0
+Sierra Leone,1994,Cassava,,,4121.0
+Sierra Leone,1995,Cassava,,,4121.0
+Sierra Leone,1996,Cassava,,,4121.0
+Sierra Leone,1997,Plantains and others,,,4121.0
+Sierra Leone,1998,Plantains and others,,,4121.0
+Sierra Leone,1999,Plantains and others,,,4121.0
+Sierra Leone,2000,Cassava,,,4121.0
+Sierra Leone,2001,Cassava,,,4121.0
+Sierra Leone,2002,Cassava,,,4121.0
+Sierra Leone,2003,Cassava,,,4121.0
+Sierra Leone,2004,Cassava,,,4121.0
+Sierra Leone,2005,Cassava,,,4121.0
+Sierra Leone,2006,Cassava,,,4121.0
+Sierra Leone,2007,Cassava,,,4121.0
+Sierra Leone,2008,Cassava,,,4121.0
+Sierra Leone,2009,Cassava,,,4121.0
+Sierra Leone,2010,Cassava,,,4121.0
+Sierra Leone,2011,Cassava,,,4121.0
+Sierra Leone,2012,Cassava,,,4121.0
+Sierra Leone,2013,Cassava,,,4121.0
+Sierra Leone,2014,Cassava,,,4121.0
+Sierra Leone,2015,Cassava,,,4121.0
+Sierra Leone,2016,Cassava,,,4121.0
+Solomon Islands,1961,Sweet potatoes,,,1589.0
+Solomon Islands,1962,Sweet potatoes,,,1589.0
+Solomon Islands,1963,Sweet potatoes,,,1589.0
+Solomon Islands,1964,Sweet potatoes,,,1589.0
+Solomon Islands,1965,Sweet potatoes,,,1589.0
+Solomon Islands,1966,Sweet potatoes,,,1589.0
+Solomon Islands,1967,Sweet potatoes,,,1589.0
+Solomon Islands,1968,Sweet potatoes,,,1589.0
+Solomon Islands,1969,Sweet potatoes,,,1589.0
+Solomon Islands,1970,Sweet potatoes,,,1589.0
+Solomon Islands,1971,Sweet potatoes,,,1589.0
+Solomon Islands,1972,Sweet potatoes,,,1589.0
+Solomon Islands,1973,Sweet potatoes,,,1589.0
+Solomon Islands,1974,Sweet potatoes,,,1589.0
+Solomon Islands,1975,Sweet potatoes,,,1589.0
+Solomon Islands,1976,Sweet potatoes,,,1589.0
+Solomon Islands,1977,Sweet potatoes,,,1589.0
+Solomon Islands,1978,Sweet potatoes,,,1589.0
+Solomon Islands,1979,Sweet potatoes,,,1589.0
+Solomon Islands,1980,Cassava,,,1589.0
+Solomon Islands,1981,Cassava,,,1589.0
+Solomon Islands,1982,Cassava,,,1589.0
+Solomon Islands,1983,Cassava,,,1589.0
+Solomon Islands,1984,Cassava,,,1589.0
+Solomon Islands,1985,Cassava,,,1589.0
+Solomon Islands,1986,Cassava,,,1589.0
+Solomon Islands,1987,Cassava,,,1589.0
+Solomon Islands,1988,Cassava,,,1589.0
+Solomon Islands,1989,Cassava,,,1589.0
+Solomon Islands,1990,Cassava,,,1589.0
+Solomon Islands,1991,Cassava,,,1589.0
+Solomon Islands,1992,Cassava,,,1589.0
+Solomon Islands,1993,Cassava,,,1589.0
+Solomon Islands,1994,Cassava,,,1589.0
+Solomon Islands,1995,Cassava,,,1589.0
+Solomon Islands,1996,Cassava,,,1589.0
+Solomon Islands,1997,Cassava,,,1589.0
+Solomon Islands,1998,Cassava,,,1589.0
+Solomon Islands,1999,Cassava,,,1589.0
+Solomon Islands,2000,Cassava,,,1589.0
+Solomon Islands,2001,Cassava,,,1589.0
+Solomon Islands,2002,Cassava,,,1589.0
+Solomon Islands,2003,Cassava,,,1589.0
+Solomon Islands,2004,Cassava,,,1589.0
+Solomon Islands,2005,Cassava,,,1589.0
+Solomon Islands,2006,Cassava,,,1589.0
+Solomon Islands,2007,Cassava,,,1589.0
+Solomon Islands,2008,Cassava,,,1589.0
+Solomon Islands,2009,Cassava,,,1589.0
+Solomon Islands,2010,Cassava,,,1589.0
+Solomon Islands,2011,Cassava,,,1589.0
+Solomon Islands,2012,Cassava,,,1589.0
+Solomon Islands,2013,Cassava,,,1589.0
+Solomon Islands,2014,Cassava,,,1589.0
+Solomon Islands,2015,Cassava,,,1589.0
+Solomon Islands,2016,Cassava,,,1589.0
+Somalia,1961,Cassava,,,4719.0
+Somalia,1962,Cassava,,,4719.0
+Somalia,1963,Sweet potatoes,,,4719.0
+Somalia,1964,Cassava,,,4719.0
+Somalia,1965,Cassava,,,4719.0
+Somalia,1966,Cassava,,,4719.0
+Somalia,1967,Cassava,,,4719.0
+Somalia,1968,Cassava,,,4719.0
+Somalia,1969,Cassava,,,4719.0
+Somalia,1970,Cassava,,,4719.0
+Somalia,1971,Cassava,,,4719.0
+Somalia,1972,Cassava,,,4719.0
+Somalia,1973,Cassava,,,4719.0
+Somalia,1974,Cassava,,,4719.0
+Somalia,1975,Cassava,,,4719.0
+Somalia,1976,Cassava,,,4719.0
+Somalia,1977,Cassava,,,4719.0
+Somalia,1978,Cassava,,,4719.0
+Somalia,1979,Cassava,,,4719.0
+Somalia,1980,Cassava,,,4719.0
+Somalia,1981,Cassava,,,4719.0
+Somalia,1982,Cassava,,,4719.0
+Somalia,1983,Cassava,,,4719.0
+Somalia,1984,Cassava,,,4719.0
+Somalia,1985,Cassava,,,4719.0
+Somalia,1986,Cassava,,,4719.0
+Somalia,1987,Cassava,,,4719.0
+Somalia,1988,Cassava,,,4719.0
+Somalia,1989,Cassava,,,4719.0
+Somalia,1990,Cassava,,,4719.0
+Somalia,1991,Cassava,,,4719.0
+Somalia,1992,Cassava,,,4719.0
+Somalia,1993,Cassava,,,4719.0
+Somalia,1994,Cassava,,,4719.0
+Somalia,1995,Cassava,,,4719.0
+Somalia,1996,Cassava,,,4719.0
+Somalia,1997,Cassava,,,4719.0
+Somalia,1998,Cassava,,,4719.0
+Somalia,1999,Cassava,,,4719.0
+Somalia,2000,Cassava,,,4719.0
+Somalia,2001,Sweet potatoes,,,4719.0
+Somalia,2002,Sweet potatoes,,,4719.0
+Somalia,2003,Sweet potatoes,,,4719.0
+Somalia,2004,Sweet potatoes,,,4719.0
+Somalia,2005,Sweet potatoes,,,4719.0
+Somalia,2006,Cassava,,,4719.0
+Somalia,2007,Sweet potatoes,,,4719.0
+Somalia,2008,Sweet potatoes,,,4719.0
+Somalia,2009,Sweet potatoes,,,4719.0
+Somalia,2010,Sweet potatoes,,,4719.0
+Somalia,2011,Sweet potatoes,,,4719.0
+Somalia,2012,Sweet potatoes,,,4719.0
+Somalia,2013,Sweet potatoes,,,4719.0
+Somalia,2014,Sweet potatoes,,,4719.0
+Somalia,2015,Sweet potatoes,,,4719.0
+Somalia,2016,Sweet potatoes,,,4719.0
+South Sudan,2012,Yams,,,11998.0
+South Sudan,2013,Yams,,,11998.0
+South Sudan,2014,Yams,,,11998.0
+South Sudan,2015,Yams,,,11998.0
+South Sudan,2016,Yams,,,11998.0
+Spain,1990,Potatoes,,39562.0,1393490.0
+Spain,1990,Potatoes,,39562.0,1393490.0
+Spain,1990,Potatoes,,39562.0,1393490.0
+Spain,1991,Potatoes,,39147.0,1393490.0
+Spain,1991,Potatoes,,39147.0,1393490.0
+Spain,1991,Potatoes,,39147.0,1393490.0
+Spain,1998,Potatoes,,35070.0,1393490.0
+Spain,1998,Potatoes,,35070.0,1393490.0
+Spain,1998,Potatoes,,35070.0,1393490.0
+Spain,2000,Potatoes,,34597.0,1393490.0
+Spain,2000,Potatoes,,34597.0,1393490.0
+Spain,2000,Potatoes,,34597.0,1393490.0
+Spain,2001,Potatoes,,35700.0,1393490.0
+Spain,2001,Potatoes,,35700.0,1393490.0
+Spain,2001,Potatoes,,35700.0,1393490.0
+Spain,2002,Potatoes,,40727.0,1393490.0
+Spain,2002,Potatoes,,40727.0,1393490.0
+Spain,2002,Potatoes,,40727.0,1393490.0
+Spain,2003,Potatoes,,41586.0,1393490.0
+Spain,2003,Potatoes,,41586.0,1393490.0
+Spain,2003,Potatoes,,41586.0,1393490.0
+Spain,2004,Potatoes,,47445.0,1393490.0
+Spain,2004,Potatoes,,47445.0,1393490.0
+Spain,2004,Potatoes,,47445.0,1393490.0
+Spain,2005,Potatoes,,41017.0,1393490.0
+Spain,2005,Potatoes,,41017.0,1393490.0
+Spain,2005,Potatoes,,41017.0,1393490.0
+Spain,2006,Potatoes,,39767.0,1393490.0
+Spain,2006,Potatoes,,39767.0,1393490.0
+Spain,2006,Potatoes,,39767.0,1393490.0
+Spain,2007,Potatoes,,39286.0,1393490.0
+Spain,2007,Potatoes,,39286.0,1393490.0
+Spain,2007,Potatoes,,39286.0,1393490.0
+Spain,2008,Potatoes,,40719.0,1393490.0
+Spain,2008,Potatoes,,40719.0,1393490.0
+Spain,2008,Potatoes,,40719.0,1393490.0
+Spain,2009,Potatoes,,35199.0,1393490.0
+Spain,2009,Potatoes,,35199.0,1393490.0
+Spain,2009,Potatoes,,35199.0,1393490.0
+Spain,2010,Potatoes,,39043.0,1393490.0
+Spain,2010,Potatoes,,39043.0,1393490.0
+Spain,2010,Potatoes,,39043.0,1393490.0
+Spain,2011,Potatoes,,53549.0,1393490.0
+Spain,2011,Potatoes,,53549.0,1393490.0
+Spain,2011,Potatoes,,53549.0,1393490.0
+Spain,2012,Potatoes,,48668.0,1393490.0
+Spain,2012,Potatoes,,48668.0,1393490.0
+Spain,2012,Potatoes,,48668.0,1393490.0
+Spain,2013,Potatoes,,54197.0,1393490.0
+Spain,2013,Potatoes,,54197.0,1393490.0
+Spain,2013,Potatoes,,54197.0,1393490.0
+Spain,2014,Potatoes,,61067.0,1393490.0
+Spain,2015,Potatoes,,59018.0,1393490.0
+Spain,2016,Potatoes,,61895.0,1393490.0
+Suriname,1961,Sweet potatoes,,,3697.0
+Suriname,1962,Sweet potatoes,,,3697.0
+Suriname,1963,Plantains and others,,,3697.0
+Suriname,1964,Plantains and others,,,3697.0
+Suriname,1965,Plantains and others,,,3697.0
+Suriname,1966,Plantains and others,,,3697.0
+Suriname,1967,Plantains and others,,,3697.0
+Suriname,1968,Plantains and others,,,3697.0
+Suriname,1969,Plantains and others,,,3697.0
+Suriname,1970,Cassava,,,3697.0
+Suriname,1971,Plantains and others,,,3697.0
+Suriname,1972,Plantains and others,,,3697.0
+Suriname,1973,Plantains and others,,,3697.0
+Suriname,1974,Cassava,,,3697.0
+Suriname,1975,Plantains and others,,,3697.0
+Suriname,1976,Plantains and others,,,3697.0
+Suriname,1977,Plantains and others,,,3697.0
+Suriname,1978,Cassava,,,3697.0
+Suriname,1979,Plantains and others,,,3697.0
+Suriname,1980,Cassava,,,3697.0
+Suriname,1981,Plantains and others,,,3697.0
+Suriname,1982,Plantains and others,,,3697.0
+Suriname,1983,Plantains and others,,,3697.0
+Suriname,1984,Plantains and others,,,3697.0
+Suriname,1985,Plantains and others,,,3697.0
+Suriname,1986,Plantains and others,,,3697.0
+Suriname,1987,Plantains and others,,,3697.0
+Suriname,1988,Plantains and others,,,3697.0
+Suriname,1989,Plantains and others,,,3697.0
+Suriname,1990,Plantains and others,,217.0,3697.0
+Suriname,1991,Plantains and others,,207.0,3697.0
+Suriname,1992,Plantains and others,,197.5,3697.0
+Suriname,1993,Plantains and others,,188.0,3697.0
+Suriname,1994,Plantains and others,,178.5,3697.0
+Suriname,1995,Plantains and others,,169.0,3697.0
+Suriname,1996,Plantains and others,,142.0,3697.0
+Suriname,1997,Plantains and others,,139.0,3697.0
+Suriname,1998,Plantains and others,,151.33,3697.0
+Suriname,1999,Plantains and others,,163.67,3697.0
+Suriname,2000,Plantains and others,,176.0,3697.0
+Suriname,2001,Plantains and others,,581.12,3697.0
+Suriname,2002,Plantains and others,,986.25,3697.0
+Suriname,2003,Plantains and others,,1336.52,3697.0
+Suriname,2004,Plantains and others,,1214.83,3697.0
+Suriname,2005,Plantains and others,,1426.37,3697.0
+Suriname,2006,Plantains and others,,1483.84,3697.0
+Suriname,2007,Cassava,,1847.86,3697.0
+Suriname,2008,Plantains and others,,2108.66,3697.0
+Suriname,2009,Plantains and others,,2191.37,3697.0
+Suriname,2010,Plantains and others,,1286.65,3697.0
+Suriname,2011,Plantains and others,,936.24,3697.0
+Suriname,2012,Plantains and others,,633.92,3697.0
+Suriname,2013,Plantains and others,,537.49,3697.0
+Suriname,2014,Plantains and others,,622.53,3697.0
+Suriname,2015,Plantains and others,,982.84,3697.0
+Suriname,2016,Plantains and others,,616.45,3697.0
+Tajikistan,1992,Potatoes,,2280.0,8116.0
+Tajikistan,1993,Potatoes,,2280.0,8116.0
+Tajikistan,1994,Potatoes,,714.0,8116.0
+Tajikistan,1995,Potatoes,,54.0,8116.0
+Tajikistan,1996,Potatoes,,826.0,8116.0
+Tajikistan,1997,Potatoes,,751.31,8116.0
+Tajikistan,1998,Potatoes,,676.63,8116.0
+Tajikistan,1999,Potatoes,,601.94,8116.0
+Tajikistan,2000,Potatoes,,527.25,8116.0
+Tajikistan,2001,Potatoes,,452.56,8116.0
+Tajikistan,2002,Potatoes,,377.88,8116.0
+Tajikistan,2003,Potatoes,,303.19,8116.0
+Tajikistan,2004,Potatoes,,228.5,8116.0
+Tajikistan,2005,Potatoes,,235.4,8116.0
+Tajikistan,2006,Potatoes,,241.9,8116.0
+Tajikistan,2007,Potatoes,,247.9,8116.0
+Tajikistan,2008,Potatoes,,253.5,8116.0
+Tajikistan,2009,Potatoes,,258.1,8116.0
+Tajikistan,2010,Potatoes,,262.1,8116.0
+Tajikistan,2011,Potatoes,,264.6,8116.0
+Tajikistan,2012,Potatoes,,264.6,8116.0
+Tajikistan,2013,Potatoes,,264.6,8116.0
+Tajikistan,2014,Potatoes,,264.6,8116.0
+Tajikistan,2015,Potatoes,,264.6,8116.0
+Tajikistan,2016,Potatoes,,264.6,8116.0
+Thailand,2002,Cassava,,40925.33,543548.0
+Thailand,2003,Cassava,,51221.0,543548.0
+Thailand,2004,Cassava,,88548.0,543548.0
+Thailand,2005,Cassava,,43831.0,543548.0
+Thailand,2006,Cassava,,41220.0,543548.0
+Thailand,2007,Cassava,,66858.0,543548.0
+Thailand,2008,Cassava,,65423.0,543548.0
+Thailand,2009,Cassava,,67933.0,543548.0
+Thailand,2010,Cassava,,68986.0,543548.0
+Thailand,2011,Cassava,,87191.0,543548.0
+Thailand,2012,Cassava,,69921.0,543548.0
+Togo,1961,Cassava,,,5490.0
+Togo,1962,Cassava,,,5490.0
+Togo,1963,Cassava,,,5490.0
+Togo,1964,Cassava,,,5490.0
+Togo,1965,Cassava,,,5490.0
+Togo,1966,Cassava,,,5490.0
+Togo,1967,Cassava,,,5490.0
+Togo,1968,Cassava,,,5490.0
+Togo,1969,Cassava,,,5490.0
+Togo,1970,Cassava,,,5490.0
+Togo,1971,Cassava,,,5490.0
+Togo,1972,Cassava,,,5490.0
+Togo,1973,Cassava,,,5490.0
+Togo,1974,Cassava,,,5490.0
+Togo,1975,Cassava,,,5490.0
+Togo,1976,Cassava,,,5490.0
+Togo,1977,Cassava,,,5490.0
+Togo,1978,Cassava,,,5490.0
+Togo,1979,Cassava,,,5490.0
+Togo,1980,Cassava,,,5490.0
+Togo,1981,Yams,,,5490.0
+Togo,1982,Yams,,,5490.0
+Togo,1983,Yams,,,5490.0
+Togo,1984,Yams,,,5490.0
+Togo,1985,Yams,,,5490.0
+Togo,1986,Yams,,,5490.0
+Togo,1987,Yams,,,5490.0
+Togo,1988,Yams,,,5490.0
+Togo,1989,Yams,,,5490.0
+Togo,1990,Yams,,324.0,5490.0
+Togo,1991,Yams,,213.0,5490.0
+Togo,1992,Yams,,192.0,5490.0
+Togo,1993,Yams,,206.0,5490.0
+Togo,1994,Yams,,203.0,5490.0
+Togo,1995,Yams,,198.0,5490.0
+Togo,1996,Yams,,197.0,5490.0
+Togo,1997,Yams,,228.07,5490.0
+Togo,1998,Yams,,259.13,5490.0
+Togo,1999,Yams,,290.2,5490.0
+Togo,2000,Yams,,321.27,5490.0
+Togo,2001,Yams,,352.34,5490.0
+Togo,2002,Yams,,383.4,5490.0
+Togo,2003,Yams,,414.47,5490.0
+Togo,2004,Yams,,584.76,5490.0
+Togo,2005,Yams,,203.09,5490.0
+Togo,2006,Yams,,268.78,5490.0
+Togo,2007,Yams,,262.45,5490.0
+Togo,2008,Yams,,229.94,5490.0
+Togo,2009,Yams,,172.19,5490.0
+Togo,2010,Yams,,242.01,5490.0
+Togo,2011,Yams,,145.74,5490.0
+Togo,2012,Yams,,341.43,5490.0
+Togo,2013,Yams,,371.9,5490.0
+Togo,2014,Yams,,812.89,5490.0
+Togo,2015,Yams,,1117.98,5490.0
+Togo,2016,Yams,,1292.85,5490.0
+Tonga,1961,Sweet potatoes,,,512.0
+Tonga,1962,Plantains and others,,,512.0
+Tonga,1963,Plantains and others,,,512.0
+Tonga,1964,Yams,,,512.0
+Tonga,1965,Plantains and others,,,512.0
+Tonga,1966,Plantains and others,,,512.0
+Tonga,1967,Plantains and others,,,512.0
+Tonga,1968,Plantains and others,,,512.0
+Tonga,1969,Plantains and others,,,512.0
+Tonga,1970,Plantains and others,,,512.0
+Tonga,1971,Plantains and others,,,512.0
+Tonga,1972,Plantains and others,,,512.0
+Tonga,1973,Plantains and others,,,512.0
+Tonga,1974,Plantains and others,,,512.0
+Tonga,1975,Yams,,,512.0
+Tonga,1976,Plantains and others,,,512.0
+Tonga,1977,Plantains and others,,,512.0
+Tonga,1978,Yams,,,512.0
+Tonga,1979,Plantains and others,,,512.0
+Tonga,1980,Plantains and others,,,512.0
+Tonga,1981,Yams,,,512.0
+Tonga,1982,Yams,,,512.0
+Tonga,1983,Yams,,,512.0
+Tonga,1984,Plantains and others,,,512.0
+Tonga,1985,Plantains and others,,,512.0
+Tonga,1986,Plantains and others,,,512.0
+Tonga,1987,Yams,,,512.0
+Tonga,1988,Yams,,,512.0
+Tonga,1989,Yams,,,512.0
+Tonga,1990,Yams,,11.21,512.0
+Tonga,1991,Cassava,,11.21,512.0
+Tonga,1992,Cassava,,11.21,512.0
+Tonga,1993,Cassava,,11.21,512.0
+Tonga,1994,Yams,,11.21,512.0
+Tonga,1995,Yams,,11.21,512.0
+Tonga,1996,Yams,,11.21,512.0
+Tonga,1997,Yams,,11.21,512.0
+Tonga,1998,Yams,,11.21,512.0
+Tonga,1999,Yams,,11.21,512.0
+Tonga,2000,Yams,,11.21,512.0
+Tonga,2001,Cassava,,11.21,512.0
+Tonga,2002,Yams,,11.21,512.0
+Tonga,2003,Yams,,11.21,512.0
+Tonga,2004,Yams,,11.21,512.0
+Tonga,2005,Yams,,11.21,512.0
+Tonga,2006,Yams,,11.21,512.0
+Tonga,2007,Yams,,11.21,512.0
+Tonga,2008,Yams,,11.21,512.0
+Tonga,2009,Yams,,11.21,512.0
+Tonga,2010,Cassava,,11.21,512.0
+Tonga,2011,Cassava,,11.21,512.0
+Tonga,2012,Cassava,,11.21,512.0
+Tonga,2013,Cassava,,11.21,512.0
+Tonga,2014,Cassava,,15.09,512.0
+Tonga,2015,Cassava,,15.09,512.0
+Tonga,2016,Cassava,,15.09,512.0
+Turkey,1997,Potatoes,,34431.0,761425.0
+Turkey,1997,Potatoes,,34431.0,761425.0
+Turkey,1997,Potatoes,,34431.0,761425.0
+Turkey,1997,Potatoes,,34431.0,761425.0
+Turkey,1997,Potatoes,,34431.0,761425.0
+Turkey,2005,Potatoes,,40332.0,761425.0
+Turkey,2005,Potatoes,,40332.0,761425.0
+Turkey,2005,Potatoes,,40332.0,761425.0
+Turkey,2005,Potatoes,,40332.0,761425.0
+Turkey,2005,Potatoes,,40332.0,761425.0
+Turkey,2007,Potatoes,,48715.51,761425.0
+Turkey,2007,Potatoes,,48715.51,761425.0
+Turkey,2007,Potatoes,,48715.51,761425.0
+Turkey,2007,Potatoes,,48715.51,761425.0
+Turkey,2007,Potatoes,,48715.51,761425.0
+Turkey,2008,Potatoes,,37640.2,761425.0
+Turkey,2008,Potatoes,,37640.2,761425.0
+Turkey,2008,Potatoes,,37640.2,761425.0
+Turkey,2008,Potatoes,,37640.2,761425.0
+Turkey,2008,Potatoes,,37640.2,761425.0
+Turkey,2009,Potatoes,,37651.15,761425.0
+Turkey,2009,Potatoes,,37651.15,761425.0
+Turkey,2009,Potatoes,,37651.15,761425.0
+Turkey,2009,Potatoes,,37651.15,761425.0
+Turkey,2009,Potatoes,,37651.15,761425.0
+Turkey,2010,Potatoes,,38554.69,761425.0
+Turkey,2010,Potatoes,,38554.69,761425.0
+Turkey,2010,Potatoes,,38554.69,761425.0
+Turkey,2010,Potatoes,,38554.69,761425.0
+Turkey,2010,Potatoes,,38554.69,761425.0
+Turkey,2011,Potatoes,,39534.43,761425.0
+Turkey,2011,Potatoes,,39534.43,761425.0
+Turkey,2011,Potatoes,,39534.43,761425.0
+Turkey,2011,Potatoes,,39534.43,761425.0
+Turkey,2011,Potatoes,,39534.43,761425.0
+Turkey,2012,Potatoes,,42610.59,761425.0
+Turkey,2012,Potatoes,,42610.59,761425.0
+Turkey,2012,Potatoes,,42610.59,761425.0
+Turkey,2012,Potatoes,,42610.59,761425.0
+Turkey,2012,Potatoes,,42610.59,761425.0
+Turkey,2013,Potatoes,,39440.0,761425.0
+Turkey,2013,Potatoes,,39440.0,761425.0
+Turkey,2013,Potatoes,,39440.0,761425.0
+Turkey,2013,Potatoes,,39440.0,761425.0
+Turkey,2013,Potatoes,,39440.0,761425.0
+Turkey,2014,Potatoes,,39722.72,761425.0
+Turkey,2015,Potatoes,,39026.0,761425.0
+Turkey,2016,Potatoes,,50054.0,761425.0
+USSR,1990,Potatoes,,86200.0,
+USSR,1991,Potatoes,,92200.0,
+Ukraine,1992,Potatoes,,66772.0,153781.0
+Ukraine,1993,Potatoes,,61843.46,153781.0
+Ukraine,1994,Potatoes,,56914.93,153781.0
+Ukraine,1995,Potatoes,,51986.39,153781.0
+Ukraine,1996,Potatoes,,47057.85,153781.0
+Ukraine,1997,Potatoes,,42129.32,153781.0
+Ukraine,1998,Potatoes,,37200.78,153781.0
+Ukraine,2007,Potatoes,,36476.0,153781.0
+Ukraine,2008,Potatoes,,54080.5,153781.0
+Ukraine,2009,Potatoes,,36444.7,153781.0
+Ukraine,2010,Potatoes,,62534.6,153781.0
+Ukraine,2011,Potatoes,,79491.7,153781.0
+Ukraine,2012,Potatoes,,90814.8,153781.0
+Ukraine,2013,Potatoes,,86781.8,153781.0
+Ukraine,2014,Potatoes,,78201.0,153781.0
+Ukraine,2015,Potatoes,,78201.0,153781.0
+Ukraine,2016,Potatoes,,78201.0,153781.0
+United Kingdom,1996,Potatoes,,35579.0,2829108.0
+United Kingdom,1996,Potatoes,,35579.0,2829108.0
+United Kingdom,1996,Potatoes,,35579.0,2829108.0
+United Kingdom,1996,Potatoes,,35579.0,2829108.0
+United Kingdom,1996,Potatoes,,35579.0,2829108.0
+United Kingdom,1997,Potatoes,,35490.0,2829108.0
+United Kingdom,1997,Potatoes,,35490.0,2829108.0
+United Kingdom,1997,Potatoes,,35490.0,2829108.0
+United Kingdom,1997,Potatoes,,35490.0,2829108.0
+United Kingdom,1997,Potatoes,,35490.0,2829108.0
+United Kingdom,1998,Potatoes,,35422.0,2829108.0
+United Kingdom,1998,Potatoes,,35422.0,2829108.0
+United Kingdom,1998,Potatoes,,35422.0,2829108.0
+United Kingdom,1998,Potatoes,,35422.0,2829108.0
+United Kingdom,1998,Potatoes,,35422.0,2829108.0
+United Kingdom,1999,Potatoes,,35537.0,2829108.0
+United Kingdom,1999,Potatoes,,35537.0,2829108.0
+United Kingdom,1999,Potatoes,,35537.0,2829108.0
+United Kingdom,1999,Potatoes,,35537.0,2829108.0
+United Kingdom,1999,Potatoes,,35537.0,2829108.0
+United States of America,1990,Potatoes,,400975.93,21433226.0
+United States of America,1991,Potatoes,,384646.39,21433226.0
+United States of America,1992,Potatoes,,400975.9,21433226.0
+United States of America,1993,Potatoes,,391903.86,21433226.0
+United States of America,1994,Potatoes,,425922.68,21433226.0
+United States of America,1995,Potatoes,,423201.53,21433226.0
+United States of America,1996,Potatoes,,433180.36,21433226.0
+United States of America,1997,Potatoes,,434540.76,21433226.0
+United States of America,1998,Potatoes,,424562.11,21433226.0
+United States of America,1999,Potatoes,,433633.96,21433226.0
+United States of America,2000,Potatoes,,430005.21,21433226.0
+United States of America,2001,Potatoes,,411407.94,21433226.0
+United States of America,2002,Potatoes,,416851.04,21433226.0
+United States of America,2003,Potatoes,,417758.24,21433226.0
+United States of America,2004,Potatoes,,425015.71,21433226.0
+United States of America,2005,Potatoes,,388275.15,21433226.0
+United States of America,2006,Potatoes,,392810.67,21433226.0
+United States of America,2007,Potatoes,,400068.14,21433226.0
+United States of America,2008,Potatoes,,379202.92,21433226.0
+United States of America,2009,Potatoes,,358337.7,21433226.0
+United States of America,2010,Potatoes,,374818.2,21433226.0
+United States of America,2011,Potatoes,,391298.7,21433226.0
+United States of America,2012,Potatoes,,407779.2,21433226.0
+United States of America,2013,Potatoes,,407779.2,21433226.0
+United States of America,2014,Potatoes,,407779.2,21433226.0
+United States of America,2015,Potatoes,,407779.2,21433226.0
+United States of America,2016,Potatoes,,407779.2,21433226.0
+Vanuatu,1961,Maize,,,934.0
+Vanuatu,1962,Maize,,,934.0
+Vanuatu,1963,Maize,,,934.0
+Vanuatu,1964,Maize,,,934.0
+Vanuatu,1965,Maize,,,934.0
+Vanuatu,1966,Maize,,,934.0
+Vanuatu,1967,Maize,,,934.0
+Vanuatu,1968,Maize,,,934.0
+Vanuatu,1969,Maize,,,934.0
+Vanuatu,1970,Maize,,,934.0
+Vanuatu,1971,Maize,,,934.0
+Vanuatu,1972,Maize,,,934.0
+Vanuatu,1973,Maize,,,934.0
+Vanuatu,1974,Maize,,,934.0
+Vanuatu,1975,Maize,,,934.0
+Vanuatu,1976,Maize,,,934.0
+Vanuatu,1977,Maize,,,934.0
+Vanuatu,1978,Maize,,,934.0
+Vanuatu,1979,Maize,,,934.0
+Vanuatu,1980,Maize,,,934.0
+Vanuatu,1981,Maize,,,934.0
+Vanuatu,1982,Maize,,,934.0
+Vanuatu,1983,Maize,,,934.0
+Vanuatu,1984,Maize,,,934.0
+Vanuatu,1985,Maize,,,934.0
+Vanuatu,1986,Maize,,,934.0
+Vanuatu,1987,Maize,,,934.0
+Vanuatu,1988,Maize,,,934.0
+Vanuatu,1989,Maize,,,934.0
+Vanuatu,1990,Maize,,147.0,934.0
+Vanuatu,1991,Maize,,222.0,934.0
+Vanuatu,1992,Maize,,198.0,934.0
+Vanuatu,1993,Maize,,131.0,934.0
+Vanuatu,1994,Maize,,131.0,934.0
+Vanuatu,1995,Maize,,131.0,934.0
+Vanuatu,1996,Maize,,131.0,934.0
+Vanuatu,1997,Maize,,131.0,934.0
+Vanuatu,1998,Maize,,131.0,934.0
+Vanuatu,1999,Maize,,131.0,934.0
+Vanuatu,2000,Maize,,131.0,934.0
+Vanuatu,2001,Maize,,131.0,934.0
+Vanuatu,2002,Maize,,131.0,934.0
+Vanuatu,2003,Maize,,131.0,934.0
+Vanuatu,2004,Maize,,131.0,934.0
+Vanuatu,2005,Maize,,131.0,934.0
+Vanuatu,2006,Maize,,131.0,934.0
+Vanuatu,2007,Maize,,131.0,934.0
+Vanuatu,2008,Maize,,131.0,934.0
+Vanuatu,2009,Maize,,131.0,934.0
+Vanuatu,2010,Maize,,131.0,934.0
+Vanuatu,2011,Maize,,131.0,934.0
+Vanuatu,2012,Maize,,131.0,934.0
+Vanuatu,2013,Maize,,131.0,934.0
+Vanuatu,2014,Maize,,131.0,934.0
+Vanuatu,2015,Maize,,131.0,934.0
+Vanuatu,2016,Maize,,131.0,934.0

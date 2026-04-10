@@ -1,0 +1,2975 @@
+country_clean,Year,top_crop,climate_plausible_crops,pesticide_value
+Algeria,2008,Potatoes,,11556.12
+Algeria,2011,Potatoes,,13861.76
+Algeria,2012,Potatoes,,17379.76
+Algeria,2013,Potatoes,,17278.65
+Algeria,2014,Potatoes,,14258.22
+Algeria,2015,Potatoes,,14258.22
+Algeria,2016,Potatoes,,14258.22
+Argentina,1990,Potatoes,,26156.0
+Argentina,1990,Potatoes,,26156.0
+Argentina,1991,Potatoes,,26156.0
+Argentina,1991,Potatoes,,26156.0
+Argentina,1992,Potatoes,,26156.0
+Argentina,1992,Potatoes,,26156.0
+Argentina,1993,Potatoes,,26156.0
+Argentina,1993,Potatoes,,26156.0
+Argentina,1994,Potatoes,,30195.0
+Argentina,1994,Potatoes,,30195.0
+Argentina,1995,Potatoes,,37842.0
+Argentina,1995,Potatoes,,37842.0
+Argentina,1996,Potatoes,,54595.0
+Argentina,1996,Potatoes,,54595.0
+Argentina,1997,Potatoes,,77691.0
+Argentina,1997,Potatoes,,77691.0
+Argentina,1998,Potatoes,,62397.0
+Argentina,1998,Potatoes,,62397.0
+Argentina,1999,Potatoes,,62831.39
+Argentina,1999,Potatoes,,62831.39
+Argentina,2000,Potatoes,,63265.78
+Argentina,2000,Potatoes,,63265.78
+Argentina,2001,Potatoes,,63700.17
+Argentina,2001,Potatoes,,63700.17
+Argentina,2002,Potatoes,,64134.56
+Argentina,2002,Potatoes,,64134.56
+Argentina,2003,Potatoes,,64568.95
+Argentina,2003,Potatoes,,64568.95
+Argentina,2004,Potatoes,,65003.34
+Argentina,2004,Potatoes,,65003.34
+Argentina,2005,Potatoes,,65437.73
+Argentina,2005,Potatoes,,65437.73
+Argentina,2006,Potatoes,,65872.12
+Argentina,2006,Potatoes,,65872.12
+Argentina,2007,Potatoes,,81582.64
+Argentina,2007,Potatoes,,81582.64
+Argentina,2008,Potatoes,,87149.01
+Argentina,2008,Potatoes,,87149.01
+Argentina,2009,Potatoes,,61586.56
+Argentina,2009,Potatoes,,61586.56
+Argentina,2010,Potatoes,,105915.04
+Argentina,2010,Potatoes,,105915.04
+Argentina,2011,Potatoes,,100424.62
+Argentina,2011,Potatoes,,100424.62
+Argentina,2012,Potatoes,,136185.08
+Argentina,2012,Potatoes,,136185.08
+Argentina,2013,Potatoes,,171945.54
+Argentina,2013,Potatoes,,171945.54
+Argentina,2014,Potatoes,,207706.0
+Argentina,2015,Potatoes,,207706.0
+Argentina,2016,Potatoes,,207706.0
+Australia,1990,Potatoes,,17866.0
+Australia,1990,Potatoes,,17866.0
+Australia,1990,Potatoes,,17866.0
+Australia,1990,Potatoes,,17866.0
+Australia,1990,Potatoes,,17866.0
+Australia,1990,Potatoes,,17866.0
+Australia,1991,Potatoes,,17866.0
+Australia,1991,Potatoes,,17866.0
+Australia,1991,Potatoes,,17866.0
+Australia,1991,Potatoes,,17866.0
+Australia,1991,Potatoes,,17866.0
+Australia,1991,Potatoes,,17866.0
+Australia,1992,Potatoes,,22234.0
+Australia,1992,Potatoes,,22234.0
+Australia,1992,Potatoes,,22234.0
+Australia,1992,Potatoes,,22234.0
+Australia,1992,Potatoes,,22234.0
+Australia,1992,Potatoes,,22234.0
+Australia,1993,Potatoes,,23899.0
+Australia,1993,Potatoes,,23899.0
+Australia,1993,Potatoes,,23899.0
+Australia,1993,Potatoes,,23899.0
+Australia,1993,Potatoes,,23899.0
+Australia,1993,Potatoes,,23899.0
+Australia,1994,Potatoes,,21057.0
+Australia,1994,Potatoes,,21057.0
+Australia,1994,Potatoes,,21057.0
+Australia,1994,Potatoes,,21057.0
+Australia,1994,Potatoes,,21057.0
+Australia,1994,Potatoes,,21057.0
+Australia,1995,Potatoes,,25598.0
+Australia,1995,Potatoes,,25598.0
+Australia,1995,Potatoes,,25598.0
+Australia,1995,Potatoes,,25598.0
+Australia,1995,Potatoes,,25598.0
+Australia,1995,Potatoes,,25598.0
+Australia,1996,Potatoes,,31185.0
+Australia,1996,Potatoes,,31185.0
+Australia,1996,Potatoes,,31185.0
+Australia,1996,Potatoes,,31185.0
+Australia,1996,Potatoes,,31185.0
+Australia,1996,Potatoes,,31185.0
+Australia,1997,Potatoes,,34091.0
+Australia,1997,Potatoes,,34091.0
+Australia,1997,Potatoes,,34091.0
+Australia,1997,Potatoes,,34091.0
+Australia,1997,Potatoes,,34091.0
+Australia,1997,Potatoes,,34091.0
+Australia,1998,Potatoes,,37215.0
+Australia,1998,Potatoes,,37215.0
+Australia,1998,Potatoes,,37215.0
+Australia,1998,Potatoes,,37215.0
+Australia,1998,Potatoes,,37215.0
+Australia,1998,Potatoes,,37215.0
+Australia,1999,Potatoes,,34200.0
+Australia,1999,Potatoes,,34200.0
+Australia,1999,Potatoes,,34200.0
+Australia,1999,Potatoes,,34200.0
+Australia,1999,Potatoes,,34200.0
+Australia,1999,Potatoes,,34200.0
+Australia,2000,Sweet potatoes,,33475.0
+Australia,2000,Sweet potatoes,,33475.0
+Australia,2000,Sweet potatoes,,33475.0
+Australia,2000,Sweet potatoes,,33475.0
+Australia,2000,Sweet potatoes,,33475.0
+Australia,2000,Sweet potatoes,,33475.0
+Australia,2001,Sweet potatoes,,32710.0
+Australia,2001,Sweet potatoes,,32710.0
+Australia,2001,Sweet potatoes,,32710.0
+Australia,2001,Sweet potatoes,,32710.0
+Australia,2001,Sweet potatoes,,32710.0
+Australia,2001,Sweet potatoes,,32710.0
+Australia,2002,Potatoes,,26651.0
+Australia,2002,Potatoes,,26651.0
+Australia,2002,Potatoes,,26651.0
+Australia,2002,Potatoes,,26651.0
+Australia,2002,Potatoes,,26651.0
+Australia,2002,Potatoes,,26651.0
+Australia,2003,Potatoes,,32418.0
+Australia,2003,Potatoes,,32418.0
+Australia,2003,Potatoes,,32418.0
+Australia,2003,Potatoes,,32418.0
+Australia,2003,Potatoes,,32418.0
+Australia,2003,Potatoes,,32418.0
+Australia,2004,Potatoes,,36276.0
+Australia,2004,Potatoes,,36276.0
+Australia,2004,Potatoes,,36276.0
+Australia,2004,Potatoes,,36276.0
+Australia,2004,Potatoes,,36276.0
+Australia,2004,Potatoes,,36276.0
+Australia,2005,Potatoes,,34310.0
+Australia,2005,Potatoes,,34310.0
+Australia,2005,Potatoes,,34310.0
+Australia,2005,Potatoes,,34310.0
+Australia,2005,Potatoes,,34310.0
+Australia,2005,Potatoes,,34310.0
+Australia,2006,Potatoes,,35900.0
+Australia,2006,Potatoes,,35900.0
+Australia,2006,Potatoes,,35900.0
+Australia,2006,Potatoes,,35900.0
+Australia,2006,Potatoes,,35900.0
+Australia,2006,Potatoes,,35900.0
+Australia,2007,Potatoes,,32446.25
+Australia,2007,Potatoes,,32446.25
+Australia,2007,Potatoes,,32446.25
+Australia,2007,Potatoes,,32446.25
+Australia,2007,Potatoes,,32446.25
+Australia,2007,Potatoes,,32446.25
+Australia,2008,Potatoes,,42935.38
+Australia,2008,Potatoes,,42935.38
+Australia,2008,Potatoes,,42935.38
+Australia,2008,Potatoes,,42935.38
+Australia,2008,Potatoes,,42935.38
+Australia,2008,Potatoes,,42935.38
+Australia,2009,Potatoes,,38065.68
+Australia,2009,Potatoes,,38065.68
+Australia,2009,Potatoes,,38065.68
+Australia,2009,Potatoes,,38065.68
+Australia,2009,Potatoes,,38065.68
+Australia,2009,Potatoes,,38065.68
+Australia,2010,Potatoes,,42169.39
+Australia,2010,Potatoes,,42169.39
+Australia,2010,Potatoes,,42169.39
+Australia,2010,Potatoes,,42169.39
+Australia,2010,Potatoes,,42169.39
+Australia,2010,Potatoes,,42169.39
+Australia,2011,Potatoes,,47632.99
+Australia,2011,Potatoes,,47632.99
+Australia,2011,Potatoes,,47632.99
+Australia,2011,Potatoes,,47632.99
+Australia,2011,Potatoes,,47632.99
+Australia,2011,Potatoes,,47632.99
+Australia,2012,Potatoes,,48687.88
+Australia,2012,Potatoes,,48687.88
+Australia,2012,Potatoes,,48687.88
+Australia,2012,Potatoes,,48687.88
+Australia,2012,Potatoes,,48687.88
+Australia,2012,Potatoes,,48687.88
+Australia,2013,Potatoes,,45177.18
+Australia,2013,Potatoes,,45177.18
+Australia,2013,Potatoes,,45177.18
+Australia,2013,Potatoes,,45177.18
+Australia,2013,Potatoes,,45177.18
+Australia,2013,Potatoes,,45177.18
+Australia,2014,Potatoes,,49857.36
+Australia,2015,Potatoes,,50921.6
+Australia,2016,Potatoes,,50921.6
+Bangladesh,2006,Potatoes,,9074.43
+Bangladesh,2006,Potatoes,,9074.43
+Bangladesh,2007,Potatoes,,10962.31
+Bangladesh,2007,Potatoes,,10962.31
+Bangladesh,2008,Potatoes,,12936.5
+Bangladesh,2008,Potatoes,,12936.5
+Bangladesh,2009,Potatoes,,13790.09
+Bangladesh,2009,Potatoes,,13790.09
+Bangladesh,2010,Potatoes,,13283.72
+Bangladesh,2010,Potatoes,,13283.72
+Bangladesh,2011,Potatoes,,14798.28
+Bangladesh,2011,Potatoes,,14798.28
+Bangladesh,2012,Potatoes,,13289.18
+Bangladesh,2012,Potatoes,,13289.18
+Bangladesh,2013,Potatoes,,15330.16
+Bangladesh,2013,Potatoes,,15330.16
+Bangladesh,2014,Potatoes,,15857.26
+Bangladesh,2015,Potatoes,,13364.42
+Bangladesh,2016,Potatoes,,14387.63
+Belarus,1992,Potatoes,,8306.31
+Belarus,1993,Potatoes,,8306.31
+Belarus,1994,Potatoes,,8306.31
+Belarus,1995,Potatoes,,8306.31
+Belarus,1996,Potatoes,,8306.31
+Belarus,1997,Potatoes,,8306.31
+Belarus,1998,Potatoes,,8306.31
+Belarus,1999,Potatoes,,8306.31
+Belarus,2000,Potatoes,,8306.31
+Belarus,2001,Potatoes,,8306.31
+Belarus,2002,Potatoes,,8306.31
+Belarus,2003,Potatoes,,8306.31
+Belarus,2004,Potatoes,,8306.31
+Belarus,2005,Potatoes,,8306.31
+Belarus,2006,Potatoes,,8306.31
+Belarus,2007,Potatoes,,8306.31
+Belarus,2008,Potatoes,,8306.31
+Belarus,2009,Potatoes,,8306.31
+Belarus,2010,Potatoes,,8306.31
+Belarus,2011,Potatoes,,8306.31
+Belarus,2012,Potatoes,,9578.67
+Belarus,2013,Potatoes,,9163.51
+Belarus,2014,Potatoes,,8154.96
+Belgium,2000,Potatoes,,9560.49
+Belgium,2001,Potatoes,,8529.07
+Belgium,2002,Potatoes,,9204.0
+Belgium,2003,Potatoes,,8822.0
+Belgium,2004,Potatoes,,9186.0
+Belgium,2005,Potatoes,,9776.0
+Belgium,2006,Potatoes,,8244.02
+Belgium-Luxembourg,1990,Potatoes,,9074.21
+Belgium-Luxembourg,1991,Potatoes,,9074.21
+Belgium-Luxembourg,1992,Potatoes,,9074.21
+Belgium-Luxembourg,1993,Potatoes,,9074.21
+Belgium-Luxembourg,1994,Potatoes,,8449.91
+Belgium-Luxembourg,1995,Potatoes,,9007.08
+Belgium-Luxembourg,1996,Potatoes,,8742.92
+Belgium-Luxembourg,1997,Potatoes,,8306.6
+Belgium-Luxembourg,1998,Potatoes,,9095.89
+Belgium-Luxembourg,1999,Potatoes,,8829.62
+Bolivia (Plurinational State of),2003,Plantains and others,,8480.91
+Bolivia (Plurinational State of),2004,Plantains and others,,11189.49
+Bolivia (Plurinational State of),2005,Plantains and others,,12459.81
+Bolivia (Plurinational State of),2006,Plantains and others,,13224.77
+Bolivia (Plurinational State of),2007,Plantains and others,,14695.44
+Bolivia (Plurinational State of),2008,Plantains and others,,15203.65
+Bolivia (Plurinational State of),2009,Plantains and others,,17921.81
+Bolivia (Plurinational State of),2010,Plantains and others,,19611.14
+Bolivia (Plurinational State of),2011,Plantains and others,,21144.2
+Bolivia (Plurinational State of),2012,Plantains and others,,24075.02
+Bolivia (Plurinational State of),2013,Plantains and others,,28999.99
+Bolivia (Plurinational State of),2014,Plantains and others,,26581.05
+Bolivia (Plurinational State of),2015,Plantains and others,,25278.54
+Bolivia (Plurinational State of),2016,Plantains and others,,25872.29
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1990,Potatoes,,49695.0
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1991,Potatoes,,58349.44
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1992,Potatoes,,67003.89
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1993,Potatoes,,75658.33
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1994,Potatoes,,84312.78
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1995,Potatoes,,92967.22
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1996,Potatoes,,101621.67
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1997,Potatoes,,110276.11
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1998,Potatoes,,118930.56
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,1999,Potatoes,,127585.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2000,Potatoes,,140423.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2001,Potatoes,,151523.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2002,Potatoes,,145552.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2003,Potatoes,,182446.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2004,Potatoes,,214725.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2005,Potatoes,,232232.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2006,Potatoes,,238716.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2007,Potatoes,,304031.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2008,Potatoes,,312637.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2009,Potatoes,,335742.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2010,Potatoes,,342580.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2011,Potatoes,,345026.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2012,Potatoes,,346583.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2013,Potatoes,,367778.0
+Brazil,2014,Potatoes,,352336.0
+Brazil,2015,Potatoes,,395646.0
+Brazil,2016,Potatoes,,377176.0
+Canada,1990,Potatoes,,29568.0
+Canada,1990,Potatoes,,29568.0
+Canada,1990,Potatoes,,29568.0
+Canada,1990,Potatoes,,29568.0
+Canada,1990,Potatoes,,29568.0
+Canada,1990,Potatoes,,29568.0
+Canada,1991,Potatoes,,29477.5
+Canada,1991,Potatoes,,29477.5
+Canada,1991,Potatoes,,29477.5
+Canada,1991,Potatoes,,29477.5
+Canada,1991,Potatoes,,29477.5
+Canada,1991,Potatoes,,29477.5
+Canada,1992,Potatoes,,29387.0
+Canada,1992,Potatoes,,29387.0
+Canada,1992,Potatoes,,29387.0
+Canada,1992,Potatoes,,29387.0
+Canada,1992,Potatoes,,29387.0
+Canada,1992,Potatoes,,29387.0
+Canada,1993,Potatoes,,29296.5
+Canada,1993,Potatoes,,29296.5
+Canada,1993,Potatoes,,29296.5
+Canada,1993,Potatoes,,29296.5
+Canada,1993,Potatoes,,29296.5
+Canada,1993,Potatoes,,29296.5
+Canada,1994,Potatoes,,29206.0
+Canada,1994,Potatoes,,29206.0
+Canada,1994,Potatoes,,29206.0
+Canada,1994,Potatoes,,29206.0
+Canada,1994,Potatoes,,29206.0
+Canada,1994,Potatoes,,29206.0
+Canada,1995,Potatoes,,32223.4
+Canada,1995,Potatoes,,32223.4
+Canada,1995,Potatoes,,32223.4
+Canada,1995,Potatoes,,32223.4
+Canada,1995,Potatoes,,32223.4
+Canada,1995,Potatoes,,32223.4
+Canada,1996,Potatoes,,35240.8
+Canada,1996,Potatoes,,35240.8
+Canada,1996,Potatoes,,35240.8
+Canada,1996,Potatoes,,35240.8
+Canada,1996,Potatoes,,35240.8
+Canada,1996,Potatoes,,35240.8
+Canada,1997,Potatoes,,38258.2
+Canada,1997,Potatoes,,38258.2
+Canada,1997,Potatoes,,38258.2
+Canada,1997,Potatoes,,38258.2
+Canada,1997,Potatoes,,38258.2
+Canada,1997,Potatoes,,38258.2
+Canada,1998,Potatoes,,41275.6
+Canada,1998,Potatoes,,41275.6
+Canada,1998,Potatoes,,41275.6
+Canada,1998,Potatoes,,41275.6
+Canada,1998,Potatoes,,41275.6
+Canada,1998,Potatoes,,41275.6
+Canada,1999,Potatoes,,44293.0
+Canada,1999,Potatoes,,44293.0
+Canada,1999,Potatoes,,44293.0
+Canada,1999,Potatoes,,44293.0
+Canada,1999,Potatoes,,44293.0
+Canada,1999,Potatoes,,44293.0
+Canada,2000,Potatoes,,39667.0
+Canada,2000,Potatoes,,39667.0
+Canada,2000,Potatoes,,39667.0
+Canada,2000,Potatoes,,39667.0
+Canada,2000,Potatoes,,39667.0
+Canada,2000,Potatoes,,39667.0
+Canada,2001,Potatoes,,38456.0
+Canada,2001,Potatoes,,38456.0
+Canada,2001,Potatoes,,38456.0
+Canada,2001,Potatoes,,38456.0
+Canada,2001,Potatoes,,38456.0
+Canada,2001,Potatoes,,38456.0
+Canada,2002,Potatoes,,34226.0
+Canada,2002,Potatoes,,34226.0
+Canada,2002,Potatoes,,34226.0
+Canada,2002,Potatoes,,34226.0
+Canada,2002,Potatoes,,34226.0
+Canada,2002,Potatoes,,34226.0
+Canada,2003,Potatoes,,35596.0
+Canada,2003,Potatoes,,35596.0
+Canada,2003,Potatoes,,35596.0
+Canada,2003,Potatoes,,35596.0
+Canada,2003,Potatoes,,35596.0
+Canada,2003,Potatoes,,35596.0
+Canada,2004,Potatoes,,36138.0
+Canada,2004,Potatoes,,36138.0
+Canada,2004,Potatoes,,36138.0
+Canada,2004,Potatoes,,36138.0
+Canada,2004,Potatoes,,36138.0
+Canada,2004,Potatoes,,36138.0
+Canada,2005,Potatoes,,36363.0
+Canada,2005,Potatoes,,36363.0
+Canada,2005,Potatoes,,36363.0
+Canada,2005,Potatoes,,36363.0
+Canada,2005,Potatoes,,36363.0
+Canada,2005,Potatoes,,36363.0
+Canada,2006,Potatoes,,36572.75
+Canada,2006,Potatoes,,36572.75
+Canada,2006,Potatoes,,36572.75
+Canada,2006,Potatoes,,36572.75
+Canada,2006,Potatoes,,36572.75
+Canada,2006,Potatoes,,36572.75
+Canada,2007,Potatoes,,45140.03
+Canada,2007,Potatoes,,45140.03
+Canada,2007,Potatoes,,45140.03
+Canada,2007,Potatoes,,45140.03
+Canada,2007,Potatoes,,45140.03
+Canada,2007,Potatoes,,45140.03
+Canada,2008,Potatoes,,53707.3
+Canada,2008,Potatoes,,53707.3
+Canada,2008,Potatoes,,53707.3
+Canada,2008,Potatoes,,53707.3
+Canada,2008,Potatoes,,53707.3
+Canada,2008,Potatoes,,53707.3
+Canada,2009,Potatoes,,54529.4
+Canada,2009,Potatoes,,54529.4
+Canada,2009,Potatoes,,54529.4
+Canada,2009,Potatoes,,54529.4
+Canada,2009,Potatoes,,54529.4
+Canada,2009,Potatoes,,54529.4
+Canada,2010,Potatoes,,61050.0
+Canada,2010,Potatoes,,61050.0
+Canada,2010,Potatoes,,61050.0
+Canada,2010,Potatoes,,61050.0
+Canada,2010,Potatoes,,61050.0
+Canada,2010,Potatoes,,61050.0
+Canada,2011,Potatoes,,62107.2
+Canada,2011,Potatoes,,62107.2
+Canada,2011,Potatoes,,62107.2
+Canada,2011,Potatoes,,62107.2
+Canada,2011,Potatoes,,62107.2
+Canada,2011,Potatoes,,62107.2
+Canada,2012,Potatoes,,73508.9
+Canada,2012,Potatoes,,73508.9
+Canada,2012,Potatoes,,73508.9
+Canada,2012,Potatoes,,73508.9
+Canada,2012,Potatoes,,73508.9
+Canada,2012,Potatoes,,73508.9
+Canada,2013,Potatoes,,81659.8
+Canada,2013,Potatoes,,81659.8
+Canada,2013,Potatoes,,81659.8
+Canada,2013,Potatoes,,81659.8
+Canada,2013,Potatoes,,81659.8
+Canada,2013,Potatoes,,81659.8
+Canada,2014,Potatoes,,76314.0
+Canada,2015,Potatoes,,75318.3
+Canada,2016,Potatoes,,75318.3
+Chile,1990,Potatoes,,15373.0
+Chile,1990,Potatoes,,15373.0
+Chile,1991,Potatoes,,15373.0
+Chile,1991,Potatoes,,15373.0
+Chile,1992,Potatoes,,15373.0
+Chile,1992,Potatoes,,15373.0
+Chile,1993,Potatoes,,15373.0
+Chile,1993,Potatoes,,15373.0
+Chile,1994,Potatoes,,15373.0
+Chile,1994,Potatoes,,15373.0
+Chile,1995,Potatoes,,15373.0
+Chile,1995,Potatoes,,15373.0
+Chile,1996,Potatoes,,15373.0
+Chile,1996,Potatoes,,15373.0
+Chile,1997,Potatoes,,15373.0
+Chile,1997,Potatoes,,15373.0
+Chile,1998,Potatoes,,15373.0
+Chile,1998,Potatoes,,15373.0
+Chile,1999,Potatoes,,15373.0
+Chile,1999,Potatoes,,15373.0
+Chile,2000,Potatoes,,14264.54
+Chile,2000,Potatoes,,14264.54
+Chile,2001,Potatoes,,13156.09
+Chile,2001,Potatoes,,13156.09
+Chile,2002,Potatoes,,12047.63
+Chile,2002,Potatoes,,12047.63
+Chile,2003,Potatoes,,10939.18
+Chile,2003,Potatoes,,10939.18
+Chile,2004,Potatoes,,9830.72
+Chile,2004,Potatoes,,9830.72
+Chile,2005,Potatoes,,9830.72
+Chile,2005,Potatoes,,9830.72
+Chile,2006,Potatoes,,9830.72
+Chile,2006,Potatoes,,9830.72
+Chile,2007,Potatoes,,9830.72
+Chile,2007,Potatoes,,9830.72
+Chile,2008,Potatoes,,9830.72
+Chile,2008,Potatoes,,9830.72
+Chile,2009,Potatoes,,9830.72
+Chile,2009,Potatoes,,9830.72
+Chile,2010,Potatoes,,9830.72
+Chile,2010,Potatoes,,9830.72
+Chile,2011,Potatoes,,9830.72
+Chile,2011,Potatoes,,9830.72
+Chile,2012,Potatoes,,9830.72
+Chile,2012,Potatoes,,9830.72
+Chile,2013,Potatoes,,9830.72
+Chile,2013,Potatoes,,9830.72
+Chile,2014,Potatoes,,9830.72
+Chile,2015,Potatoes,,9830.72
+Chile,2016,Potatoes,,9830.72
+"China, Taiwan Province of",1990,Potatoes,,9954.0
+"China, Taiwan Province of",1991,Potatoes,,9954.0
+"China, Taiwan Province of",1992,Potatoes,,9954.0
+"China, Taiwan Province of",1993,Potatoes,,9954.0
+"China, Taiwan Province of",1994,Potatoes,,9954.0
+"China, Taiwan Province of",1995,Potatoes,,9954.0
+"China, Taiwan Province of",1996,Potatoes,,9954.0
+"China, Taiwan Province of",1997,Potatoes,,9364.0
+"China, Taiwan Province of",1998,Potatoes,,8931.0
+"China, Taiwan Province of",1999,Sweet potatoes,,11441.0
+"China, Taiwan Province of",2000,Potatoes,,9007.0
+"China, Taiwan Province of",2001,Sweet potatoes,,8476.0
+"China, Taiwan Province of",2002,Potatoes,,10547.0
+"China, Taiwan Province of",2003,Potatoes,,10143.0
+"China, Taiwan Province of",2004,Potatoes,,9703.0
+"China, Taiwan Province of",2005,Potatoes,,9228.0
+"China, Taiwan Province of",2006,Potatoes,,9014.0
+"China, Taiwan Province of",2007,Potatoes,,9492.0
+"China, Taiwan Province of",2008,Potatoes,,8780.0
+"China, Taiwan Province of",2009,Potatoes,,8589.0
+"China, Taiwan Province of",2011,Potatoes,,8254.0
+"China, Taiwan Province of",2012,Potatoes,,9396.0
+"China, Taiwan Province of",2013,Cassava,,9632.0
+"China, Taiwan Province of",2014,Cassava,,8619.0
+"China, Taiwan Province of",2015,Cassava,,9296.0
+"China, Taiwan Province of",2016,Cassava,,9296.0
+"China, mainland",1990,Sweet potatoes,,765307.0
+"China, mainland",1991,Sweet potatoes,,765307.0
+"China, mainland",1992,Sweet potatoes,,799174.0
+"China, mainland",1993,Sweet potatoes,,844800.0
+"China, mainland",1994,Sweet potatoes,,978551.0
+"China, mainland",1995,Sweet potatoes,,1087044.0
+"China, mainland",1996,Sweet potatoes,,1140812.0
+"China, mainland",1997,Sweet potatoes,,1195466.0
+"China, mainland",1998,Sweet potatoes,,1231699.0
+"China, mainland",1999,Sweet potatoes,,1321620.0
+"China, mainland",2000,Sweet potatoes,,1279533.0
+"China, mainland",2001,Sweet potatoes,,1274820.0
+"China, mainland",2002,Sweet potatoes,,1312285.0
+"China, mainland",2003,Sweet potatoes,,1325226.0
+"China, mainland",2004,Sweet potatoes,,1386028.0
+"China, mainland",2005,Sweet potatoes,,1460000.0
+"China, mainland",2006,Sweet potatoes,,1537000.0
+"China, mainland",2007,Sweet potatoes,,1623000.0
+"China, mainland",2008,Sweet potatoes,,1672300.0
+"China, mainland",2009,Sweet potatoes,,1709000.0
+"China, mainland",2010,Sweet potatoes,,1758000.0
+"China, mainland",2011,Sweet potatoes,,1787002.0
+"China, mainland",2012,Sweet potatoes,,1806000.0
+"China, mainland",2013,Sweet potatoes,,1801862.0
+"China, mainland",2014,Sweet potatoes,,1807000.0
+"China, mainland",2015,Sweet potatoes,,1763000.0
+"China, mainland",2016,Sweet potatoes,,1763000.0
+Colombia,1990,Potatoes,,18058.29
+Colombia,1990,Potatoes,,18058.29
+Colombia,1991,Potatoes,,16817.0
+Colombia,1991,Potatoes,,16817.0
+Colombia,1992,Potatoes,,15305.94
+Colombia,1992,Potatoes,,15305.94
+Colombia,1993,Potatoes,,14961.81
+Colombia,1993,Potatoes,,14961.81
+Colombia,1994,Potatoes,,17051.34
+Colombia,1994,Potatoes,,17051.34
+Colombia,1995,Potatoes,,20156.23
+Colombia,1995,Potatoes,,20156.23
+Colombia,1996,Potatoes,,18131.0
+Colombia,1996,Potatoes,,18131.0
+Colombia,1997,Potatoes,,16005.0
+Colombia,1997,Potatoes,,16005.0
+Colombia,1998,Potatoes,,60687.0
+Colombia,1998,Potatoes,,60687.0
+Colombia,1999,Potatoes,,66088.0
+Colombia,1999,Potatoes,,66088.0
+Colombia,2000,Potatoes,,75843.0
+Colombia,2000,Potatoes,,75843.0
+Colombia,2001,Potatoes,,85515.3
+Colombia,2001,Potatoes,,85515.3
+Colombia,2002,Potatoes,,84023.26
+Colombia,2002,Potatoes,,84023.26
+Colombia,2003,Potatoes,,88772.15
+Colombia,2003,Potatoes,,88772.15
+Colombia,2004,Potatoes,,105514.19
+Colombia,2004,Potatoes,,105514.19
+Colombia,2005,Potatoes,,117881.45
+Colombia,2005,Potatoes,,117881.45
+Colombia,2006,Potatoes,,98328.63
+Colombia,2006,Potatoes,,98328.63
+Colombia,2007,Potatoes,,82439.06
+Colombia,2007,Potatoes,,82439.06
+Colombia,2008,Potatoes,,48538.97
+Colombia,2008,Potatoes,,48538.97
+Colombia,2009,Potatoes,,51435.13
+Colombia,2009,Potatoes,,51435.13
+Colombia,2010,Potatoes,,48618.46
+Colombia,2010,Potatoes,,48618.46
+Colombia,2011,Potatoes,,53797.0
+Colombia,2011,Potatoes,,53797.0
+Colombia,2012,Potatoes,,48727.73
+Colombia,2012,Potatoes,,48727.73
+Colombia,2013,Potatoes,,54563.38
+Colombia,2013,Potatoes,,54563.38
+Colombia,2014,Potatoes,,73744.34
+Colombia,2015,Potatoes,,52883.0
+Colombia,2016,Potatoes,,47343.85
+Costa Rica,1994,Cassava,,8088.27
+Costa Rica,1995,Yams,,11012.92
+Costa Rica,1996,Potatoes,,20226.17
+Costa Rica,1998,Potatoes,,7898.0
+Costa Rica,1999,Potatoes,,16889.0
+Costa Rica,2000,Potatoes,,25865.0
+Costa Rica,2001,Potatoes,,10704.0
+Costa Rica,2002,Potatoes,,11125.0
+Costa Rica,2003,Potatoes,,10639.0
+Costa Rica,2004,Potatoes,,10990.0
+Costa Rica,2005,Potatoes,,10937.0
+Costa Rica,2006,Potatoes,,10988.0
+Costa Rica,2007,Potatoes,,12746.56
+Costa Rica,2008,Potatoes,,13317.0
+Costa Rica,2009,Potatoes,,12306.67
+Costa Rica,2010,Potatoes,,14241.84
+Costa Rica,2011,Potatoes,,12811.25
+Costa Rica,2012,Potatoes,,12811.25
+Costa Rica,2013,Potatoes,,12811.25
+Costa Rica,2014,Potatoes,,12811.25
+Costa Rica,2015,Potatoes,,12811.25
+Costa Rica,2016,Potatoes,,12811.25
+Ecuador,1998,Plantains and others,,21500.0
+Ecuador,1998,Plantains and others,,21500.0
+Ecuador,1998,Plantains and others,,21500.0
+Ecuador,1999,Plantains and others,,14216.0
+Ecuador,1999,Plantains and others,,14216.0
+Ecuador,1999,Plantains and others,,14216.0
+Ecuador,2000,Potatoes,,17948.0
+Ecuador,2000,Potatoes,,17948.0
+Ecuador,2000,Potatoes,,17948.0
+Ecuador,2003,Potatoes,,30634.53
+Ecuador,2003,Potatoes,,30634.53
+Ecuador,2003,Potatoes,,30634.53
+Ecuador,2004,Potatoes,,29799.84
+Ecuador,2004,Potatoes,,29799.84
+Ecuador,2004,Potatoes,,29799.84
+Ecuador,2005,Potatoes,,18391.23
+Ecuador,2005,Potatoes,,18391.23
+Ecuador,2005,Potatoes,,18391.23
+Ecuador,2006,Potatoes,,7953.42
+Ecuador,2006,Potatoes,,7953.42
+Ecuador,2006,Potatoes,,7953.42
+Ecuador,2007,Potatoes,,14156.16
+Ecuador,2007,Potatoes,,14156.16
+Ecuador,2007,Potatoes,,14156.16
+Ecuador,2008,Potatoes,,15396.14
+Ecuador,2008,Potatoes,,15396.14
+Ecuador,2008,Potatoes,,15396.14
+Ecuador,2009,Potatoes,,9666.87
+Ecuador,2009,Potatoes,,9666.87
+Ecuador,2009,Potatoes,,9666.87
+Ecuador,2010,Potatoes,,31637.12
+Ecuador,2010,Potatoes,,31637.12
+Ecuador,2010,Potatoes,,31637.12
+Ecuador,2011,Potatoes,,17529.44
+Ecuador,2011,Potatoes,,17529.44
+Ecuador,2011,Potatoes,,17529.44
+Ecuador,2012,Potatoes,,11469.74
+Ecuador,2012,Potatoes,,11469.74
+Ecuador,2012,Potatoes,,11469.74
+Ecuador,2014,Potatoes,,11040.47
+Ecuador,2015,Potatoes,,30545.0
+Ecuador,2016,Potatoes,,29847.0
+Egypt,1990,Sweet potatoes,,13214.0
+Egypt,1990,Sweet potatoes,,13214.0
+Egypt,1991,Sweet potatoes,,8255.0
+Egypt,1991,Sweet potatoes,,8255.0
+Egypt,2006,Potatoes,,9781.0
+Egypt,2006,Potatoes,,9781.0
+Egypt,2007,Sweet potatoes,,9105.0
+Egypt,2007,Sweet potatoes,,9105.0
+Egypt,2008,Sweet potatoes,,9527.0
+Egypt,2008,Sweet potatoes,,9527.0
+Egypt,2009,Sweet potatoes,,9013.0
+Egypt,2009,Sweet potatoes,,9013.0
+Egypt,2010,Sweet potatoes,,11590.0
+Egypt,2010,Sweet potatoes,,11590.0
+Egypt,2011,Sweet potatoes,,12945.0
+Egypt,2011,Sweet potatoes,,12945.0
+Egypt,2012,Sweet potatoes,,13991.0
+Egypt,2012,Sweet potatoes,,13991.0
+Egypt,2013,Sweet potatoes,,13653.0
+Egypt,2013,Sweet potatoes,,13653.0
+Egypt,2014,Sweet potatoes,,11363.0
+Egypt,2015,Sweet potatoes,,8043.71
+Egypt,2016,Sweet potatoes,,8043.71
+France,1990,Potatoes,,97701.0
+France,1991,Potatoes,,103434.0
+France,1992,Potatoes,,85249.0
+France,1993,Potatoes,,91953.0
+France,1994,Potatoes,,89515.0
+France,1995,Potatoes,,84011.0
+France,1996,Potatoes,,97890.0
+France,1997,Potatoes,,109792.0
+France,1998,Potatoes,,107753.0
+France,1999,Potatoes,,114695.0
+France,2000,Potatoes,,97878.0
+France,2001,Potatoes,,99694.0
+France,2002,Potatoes,,82448.0
+France,2003,Potatoes,,74531.0
+France,2004,Potatoes,,76099.0
+France,2005,Potatoes,,78265.0
+France,2006,Potatoes,,71612.0
+France,2007,Potatoes,,77255.0
+France,2008,Potatoes,,78577.0
+France,2009,Potatoes,,63676.0
+France,2010,Potatoes,,61903.0
+France,2011,Potatoes,,61039.0
+France,2012,Potatoes,,63547.59
+France,2013,Potatoes,,66497.29
+France,2014,Potatoes,,74909.6
+France,2015,Potatoes,,66531.02
+France,2016,Potatoes,,71951.22
+Germany,1990,Potatoes,,31289.0
+Germany,1990,Potatoes,,31289.0
+Germany,1990,Potatoes,,31289.0
+Germany,1991,Potatoes,,32006.0
+Germany,1991,Potatoes,,32006.0
+Germany,1991,Potatoes,,32006.0
+Germany,1992,Potatoes,,29542.0
+Germany,1992,Potatoes,,29542.0
+Germany,1992,Potatoes,,29542.0
+Germany,1993,Potatoes,,25170.0
+Germany,1993,Potatoes,,25170.0
+Germany,1993,Potatoes,,25170.0
+Germany,1994,Potatoes,,26330.0
+Germany,1994,Potatoes,,26330.0
+Germany,1994,Potatoes,,26330.0
+Germany,1995,Potatoes,,30090.0
+Germany,1995,Potatoes,,30090.0
+Germany,1995,Potatoes,,30090.0
+Germany,1996,Potatoes,,31683.0
+Germany,1996,Potatoes,,31683.0
+Germany,1996,Potatoes,,31683.0
+Germany,1997,Potatoes,,30414.0
+Germany,1997,Potatoes,,30414.0
+Germany,1997,Potatoes,,30414.0
+Germany,1998,Potatoes,,33377.0
+Germany,1998,Potatoes,,33377.0
+Germany,1998,Potatoes,,33377.0
+Germany,1999,Potatoes,,30019.0
+Germany,1999,Potatoes,,30019.0
+Germany,1999,Potatoes,,30019.0
+Germany,2000,Potatoes,,35273.17
+Germany,2000,Potatoes,,35273.17
+Germany,2000,Potatoes,,35273.17
+Germany,2001,Potatoes,,33423.49
+Germany,2001,Potatoes,,33423.49
+Germany,2001,Potatoes,,33423.49
+Germany,2002,Potatoes,,34431.72
+Germany,2002,Potatoes,,34431.72
+Germany,2002,Potatoes,,34431.72
+Germany,2003,Potatoes,,35539.26
+Germany,2003,Potatoes,,35539.26
+Germany,2003,Potatoes,,35539.26
+Germany,2004,Potatoes,,34930.37
+Germany,2004,Potatoes,,34930.37
+Germany,2004,Potatoes,,34930.37
+Germany,2005,Potatoes,,36386.27
+Germany,2005,Potatoes,,36386.27
+Germany,2005,Potatoes,,36386.27
+Germany,2006,Potatoes,,38540.15
+Germany,2006,Potatoes,,38540.15
+Germany,2006,Potatoes,,38540.15
+Germany,2007,Potatoes,,40740.64
+Germany,2007,Potatoes,,40740.64
+Germany,2007,Potatoes,,40740.64
+Germany,2008,Potatoes,,43413.01
+Germany,2008,Potatoes,,43413.01
+Germany,2008,Potatoes,,43413.01
+Germany,2009,Potatoes,,39289.43
+Germany,2009,Potatoes,,39289.43
+Germany,2009,Potatoes,,39289.43
+Germany,2010,Potatoes,,40832.42
+Germany,2010,Potatoes,,40832.42
+Germany,2010,Potatoes,,40832.42
+Germany,2011,Potatoes,,43754.35
+Germany,2011,Potatoes,,43754.35
+Germany,2011,Potatoes,,43754.35
+Germany,2012,Potatoes,,45522.5
+Germany,2012,Potatoes,,45522.5
+Germany,2012,Potatoes,,45522.5
+Germany,2013,Potatoes,,43756.1
+Germany,2013,Potatoes,,43756.1
+Germany,2013,Potatoes,,43756.1
+Germany,2014,Potatoes,,45836.29
+Germany,2015,Potatoes,,48131.97
+Germany,2016,Potatoes,,46920.98
+Greece,1993,Sweet potatoes,,8826.0
+Greece,1997,Potatoes,,9223.0
+Greece,1998,Potatoes,,10702.0
+Greece,1999,Potatoes,,9635.0
+Greece,2000,Potatoes,,10627.0
+Greece,2001,Potatoes,,10725.0
+Greece,2002,Potatoes,,11852.0
+Greece,2003,Sweet potatoes,,11130.0
+Greece,2004,Sweet potatoes,,11594.0
+Greece,2005,Potatoes,,12083.0
+Greece,2011,Potatoes,,8189.8
+Greece,2012,Potatoes,,8002.2
+Greece,2013,Sweet potatoes,,8081.72
+Greece,2014,Potatoes,,9504.14
+Greece,2015,Potatoes,,9018.87
+Greece,2016,Potatoes,,10448.17
+Guatemala,1990,Plantains and others,,12004.33
+Guatemala,1991,Plantains and others,,12004.33
+Guatemala,1992,Plantains and others,,12004.33
+Guatemala,1993,Plantains and others,,12004.33
+Guatemala,1994,Plantains and others,,12004.33
+Guatemala,1995,Plantains and others,,12004.33
+Guatemala,1996,Plantains and others,,12004.33
+Guatemala,1997,Plantains and others,,11419.53
+Guatemala,1998,Plantains and others,,10834.74
+Guatemala,1999,Plantains and others,,10249.94
+Guatemala,2000,Plantains and others,,9665.14
+Guatemala,2001,Potatoes,,10023.42
+Guatemala,2002,Potatoes,,10381.71
+Guatemala,2003,Plantains and others,,10739.99
+Guatemala,2004,Plantains and others,,11959.92
+Guatemala,2005,Potatoes,,13506.02
+Guatemala,2006,Potatoes,,15951.27
+Guatemala,2007,Potatoes,,22883.17
+Guatemala,2008,Potatoes,,18091.67
+Guatemala,2009,Potatoes,,13276.7
+Guatemala,2010,Potatoes,,14898.25
+Guatemala,2011,Potatoes,,16540.71
+Guatemala,2012,Potatoes,,19726.3
+Guatemala,2013,Potatoes,,20489.4
+Guatemala,2014,Potatoes,,20489.4
+Guatemala,2015,Potatoes,,20489.4
+Guatemala,2016,Potatoes,,20489.4
+Honduras,1990,Plantains and others,,9880.07
+Honduras,1992,Potatoes,,9904.59
+Hungary,1990,Potatoes,,12756.0
+Hungary,1991,Potatoes,,8069.0
+Hungary,1993,Potatoes,,10197.0
+Hungary,1994,Potatoes,,9574.0
+Hungary,2002,Potatoes,,8231.5
+Hungary,2003,Potatoes,,8725.5
+Hungary,2004,Potatoes,,9940.5
+Hungary,2005,Potatoes,,9676.0
+Hungary,2006,Potatoes,,11523.0
+Hungary,2007,Potatoes,,11178.0
+Hungary,2008,Potatoes,,12084.0
+Hungary,2009,Potatoes,,11144.0
+Hungary,2010,Potatoes,,10299.5
+Hungary,2011,Potatoes,,8473.26
+Hungary,2012,Potatoes,,8141.17
+Hungary,2014,Potatoes,,8970.9
+Hungary,2015,Potatoes,,9483.8
+Hungary,2016,Potatoes,,9762.9
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1990,Cassava,,75000.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1991,Cassava,,72133.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1992,Cassava,,70791.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1993,Cassava,,66388.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1994,Cassava,,61357.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1995,Cassava,,61257.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1996,Cassava,,56114.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1997,Cassava,,52279.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1998,Cassava,,49157.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,1999,Cassava,,46195.0
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2000,Cassava,,44957.52
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2001,Cassava,,43720.04
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2002,Cassava,,42482.56
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2003,Cassava,,41245.08
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2004,Cassava,,35113.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2005,Cassava,,35342.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2006,Cassava,,37423.0
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2007,Cassava,,27422.77
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2008,Cassava,,14485.33
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2009,Cassava,,28707.01
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2010,Cassava,,40093.69
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2011,Cassava,,55540.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2012,Cassava,,52980.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2013,Cassava,,45620.0
+India,2014,Cassava,,60280.0
+India,2015,Potatoes,,56120.0
+India,2016,Cassava,,50410.0
+Iran (Islamic Republic of),1990,Potatoes,,10644.0
+Iran (Islamic Republic of),1991,Potatoes,,16349.0
+Iran (Islamic Republic of),1992,Potatoes,,11683.0
+Iran (Islamic Republic of),1993,Potatoes,,9572.0
+Iran (Islamic Republic of),1994,Potatoes,,10324.0
+Iran (Islamic Republic of),1995,Potatoes,,8746.0
+Iran (Islamic Republic of),2000,Potatoes,,8440.34
+Iran (Islamic Republic of),2002,Potatoes,,8729.49
+Iran (Islamic Republic of),2003,Potatoes,,8886.19
+Iran (Islamic Republic of),2004,Potatoes,,8954.2
+Italy,1990,Sweet potatoes,,100596.4
+Italy,1990,Sweet potatoes,,100596.4
+Italy,1991,Sweet potatoes,,88916.6
+Italy,1991,Sweet potatoes,,88916.6
+Italy,1992,Sweet potatoes,,88227.6
+Italy,1992,Sweet potatoes,,88227.6
+Italy,1993,Sweet potatoes,,89282.2
+Italy,1993,Sweet potatoes,,89282.2
+Italy,1994,Sweet potatoes,,81217.6
+Italy,1994,Sweet potatoes,,81217.6
+Italy,1995,Sweet potatoes,,84153.0
+Italy,1995,Sweet potatoes,,84153.0
+Italy,1996,Potatoes,,74617.2
+Italy,1996,Potatoes,,74617.2
+Italy,1997,Potatoes,,84799.0
+Italy,1997,Potatoes,,84799.0
+Italy,1998,Potatoes,,84117.0
+Italy,1998,Potatoes,,84117.0
+Italy,1999,Potatoes,,81583.0
+Italy,1999,Potatoes,,81583.0
+Italy,2000,Potatoes,,79447.0
+Italy,2000,Potatoes,,79447.0
+Italy,2001,Potatoes,,75978.0
+Italy,2001,Potatoes,,75978.0
+Italy,2002,Potatoes,,94211.0
+Italy,2002,Potatoes,,94211.0
+Italy,2003,Potatoes,,86058.0
+Italy,2003,Potatoes,,86058.0
+Italy,2004,Potatoes,,83810.0
+Italy,2004,Potatoes,,83810.0
+Italy,2005,Potatoes,,84647.0
+Italy,2005,Potatoes,,84647.0
+Italy,2006,Potatoes,,74349.0
+Italy,2006,Potatoes,,74349.0
+Italy,2007,Potatoes,,80454.0
+Italy,2007,Potatoes,,80454.0
+Italy,2008,Potatoes,,79643.0
+Italy,2008,Potatoes,,79643.0
+Italy,2009,Potatoes,,74172.0
+Italy,2009,Potatoes,,74172.0
+Italy,2010,Potatoes,,71613.0
+Italy,2010,Potatoes,,71613.0
+Italy,2011,Potatoes,,70690.0
+Italy,2011,Potatoes,,70690.0
+Italy,2012,Potatoes,,61889.0
+Italy,2012,Potatoes,,61889.0
+Italy,2013,Potatoes,,55633.0
+Italy,2013,Potatoes,,55633.0
+Italy,2014,Potatoes,,59422.0
+Italy,2015,Potatoes,,63322.0
+Italy,2016,Potatoes,,60259.0
+Japan,1990,Potatoes,,79821.18
+Japan,1990,Potatoes,,79821.18
+Japan,1990,Potatoes,,79821.18
+Japan,1990,Potatoes,,79821.18
+Japan,1990,Potatoes,,79821.18
+Japan,1990,Potatoes,,79821.18
+Japan,1991,Potatoes,,79821.18
+Japan,1991,Potatoes,,79821.18
+Japan,1991,Potatoes,,79821.18
+Japan,1991,Potatoes,,79821.18
+Japan,1991,Potatoes,,79821.18
+Japan,1991,Potatoes,,79821.18
+Japan,1992,Potatoes,,79821.18
+Japan,1992,Potatoes,,79821.18
+Japan,1992,Potatoes,,79821.18
+Japan,1992,Potatoes,,79821.18
+Japan,1992,Potatoes,,79821.18
+Japan,1992,Potatoes,,79821.18
+Japan,1993,Potatoes,,79821.18
+Japan,1993,Potatoes,,79821.18
+Japan,1993,Potatoes,,79821.18
+Japan,1993,Potatoes,,79821.18
+Japan,1993,Potatoes,,79821.18
+Japan,1993,Potatoes,,79821.18
+Japan,1994,Potatoes,,79821.18
+Japan,1994,Potatoes,,79821.18
+Japan,1994,Potatoes,,79821.18
+Japan,1994,Potatoes,,79821.18
+Japan,1994,Potatoes,,79821.18
+Japan,1994,Potatoes,,79821.18
+Japan,1995,Potatoes,,79821.18
+Japan,1995,Potatoes,,79821.18
+Japan,1995,Potatoes,,79821.18
+Japan,1995,Potatoes,,79821.18
+Japan,1995,Potatoes,,79821.18
+Japan,1995,Potatoes,,79821.18
+Japan,1996,Potatoes,,79821.18
+Japan,1996,Potatoes,,79821.18
+Japan,1996,Potatoes,,79821.18
+Japan,1996,Potatoes,,79821.18
+Japan,1996,Potatoes,,79821.18
+Japan,1996,Potatoes,,79821.18
+Japan,1997,Potatoes,,79821.18
+Japan,1997,Potatoes,,79821.18
+Japan,1997,Potatoes,,79821.18
+Japan,1997,Potatoes,,79821.18
+Japan,1997,Potatoes,,79821.18
+Japan,1997,Potatoes,,79821.18
+Japan,1998,Potatoes,,79821.18
+Japan,1998,Potatoes,,79821.18
+Japan,1998,Potatoes,,79821.18
+Japan,1998,Potatoes,,79821.18
+Japan,1998,Potatoes,,79821.18
+Japan,1998,Potatoes,,79821.18
+Japan,1999,Potatoes,,79821.18
+Japan,1999,Potatoes,,79821.18
+Japan,1999,Potatoes,,79821.18
+Japan,1999,Potatoes,,79821.18
+Japan,1999,Potatoes,,79821.18
+Japan,1999,Potatoes,,79821.18
+Japan,2000,Potatoes,,79821.18
+Japan,2000,Potatoes,,79821.18
+Japan,2000,Potatoes,,79821.18
+Japan,2000,Potatoes,,79821.18
+Japan,2000,Potatoes,,79821.18
+Japan,2000,Potatoes,,79821.18
+Japan,2001,Potatoes,,78735.45
+Japan,2001,Potatoes,,78735.45
+Japan,2001,Potatoes,,78735.45
+Japan,2001,Potatoes,,78735.45
+Japan,2001,Potatoes,,78735.45
+Japan,2001,Potatoes,,78735.45
+Japan,2002,Potatoes,,70262.54
+Japan,2002,Potatoes,,70262.54
+Japan,2002,Potatoes,,70262.54
+Japan,2002,Potatoes,,70262.54
+Japan,2002,Potatoes,,70262.54
+Japan,2002,Potatoes,,70262.54
+Japan,2003,Potatoes,,67869.72
+Japan,2003,Potatoes,,67869.72
+Japan,2003,Potatoes,,67869.72
+Japan,2003,Potatoes,,67869.72
+Japan,2003,Potatoes,,67869.72
+Japan,2003,Potatoes,,67869.72
+Japan,2004,Potatoes,,64688.88
+Japan,2004,Potatoes,,64688.88
+Japan,2004,Potatoes,,64688.88
+Japan,2004,Potatoes,,64688.88
+Japan,2004,Potatoes,,64688.88
+Japan,2004,Potatoes,,64688.88
+Japan,2005,Potatoes,,63829.77
+Japan,2005,Potatoes,,63829.77
+Japan,2005,Potatoes,,63829.77
+Japan,2005,Potatoes,,63829.77
+Japan,2005,Potatoes,,63829.77
+Japan,2005,Potatoes,,63829.77
+Japan,2006,Potatoes,,65248.26
+Japan,2006,Potatoes,,65248.26
+Japan,2006,Potatoes,,65248.26
+Japan,2006,Potatoes,,65248.26
+Japan,2006,Potatoes,,65248.26
+Japan,2006,Potatoes,,65248.26
+Japan,2007,Potatoes,,61164.07
+Japan,2007,Potatoes,,61164.07
+Japan,2007,Potatoes,,61164.07
+Japan,2007,Potatoes,,61164.07
+Japan,2007,Potatoes,,61164.07
+Japan,2007,Potatoes,,61164.07
+Japan,2008,Potatoes,,58750.0
+Japan,2008,Potatoes,,58750.0
+Japan,2008,Potatoes,,58750.0
+Japan,2008,Potatoes,,58750.0
+Japan,2008,Potatoes,,58750.0
+Japan,2008,Potatoes,,58750.0
+Japan,2009,Potatoes,,60970.8
+Japan,2009,Potatoes,,60970.8
+Japan,2009,Potatoes,,60970.8
+Japan,2009,Potatoes,,60970.8
+Japan,2009,Potatoes,,60970.8
+Japan,2009,Potatoes,,60970.8
+Japan,2010,Potatoes,,55576.0
+Japan,2010,Potatoes,,55576.0
+Japan,2010,Potatoes,,55576.0
+Japan,2010,Potatoes,,55576.0
+Japan,2010,Potatoes,,55576.0
+Japan,2010,Potatoes,,55576.0
+Japan,2011,Potatoes,,51796.3
+Japan,2011,Potatoes,,51796.3
+Japan,2011,Potatoes,,51796.3
+Japan,2011,Potatoes,,51796.3
+Japan,2011,Potatoes,,51796.3
+Japan,2011,Potatoes,,51796.3
+Japan,2012,Potatoes,,54716.4
+Japan,2012,Potatoes,,54716.4
+Japan,2012,Potatoes,,54716.4
+Japan,2012,Potatoes,,54716.4
+Japan,2012,Potatoes,,54716.4
+Japan,2012,Potatoes,,54716.4
+Japan,2013,Potatoes,,52794.3
+Japan,2013,Potatoes,,52794.3
+Japan,2013,Potatoes,,52794.3
+Japan,2013,Potatoes,,52794.3
+Japan,2013,Potatoes,,52794.3
+Japan,2013,Potatoes,,52794.3
+Japan,2014,Potatoes,,53543.7
+Japan,2015,Potatoes,,54171.16
+Japan,2016,Potatoes,,51006.46
+Kazakhstan,1992,Potatoes,,17182.0
+Kazakhstan,1992,Potatoes,,17182.0
+Kazakhstan,1993,Potatoes,,17182.0
+Kazakhstan,1993,Potatoes,,17182.0
+Kazakhstan,1994,Potatoes,,17182.0
+Kazakhstan,1994,Potatoes,,17182.0
+Kazakhstan,1995,Potatoes,,13535.0
+Kazakhstan,1995,Potatoes,,13535.0
+Kazakhstan,1996,Potatoes,,13047.0
+Kazakhstan,1996,Potatoes,,13047.0
+Kazakhstan,1997,Potatoes,,8112.0
+Kazakhstan,1997,Potatoes,,8112.0
+Kazakhstan,2009,Potatoes,,8716.14
+Kazakhstan,2009,Potatoes,,8716.14
+Kazakhstan,2011,Potatoes,,10656.6
+Kazakhstan,2011,Potatoes,,10656.6
+Kazakhstan,2012,Potatoes,,8674.58
+Kazakhstan,2012,Potatoes,,8674.58
+Kazakhstan,2013,Potatoes,,8738.38
+Kazakhstan,2013,Potatoes,,8738.38
+Kazakhstan,2014,Potatoes,,11158.77
+Kazakhstan,2015,Potatoes,,10581.7
+Kazakhstan,2016,Potatoes,,10612.4
+Libya,2005,Potatoes,,8314.0
+Libya,2005,Potatoes,,8314.0
+Malaysia,1990,Sweet potatoes,,39406.48
+Malaysia,1991,Sweet potatoes,,39406.48
+Malaysia,1992,Sweet potatoes,,39406.48
+Malaysia,1993,Cassava,,39406.48
+Malaysia,1994,Cassava,,39406.48
+Malaysia,1995,Cassava,,39406.48
+Malaysia,1996,Cassava,,39406.48
+Malaysia,1997,Cassava,,39406.48
+Malaysia,1998,Cassava,,39406.48
+Malaysia,1999,Cassava,,39406.48
+Malaysia,2000,Cassava,,39406.48
+Malaysia,2001,Cassava,,39406.48
+Malaysia,2002,Cassava,,39406.48
+Malaysia,2003,Cassava,,39406.48
+Malaysia,2004,Cassava,,39406.48
+Malaysia,2005,Cassava,,39406.48
+Malaysia,2006,Cassava,,39406.48
+Malaysia,2007,Sweet potatoes,,46868.35
+Malaysia,2008,Cassava,,54821.91
+Malaysia,2009,Cassava,,52464.19
+Malaysia,2010,Cassava,,60194.83
+Malaysia,2011,Cassava,,41562.16
+Malaysia,2012,Cassava,,49810.48
+Malaysia,2013,Sweet potatoes,,61445.6
+Malaysia,2014,Sweet potatoes,,49199.43
+Malaysia,2015,Cassava,,49199.43
+Malaysia,2016,Cassava,,49199.43
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1990,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1991,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1992,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1993,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1994,Sweet potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1995,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1996,Potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1997,Sweet potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1998,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,1999,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2000,Potatoes,,34468.93
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2001,Potatoes,,31373.3
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2002,Potatoes,,16189.88
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2003,Potatoes,,23622.86
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2004,Potatoes,,26433.14
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2005,Potatoes,,51741.99
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2006,Potatoes,,50891.95
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2007,Potatoes,,64501.28
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2008,Potatoes,,61732.11
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2009,Potatoes,,61690.08
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2010,Potatoes,,63402.29
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2011,Potatoes,,65961.1
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2012,Potatoes,,64512.22
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2013,Potatoes,,59920.18
+Mexico,2014,Potatoes,,53196.66
+Mexico,2015,Potatoes,,56518.2
+Mexico,2016,Potatoes,,57110.63
+Morocco,1990,Potatoes,,9364.0
+Morocco,1990,Potatoes,,9364.0
+Morocco,1991,Potatoes,,9771.14
+Morocco,1991,Potatoes,,9771.14
+Morocco,1992,Sweet potatoes,,10178.29
+Morocco,1992,Sweet potatoes,,10178.29
+Morocco,1993,Potatoes,,10585.43
+Morocco,1993,Potatoes,,10585.43
+Morocco,1994,Potatoes,,10992.57
+Morocco,1994,Potatoes,,10992.57
+Morocco,1995,Potatoes,,11399.71
+Morocco,1995,Potatoes,,11399.71
+Morocco,1996,Potatoes,,11806.86
+Morocco,1996,Potatoes,,11806.86
+Morocco,1997,Sweet potatoes,,12214.0
+Morocco,1997,Sweet potatoes,,12214.0
+Morocco,1998,Potatoes,,12621.14
+Morocco,1998,Potatoes,,12621.14
+Morocco,1999,Potatoes,,13028.29
+Morocco,1999,Potatoes,,13028.29
+Morocco,2000,Potatoes,,13435.43
+Morocco,2000,Potatoes,,13435.43
+Morocco,2001,Potatoes,,13842.57
+Morocco,2001,Potatoes,,13842.57
+Morocco,2002,Potatoes,,14249.71
+Morocco,2002,Potatoes,,14249.71
+Morocco,2003,Potatoes,,14656.86
+Morocco,2003,Potatoes,,14656.86
+Morocco,2004,Potatoes,,15064.0
+Morocco,2004,Potatoes,,15064.0
+Morocco,2005,Potatoes,,13966.0
+Morocco,2005,Potatoes,,13966.0
+Morocco,2006,Potatoes,,13697.0
+Morocco,2006,Potatoes,,13697.0
+Morocco,2007,Potatoes,,13697.0
+Morocco,2007,Potatoes,,13697.0
+Morocco,2008,Potatoes,,13697.0
+Morocco,2008,Potatoes,,13697.0
+Morocco,2009,Potatoes,,13697.0
+Morocco,2009,Potatoes,,13697.0
+Morocco,2010,Potatoes,,13697.0
+Morocco,2010,Potatoes,,13697.0
+Morocco,2011,Potatoes,,13697.0
+Morocco,2011,Potatoes,,13697.0
+Morocco,2012,Potatoes,,13697.0
+Morocco,2012,Potatoes,,13697.0
+Morocco,2013,Potatoes,,13697.0
+Morocco,2013,Potatoes,,13697.0
+Morocco,2014,Potatoes,,13697.0
+Morocco,2015,Potatoes,,13697.0
+Morocco,2016,Potatoes,,13697.0
+Myanmar,2016,Potatoes,,12091.56
+Netherlands,1990,Potatoes,,9729.0
+Netherlands,1991,Potatoes,,9338.0
+Netherlands,1992,Potatoes,,9030.0
+Netherlands,1993,Potatoes,,10505.0
+Netherlands,1994,Potatoes,,8646.0
+Netherlands,1995,Potatoes,,12601.0
+Netherlands,1996,Potatoes,,8923.0
+Netherlands,1997,Potatoes,,10568.0
+Netherlands,1998,Potatoes,,11762.0
+Netherlands,1999,Potatoes,,11152.0
+Netherlands,2000,Potatoes,,11382.84
+Netherlands,2001,Potatoes,,9424.73
+Netherlands,2002,Potatoes,,9700.44
+Netherlands,2003,Potatoes,,9550.04
+Netherlands,2004,Potatoes,,10655.4
+Netherlands,2005,Potatoes,,10703.85
+Netherlands,2006,Potatoes,,10461.35
+Netherlands,2007,Potatoes,,12073.15
+Netherlands,2008,Potatoes,,10777.08
+Netherlands,2009,Potatoes,,9857.2
+Netherlands,2010,Potatoes,,9586.03
+Netherlands,2011,Potatoes,,10953.91
+Netherlands,2012,Potatoes,,11348.39
+Netherlands,2013,Potatoes,,10720.17
+Netherlands,2014,Potatoes,,10665.55
+Netherlands,2015,Potatoes,,9999.3
+Netherlands,2016,Potatoes,,9999.3
+Nicaragua,2005,Potatoes,,9391.92
+Nicaragua,2007,Potatoes,,9850.26
+Nicaragua,2008,Potatoes,,10173.91
+Nicaragua,2009,Potatoes,,9387.95
+Nicaragua,2010,Potatoes,,12242.19
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1996,Potatoes,,11955.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1997,Potatoes,,16936.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1998,Potatoes,,18406.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,1999,Potatoes,,20450.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2000,Potatoes,,27885.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2001,Potatoes,,11871.0
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2002,Potatoes,,10881.83
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2003,Potatoes,,9892.65
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2004,Potatoes,,8903.48
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Pakistan,2005,Potatoes,,7914.31
+Paraguay,1994,Cassava,,8233.6
+Paraguay,1995,Cassava,,10660.4
+Paraguay,1996,Cassava,,13087.2
+Paraguay,1997,Cassava,,15514.0
+Paraguay,1998,Cassava,,12196.0
+Paraguay,2001,Cassava,,10583.0
+Paraguay,2002,Cassava,,13008.87
+Paraguay,2003,Cassava,,15434.75
+Paraguay,2004,Cassava,,17860.62
+Paraguay,2005,Cassava,,20286.49
+Paraguay,2006,Cassava,,22712.36
+Paraguay,2007,Cassava,,25138.24
+Paraguay,2008,Cassava,,27564.11
+Paraguay,2009,Cassava,,29989.98
+Paraguay,2010,Cassava,,32415.85
+Paraguay,2011,Potatoes,,34841.73
+Paraguay,2012,Potatoes,,37267.6
+Paraguay,2013,Cassava,,27228.5
+Paraguay,2014,Cassava,,27228.5
+Paraguay,2015,Cassava,,27228.5
+Paraguay,2016,Cassava,,27228.5
+Peru,2001,Sweet potatoes,,8414.17
+Peru,2002,Sweet potatoes,,8322.88
+Peru,2003,Sweet potatoes,,8167.3
+Peru,2004,Sweet potatoes,,8941.22
+Peru,2005,Sweet potatoes,,10227.74
+Peru,2006,Sweet potatoes,,12074.5
+Peru,2007,Sweet potatoes,,9011.14
+Peru,2008,Sweet potatoes,,12598.66
+Peru,2009,Sweet potatoes,,11531.33
+Peru,2010,Sweet potatoes,,15590.54
+Peru,2011,Sweet potatoes,,15436.91
+Peru,2012,Sweet potatoes,,18885.82
+Peru,2013,Sweet potatoes,,17942.97
+Peru,2014,Sweet potatoes,,20832.4
+Peru,2015,Sweet potatoes,,22874.83
+Peru,2016,Sweet potatoes,,26036.3
+Poland,1993,Potatoes,,8825.0
+Poland,1994,Potatoes,,9330.0
+Poland,1996,Potatoes,,9824.0
+Poland,1997,Potatoes,,9501.0
+Poland,1998,Potatoes,,8699.0
+Poland,1999,Potatoes,,8466.0
+Poland,2000,Potatoes,,8848.0
+Poland,2001,Potatoes,,8855.0
+Poland,2002,Potatoes,,10358.0
+Poland,2004,Potatoes,,8726.0
+Poland,2005,Potatoes,,16039.0
+Poland,2006,Potatoes,,17101.0
+Poland,2007,Potatoes,,18721.0
+Poland,2008,Potatoes,,20611.02
+Poland,2009,Potatoes,,18493.03
+Poland,2010,Potatoes,,19449.02
+Poland,2011,Potatoes,,21779.27
+Poland,2012,Potatoes,,21885.99
+Poland,2013,Potatoes,,22204.46
+Poland,2014,Potatoes,,23556.67
+Poland,2015,Potatoes,,24006.12
+Poland,2016,Potatoes,,24462.5
+Portugal,1990,Potatoes,,9357.0
+Portugal,1991,Potatoes,,9357.0
+Portugal,1993,Potatoes,,8985.0
+Portugal,1994,Potatoes,,9580.0
+Portugal,1995,Potatoes,,11815.0
+Portugal,1996,Potatoes,,12457.0
+Portugal,1997,Yams,,12750.0
+Portugal,1998,Yams,,14389.0
+Portugal,1999,Potatoes,,15411.0
+Portugal,2000,Yams,,15470.0
+Portugal,2001,Potatoes,,15503.0
+Portugal,2002,Potatoes,,17452.0
+Portugal,2003,Potatoes,,17030.0
+Portugal,2004,Potatoes,,16942.0
+Portugal,2005,Yams,,16353.0
+Portugal,2006,Yams,,15702.0
+Portugal,2007,Potatoes,,16682.39
+Portugal,2008,Yams,,17080.26
+Portugal,2009,Potatoes,,13984.91
+Portugal,2010,Sweet potatoes,,13774.18
+Portugal,2011,Sweet potatoes,,14024.98
+Portugal,2012,Sweet potatoes,,12444.24
+Portugal,2013,Sweet potatoes,,10126.8
+Portugal,2014,Sweet potatoes,,12892.3
+Portugal,2015,Sweet potatoes,,10006.41
+Portugal,2016,Sweet potatoes,,9778.5
+Republic of Korea,1990,Sweet potatoes,,25082.0
+Republic of Korea,1991,Sweet potatoes,,27476.0
+Republic of Korea,1992,Potatoes,,26718.0
+Republic of Korea,1993,Potatoes,,25999.0
+Republic of Korea,1994,Potatoes,,26184.0
+Republic of Korea,1995,Potatoes,,25845.0
+Republic of Korea,1996,Potatoes,,24620.0
+Republic of Korea,1997,Potatoes,,24819.0
+Republic of Korea,1998,Potatoes,,22103.0
+Republic of Korea,1999,Potatoes,,25837.0
+Republic of Korea,2000,Potatoes,,25684.0
+Republic of Korea,2001,Potatoes,,28218.0
+Republic of Korea,2002,Potatoes,,25844.0
+Republic of Korea,2003,Potatoes,,24610.0
+Republic of Korea,2004,Potatoes,,25323.0
+Republic of Korea,2005,Potatoes,,24506.0
+Republic of Korea,2006,Potatoes,,24076.0
+Republic of Korea,2007,Potatoes,,24262.0
+Republic of Korea,2008,Potatoes,,25368.0
+Republic of Korea,2009,Potatoes,,22790.0
+Republic of Korea,2010,Potatoes,,20431.0
+Republic of Korea,2011,Potatoes,,19131.0
+Republic of Korea,2012,Potatoes,,17438.0
+Republic of Korea,2013,Potatoes,,18708.0
+Republic of Korea,2014,Potatoes,,19788.0
+Republic of Korea,2015,Potatoes,,19482.0
+Republic of Korea,2016,Potatoes,,19798.0
+Romania,1990,Potatoes,,25255.0
+Romania,1991,Potatoes,,19898.0
+Romania,1992,Potatoes,,15134.0
+Romania,1993,Potatoes,,24252.0
+Romania,1994,Potatoes,,21811.0
+Romania,1995,Potatoes,,20113.0
+Romania,1996,Potatoes,,17425.0
+Romania,1997,Potatoes,,15349.0
+Romania,1998,Potatoes,,13979.0
+Romania,1999,Potatoes,,11280.0
+Romania,2000,Potatoes,,9427.4
+Romania,2001,Potatoes,,7871.1
+Romania,2002,Potatoes,,7875.7
+Russian Federation,1992,Potatoes,,25961.0
+Russian Federation,1993,Potatoes,,25961.0
+Russian Federation,1994,Potatoes,,25961.0
+Russian Federation,1995,Potatoes,,25961.0
+Russian Federation,1996,Potatoes,,25961.0
+Russian Federation,1997,Potatoes,,25961.0
+Russian Federation,1998,Potatoes,,25961.0
+Russian Federation,1999,Potatoes,,25961.0
+Russian Federation,2000,Potatoes,,25961.0
+Russian Federation,2001,Potatoes,,25961.0
+Russian Federation,2002,Potatoes,,25961.0
+Russian Federation,2003,Potatoes,,25961.0
+Russian Federation,2004,Potatoes,,25961.0
+Russian Federation,2005,Potatoes,,25961.0
+Russian Federation,2006,Potatoes,,25961.0
+Russian Federation,2007,Potatoes,,25961.0
+Russian Federation,2008,Potatoes,,25961.0
+Russian Federation,2009,Potatoes,,25961.0
+Russian Federation,2010,Potatoes,,25961.0
+Russian Federation,2011,Potatoes,,25961.0
+Russian Federation,2012,Potatoes,,25961.0
+Russian Federation,2013,Potatoes,,25961.0
+Russian Federation,2014,Potatoes,,25961.0
+Russian Federation,2015,Potatoes,,25961.0
+Russian Federation,2016,Potatoes,,25961.0
+South Africa,1990,Potatoes,,16582.0
+South Africa,1990,Potatoes,,16582.0
+South Africa,1990,Potatoes,,16582.0
+South Africa,1990,Potatoes,,16582.0
+South Africa,1991,Potatoes,,16582.0
+South Africa,1991,Potatoes,,16582.0
+South Africa,1991,Potatoes,,16582.0
+South Africa,1991,Potatoes,,16582.0
+South Africa,1992,Potatoes,,16582.0
+South Africa,1992,Potatoes,,16582.0
+South Africa,1992,Potatoes,,16582.0
+South Africa,1992,Potatoes,,16582.0
+South Africa,1993,Potatoes,,16582.0
+South Africa,1993,Potatoes,,16582.0
+South Africa,1993,Potatoes,,16582.0
+South Africa,1993,Potatoes,,16582.0
+South Africa,1994,Potatoes,,16582.0
+South Africa,1994,Potatoes,,16582.0
+South Africa,1994,Potatoes,,16582.0
+South Africa,1994,Potatoes,,16582.0
+South Africa,1995,Potatoes,,18025.0
+South Africa,1995,Potatoes,,18025.0
+South Africa,1995,Potatoes,,18025.0
+South Africa,1995,Potatoes,,18025.0
+South Africa,1996,Potatoes,,19508.0
+South Africa,1996,Potatoes,,19508.0
+South Africa,1996,Potatoes,,19508.0
+South Africa,1996,Potatoes,,19508.0
+South Africa,1997,Potatoes,,21596.0
+South Africa,1997,Potatoes,,21596.0
+South Africa,1997,Potatoes,,21596.0
+South Africa,1997,Potatoes,,21596.0
+South Africa,1998,Potatoes,,24304.0
+South Africa,1998,Potatoes,,24304.0
+South Africa,1998,Potatoes,,24304.0
+South Africa,1998,Potatoes,,24304.0
+South Africa,1999,Potatoes,,26098.8
+South Africa,1999,Potatoes,,26098.8
+South Africa,1999,Potatoes,,26098.8
+South Africa,1999,Potatoes,,26098.8
+South Africa,2000,Potatoes,,26857.0
+South Africa,2000,Potatoes,,26857.0
+South Africa,2000,Potatoes,,26857.0
+South Africa,2000,Potatoes,,26857.0
+South Africa,2001,Potatoes,,26857.0
+South Africa,2001,Potatoes,,26857.0
+South Africa,2001,Potatoes,,26857.0
+South Africa,2001,Potatoes,,26857.0
+South Africa,2002,Potatoes,,26857.0
+South Africa,2002,Potatoes,,26857.0
+South Africa,2002,Potatoes,,26857.0
+South Africa,2002,Potatoes,,26857.0
+South Africa,2003,Potatoes,,26857.0
+South Africa,2003,Potatoes,,26857.0
+South Africa,2003,Potatoes,,26857.0
+South Africa,2003,Potatoes,,26857.0
+South Africa,2004,Potatoes,,26857.0
+South Africa,2004,Potatoes,,26857.0
+South Africa,2004,Potatoes,,26857.0
+South Africa,2004,Potatoes,,26857.0
+South Africa,2005,Potatoes,,26857.0
+South Africa,2005,Potatoes,,26857.0
+South Africa,2005,Potatoes,,26857.0
+South Africa,2005,Potatoes,,26857.0
+South Africa,2006,Potatoes,,26857.0
+South Africa,2006,Potatoes,,26857.0
+South Africa,2006,Potatoes,,26857.0
+South Africa,2006,Potatoes,,26857.0
+South Africa,2007,Potatoes,,26857.0
+South Africa,2007,Potatoes,,26857.0
+South Africa,2007,Potatoes,,26857.0
+South Africa,2007,Potatoes,,26857.0
+South Africa,2008,Potatoes,,26857.0
+South Africa,2008,Potatoes,,26857.0
+South Africa,2008,Potatoes,,26857.0
+South Africa,2008,Potatoes,,26857.0
+South Africa,2009,Potatoes,,26857.0
+South Africa,2009,Potatoes,,26857.0
+South Africa,2009,Potatoes,,26857.0
+South Africa,2009,Potatoes,,26857.0
+South Africa,2010,Potatoes,,26857.0
+South Africa,2010,Potatoes,,26857.0
+South Africa,2010,Potatoes,,26857.0
+South Africa,2010,Potatoes,,26857.0
+South Africa,2011,Potatoes,,26857.0
+South Africa,2011,Potatoes,,26857.0
+South Africa,2011,Potatoes,,26857.0
+South Africa,2011,Potatoes,,26857.0
+South Africa,2012,Potatoes,,26857.0
+South Africa,2012,Potatoes,,26857.0
+South Africa,2012,Potatoes,,26857.0
+South Africa,2012,Potatoes,,26857.0
+South Africa,2013,Potatoes,,26857.0
+South Africa,2013,Potatoes,,26857.0
+South Africa,2013,Potatoes,,26857.0
+South Africa,2013,Potatoes,,26857.0
+South Africa,2014,Potatoes,,26857.0
+South Africa,2015,Potatoes,,26857.0
+South Africa,2016,Potatoes,,26857.0
+Spain,1990,Potatoes,,39562.0
+Spain,1990,Potatoes,,39562.0
+Spain,1990,Potatoes,,39562.0
+Spain,1991,Potatoes,,39147.0
+Spain,1991,Potatoes,,39147.0
+Spain,1991,Potatoes,,39147.0
+Spain,1992,Potatoes,,31839.0
+Spain,1992,Potatoes,,31839.0
+Spain,1992,Potatoes,,31839.0
+Spain,1993,Sweet potatoes,,29408.0
+Spain,1993,Sweet potatoes,,29408.0
+Spain,1993,Sweet potatoes,,29408.0
+Spain,1994,Potatoes,,31244.0
+Spain,1994,Potatoes,,31244.0
+Spain,1994,Potatoes,,31244.0
+Spain,1995,Potatoes,,27852.0
+Spain,1995,Potatoes,,27852.0
+Spain,1995,Potatoes,,27852.0
+Spain,1996,Potatoes,,33236.0
+Spain,1996,Potatoes,,33236.0
+Spain,1996,Potatoes,,33236.0
+Spain,1997,Potatoes,,34023.0
+Spain,1997,Potatoes,,34023.0
+Spain,1997,Potatoes,,34023.0
+Spain,1998,Potatoes,,35070.0
+Spain,1998,Potatoes,,35070.0
+Spain,1998,Potatoes,,35070.0
+Spain,1999,Potatoes,,33614.0
+Spain,1999,Potatoes,,33614.0
+Spain,1999,Potatoes,,33614.0
+Spain,2000,Potatoes,,34597.0
+Spain,2000,Potatoes,,34597.0
+Spain,2000,Potatoes,,34597.0
+Spain,2001,Potatoes,,35700.0
+Spain,2001,Potatoes,,35700.0
+Spain,2001,Potatoes,,35700.0
+Spain,2002,Potatoes,,40727.0
+Spain,2002,Potatoes,,40727.0
+Spain,2002,Potatoes,,40727.0
+Spain,2003,Potatoes,,41586.0
+Spain,2003,Potatoes,,41586.0
+Spain,2003,Potatoes,,41586.0
+Spain,2004,Potatoes,,47445.0
+Spain,2004,Potatoes,,47445.0
+Spain,2004,Potatoes,,47445.0
+Spain,2005,Potatoes,,41017.0
+Spain,2005,Potatoes,,41017.0
+Spain,2005,Potatoes,,41017.0
+Spain,2006,Potatoes,,39767.0
+Spain,2006,Potatoes,,39767.0
+Spain,2006,Potatoes,,39767.0
+Spain,2007,Potatoes,,39286.0
+Spain,2007,Potatoes,,39286.0
+Spain,2007,Potatoes,,39286.0
+Spain,2008,Potatoes,,40719.0
+Spain,2008,Potatoes,,40719.0
+Spain,2008,Potatoes,,40719.0
+Spain,2009,Potatoes,,35199.0
+Spain,2009,Potatoes,,35199.0
+Spain,2009,Potatoes,,35199.0
+Spain,2010,Potatoes,,39043.0
+Spain,2010,Potatoes,,39043.0
+Spain,2010,Potatoes,,39043.0
+Spain,2011,Potatoes,,53549.0
+Spain,2011,Potatoes,,53549.0
+Spain,2011,Potatoes,,53549.0
+Spain,2012,Potatoes,,48668.0
+Spain,2012,Potatoes,,48668.0
+Spain,2012,Potatoes,,48668.0
+Spain,2013,Potatoes,,54197.0
+Spain,2013,Potatoes,,54197.0
+Spain,2013,Potatoes,,54197.0
+Spain,2014,Potatoes,,61067.0
+Spain,2015,Potatoes,,59018.0
+Spain,2016,Potatoes,,61895.0
+Thailand,1990,Cassava,,18849.0
+Thailand,1991,Cassava,,18849.0
+Thailand,1992,Cassava,,18849.0
+Thailand,1993,Cassava,,18849.0
+Thailand,1994,Cassava,,20448.0
+Thailand,1995,Potatoes,,24062.0
+Thailand,1996,Potatoes,,21901.0
+Thailand,1997,Potatoes,,23960.0
+Thailand,1998,Cassava,,19212.0
+Thailand,1999,Cassava,,22761.0
+Thailand,2000,Cassava,,20334.0
+Thailand,2001,Cassava,,30629.67
+Thailand,2002,Cassava,,40925.33
+Thailand,2003,Cassava,,51221.0
+Thailand,2004,Cassava,,88548.0
+Thailand,2005,Cassava,,43831.0
+Thailand,2006,Cassava,,41220.0
+Thailand,2007,Cassava,,66858.0
+Thailand,2008,Cassava,,65423.0
+Thailand,2009,Cassava,,67933.0
+Thailand,2010,Cassava,,68986.0
+Thailand,2011,Cassava,,87191.0
+Thailand,2012,Cassava,,69921.0
+Thailand,2013,Cassava,,8136.0
+Thailand,2014,Cassava,,21800.0
+Thailand,2015,Cassava,,21800.0
+Thailand,2016,Cassava,,21800.0
+Turkey,1990,Potatoes,,29918.0
+Turkey,1990,Potatoes,,29918.0
+Turkey,1990,Potatoes,,29918.0
+Turkey,1990,Potatoes,,29918.0
+Turkey,1990,Potatoes,,29918.0
+Turkey,1991,Potatoes,,24343.0
+Turkey,1991,Potatoes,,24343.0
+Turkey,1991,Potatoes,,24343.0
+Turkey,1991,Potatoes,,24343.0
+Turkey,1991,Potatoes,,24343.0
+Turkey,1992,Potatoes,,27110.0
+Turkey,1992,Potatoes,,27110.0
+Turkey,1992,Potatoes,,27110.0
+Turkey,1992,Potatoes,,27110.0
+Turkey,1992,Potatoes,,27110.0
+Turkey,1993,Potatoes,,28042.0
+Turkey,1993,Potatoes,,28042.0
+Turkey,1993,Potatoes,,28042.0
+Turkey,1993,Potatoes,,28042.0
+Turkey,1993,Potatoes,,28042.0
+Turkey,1994,Potatoes,,24219.0
+Turkey,1994,Potatoes,,24219.0
+Turkey,1994,Potatoes,,24219.0
+Turkey,1994,Potatoes,,24219.0
+Turkey,1994,Potatoes,,24219.0
+Turkey,1995,Potatoes,,27328.0
+Turkey,1995,Potatoes,,27328.0
+Turkey,1995,Potatoes,,27328.0
+Turkey,1995,Potatoes,,27328.0
+Turkey,1995,Potatoes,,27328.0
+Turkey,1996,Potatoes,,30286.0
+Turkey,1996,Potatoes,,30286.0
+Turkey,1996,Potatoes,,30286.0
+Turkey,1996,Potatoes,,30286.0
+Turkey,1996,Potatoes,,30286.0
+Turkey,1997,Potatoes,,34431.0
+Turkey,1997,Potatoes,,34431.0
+Turkey,1997,Potatoes,,34431.0
+Turkey,1997,Potatoes,,34431.0
+Turkey,1997,Potatoes,,34431.0
+Turkey,1998,Potatoes,,30162.0
+Turkey,1998,Potatoes,,30162.0
+Turkey,1998,Potatoes,,30162.0
+Turkey,1998,Potatoes,,30162.0
+Turkey,1998,Potatoes,,30162.0
+Turkey,1999,Potatoes,,33089.0
+Turkey,1999,Potatoes,,33089.0
+Turkey,1999,Potatoes,,33089.0
+Turkey,1999,Potatoes,,33089.0
+Turkey,1999,Potatoes,,33089.0
+Turkey,2000,Potatoes,,33471.0
+Turkey,2000,Potatoes,,33471.0
+Turkey,2000,Potatoes,,33471.0
+Turkey,2000,Potatoes,,33471.0
+Turkey,2000,Potatoes,,33471.0
+Turkey,2001,Potatoes,,25539.0
+Turkey,2001,Potatoes,,25539.0
+Turkey,2001,Potatoes,,25539.0
+Turkey,2001,Potatoes,,25539.0
+Turkey,2001,Potatoes,,25539.0
+Turkey,2002,Potatoes,,27915.0
+Turkey,2002,Potatoes,,27915.0
+Turkey,2002,Potatoes,,27915.0
+Turkey,2002,Potatoes,,27915.0
+Turkey,2002,Potatoes,,27915.0
+Turkey,2003,Potatoes,,33075.0
+Turkey,2003,Potatoes,,33075.0
+Turkey,2003,Potatoes,,33075.0
+Turkey,2003,Potatoes,,33075.0
+Turkey,2003,Potatoes,,33075.0
+Turkey,2004,Potatoes,,28831.0
+Turkey,2004,Potatoes,,28831.0
+Turkey,2004,Potatoes,,28831.0
+Turkey,2004,Potatoes,,28831.0
+Turkey,2004,Potatoes,,28831.0
+Turkey,2005,Potatoes,,40332.0
+Turkey,2005,Potatoes,,40332.0
+Turkey,2005,Potatoes,,40332.0
+Turkey,2005,Potatoes,,40332.0
+Turkey,2005,Potatoes,,40332.0
+Turkey,2006,Potatoes,,27421.0
+Turkey,2006,Potatoes,,27421.0
+Turkey,2006,Potatoes,,27421.0
+Turkey,2006,Potatoes,,27421.0
+Turkey,2006,Potatoes,,27421.0
+Turkey,2007,Potatoes,,48715.51
+Turkey,2007,Potatoes,,48715.51
+Turkey,2007,Potatoes,,48715.51
+Turkey,2007,Potatoes,,48715.51
+Turkey,2007,Potatoes,,48715.51
+Turkey,2008,Potatoes,,37640.2
+Turkey,2008,Potatoes,,37640.2
+Turkey,2008,Potatoes,,37640.2
+Turkey,2008,Potatoes,,37640.2
+Turkey,2008,Potatoes,,37640.2
+Turkey,2009,Potatoes,,37651.15
+Turkey,2009,Potatoes,,37651.15
+Turkey,2009,Potatoes,,37651.15
+Turkey,2009,Potatoes,,37651.15
+Turkey,2009,Potatoes,,37651.15
+Turkey,2010,Potatoes,,38554.69
+Turkey,2010,Potatoes,,38554.69
+Turkey,2010,Potatoes,,38554.69
+Turkey,2010,Potatoes,,38554.69
+Turkey,2010,Potatoes,,38554.69
+Turkey,2011,Potatoes,,39534.43
+Turkey,2011,Potatoes,,39534.43
+Turkey,2011,Potatoes,,39534.43
+Turkey,2011,Potatoes,,39534.43
+Turkey,2011,Potatoes,,39534.43
+Turkey,2012,Potatoes,,42610.59
+Turkey,2012,Potatoes,,42610.59
+Turkey,2012,Potatoes,,42610.59
+Turkey,2012,Potatoes,,42610.59
+Turkey,2012,Potatoes,,42610.59
+Turkey,2013,Potatoes,,39440.0
+Turkey,2013,Potatoes,,39440.0
+Turkey,2013,Potatoes,,39440.0
+Turkey,2013,Potatoes,,39440.0
+Turkey,2013,Potatoes,,39440.0
+Turkey,2014,Potatoes,,39722.72
+Turkey,2015,Potatoes,,39026.0
+Turkey,2016,Potatoes,,50054.0
+Turkmenistan,1993,Potatoes,,9712.0
+Turkmenistan,1994,Maize,,9712.0
+Turkmenistan,1995,Potatoes,,9712.0
+Turkmenistan,1996,Potatoes,,9712.0
+Turkmenistan,1997,Potatoes,,9712.0
+Turkmenistan,1998,Potatoes,,9712.0
+Turkmenistan,1999,Potatoes,,9712.0
+Turkmenistan,2000,Potatoes,,9712.0
+Turkmenistan,2001,Potatoes,,9712.0
+Turkmenistan,2002,Potatoes,,9712.0
+Turkmenistan,2003,Potatoes,,9712.0
+Turkmenistan,2004,Potatoes,,9712.0
+Turkmenistan,2005,Potatoes,,9712.0
+Turkmenistan,2006,Potatoes,,9712.0
+Turkmenistan,2007,Potatoes,,9712.0
+Turkmenistan,2008,Potatoes,,9712.0
+Turkmenistan,2009,Potatoes,,9712.0
+Turkmenistan,2010,Potatoes,,9712.0
+Turkmenistan,2011,Potatoes,,9712.0
+Turkmenistan,2012,Potatoes,,9712.0
+Turkmenistan,2013,Potatoes,,9712.0
+Turkmenistan,2014,Potatoes,,9712.0
+Turkmenistan,2015,Potatoes,,9712.0
+Turkmenistan,2016,Potatoes,,9712.0
+USSR,1990,Potatoes,,86200.0
+USSR,1991,Potatoes,,92200.0
+Ukraine,1992,Potatoes,,66772.0
+Ukraine,1993,Potatoes,,61843.46
+Ukraine,1994,Potatoes,,56914.93
+Ukraine,1995,Potatoes,,51986.39
+Ukraine,1996,Potatoes,,47057.85
+Ukraine,1997,Potatoes,,42129.32
+Ukraine,1998,Potatoes,,37200.78
+Ukraine,1999,Potatoes,,32272.25
+Ukraine,2000,Potatoes,,27343.71
+Ukraine,2001,Potatoes,,22415.17
+Ukraine,2002,Potatoes,,17486.64
+Ukraine,2003,Potatoes,,12558.1
+Ukraine,2004,Potatoes,,15344.4
+Ukraine,2005,Potatoes,,23021.7
+Ukraine,2006,Potatoes,,28832.6
+Ukraine,2007,Potatoes,,36476.0
+Ukraine,2008,Potatoes,,54080.5
+Ukraine,2009,Potatoes,,36444.7
+Ukraine,2010,Potatoes,,62534.6
+Ukraine,2011,Potatoes,,79491.7
+Ukraine,2012,Potatoes,,90814.8
+Ukraine,2013,Potatoes,,86781.8
+Ukraine,2014,Potatoes,,78201.0
+Ukraine,2015,Potatoes,,78201.0
+Ukraine,2016,Potatoes,,78201.0
+United Kingdom,1990,Potatoes,,29517.0
+United Kingdom,1990,Potatoes,,29517.0
+United Kingdom,1990,Potatoes,,29517.0
+United Kingdom,1990,Potatoes,,29517.0
+United Kingdom,1990,Potatoes,,29517.0
+United Kingdom,1991,Potatoes,,29022.0
+United Kingdom,1991,Potatoes,,29022.0
+United Kingdom,1991,Potatoes,,29022.0
+United Kingdom,1991,Potatoes,,29022.0
+United Kingdom,1991,Potatoes,,29022.0
+United Kingdom,1992,Potatoes,,31077.0
+United Kingdom,1992,Potatoes,,31077.0
+United Kingdom,1992,Potatoes,,31077.0
+United Kingdom,1992,Potatoes,,31077.0
+United Kingdom,1992,Potatoes,,31077.0
+United Kingdom,1993,Potatoes,,32387.0
+United Kingdom,1993,Potatoes,,32387.0
+United Kingdom,1993,Potatoes,,32387.0
+United Kingdom,1993,Potatoes,,32387.0
+United Kingdom,1993,Potatoes,,32387.0
+United Kingdom,1994,Potatoes,,33929.0
+United Kingdom,1994,Potatoes,,33929.0
+United Kingdom,1994,Potatoes,,33929.0
+United Kingdom,1994,Potatoes,,33929.0
+United Kingdom,1994,Potatoes,,33929.0
+United Kingdom,1995,Potatoes,,33743.0
+United Kingdom,1995,Potatoes,,33743.0
+United Kingdom,1995,Potatoes,,33743.0
+United Kingdom,1995,Potatoes,,33743.0
+United Kingdom,1995,Potatoes,,33743.0
+United Kingdom,1996,Potatoes,,35579.0
+United Kingdom,1996,Potatoes,,35579.0
+United Kingdom,1996,Potatoes,,35579.0
+United Kingdom,1996,Potatoes,,35579.0
+United Kingdom,1996,Potatoes,,35579.0
+United Kingdom,1997,Potatoes,,35490.0
+United Kingdom,1997,Potatoes,,35490.0
+United Kingdom,1997,Potatoes,,35490.0
+United Kingdom,1997,Potatoes,,35490.0
+United Kingdom,1997,Potatoes,,35490.0
+United Kingdom,1998,Potatoes,,35422.0
+United Kingdom,1998,Potatoes,,35422.0
+United Kingdom,1998,Potatoes,,35422.0
+United Kingdom,1998,Potatoes,,35422.0
+United Kingdom,1998,Potatoes,,35422.0
+United Kingdom,1999,Potatoes,,35537.0
+United Kingdom,1999,Potatoes,,35537.0
+United Kingdom,1999,Potatoes,,35537.0
+United Kingdom,1999,Potatoes,,35537.0
+United Kingdom,1999,Potatoes,,35537.0
+United Kingdom,2000,Potatoes,,33031.28
+United Kingdom,2000,Potatoes,,33031.28
+United Kingdom,2000,Potatoes,,33031.28
+United Kingdom,2000,Potatoes,,33031.28
+United Kingdom,2000,Potatoes,,33031.28
+United Kingdom,2001,Potatoes,,32893.1
+United Kingdom,2001,Potatoes,,32893.1
+United Kingdom,2001,Potatoes,,32893.1
+United Kingdom,2001,Potatoes,,32893.1
+United Kingdom,2001,Potatoes,,32893.1
+United Kingdom,2002,Potatoes,,30995.26
+United Kingdom,2002,Potatoes,,30995.26
+United Kingdom,2002,Potatoes,,30995.26
+United Kingdom,2002,Potatoes,,30995.26
+United Kingdom,2002,Potatoes,,30995.26
+United Kingdom,2003,Potatoes,,30754.4
+United Kingdom,2003,Potatoes,,30754.4
+United Kingdom,2003,Potatoes,,30754.4
+United Kingdom,2003,Potatoes,,30754.4
+United Kingdom,2003,Potatoes,,30754.4
+United Kingdom,2004,Potatoes,,31223.91
+United Kingdom,2004,Potatoes,,31223.91
+United Kingdom,2004,Potatoes,,31223.91
+United Kingdom,2004,Potatoes,,31223.91
+United Kingdom,2004,Potatoes,,31223.91
+United Kingdom,2005,Potatoes,,31415.27
+United Kingdom,2005,Potatoes,,31415.27
+United Kingdom,2005,Potatoes,,31415.27
+United Kingdom,2005,Potatoes,,31415.27
+United Kingdom,2005,Potatoes,,31415.27
+United Kingdom,2006,Potatoes,,22588.09
+United Kingdom,2006,Potatoes,,22588.09
+United Kingdom,2006,Potatoes,,22588.09
+United Kingdom,2006,Potatoes,,22588.09
+United Kingdom,2006,Potatoes,,22588.09
+United Kingdom,2007,Potatoes,,22331.7
+United Kingdom,2007,Potatoes,,22331.7
+United Kingdom,2007,Potatoes,,22331.7
+United Kingdom,2007,Potatoes,,22331.7
+United Kingdom,2007,Potatoes,,22331.7
+United Kingdom,2008,Potatoes,,21596.68
+United Kingdom,2008,Potatoes,,21596.68
+United Kingdom,2008,Potatoes,,21596.68
+United Kingdom,2008,Potatoes,,21596.68
+United Kingdom,2008,Potatoes,,21596.68
+United Kingdom,2009,Potatoes,,21324.22
+United Kingdom,2009,Potatoes,,21324.22
+United Kingdom,2009,Potatoes,,21324.22
+United Kingdom,2009,Potatoes,,21324.22
+United Kingdom,2009,Potatoes,,21324.22
+United Kingdom,2010,Potatoes,,16770.87
+United Kingdom,2010,Potatoes,,16770.87
+United Kingdom,2010,Potatoes,,16770.87
+United Kingdom,2010,Potatoes,,16770.87
+United Kingdom,2010,Potatoes,,16770.87
+United Kingdom,2011,Potatoes,,16401.66
+United Kingdom,2011,Potatoes,,16401.66
+United Kingdom,2011,Potatoes,,16401.66
+United Kingdom,2011,Potatoes,,16401.66
+United Kingdom,2011,Potatoes,,16401.66
+United Kingdom,2012,Potatoes,,17718.64
+United Kingdom,2012,Potatoes,,17718.64
+United Kingdom,2012,Potatoes,,17718.64
+United Kingdom,2012,Potatoes,,17718.64
+United Kingdom,2012,Potatoes,,17718.64
+United Kingdom,2013,Potatoes,,17673.46
+United Kingdom,2013,Potatoes,,17673.46
+United Kingdom,2013,Potatoes,,17673.46
+United Kingdom,2013,Potatoes,,17673.46
+United Kingdom,2013,Potatoes,,17673.46
+United Kingdom,2014,Potatoes,,18392.45
+United Kingdom,2015,Potatoes,,18302.28
+United Kingdom,2016,Potatoes,,19277.79
+United States of America,1990,Potatoes,,400975.93
+United States of America,1991,Potatoes,,384646.39
+United States of America,1992,Potatoes,,400975.9
+United States of America,1993,Potatoes,,391903.86
+United States of America,1994,Potatoes,,425922.68
+United States of America,1995,Potatoes,,423201.53
+United States of America,1996,Potatoes,,433180.36
+United States of America,1997,Potatoes,,434540.76
+United States of America,1998,Potatoes,,424562.11
+United States of America,1999,Potatoes,,433633.96
+United States of America,2000,Potatoes,,430005.21
+United States of America,2001,Potatoes,,411407.94
+United States of America,2002,Potatoes,,416851.04
+United States of America,2003,Potatoes,,417758.24
+United States of America,2004,Potatoes,,425015.71
+United States of America,2005,Potatoes,,388275.15
+United States of America,2006,Potatoes,,392810.67
+United States of America,2007,Potatoes,,400068.14
+United States of America,2008,Potatoes,,379202.92
+United States of America,2009,Potatoes,,358337.7
+United States of America,2010,Potatoes,,374818.2
+United States of America,2011,Potatoes,,391298.7
+United States of America,2012,Potatoes,,407779.2
+United States of America,2013,Potatoes,,407779.2
+United States of America,2014,Potatoes,,407779.2
+United States of America,2015,Potatoes,,407779.2
+United States of America,2016,Potatoes,,407779.2
+Uruguay,2004,Potatoes,,9017.73
+Uruguay,2005,Potatoes,,9232.47
+Uruguay,2006,Potatoes,,9143.45
+Uruguay,2007,Potatoes,,14057.2
+Uruguay,2008,Potatoes,,13335.22
+Uruguay,2009,Potatoes,,13475.41
+Uruguay,2010,Potatoes,,14981.18
+Uruguay,2011,Potatoes,,17517.76
+Uruguay,2012,Potatoes,,23506.4
+Uruguay,2013,Potatoes,,19028.6
+Uruguay,2014,Potatoes,,22962.2
+Uruguay,2015,Potatoes,,14067.8
+Uruguay,2016,Potatoes,,13365.8
+Viet Nam,1990,Potatoes,,20912.0
+Viet Nam,1991,Potatoes,,20912.0
+Viet Nam,1992,Potatoes,,20912.0
+Viet Nam,1993,Potatoes,,20912.0
+Viet Nam,1994,Potatoes,,20912.0
+Viet Nam,1995,Potatoes,,24896.0
+Viet Nam,1996,Potatoes,,32745.0
+Viet Nam,1997,Potatoes,,33019.0
+Viet Nam,1998,Potatoes,,20841.0
+Viet Nam,1999,Potatoes,,16695.0
+Viet Nam,2000,Potatoes,,16502.0
+Viet Nam,2001,Cassava,,19154.0
+Viet Nam,2002,Cassava,,19154.0
+Viet Nam,2003,Cassava,,19154.0
+Viet Nam,2004,Cassava,,19154.0
+Viet Nam,2005,Cassava,,19154.0
+Viet Nam,2006,Cassava,,19154.0
+Viet Nam,2007,Cassava,,19154.0
+Viet Nam,2008,Cassava,,19154.0
+Viet Nam,2009,Cassava,,19154.0
+Viet Nam,2010,Cassava,,19154.0
+Viet Nam,2011,Cassava,,19154.0
+Viet Nam,2012,Cassava,,19154.0
+Viet Nam,2013,Cassava,,19154.0
+Viet Nam,2014,Cassava,,19154.0
+Viet Nam,2015,Cassava,,19154.0
+Viet Nam,2016,Cassava,,19154.0

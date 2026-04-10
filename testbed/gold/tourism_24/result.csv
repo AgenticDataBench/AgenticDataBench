@@ -1,0 +1,7 @@
+metric_type,Airbnb,UK_Indoor,UK_Outdoor,Indonesia_Attractions
+global_90th_percentile,1.0,,,
+high_performing_count,23369.0,164,395,23936
+total_valid_ratings,160802.0,,,
+mean,0.5698,0.8441,0.8352,0.7894
+ci_lower,0.5679,0.8388,0.8308,0.7872
+ci_upper,0.5717,0.8498,0.8399,0.7916

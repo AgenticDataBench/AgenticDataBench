@@ -1,0 +1,7 @@
+comparison_name,height_cohens_d,weight_cohens_d,height_pvalue_anova,weight_pvalue_anova
+NBA vs Soccer,2.2365,-5.0082,6.27e-36,1.10e-86
+NBA vs Olympic_Basketball,0.5063,0.6912,0.00044,2.18e-06
+NBA vs Olympic_Football,2.9502,2.6749,2.76e-51,4.22e-43
+Soccer vs Olympic_Basketball,-1.2545,5.1085,1.83e-15,1.32e-88
+Soccer vs Olympic_Football,0.9822,8.2628,5.57e-11,1.16e-105
+Olympic_Basketball vs Olympic_Football,1.8973,1.4341,2.76e-28,1.54e-18

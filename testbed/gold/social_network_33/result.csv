@@ -1,0 +1,4 @@
+feature,target,test_type,statistic,p_value,effect_size,significant
+Gender,fav_number,Mann-Whitney U,18543155.5,1.4535377010210623e-25,-0.10634964505853041,True
+category_id,Normalized Engagement (likes/views),Kruskal-Wallis H,9334.569126186358,0.0,0.22767862424416382,True
+Bot Label,Follower Count,Mann-Whitney U,312912871.0,0.7979937791639475,0.0013217062851725383,False

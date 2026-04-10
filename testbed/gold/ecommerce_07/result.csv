@@ -1,0 +1,3 @@
+platform,pearson_r,pearson_p,spearman_r,spearman_p,linear_reg_coef,linear_reg_intercept,ci_lower,ci_upper,significant
+Amazon,0.0604,0.0,0.0603,0.0,0.011823,4.021,0.0493,0.0714,True
+Olist,-0.0649,0.0437,-0.031,0.3357,-0.006948,4.1722,-0.1273,-0.002,True

@@ -1,0 +1,5 @@
+attribute,correlation_with_draft,p_value_draft,correlation_with_career,p_value_career,composite_score,normalized_weight
+height_w_shoes,-0.0247,0.6041,0.0213,0.6552,0.0459,0.1497
+wingspan,0.0157,0.7408,0.0138,0.7715,-0.0019,0.0063
+max_vertical_leap,-0.0442,0.3527,0.0112,0.8133,0.0554,0.1807
+three_quarter_sprint,0.1274,0.0072,-0.0762,0.1088,-0.2036,0.6634

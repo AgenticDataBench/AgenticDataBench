@@ -1,0 +1,10 @@
+condition,biomarker,meta_effect_size,meta_p_value,fdr_corrected_p,confidence_level,clinical_significance_rank
+Diabetes,Glucose,1.18,0.0,0.0,high,1
+Diabetes,BMI,0.6382,0.0,0.0,high,2
+Stroke,Glucose,0.6181,0.0,0.0,high,3
+Stroke,BloodPressure,0.5989,0.0,0.0,high,4
+Diabetes,BloodPressure,0.367,0.0,0.0,medium,5
+Heart Disease,Glucose,0.2856,1.8e-05,2.3e-05,low,6
+Heart Disease,BMI,0.2856,1.8e-05,2.3e-05,low,7
+Heart Disease,BloodPressure,0.214,0.001289,0.001451,low,8
+Stroke,BMI,0.1678,0.009833,0.009833,low,9

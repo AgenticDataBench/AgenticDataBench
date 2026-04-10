@@ -1,0 +1,14 @@
+dataset,biomarker,high_risk_mean,low_risk_mean,cohens_d,interpretation
+diabetes,Glucose,159.4478,116.4937,1.4734,Large
+diabetes,BMI,40.8448,31.0908,1.3019,Large
+diabetes,BloodPressure,85.3064,67.1906,0.9846,Large
+stroke,avg_glucose_level,170.5616,98.8971,1.8008,Large
+stroke,bmi,37.7998,27.856,1.4021,Large
+insurance,bmi,41.5434,29.4021,2.5061,Large
+heart_disease,trestbps,133.9787,129.913,0.2143,Small
+heart_disease,chol,176.4799,227.9056,-0.4768,Small
+ckd,bgr,167.148,113.812,0.8669,Large
+ckd,bu,70.8088,37.0188,0.833,Large
+ckd,sc,4.2654,1.065,0.6742,Medium
+sleep,systolic_bp,133.0,128.4061,0.5954,Medium
+sleep,bmi_numeric,29.375,24.7754,1.7113,Large

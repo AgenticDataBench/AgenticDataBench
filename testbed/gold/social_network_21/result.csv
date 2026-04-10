@@ -1,0 +1,12 @@
+category,user_count,avg_follower_count,avg_retweet_count,avg_mention_count,engagement_rate,data_source
+bot_unverified,12540,4997.65,49.81,2.49,9.97,bot_detection
+bot_verified,12478,4986.21,50.27,2.51,10.08,bot_detection
+human_unverified,12456,4977.43,49.82,2.52,10.01,bot_detection
+human_verified,12526,4993.04,50.12,2.53,10.04,bot_detection
+gender_brand,3788,,,,,gender_classifier
+gender_female,5371,,,,,gender_classifier
+gender_male,4658,,,,,gender_classifier
+gender_unknown,122,,,,,gender_classifier
+content_hate_speech,1430,,,,,hate_speech
+content_neither,4163,,,,,hate_speech
+content_offensive,19190,,,,,hate_speech

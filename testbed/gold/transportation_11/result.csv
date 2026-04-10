@@ -1,0 +1,11 @@
+pickup_borough,dropoff_borough,nyc_trip_count,ncr_pickup_location,ncr_drop_location,ncr_ride_count,analog_confidence_score
+Queens,Manhattan,1581742,Dwarka Sector 21,Barakhamba Road,7,0.2967
+Manhattan,Queens,802525,Connaught Place,Dwarka Sector 21,10,0.2967
+Manhattan,Brooklyn,548336,Saket,Faridabad Sector 15,9,0.3133
+Queens,Brooklyn,421718,IGI Airport,Noida Sector 62,7,0.3267
+Brooklyn,Manhattan,132534,Noida Sector 18,Saket,9,0.3133
+Manhattan,Bronx,87622,AIIMS,Ashok Park Main,12,0.1667
+Manhattan,EWR,71538,Barakhamba Road,Sarojini Nagar,11,0.1133
+Queens,Bronx,61811,IGI Airport,Rohini West,11,0.28
+Brooklyn,Queens,48981,Noida Sector 62,IGI Airport,8,0.3267
+Bronx,Manhattan,42078,Jahangirpuri,Connaught Place,12,0.1667

@@ -1,0 +1,2885 @@
+Area,Year,Item_clean,Value,avg_temp,average_rain_fall_mm_per_year
+Afghanistan,1985,Potato,140909,15.52,327.0
+Afghanistan,1986,Potato,158667,14.71,327.0
+Afghanistan,1987,Potato,155000,15.46,327.0
+Afghanistan,1989,Potato,152632,14.46,327.0
+Afghanistan,1990,Potato,168421,15.45,327.0
+Afghanistan,1991,Potato,166418,14.57,327.0
+Afghanistan,1992,Potato,166667,14.35,327.0
+Afghanistan,1993,Potato,166912,14.96,327.0
+Afghanistan,1994,Potato,165942,14.94,327.0
+Afghanistan,1995,Potato,166187,15.04,327.0
+Afghanistan,1996,Potato,166429,14.87,327.0
+Afghanistan,1997,Potato,167857,14.77,327.0
+Afghanistan,1998,Potato,167857,15.14,327.0
+Afghanistan,1999,Potato,167857,15.89,327.0
+Afghanistan,2000,Potato,167857,15.82,327.0
+Afghanistan,2001,Potato,167857,15.85,327.0
+Afghanistan,2002,Potato,164286,15.71,327.0
+Afghanistan,2004,Potato,176471,16.13,327.0
+Afghanistan,2005,Potato,150000,14.85,327.0
+Afghanistan,2006,Potato,150000,15.8,327.0
+Afghanistan,2007,Potato,150400,15.52,327.0
+Afghanistan,2008,Potato,140000,15.48,327.0
+Afghanistan,2009,Potato,140000,15.09,327.0
+Afghanistan,2010,Potato,120000,15.68,327.0
+Afghanistan,2011,Potato,100000,15.81,327.0
+Afghanistan,2012,Potato,109524,14.51,327.0
+Afghanistan,2013,Potato,131960,16.21,327.0
+Albania,1985,Potato,56667,15.91,1485.0
+Albania,1986,Potato,78571,16.07,1485.0
+Albania,1987,Potato,63571,15.93,1485.0
+Albania,1989,Potato,107778,15.7,1485.0
+Albania,1990,Potato,66667,16.37,1485.0
+Albania,1991,Potato,77818,15.36,1485.0
+Albania,1992,Potato,82920,16.06,1485.0
+Albania,1993,Potato,98446,16.05,1485.0
+Albania,1994,Potato,81404,16.96,1485.0
+Albania,1995,Potato,111323,15.67,1485.0
+Albania,1996,Potato,106138,15.64,1485.0
+Albania,1997,Potato,109874,15.9,1485.0
+Albania,1998,Potato,127212,16.27,1485.0
+Albania,1999,Potato,142018,16.57,1485.0
+Albania,2000,Potato,141228,16.67,1485.0
+Albania,2001,Potato,148818,16.59,1485.0
+Albania,2002,Potato,153868,16.47,1485.0
+Albania,2004,Potato,149346,16.16,1485.0
+Albania,2005,Potato,167061,15.67,1485.0
+Albania,2006,Potato,170745,15.92,1485.0
+Albania,2007,Potato,188902,16.67,1485.0
+Albania,2008,Potato,193878,16.71,1485.0
+Albania,2009,Potato,219780,16.73,1485.0
+Albania,2010,Potato,231111,16.52,1485.0
+Albania,2011,Potato,242211,16.45,1485.0
+Albania,2012,Potato,250538,16.7,1485.0
+Albania,2013,Potato,260110,17.41,1485.0
+Algeria,1985,Potato,83576,16.99,89.0
+Algeria,1986,Potato,83971,16.82,89.0
+Algeria,1987,Potato,84197,17.59,89.0
+Algeria,1989,Potato,96166,17.55,89.0
+Algeria,1990,Potato,78936,17.48,89.0
+Algeria,1991,Potato,90747,16.26,89.0
+Algeria,1992,Potato,107917,16.27,89.0
+Algeria,1993,Potato,111215,17.0,89.0
+Algeria,1994,Potato,95078,17.88,89.0
+Algeria,1995,Potato,136768,17.36,89.0
+Algeria,1996,Potato,134629,16.76,89.0
+Algeria,1997,Potato,141042,17.84,89.0
+Algeria,1998,Potato,160256,17.14,89.0
+Algeria,1999,Potato,153532,17.97,89.0
+Algeria,2000,Potato,166143,17.9,89.0
+Algeria,2001,Potato,147018,18.13,89.0
+Algeria,2002,Potato,183774,17.85,89.0
+Algeria,2004,Potato,203585,17.38,89.0
+Algeria,2005,Potato,216267,17.19,89.0
+Algeria,2006,Potato,220689,18.13,89.0
+Algeria,2007,Potato,189927,17.42,89.0
+Algeria,2008,Potato,236393,17.55,89.0
+Algeria,2009,Potato,250764,17.78,89.0
+Algeria,2010,Potato,270526,17.59,89.0
+Algeria,2011,Potato,292806,17.79,89.0
+Algeria,2012,Potato,304291,17.91,89.0
+Algeria,2013,Potato,303218,17.65,89.0
+Angola,1985,Potato,72727,23.94,1010.0
+Angola,1986,Potato,72727,23.95,1010.0
+Angola,1987,Potato,72727,24.49,1010.0
+Angola,1989,Potato,40000,23.99,1010.0
+Angola,1990,Potato,40000,24.12,1010.0
+Angola,1991,Potato,40000,24.02,1010.0
+Angola,1992,Potato,40000,23.96,1010.0
+Angola,1993,Potato,70000,24.15,1010.0
+Angola,1994,Potato,90000,24.04,1010.0
+Angola,1995,Potato,76738,24.56,1010.0
+Angola,1996,Potato,70000,24.11,1010.0
+Angola,1997,Potato,68571,24.06,1010.0
+Angola,1998,Potato,62724,24.96,1010.0
+Angola,1999,Potato,54597,24.37,1010.0
+Angola,2000,Potato,29885,24.41,1010.0
+Angola,2001,Potato,42552,24.43,1010.0
+Angola,2002,Potato,42754,24.79,1010.0
+Angola,2004,Potato,20150,24.22,1010.0
+Angola,2005,Potato,23646,24.41,1010.0
+Angola,2006,Potato,52148,24.14,1010.0
+Angola,2007,Potato,62138,24.24,1010.0
+Angola,2008,Potato,85085,24.27,1010.0
+Angola,2009,Potato,86509,24.33,1010.0
+Angola,2010,Potato,87425,24.44,1010.0
+Angola,2011,Potato,81366,24.15,1010.0
+Angola,2012,Potato,69381,24.24,1010.0
+Angola,2013,Potato,63303,24.55,1010.0
+Argentina,1985,Potato,211124,17.53,591.0
+Argentina,1986,Potato,188418,18.0,591.0
+Argentina,1987,Potato,199960,17.32,591.0
+Argentina,1989,Potato,211882,18.04,591.0
+Argentina,1990,Potato,202747,17.46,591.0
+Argentina,1991,Potato,205692,17.64,591.0
+Argentina,1992,Potato,199039,17.09,591.0
+Argentina,1993,Potato,210314,17.32,591.0
+Argentina,1994,Potato,230166,18.17,591.0
+Argentina,1995,Potato,274272,17.74,591.0
+Argentina,1996,Potato,228877,17.64,591.0
+Argentina,1997,Potato,268502,18.29,591.0
+Argentina,1998,Potato,293744,17.23,591.0
+Argentina,1999,Potato,238938,17.15,591.0
+Argentina,2000,Potato,277566,16.98,591.0
+Argentina,2001,Potato,283768,17.71,591.0
+Argentina,2002,Potato,251347,17.58,591.0
+Argentina,2004,Potato,288717,17.67,591.0
+Argentina,2005,Potato,283917,17.32,591.0
+Argentina,2006,Potato,285828,18.1,591.0
+Argentina,2007,Potato,286765,16.71,591.0
+Argentina,2008,Potato,279412,17.71,591.0
+Argentina,2009,Potato,284439,18.16,591.0
+Argentina,2010,Potato,289849,17.33,591.0
+Argentina,2011,Potato,286657,17.58,591.0
+Argentina,2012,Potato,287821,18.18,591.0
+Argentina,2013,Potato,288984,16.45,591.0
+Armenia,1992,Potato,111301,7.44,562.0
+Armenia,1993,Potato,134416,7.69,562.0
+Armenia,1994,Potato,131195,8.84,562.0
+Armenia,1995,Potato,131196,9.76,562.0
+Armenia,1996,Potato,129626,9.55,562.0
+Armenia,1997,Potato,109362,9.1,562.0
+Armenia,1998,Potato,134409,10.28,562.0
+Armenia,1999,Potato,130618,10.11,562.0
+Armenia,2000,Potato,87349,9.68,562.0
+Armenia,2001,Potato,114619,10.18,562.0
+Armenia,2002,Potato,122814,9.41,562.0
+Armenia,2004,Potato,161509,9.55,562.0
+Armenia,2005,Potato,164459,9.58,562.0
+Armenia,2006,Potato,163418,9.89,562.0
+Armenia,2007,Potato,184719,9.44,562.0
+Armenia,2008,Potato,189096,9.51,562.0
+Armenia,2009,Potato,185496,9.67,562.0
+Armenia,2010,Potato,170146,11.31,562.0
+Armenia,2011,Potato,194426,8.93,562.0
+Armenia,2012,Potato,207151,10.2,562.0
+Armenia,2013,Potato,215290,11.08,562.0
+Australia,1985,Potato,258465,16.22,534.0
+Australia,1986,Potato,268489,15.96,534.0
+Australia,1987,Potato,276734,16.12,534.0
+Australia,1989,Potato,278547,16.35,534.0
+Australia,1990,Potato,289832,16.8,534.0
+Australia,1991,Potato,285359,16.78,534.0
+Australia,1992,Potato,289220,15.78,534.0
+Australia,1993,Potato,290981,16.71,534.0
+Australia,1994,Potato,294270,16.43,534.0
+Australia,1995,Potato,298183,16.14,534.0
+Australia,1996,Potato,312853,16.12,534.0
+Australia,1997,Potato,313056,16.48,534.0
+Australia,1998,Potato,322292,16.28,534.0
+Australia,1999,Potato,321265,16.77,534.0
+Australia,2000,Potato,284527,17.08,534.0
+Australia,2001,Potato,328633,16.63,534.0
+Australia,2002,Potato,351358,16.63,534.0
+Australia,2004,Potato,362787,16.64,534.0
+Australia,2005,Potato,344117,16.93,534.0
+Australia,2006,Potato,354317,16.75,534.0
+Australia,2007,Potato,355463,17.49,534.0
+Australia,2008,Potato,381224,16.7,534.0
+Australia,2009,Potato,361747,17.39,534.0
+Australia,2010,Potato,351334,16.72,534.0
+Australia,2011,Potato,350887,16.9,534.0
+Australia,2012,Potato,382592,16.84,534.0
+Australia,2013,Potato,385434,17.39,534.0
+Austria,1985,Potato,276305,7.35,1110.0
+Austria,1986,Potato,281863,8.08,1110.0
+Austria,1987,Potato,257705,7.65,1110.0
+Austria,1989,Potato,260987,9.27,1110.0
+Austria,1990,Potato,249854,9.23,1110.0
+Austria,1991,Potato,236372,8.15,1110.0
+Austria,1992,Potato,223470,9.49,1110.0
+Austria,1993,Potato,284925,8.48,1110.0
+Austria,1994,Potato,199650,9.89,1110.0
+Austria,1995,Potato,267949,8.79,1110.0
+Austria,1996,Potato,291997,7.4,1110.0
+Austria,1997,Potato,288325,8.37,1110.0
+Austria,1998,Potato,283064,9.01,1110.0
+Austria,1999,Potato,307044,9.17,1110.0
+Austria,2000,Potato,292627,10.08,1110.0
+Austria,2001,Potato,300394,8.75,1110.0
+Austria,2002,Potato,303832,9.62,1110.0
+Austria,2004,Potato,316117,8.76,1110.0
+Austria,2005,Potato,343985,8.6,1110.0
+Austria,2006,Potato,298641,9.13,1110.0
+Austria,2007,Potato,294931,10.03,1110.0
+Austria,2008,Potato,331993,9.96,1110.0
+Austria,2009,Potato,324947,9.48,1110.0
+Austria,2010,Potato,305703,8.36,1110.0
+Austria,2011,Potato,357127,9.42,1110.0
+Austria,2012,Potato,305491,9.42,1110.0
+Austria,2013,Potato,285897,10.03,1110.0
+Azerbaijan,1992,Potato,82701,10.93,447.0
+Azerbaijan,1993,Potato,78059,10.53,447.0
+Azerbaijan,1994,Potato,82623,11.32,447.0
+Azerbaijan,1995,Potato,97450,12.81,447.0
+Azerbaijan,1996,Potato,101359,11.96,447.0
+Azerbaijan,1997,Potato,82711,11.89,447.0
+Azerbaijan,1998,Potato,95259,12.79,447.0
+Azerbaijan,1999,Potato,95214,12.74,447.0
+Azerbaijan,2000,Potato,89357,12.61,447.0
+Azerbaijan,2001,Potato,109774,12.97,447.0
+Azerbaijan,2002,Potato,121132,12.45,447.0
+Azerbaijan,2004,Potato,141416,12.76,447.0
+Azerbaijan,2005,Potato,153215,12.88,447.0
+Azerbaijan,2006,Potato,149497,12.66,447.0
+Azerbaijan,2007,Potato,154570,12.75,447.0
+Azerbaijan,2008,Potato,156430,12.3,447.0
+Azerbaijan,2009,Potato,149950,12.6,447.0
+Azerbaijan,2010,Potato,144945,13.85,447.0
+Azerbaijan,2011,Potato,143973,11.79,447.0
+Azerbaijan,2012,Potato,146740,13.0,447.0
+Azerbaijan,2013,Potato,151999,14.12,447.0
+Bahamas,1987,Maize,13636,25.23,1292.0
+Bahamas,1992,Maize,16667,25.1,1292.0
+Bahamas,1993,Maize,16000,25.26,1292.0
+Bahamas,1994,Maize,17931,25.73,1292.0
+Bahamas,1995,Maize,17931,25.44,1292.0
+Bahamas,1996,Maize,17931,25.06,1292.0
+Bahamas,1997,Maize,17400,25.81,1292.0
+Bahamas,1998,Maize,19842,25.94,1292.0
+Bahamas,1999,Maize,21657,25.31,1292.0
+Bahamas,2000,Maize,24762,25.16,1292.0
+Bahamas,2001,Maize,30000,25.23,1292.0
+Bahamas,2002,Maize,30500,25.79,1292.0
+Bahamas,2004,Maize,35500,25.46,1292.0
+Bahamas,2005,Maize,36000,25.43,1292.0
+Bahamas,2006,Maize,38000,25.34,1292.0
+Bahamas,2007,Maize,40000,25.71,1292.0
+Bahamas,2008,Maize,47619,25.63,1292.0
+Bahamas,2009,Maize,60000,25.46,1292.0
+Bahamas,2010,Maize,75333,24.77,1292.0
+Bahamas,2011,Maize,73085,25.76,1292.0
+Bahamas,2012,Maize,73404,25.46,1292.0
+Bahamas,2013,Maize,74465,25.88,1292.0
+Bahrain,1985,Potato,120000,26.14,83.0
+Bahrain,1986,Potato,148000,26.25,83.0
+Bahrain,1987,Potato,170000,26.58,83.0
+Bahrain,1989,Potato,160000,25.96,83.0
+Bahrain,1990,Potato,186667,26.26,83.0
+Bahrain,1991,Potato,206667,25.73,83.0
+Bahrain,1992,Potato,188000,25.09,83.0
+Bahrain,1993,Potato,162857,26.09,83.0
+Bahrain,1994,Potato,147500,26.66,83.0
+Bahrain,1995,Potato,166667,26.18,83.0
+Bahrain,1996,Potato,125000,26.76,83.0
+Bahrain,1997,Potato,160000,26.11,83.0
+Bahrain,1998,Potato,160000,27.54,83.0
+Bahrain,1999,Potato,100000,27.67,83.0
+Bahrain,2000,Potato,103333,26.99,83.0
+Bahrain,2001,Potato,110000,27.36,83.0
+Bahrain,2002,Potato,190000,27.19,83.0
+Bahrain,2004,Potato,180000,27.07,83.0
+Bahrain,2005,Potato,100000,26.89,83.0
+Bahrain,2006,Potato,130000,27.15,83.0
+Bahrain,2007,Potato,255556,27.13,83.0
+Bahrain,2008,Potato,210000,26.96,83.0
+Bahrain,2009,Potato,166667,27.24,83.0
+Bahrain,2010,Potato,155598,28.0,83.0
+Bahrain,2011,Potato,171162,27.01,83.0
+Bahrain,2012,Potato,177812,27.45,83.0
+Bahrain,2013,Potato,179569,27.86,83.0
+Bangladesh,1985,Potato,104186,26.16,2666.0
+Bangladesh,1986,Potato,101724,26.03,2666.0
+Bangladesh,1987,Potato,100535,26.4,2666.0
+Bangladesh,1989,Potato,97860,26.05,2666.0
+Bangladesh,1990,Potato,91410,25.98,2666.0
+Bangladesh,1991,Potato,99868,25.85,2666.0
+Bangladesh,1992,Potato,107931,25.86,2666.0
+Bangladesh,1993,Potato,106787,25.73,2666.0
+Bangladesh,1994,Potato,109570,25.91,2666.0
+Bangladesh,1995,Potato,111665,26.09,2666.0
+Bangladesh,1996,Potato,112741,26.15,2666.0
+Bangladesh,1997,Potato,112551,25.55,2666.0
+Bangladesh,1998,Potato,113972,26.13,2666.0
+Bangladesh,1999,Potato,112810,26.31,2666.0
+Bangladesh,2000,Potato,120591,25.91,2666.0
+Bangladesh,2001,Potato,129163,25.93,2666.0
+Bangladesh,2002,Potato,126010,26.1,2666.0
+Bangladesh,2004,Potato,144313,26.14,2666.0
+Bangladesh,2005,Potato,148805,26.19,2666.0
+Bangladesh,2006,Potato,143848,26.44,2666.0
+Bangladesh,2007,Potato,149768,25.95,2666.0
+Bangladesh,2008,Potato,165373,26.0,2666.0
+Bangladesh,2009,Potato,133367,26.54,2666.0
+Bangladesh,2010,Potato,182299,26.65,2666.0
+Bangladesh,2011,Potato,180931,25.8,2666.0
+Bangladesh,2012,Potato,190627,26.28,2666.0
+Bangladesh,2013,Potato,193790,26.59,2666.0
+Belarus,1992,Potato,115326,6.74,618.0
+Belarus,1993,Potato,155463,5.61,618.0
+Belarus,1994,Potato,118235,6.26,618.0
+Belarus,1995,Potato,131092,6.68,618.0
+Belarus,1996,Potato,151328,5.32,618.0
+Belarus,1997,Potato,99173,5.98,618.0
+Belarus,1998,Potato,108971,6.11,618.0
+Belarus,1999,Potato,113330,7.38,618.0
+Belarus,2000,Potato,131888,7.52,618.0
+Belarus,2001,Potato,122132,6.71,618.0
+Belarus,2002,Potato,134922,7.34,618.0
+Belarus,2004,Potato,195459,6.49,618.0
+Belarus,2005,Potato,177299,6.53,618.0
+Belarus,2006,Potato,191956,6.6,618.0
+Belarus,2007,Potato,211948,7.51,618.0
+Belarus,2008,Potato,220735,7.75,618.0
+Belarus,2009,Potato,186040,6.75,618.0
+Belarus,2010,Potato,213518,6.71,618.0
+Belarus,2011,Potato,209564,7.29,618.0
+Belarus,2012,Potato,208131,6.33,618.0
+Belarus,2013,Potato,193536,7.83,618.0
+Belgium,2000,Potato,444058,11.37,847.0
+Belgium,2001,Potato,412267,10.94,847.0
+Belgium,2002,Potato,471475,11.44,847.0
+Belgium,2004,Potato,483955,10.94,847.0
+Belgium,2005,Potato,428135,11.16,847.0
+Belgium,2006,Potato,385452,11.48,847.0
+Belgium,2007,Potato,469491,11.52,847.0
+Belgium,2008,Potato,460711,10.9,847.0
+Belgium,2009,Potato,447083,11.0,847.0
+Belgium,2010,Potato,422676,9.74,847.0
+Belgium,2011,Potato,501412,11.69,847.0
+Belgium,2012,Potato,454233,10.68,847.0
+Belgium,2013,Potato,454642,10.36,847.0
+Botswana,1985,Wheat,20000,19.68,416.0
+Botswana,1986,Wheat,20000,19.54,416.0
+Botswana,1987,Wheat,20000,20.02,416.0
+Botswana,1989,Wheat,20000,18.94,416.0
+Botswana,1990,Wheat,26178,19.54,416.0
+Botswana,1991,Wheat,22464,19.29,416.0
+Botswana,1992,Wheat,21653,20.59,416.0
+Botswana,1993,Wheat,20843,19.97,416.0
+Botswana,1994,Wheat,20032,19.26,416.0
+Botswana,1995,Wheat,19222,19.96,416.0
+Botswana,1996,Wheat,19009,19.1,416.0
+Botswana,1997,Wheat,17235,19.26,416.0
+Botswana,1998,Wheat,16667,20.05,416.0
+Botswana,1999,Wheat,16337,20.24,416.0
+Botswana,2000,Wheat,15878,18.97,416.0
+Botswana,2001,Wheat,15714,19.36,416.0
+Botswana,2002,Wheat,14563,19.89,416.0
+Botswana,2004,Wheat,12692,19.41,416.0
+Botswana,2005,Sorghum,18316,20.42,416.0
+Botswana,2006,Wheat,10452,18.97,416.0
+Botswana,2007,Sorghum,9979,19.71,416.0
+Botswana,2008,Wheat,8000,19.63,416.0
+Botswana,2009,Sorghum,5042,19.25,416.0
+Botswana,2010,Sorghum,5701,19.98,416.0
+Botswana,2011,Sorghum,6690,19.19,416.0
+Botswana,2012,Sorghum,6779,19.83,416.0
+Botswana,2013,Sorghum,3168,18.69,416.0
+Brazil,1985,Potato,125401,21.39,1761.0
+Brazil,1986,Potato,114020,21.84,1761.0
+Brazil,1987,Potato,132362,22.05,1761.0
+Brazil,1989,Potato,135867,21.13,1761.0
+Brazil,1990,Potato,141084,21.88,1761.0
+Brazil,1991,Potato,140264,21.43,1761.0
+Brazil,1992,Potato,140432,21.35,1761.0
+Brazil,1993,Potato,146090,21.94,1761.0
+Brazil,1994,Potato,144802,21.91,1761.0
+Brazil,1995,Potato,152304,22.07,1761.0
+Brazil,1996,Potato,146506,21.56,1761.0
+Brazil,1997,Potato,152748,21.91,1761.0
+Brazil,1998,Potato,156439,22.35,1761.0
+Brazil,1999,Potato,164604,21.59,1761.0
+Brazil,2000,Potato,171813,21.69,1761.0
+Brazil,2001,Potato,184997,22.14,1761.0
+Brazil,2002,Potato,194038,22.5,1761.0
+Brazil,2004,Potato,213525,21.59,1761.0
+Brazil,2005,Potato,220095,22.05,1761.0
+Brazil,2006,Potato,223802,21.82,1761.0
+Brazil,2007,Potato,240356,22.19,1761.0
+Brazil,2008,Potato,253729,21.86,1761.0
+Brazil,2009,Potato,248299,22.25,1761.0
+Brazil,2010,Potato,258859,22.12,1761.0
+Brazil,2011,Potato,262528,21.74,1761.0
+Brazil,2012,Potato,274457,22.16,1761.0
+Brazil,2013,Potato,277517,21.59,1761.0
+Bulgaria,1985,Potato,110274,8.46,608.0
+Bulgaria,1986,Potato,124355,8.74,608.0
+Bulgaria,1987,Potato,86430,8.64,608.0
+Bulgaria,1989,Potato,137617,9.03,608.0
+Bulgaria,1990,Potato,104986,9.51,608.0
+Bulgaria,1991,Potato,117017,8.14,608.0
+Bulgaria,1992,Potato,118262,9.07,608.0
+Bulgaria,1993,Potato,90807,9.0,608.0
+Bulgaria,1994,Potato,105070,10.23,608.0
+Bulgaria,1995,Potato,116617,8.69,608.0
+Bulgaria,1996,Potato,80623,8.44,608.0
+Bulgaria,1997,Potato,104537,8.26,608.0
+Bulgaria,1998,Potato,94041,9.16,608.0
+Bulgaria,1999,Potato,108475,9.67,608.0
+Bulgaria,2000,Potato,75262,9.9,608.0
+Bulgaria,2001,Potato,123921,9.55,608.0
+Bulgaria,2002,Potato,120894,9.6,608.0
+Bulgaria,2004,Potato,186855,9.18,608.0
+Bulgaria,2005,Potato,156448,8.58,608.0
+Bulgaria,2006,Potato,157758,9.08,608.0
+Bulgaria,2007,Potato,133197,10.23,608.0
+Bulgaria,2008,Potato,162618,9.9,608.0
+Bulgaria,2009,Potato,165508,9.74,608.0
+Bulgaria,2010,Potato,181967,9.65,608.0
+Bulgaria,2011,Potato,143236,9.17,608.0
+Bulgaria,2012,Potato,101515,9.99,608.0
+Bulgaria,2013,Potato,146125,11.26,608.0
+Burkina Faso,1985,Potato,62158,28.42,748.0
+Burkina Faso,1986,Potato,61253,28.25,748.0
+Burkina Faso,1987,Potato,69947,29.09,748.0
+Burkina Faso,1989,Potato,64033,28.11,748.0
+Burkina Faso,1990,Potato,61985,28.77,748.0
+Burkina Faso,1991,Potato,61898,28.4,748.0
+Burkina Faso,1992,Potato,60637,28.06,748.0
+Burkina Faso,1993,Potato,62308,28.58,748.0
+Burkina Faso,1994,Potato,61538,28.0,748.0
+Burkina Faso,1995,Potato,62500,28.46,748.0
+Burkina Faso,1996,Potato,28605,28.74,748.0
+Burkina Faso,1997,Potato,23981,28.52,748.0
+Burkina Faso,1998,Potato,24321,28.95,748.0
+Burkina Faso,1999,Potato,22000,28.45,748.0
+Burkina Faso,2000,Potato,21233,28.6,748.0
+Burkina Faso,2001,Maize,18115,28.77,748.0
+Burkina Faso,2002,Potato,20527,28.97,748.0
+Burkina Faso,2004,Potato,18849,28.9,748.0
+Burkina Faso,2005,Potato,20000,29.18,748.0
+Burkina Faso,2006,Potato,20000,28.92,748.0
+Burkina Faso,2007,Potato,20000,28.96,748.0
+Burkina Faso,2008,Potato,17954,28.4,748.0
+Burkina Faso,2009,Potato,18111,29.05,748.0
+Burkina Faso,2010,Potato,18998,29.17,748.0
+Burkina Faso,2011,Potato,19159,29.03,748.0
+Burkina Faso,2012,Potato,19320,28.67,748.0
+Burkina Faso,2013,Potato,19481,29.41,748.0
+Burundi,1985,Potato,36364,20.99,1274.0
+Burundi,1986,Potato,35593,21.05,1274.0
+Burundi,1987,Potato,35750,21.67,1274.0
+Burundi,1989,Potato,33462,20.73,1274.0
+Burundi,1990,Potato,34836,21.15,1274.0
+Burundi,1991,Potato,32454,20.97,1274.0
+Burundi,1992,Potato,33357,21.31,1274.0
+Burundi,1993,Potato,28125,21.17,1274.0
+Burundi,1994,Potato,29453,21.25,1274.0
+Burundi,1995,Potato,29691,21.55,1274.0
+Burundi,1996,Potato,28825,21.18,1274.0
+Burundi,1997,Potato,32397,21.51,1274.0
+Burundi,1998,Potato,25950,21.56,1274.0
+Burundi,1999,Potato,24393,21.01,1274.0
+Burundi,2000,Potato,25242,21.32,1274.0
+Burundi,2001,Potato,25757,21.24,1274.0
+Burundi,2002,Potato,26760,21.45,1274.0
+Burundi,2004,Potato,28732,21.71,1274.0
+Burundi,2005,Potato,25483,22.29,1274.0
+Burundi,2006,Potato,26176,21.83,1274.0
+Burundi,2007,Potato,34521,21.28,1274.0
+Burundi,2008,Potato,26273,21.29,1274.0
+Burundi,2009,Potato,27711,21.42,1274.0
+Burundi,2010,Potato,42521,21.75,1274.0
+Burundi,2011,Potato,45493,21.23,1274.0
+Burundi,2012,Potato,31165,21.44,1274.0
+Burundi,2013,Potato,62252,21.53,1274.0
+Cameroon,1985,Maize,16645,24.64,1604.0
+Cameroon,1986,Maize,19248,24.6,1604.0
+Cameroon,1987,Maize,19131,25.22,1604.0
+Cameroon,1989,Potato,21108,24.65,1604.0
+Cameroon,1990,Maize,18543,25.08,1604.0
+Cameroon,1991,Maize,19800,24.99,1604.0
+Cameroon,1992,Potato,20500,24.6,1604.0
+Cameroon,1993,Potato,21111,24.9,1604.0
+Cameroon,1994,Potato,19811,24.93,1604.0
+Cameroon,1995,Potato,20588,25.21,1604.0
+Cameroon,1996,Potato,29064,25.0,1604.0
+Cameroon,1997,Potato,40329,24.98,1604.0
+Cameroon,1998,Potato,53198,25.66,1604.0
+Cameroon,1999,Potato,60031,24.97,1604.0
+Cameroon,2000,Potato,59044,24.88,1604.0
+Cameroon,2001,Potato,51674,25.01,1604.0
+Cameroon,2002,Potato,39452,25.26,1604.0
+Cameroon,2004,Potato,31159,25.42,1604.0
+Cameroon,2005,Potato,25900,25.36,1604.0
+Cameroon,2006,Potato,27330,25.39,1604.0
+Cameroon,2007,Potato,26587,25.49,1604.0
+Cameroon,2008,Potato,26367,25.42,1604.0
+Cameroon,2009,Potato,28754,25.54,1604.0
+Cameroon,2010,Potato,44088,25.7,1604.0
+Cameroon,2011,Potato,73940,25.25,1604.0
+Cameroon,2012,Potato,103444,25.18,1604.0
+Cameroon,2013,Potato,133560,25.45,1604.0
+Canada,1985,Potato,262708,6.75,537.0
+Canada,1986,Potato,252736,7.09,537.0
+Canada,1987,Potato,266270,7.79,537.0
+Canada,1989,Potato,251214,6.3,537.0
+Canada,1990,Potato,250994,8.2,537.0
+Canada,1991,Potato,96637,8.13,537.0
+Canada,1992,Potato,118173,6.25,537.0
+Canada,1993,Potato,107674,6.48,537.0
+Canada,1994,Potato,112448,6.52,537.0
+Canada,1995,Potato,107859,7.19,537.0
+Canada,1996,Potato,112323,6.88,537.0
+Canada,1997,Potato,111195,6.72,537.0
+Canada,1998,Potato,112271,9.01,537.0
+Canada,1999,Potato,110517,8.29,537.0
+Canada,2000,Potato,116314,6.93,537.0
+Canada,2001,Potato,102703,8.47,537.0
+Canada,2002,Potato,111652,8.18,537.0
+Canada,2004,Potato,123630,7.02,537.0
+Canada,2005,Potato,115053,7.89,537.0
+Canada,2006,Potato,130482,8.66,537.0
+Canada,2007,Potato,126498,7.42,537.0
+Canada,2008,Potato,126065,7.5,537.0
+Canada,2009,Potato,127453,7.12,537.0
+Canada,2010,Potato,128373,8.64,537.0
+Canada,2011,Potato,120376,8.34,537.0
+Canada,2012,Potato,124735,9.24,537.0
+Canada,2013,Potato,132270,9.19,537.0
+Central African Republic,1985,Potato,23077,24.88,1342.0
+Central African Republic,1986,Potato,23077,25.15,1342.0
+Central African Republic,1987,Potato,24138,25.59,1342.0
+Central African Republic,1989,Potato,26667,25.04,1342.0
+Central African Republic,1990,Potato,24509,25.42,1342.0
+Central African Republic,1991,Potato,25714,25.45,1342.0
+Central African Republic,1992,Potato,25813,24.81,1342.0
+Central African Republic,1993,Potato,25833,25.14,1342.0
+Central African Republic,1994,Potato,25785,25.39,1342.0
+Central African Republic,1995,Potato,25725,25.5,1342.0
+Central African Republic,1996,Potato,25676,25.32,1342.0
+Central African Republic,1997,Potato,25549,25.69,1342.0
+Central African Republic,1998,Potato,25526,25.96,1342.0
+Central African Republic,1999,Potato,25434,25.05,1342.0
+Central African Republic,2000,Potato,25641,25.4,1342.0
+Central African Republic,2001,Potato,24792,25.28,1342.0
+Central African Republic,2002,Potato,24109,25.44,1342.0
+Central African Republic,2004,Potato,20308,25.67,1342.0
+Central African Republic,2005,Potato,18862,25.92,1342.0
+Central African Republic,2006,Potato,15360,25.85,1342.0
+Central African Republic,2007,Potato,14295,25.88,1342.0
+Central African Republic,2008,Potato,13425,25.76,1342.0
+Central African Republic,2009,Potato,12657,26.17,1342.0
+Central African Republic,2010,Maize,16148,26.06,1342.0
+Central African Republic,2011,Maize,16804,25.23,1342.0
+Central African Republic,2012,Maize,17505,25.28,1342.0
+Central African Republic,2013,Maize,12446,25.69,1342.0
+Chile,1985,Potato,144528,13.35,1522.0
+Chile,1986,Potato,150261,13.04,1522.0
+Chile,1987,Potato,125985,13.53,1522.0
+Chile,1989,Potato,140645,13.23,1522.0
+Chile,1990,Potato,150300,12.88,1522.0
+Chile,1991,Potato,142245,13.0,1522.0
+Chile,1992,Potato,164033,12.93,1522.0
+Chile,1993,Potato,145947,13.26,1522.0
+Chile,1994,Potato,153807,13.42,1522.0
+Chile,1995,Potato,152200,13.02,1522.0
+Chile,1996,Potato,138900,13.16,1522.0
+Chile,1997,Potato,164412,13.66,1522.0
+Chile,1998,Potato,140485,13.19,1522.0
+Chile,1999,Potato,164507,13.24,1522.0
+Chile,2000,Potato,164821,12.99,1522.0
+Chile,2001,Potato,191735,13.16,1522.0
+Chile,2002,Potato,212397,12.95,1522.0
+Chile,2004,Potato,192104,13.44,1522.0
+Chile,2005,Potato,200600,13.06,1522.0
+Chile,2006,Potato,220155,13.19,1522.0
+Chile,2007,Potato,152389,12.31,1522.0
+Chile,2008,Potato,172591,13.69,1522.0
+Chile,2009,Potato,205101,13.04,1522.0
+Chile,2010,Potato,212986,12.69,1522.0
+Chile,2011,Potato,312460,13.25,1522.0
+Chile,2012,Potato,263269,13.48,1522.0
+Chile,2013,Potato,233767,13.07,1522.0
+China,1985,Potato,108015,6.94,645.0
+China,1986,Potato,100065,7.3,645.0
+China,1987,Potato,103142,7.46,645.0
+China,1989,Potato,110093,8.78,645.0
+China,1990,Potato,113209,8.66,645.0
+China,1991,Potato,105654,8.02,645.0
+China,1992,Potato,126205,8.16,645.0
+China,1993,Potato,148729,7.92,645.0
+China,1994,Potato,136584,8.74,645.0
+China,1995,Potato,133844,8.25,645.0
+China,1996,Potato,141997,7.91,645.0
+China,1997,Potato,149655,8.48,645.0
+China,1998,Potato,158916,9.18,645.0
+China,1999,Potato,127034,8.67,645.0
+China,2000,Potato,140353,7.91,645.0
+China,2001,Potato,136841,7.97,645.0
+China,2002,Potato,150400,8.64,645.0
+China,2004,Potato,157141,8.91,645.0
+China,2005,Potato,145254,7.75,645.0
+China,2006,Potato,128342,8.52,645.0
+China,2007,Potato,146282,9.19,645.0
+China,2008,Potato,151821,8.82,645.0
+China,2009,Potato,144170,8.27,645.0
+China,2010,Potato,156684,7.59,645.0
+China,2011,Potato,162821,8.04,645.0
+China,2012,Potato,167710,7.54,645.0
+China,2013,Potato,170906,9.3,645.0
+Colombia,1985,Potato,137337,26.72,3240.0
+Colombia,1986,Potato,134085,26.93,3240.0
+Colombia,1987,Potato,142614,27.59,3240.0
+Colombia,1989,Potato,156330,26.78,3240.0
+Colombia,1990,Potato,152736,27.22,3240.0
+Colombia,1991,Potato,156654,27.3,3240.0
+Colombia,1992,Potato,155655,27.38,3240.0
+Colombia,1993,Potato,154545,27.42,3240.0
+Colombia,1994,Potato,159364,27.17,3240.0
+Colombia,1995,Potato,161991,27.3,3240.0
+Colombia,1996,Potato,161255,27.12,3240.0
+Colombia,1997,Potato,162924,27.54,3240.0
+Colombia,1998,Potato,154602,27.67,3240.0
+Colombia,1999,Potato,161620,26.77,3240.0
+Colombia,2000,Potato,128180,26.98,3240.0
+Colombia,2001,Potato,143742,27.28,3240.0
+Colombia,2002,Potato,156377,27.77,3240.0
+Colombia,2004,Potato,158199,27.3,3240.0
+Colombia,2005,Potato,151954,27.56,3240.0
+Colombia,2006,Potato,159033,27.51,3240.0
+Colombia,2007,Potato,166986,27.45,3240.0
+Colombia,2008,Potato,176013,27.16,3240.0
+Colombia,2009,Potato,183793,27.68,3240.0
+Colombia,2010,Potato,172462,27.54,3240.0
+Colombia,2011,Potato,173390,27.18,3240.0
+Colombia,2012,Potato,181661,27.56,3240.0
+Colombia,2013,Potato,185619,27.6,3240.0
+Croatia,1992,Potato,79015,10.78,1113.0
+Croatia,1993,Potato,78435,10.19,1113.0
+Croatia,1994,Potato,84888,11.33,1113.0
+Croatia,1995,Potato,104158,10.14,1113.0
+Croatia,1996,Potato,101625,9.24,1113.0
+Croatia,1997,Potato,98123,10.18,1113.0
+Croatia,1998,Potato,102378,10.42,1113.0
+Croatia,1999,Potato,109779,10.51,1113.0
+Croatia,2000,Potato,84883,11.45,1113.0
+Croatia,2001,Potato,102106,10.74,1113.0
+Croatia,2002,Potato,113892,11.18,1113.0
+Croatia,2004,Potato,153997,10.06,1113.0
+Croatia,2005,Potato,144638,9.62,1113.0
+Croatia,2006,Potato,163810,10.56,1113.0
+Croatia,2007,Potato,170730,11.31,1113.0
+Croatia,2008,Potato,170369,11.09,1113.0
+Croatia,2009,Potato,193036,11.06,1113.0
+Croatia,2010,Potato,163115,10.0,1113.0
+Croatia,2011,Potato,153960,11.02,1113.0
+Croatia,2012,Potato,147848,11.12,1113.0
+Croatia,2013,Potato,158785,11.58,1113.0
+Denmark,1985,Potato,362045,6.99,703.0
+Denmark,1986,Potato,367786,7.52,703.0
+Denmark,1987,Potato,323416,6.98,703.0
+Denmark,1989,Potato,369592,9.66,703.0
+Denmark,1990,Potato,374583,9.83,703.0
+Denmark,1991,Potato,336135,8.62,703.0
+Denmark,1992,Potato,330083,9.47,703.0
+Denmark,1993,Potato,386777,8.16,703.0
+Denmark,1994,Potato,348378,9.15,703.0
+Denmark,1995,Potato,339644,8.75,703.0
+Denmark,1996,Potato,367500,7.31,703.0
+Denmark,1997,Potato,396154,8.91,703.0
+Denmark,1998,Potato,404433,8.65,703.0
+Denmark,1999,Potato,395507,9.37,703.0
+Denmark,2000,Potato,424863,9.67,703.0
+Denmark,2001,Potato,403828,8.78,703.0
+Denmark,2002,Potato,399066,9.54,703.0
+Denmark,2004,Potato,397415,9.0,703.0
+Denmark,2005,Potato,394100,9.11,703.0
+Denmark,2006,Potato,352642,9.74,703.0
+Denmark,2007,Potato,385647,9.87,703.0
+Denmark,2008,Potato,416339,9.82,703.0
+Denmark,2009,Potato,415861,9.22,703.0
+Denmark,2010,Potato,352675,7.54,703.0
+Denmark,2011,Potato,389423,9.31,703.0
+Denmark,2012,Potato,421316,8.7,703.0
+Denmark,2013,Potato,415732,8.81,703.0
+Dominican Republic,1985,Potato,105998,26.3,1410.0
+Dominican Republic,1986,Potato,130342,26.4,1410.0
+Dominican Republic,1987,Potato,123994,26.79,1410.0
+Dominican Republic,1989,Potato,138600,26.4,1410.0
+Dominican Republic,1990,Potato,118759,26.67,1410.0
+Dominican Republic,1991,Potato,123819,26.57,1410.0
+Dominican Republic,1992,Potato,86284,26.45,1410.0
+Dominican Republic,1993,Potato,98385,26.41,1410.0
+Dominican Republic,1994,Potato,121589,26.78,1410.0
+Dominican Republic,1995,Potato,103563,26.82,1410.0
+Dominican Republic,1996,Potato,98893,26.29,1410.0
+Dominican Republic,1997,Potato,92123,27.18,1410.0
+Dominican Republic,1998,Potato,91000,27.16,1410.0
+Dominican Republic,1999,Potato,110524,26.66,1410.0
+Dominican Republic,2000,Potato,142405,26.37,1410.0
+Dominican Republic,2001,Potato,183821,26.78,1410.0
+Dominican Republic,2002,Potato,166370,27.08,1410.0
+Dominican Republic,2004,Potato,179600,26.83,1410.0
+Dominican Republic,2005,Potato,220766,27.03,1410.0
+Dominican Republic,2006,Potato,222125,27.01,1410.0
+Dominican Republic,2007,Potato,216325,27.08,1410.0
+Dominican Republic,2008,Potato,205454,26.76,1410.0
+Dominican Republic,2009,Potato,219707,26.91,1410.0
+Dominican Republic,2010,Potato,237316,26.93,1410.0
+Dominican Republic,2011,Potato,236186,26.79,1410.0
+Dominican Republic,2012,Potato,242634,26.87,1410.0
+Dominican Republic,2013,Potato,256603,26.51,1410.0
+Ecuador,1985,Potato,115672,21.2,2274.0
+Ecuador,1986,Potato,72477,21.44,2274.0
+Ecuador,1987,Potato,63087,22.29,2274.0
+Ecuador,1989,Potato,74318,21.22,2274.0
+Ecuador,1990,Potato,71727,21.82,2274.0
+Ecuador,1991,Potato,68405,21.91,2274.0
+Ecuador,1992,Potato,77444,21.94,2274.0
+Ecuador,1993,Potato,74694,21.86,2274.0
+Ecuador,1994,Potato,81368,21.46,2274.0
+Ecuador,1995,Potato,71719,21.96,2274.0
+Ecuador,1996,Potato,84913,21.34,2274.0
+Ecuador,1997,Potato,89626,22.88,2274.0
+Ecuador,1998,Potato,92184,22.59,2274.0
+Ecuador,1999,Potato,93077,21.21,2274.0
+Ecuador,2000,Potato,56332,21.34,2274.0
+Ecuador,2001,Potato,97253,21.51,2274.0
+Ecuador,2002,Potato,48788,22.23,2274.0
+Ecuador,2004,Potato,71587,22.04,2274.0
+Ecuador,2005,Potato,69668,21.82,2274.0
+Ecuador,2006,Potato,69768,22.09,2274.0
+Ecuador,2007,Potato,68022,21.68,2274.0
+Ecuador,2008,Potato,61416,21.72,2274.0
+Ecuador,2009,Potato,58531,22.01,2274.0
+Ecuador,2010,Potato,87422,21.98,2274.0
+Ecuador,2011,Potato,77752,21.78,2274.0
+Ecuador,2012,Potato,83078,21.86,2274.0
+Ecuador,2013,Potato,73131,21.69,2274.0
+Egypt,1985,Potato,198820,20.84,51.0
+Egypt,1986,Potato,195753,20.59,51.0
+Egypt,1987,Potato,225601,20.21,51.0
+Egypt,1989,Potato,224135,20.46,51.0
+Egypt,1990,Potato,205592,20.73,51.0
+Egypt,1991,Potato,202345,20.64,51.0
+Egypt,1992,Potato,209071,20.09,51.0
+Egypt,1993,Potato,207792,20.74,51.0
+Egypt,1994,Potato,204487,21.1,51.0
+Egypt,1995,Potato,211244,20.62,51.0
+Egypt,1996,Potato,202048,20.85,51.0
+Egypt,1997,Potato,218355,20.52,51.0
+Egypt,1998,Potato,223302,21.29,51.0
+Egypt,1999,Potato,232915,21.46,51.0
+Egypt,2000,Potato,235931,20.74,51.0
+Egypt,2001,Potato,238739,21.45,51.0
+Egypt,2002,Potato,240382,21.46,51.0
+Egypt,2004,Potato,244443,21.06,51.0
+Egypt,2005,Potato,250826,21.08,51.0
+Egypt,2006,Potato,250085,21.15,51.0
+Egypt,2007,Potato,255717,21.51,51.0
+Egypt,2008,Potato,259390,21.74,51.0
+Egypt,2009,Potato,264241,21.67,51.0
+Egypt,2010,Potato,259211,22.46,51.0
+Egypt,2011,Potato,264311,21.18,51.0
+Egypt,2012,Potato,268531,21.55,51.0
+Egypt,2013,Potato,266276,21.44,51.0
+El Salvador,1985,Potato,97038,25.51,1784.0
+El Salvador,1986,Potato,97040,25.6,1784.0
+El Salvador,1987,Potato,95000,26.2,1784.0
+El Salvador,1989,Potato,145370,25.63,1784.0
+El Salvador,1990,Potato,140000,26.06,1784.0
+El Salvador,1991,Potato,144231,26.08,1784.0
+El Salvador,1992,Potato,144444,26.22,1784.0
+El Salvador,1993,Potato,141509,26.12,1784.0
+El Salvador,1994,Potato,140741,26.33,1784.0
+El Salvador,1995,Potato,140000,26.05,1784.0
+El Salvador,1996,Potato,157368,25.77,1784.0
+El Salvador,1997,Potato,139286,26.48,1784.0
+El Salvador,1998,Potato,215536,26.48,1784.0
+El Salvador,1999,Potato,210286,25.67,1784.0
+El Salvador,2000,Potato,231200,25.78,1784.0
+El Salvador,2001,Potato,229878,25.92,1784.0
+El Salvador,2002,Potato,236013,26.12,1784.0
+El Salvador,2004,Potato,288786,26.2,1784.0
+El Salvador,2005,Potato,221220,26.07,1784.0
+El Salvador,2006,Potato,220517,26.14,1784.0
+El Salvador,2007,Potato,218481,26.02,1784.0
+El Salvador,2008,Potato,218555,25.71,1784.0
+El Salvador,2009,Potato,252417,26.21,1784.0
+El Salvador,2010,Potato,252796,25.96,1784.0
+El Salvador,2011,Potato,196316,25.95,1784.0
+El Salvador,2012,Potato,295706,26.04,1784.0
+El Salvador,2013,Potato,426047,26.36,1784.0
+Eritrea,1993,Potato,82000,24.09,383.0
+Eritrea,1994,Potato,80659,24.13,383.0
+Eritrea,1995,Potato,79816,24.37,383.0
+Eritrea,1996,Potato,79592,24.36,383.0
+Eritrea,1997,Potato,80769,24.32,383.0
+Eritrea,1998,Potato,83333,24.78,383.0
+Eritrea,1999,Potato,80000,24.68,383.0
+Eritrea,2000,Potato,70012,24.76,383.0
+Eritrea,2001,Potato,58050,24.61,383.0
+Eritrea,2002,Potato,61120,24.86,383.0
+Eritrea,2004,Potato,64000,24.79,383.0
+Eritrea,2005,Potato,79311,24.85,383.0
+Eritrea,2006,Potato,78493,24.7,383.0
+Eritrea,2007,Potato,24508,24.7,383.0
+Eritrea,2008,Potato,8406,24.79,383.0
+Eritrea,2009,Potato,12000,25.3,383.0
+Eritrea,2010,Potato,15729,25.22,383.0
+Eritrea,2011,Potato,18180,24.78,383.0
+Eritrea,2012,Potato,14209,25.16,383.0
+Eritrea,2013,Potato,12819,25.87,383.0
+Estonia,1992,Potato,144514,6.51,626.0
+Estonia,1993,Potato,126432,5.26,626.0
+Estonia,1994,Potato,140959,5.35,626.0
+Estonia,1995,Potato,145590,6.23,626.0
+Estonia,1996,Potato,141758,4.63,626.0
+Estonia,1997,Potato,124153,5.95,626.0
+Estonia,1998,Potato,97147,5.5,626.0
+Estonia,1999,Potato,129807,6.55,626.0
+Estonia,2000,Potato,152654,7.12,626.0
+Estonia,2001,Potato,155249,6.08,626.0
+Estonia,2002,Potato,131599,6.34,626.0
+Estonia,2004,Potato,103416,6.03,626.0
+Estonia,2005,Potato,150277,6.04,626.0
+Estonia,2006,Potato,132608,6.7,626.0
+Estonia,2007,Potato,171977,6.97,626.0
+Estonia,2008,Potato,142273,7.39,626.0
+Estonia,2009,Potato,152752,6.14,626.0
+Estonia,2010,Potato,174562,5.06,626.0
+Estonia,2011,Potato,178361,6.98,626.0
+Estonia,2012,Potato,182175,5.57,626.0
+Estonia,2013,Potato,193558,7.28,626.0
+Finland,1985,Potato,179619,2.81,536.0
+Finland,1986,Potato,196244,4.25,536.0
+Finland,1987,Potato,117626,2.58,536.0
+Finland,1989,Potato,219040,6.67,536.0
+Finland,1990,Potato,214976,6.07,536.0
+Finland,1991,Potato,185663,5.62,536.0
+Finland,1992,Potato,192894,5.8,536.0
+Finland,1993,Potato,213516,4.74,536.0
+Finland,1994,Potato,198795,4.66,536.0
+Finland,1995,Potato,221053,5.63,536.0
+Finland,1996,Potato,220029,4.2,536.0
+Finland,1997,Potato,227139,5.36,536.0
+Finland,1998,Potato,180091,4.71,536.0
+Finland,1999,Potato,244923,5.7,536.0
+Finland,2000,Potato,243851,6.57,536.0
+Finland,2001,Potato,244267,5.35,536.0
+Finland,2002,Potato,261779,5.54,536.0
+Finland,2004,Potato,226886,5.4,536.0
+Finland,2005,Potato,256990,5.8,536.0
+Finland,2006,Potato,205607,5.91,536.0
+Finland,2007,Potato,256996,6.23,536.0
+Finland,2008,Potato,261221,6.77,536.0
+Finland,2009,Potato,286098,5.49,536.0
+Finland,2010,Potato,261548,4.36,536.0
+Finland,2011,Potato,275943,6.38,536.0
+Finland,2012,Potato,236522,5.12,536.0
+Finland,2013,Potato,281312,6.17,536.0
+France,1985,Potato,324458,9.87,867.0
+France,1986,Potato,310826,10.17,867.0
+France,1987,Potato,348837,10.05,867.0
+France,1989,Potato,285082,11.77,867.0
+France,1990,Potato,290790,11.96,867.0
+France,1991,Potato,321625,10.6,867.0
+France,1992,Potato,365434,11.15,867.0
+France,1993,Potato,360076,10.7,867.0
+France,1994,Potato,335302,11.96,867.0
+France,1995,Potato,347354,11.69,867.0
+France,1996,Potato,361751,10.14,867.0
+France,1997,Potato,397848,11.59,867.0
+France,1998,Potato,373559,11.25,867.0
+France,1999,Potato,397361,11.83,867.0
+France,2000,Potato,395987,11.74,867.0
+France,2001,Potato,374385,11.37,867.0
+France,2002,Potato,423804,11.87,867.0
+France,2004,Potato,454162,11.34,867.0
+France,2005,Potato,422227,11.55,867.0
+France,2006,Potato,401909,11.79,867.0
+France,2007,Potato,453347,11.75,867.0
+France,2008,Potato,435194,11.28,867.0
+France,2009,Potato,437856,11.46,867.0
+France,2010,Potato,421566,10.41,867.0
+France,2011,Potato,468991,12.33,867.0
+France,2012,Potato,413769,11.22,867.0
+France,2013,Potato,431560,11.01,867.0
+Gabon,1985,Maize,14444,26.1,1831.0
+Gabon,1986,Maize,14510,25.98,1831.0
+Gabon,1987,Maize,15766,26.55,1831.0
+Gabon,1989,Maize,14446,26.17,1831.0
+Gabon,1990,Maize,15768,26.31,1831.0
+Gabon,1991,Maize,16912,26.27,1831.0
+Gabon,1992,Maize,15397,25.95,1831.0
+Gabon,1993,Maize,15835,26.27,1831.0
+Gabon,1994,Maize,16503,26.33,1831.0
+Gabon,1995,Maize,15471,26.68,1831.0
+Gabon,1996,Maize,15802,26.25,1831.0
+Gabon,1997,Maize,15484,26.37,1831.0
+Gabon,1998,Maize,15712,27.06,1831.0
+Gabon,1999,Maize,15858,26.44,1831.0
+Gabon,2000,Maize,16188,26.3,1831.0
+Gabon,2001,Maize,15242,26.27,1831.0
+Gabon,2002,Maize,14286,26.61,1831.0
+Gabon,2004,Maize,15478,26.63,1831.0
+Gabon,2005,Maize,15570,26.64,1831.0
+Gabon,2006,Maize,15610,26.86,1831.0
+Gabon,2007,Maize,16500,26.86,1831.0
+Gabon,2008,Maize,15894,26.78,1831.0
+Gabon,2009,Maize,15721,26.97,1831.0
+Gabon,2010,Maize,15772,26.9,1831.0
+Gabon,2011,Maize,15774,26.63,1831.0
+Gabon,2012,Maize,15776,26.62,1831.0
+Gabon,2013,Maize,15777,26.73,1831.0
+Georgia,1992,Potato,96256,7.44,1026.0
+Georgia,1993,Potato,117820,7.69,1026.0
+Georgia,1994,Potato,123708,8.84,1026.0
+Georgia,1995,Potato,152284,9.76,1026.0
+Georgia,1996,Potato,121532,9.55,1026.0
+Georgia,1997,Potato,120890,9.1,1026.0
+Georgia,1998,Potato,106323,10.28,1026.0
+Georgia,1999,Potato,130003,10.11,1026.0
+Georgia,2000,Potato,88911,9.68,1026.0
+Georgia,2001,Potato,115597,10.18,1026.0
+Georgia,2002,Potato,113615,9.41,1026.0
+Georgia,2004,Potato,113481,9.55,1026.0
+Georgia,2005,Potato,108613,9.58,1026.0
+Georgia,2006,Potato,73991,9.89,1026.0
+Georgia,2007,Potato,108113,9.44,1026.0
+Georgia,2008,Potato,80921,9.51,1026.0
+Georgia,2009,Potato,120444,9.67,1026.0
+Georgia,2010,Potato,110531,11.31,1026.0
+Georgia,2011,Potato,135594,8.93,1026.0
+Georgia,2012,Potato,98054,10.2,1026.0
+Georgia,2013,Potato,114517,11.08,1026.0
+Germany,1985,Potato,293253,8.46,700.0
+Germany,1986,Potato,262585,8.78,700.0
+Germany,1987,Potato,292206,8.09,700.0
+Germany,1989,Potato,264966,10.72,700.0
+Germany,1990,Potato,257764,10.71,700.0
+Germany,1991,Potato,298464,9.36,700.0
+Germany,1992,Potato,301928,10.38,700.0
+Germany,1993,Potato,392539,9.34,700.0
+Germany,1994,Potato,329512,10.43,700.0
+Germany,1995,Potato,314059,9.75,700.0
+Germany,1996,Potato,390096,7.88,700.0
+Germany,1997,Potato,384055,9.73,700.0
+Germany,1998,Potato,381394,10.05,700.0
+Germany,1999,Potato,374989,10.58,700.0
+Germany,2000,Potato,433437,10.96,700.0
+Germany,2001,Potato,407758,9.69,700.0
+Germany,2002,Potato,391226,10.26,700.0
+Germany,2004,Potato,441756,9.82,700.0
+Germany,2005,Potato,419798,9.92,700.0
+Germany,2006,Potato,365680,10.55,700.0
+Germany,2007,Potato,423470,10.88,700.0
+Germany,2008,Potato,437606,10.66,700.0
+Germany,2009,Potato,443045,10.06,700.0
+Germany,2010,Potato,398758,8.61,700.0
+Germany,2011,Potato,457565,10.56,700.0
+Germany,2012,Potato,447570,9.96,700.0
+Germany,2013,Potato,398258,10.12,700.0
+Ghana,1985,Maize,10086,26.46,1187.0
+Ghana,1986,Maize,11845,26.5,1187.0
+Ghana,1987,Maize,10907,27.44,1187.0
+Ghana,1989,Maize,12610,26.61,1187.0
+Ghana,1990,Maize,11889,26.73,1187.0
+Ghana,1991,Maize,15260,26.6,1187.0
+Ghana,1992,Maize,12040,26.47,1187.0
+Ghana,1993,Maize,15092,26.67,1187.0
+Ghana,1994,Maize,14933,26.62,1187.0
+Ghana,1995,Maize,15020,26.87,1187.0
+Ghana,1996,Maize,15153,26.61,1187.0
+Ghana,1997,Maize,15285,26.58,1187.0
+Ghana,1998,Maize,14850,27.28,1187.0
+Ghana,1999,Maize,14557,26.74,1187.0
+Ghana,2000,Maize,14578,26.83,1187.0
+Ghana,2001,Maize,13150,26.76,1187.0
+Ghana,2002,Maize,14900,26.92,1187.0
+Ghana,2004,Maize,15794,27.02,1187.0
+Ghana,2005,Maize,15613,27.06,1187.0
+Ghana,2006,Maize,14994,27.1,1187.0
+Ghana,2007,Maize,15437,27.16,1187.0
+Ghana,2008,Maize,17371,26.98,1187.0
+Ghana,2009,Maize,16969,27.14,1187.0
+Ghana,2010,Maize,18874,27.57,1187.0
+Ghana,2011,Maize,16458,27.11,1187.0
+Ghana,2012,Maize,18712,26.86,1187.0
+Ghana,2013,Maize,17240,27.24,1187.0
+Greece,1985,Potato,182857,17.82,652.0
+Greece,1986,Potato,185455,17.82,652.0
+Greece,1987,Potato,182959,17.32,652.0
+Greece,1989,Potato,205000,17.48,652.0
+Greece,1990,Potato,189470,18.05,652.0
+Greece,1991,Potato,202182,17.07,652.0
+Greece,1992,Potato,204323,17.13,652.0
+Greece,1993,Potato,202484,17.53,652.0
+Greece,1994,Potato,200479,18.47,652.0
+Greece,1995,Potato,200585,17.82,652.0
+Greece,1996,Potato,200578,17.46,652.0
+Greece,1997,Potato,191769,17.35,652.0
+Greece,1998,Potato,202472,18.15,652.0
+Greece,1999,Potato,199050,18.82,652.0
+Greece,2000,Potato,207228,18.2,652.0
+Greece,2001,Potato,204626,18.67,652.0
+Greece,2002,Potato,193885,18.33,652.0
+Greece,2004,Potato,202638,18.07,652.0
+Greece,2005,Potato,200680,17.91,652.0
+Greece,2006,Potato,198412,17.78,652.0
+Greece,2007,Potato,206388,18.67,652.0
+Greece,2008,Potato,201148,18.61,652.0
+Greece,2009,Potato,207007,18.52,652.0
+Greece,2010,Potato,206835,19.3,652.0
+Greece,2011,Potato,202160,17.67,652.0
+Greece,2012,Potato,199165,18.82,652.0
+Greece,2013,Potato,206787,19.36,652.0
+Guatemala,1985,Potato,63415,19.35,1996.0
+Guatemala,1986,Potato,64358,19.45,1996.0
+Guatemala,1987,Potato,65780,19.79,1996.0
+Guatemala,1989,Potato,180228,19.33,1996.0
+Guatemala,1990,Potato,210685,19.64,1996.0
+Guatemala,1991,Potato,207137,19.91,1996.0
+Guatemala,1992,Potato,204371,19.89,1996.0
+Guatemala,1993,Potato,207000,19.85,1996.0
+Guatemala,1994,Potato,208248,20.08,1996.0
+Guatemala,1995,Potato,207000,19.98,1996.0
+Guatemala,1996,Potato,209629,19.48,1996.0
+Guatemala,1997,Potato,212213,20.16,1996.0
+Guatemala,1998,Potato,213250,20.36,1996.0
+Guatemala,1999,Potato,215496,19.44,1996.0
+Guatemala,2000,Potato,224631,19.47,1996.0
+Guatemala,2001,Potato,367969,19.62,1996.0
+Guatemala,2002,Potato,335861,19.93,1996.0
+Guatemala,2004,Potato,255804,19.85,1996.0
+Guatemala,2005,Potato,268403,19.99,1996.0
+Guatemala,2006,Potato,248346,19.88,1996.0
+Guatemala,2007,Potato,250489,19.9,1996.0
+Guatemala,2008,Potato,242863,19.51,1996.0
+Guatemala,2009,Potato,252535,19.99,1996.0
+Guatemala,2010,Potato,252547,19.85,1996.0
+Guatemala,2011,Potato,255064,19.85,1996.0
+Guatemala,2012,Potato,249536,19.88,1996.0
+Guatemala,2013,Potato,247554,20.37,1996.0
+Guinea,1985,Sorghum,13913,26.82,1651.0
+Guinea,1986,Sorghum,13913,26.68,1651.0
+Guinea,1987,Sorghum,14000,27.35,1651.0
+Guinea,1989,Sorghum,17167,26.9,1651.0
+Guinea,1990,Sorghum,16420,27.08,1651.0
+Guinea,1991,Sorghum,15715,27.22,1651.0
+Guinea,1992,Sorghum,15038,27.02,1651.0
+Guinea,1993,Sorghum,14390,27.25,1651.0
+Guinea,1994,Sorghum,13768,27.03,1651.0
+Guinea,1995,Sorghum,13174,27.23,1651.0
+Guinea,1996,Sorghum,12605,27.33,1651.0
+Guinea,1997,Maize,12870,27.3,1651.0
+Guinea,1998,Maize,13308,27.63,1651.0
+Guinea,1999,Maize,13761,27.12,1651.0
+Guinea,2000,Maize,14230,27.12,1651.0
+Guinea,2001,Maize,14430,27.36,1651.0
+Guinea,2002,Maize,14664,27.53,1651.0
+Guinea,2004,Potato,61356,27.56,1651.0
+Guinea,2005,Potato,63603,27.66,1651.0
+Guinea,2006,Potato,61011,27.2,1651.0
+Guinea,2007,Potato,59380,27.28,1651.0
+Guinea,2008,Potato,65720,27.61,1651.0
+Guinea,2009,Potato,89880,27.37,1651.0
+Guinea,2010,Potato,59840,27.8,1651.0
+Guinea,2011,Potato,56960,27.51,1651.0
+Guinea,2012,Potato,68229,27.28,1651.0
+Guinea,2013,Potato,75236,27.29,1651.0
+Guyana,1985,Maize,10000,26.61,2387.0
+Guyana,1986,Maize,10639,26.83,2387.0
+Guyana,1987,Maize,12357,27.55,2387.0
+Guyana,1989,Maize,11538,26.84,2387.0
+Guyana,1990,Maize,15666,27.07,2387.0
+Guyana,1991,Maize,13555,26.95,2387.0
+Guyana,1992,Maize,12075,27.13,2387.0
+Guyana,1993,Maize,12069,26.95,2387.0
+Guyana,1994,Maize,11786,27.12,2387.0
+Guyana,1995,Maize,13177,27.57,2387.0
+Guyana,1996,Maize,11481,27.11,2387.0
+Guyana,1997,Maize,30385,27.25,2387.0
+Guyana,1998,Maize,15707,27.71,2387.0
+Guyana,1999,Maize,15005,27.16,2387.0
+Guyana,2000,Maize,12352,27.05,2387.0
+Guyana,2001,Maize,12644,27.27,2387.0
+Guyana,2002,Maize,14207,27.17,2387.0
+Guyana,2004,Maize,12500,27.45,2387.0
+Guyana,2005,Maize,12500,27.71,2387.0
+Guyana,2006,Maize,10000,27.49,2387.0
+Guyana,2007,Maize,17174,27.3,2387.0
+Guyana,2008,Maize,13333,27.31,2387.0
+Guyana,2009,Maize,13476,27.67,2387.0
+Guyana,2010,Maize,13773,27.87,2387.0
+Guyana,2011,Maize,13868,27.43,2387.0
+Guyana,2012,Maize,13854,27.42,2387.0
+Guyana,2013,Maize,13841,27.3,2387.0
+Haiti,1985,Potato,166667,26.69,1440.0
+Haiti,1986,Potato,166667,26.82,1440.0
+Haiti,1987,Potato,166667,27.1,1440.0
+Haiti,1989,Potato,150000,26.84,1440.0
+Haiti,1990,Potato,109308,27.11,1440.0
+Haiti,1991,Potato,142771,27.01,1440.0
+Haiti,1992,Potato,145455,26.81,1440.0
+Haiti,1993,Potato,150000,26.78,1440.0
+Haiti,1994,Potato,146259,27.28,1440.0
+Haiti,1995,Potato,143353,27.3,1440.0
+Haiti,1996,Potato,140000,26.85,1440.0
+Haiti,1997,Potato,133760,27.74,1440.0
+Haiti,1998,Potato,127059,27.57,1440.0
+Haiti,1999,Potato,122222,27.01,1440.0
+Haiti,2000,Potato,120000,26.76,1440.0
+Haiti,2001,Potato,129412,27.21,1440.0
+Haiti,2002,Potato,127500,27.42,1440.0
+Haiti,2004,Potato,127778,27.37,1440.0
+Haiti,2005,Potato,130000,27.35,1440.0
+Haiti,2006,Potato,130461,27.41,1440.0
+Haiti,2007,Potato,131818,27.47,1440.0
+Haiti,2008,Potato,130435,27.08,1440.0
+Haiti,2009,Potato,125000,27.35,1440.0
+Haiti,2010,Potato,121373,27.19,1440.0
+Haiti,2011,Potato,126448,27.1,1440.0
+Haiti,2012,Potato,127191,27.2,1440.0
+Haiti,2013,Potato,127142,27.2,1440.0
+Honduras,1985,Potato,124444,24.18,1976.0
+Honduras,1986,Potato,124211,24.13,1976.0
+Honduras,1987,Potato,126316,24.73,1976.0
+Honduras,1989,Potato,132693,24.13,1976.0
+Honduras,1990,Potato,113100,24.53,1976.0
+Honduras,1991,Potato,126721,24.61,1976.0
+Honduras,1992,Potato,168751,24.77,1976.0
+Honduras,1993,Potato,114676,24.58,1976.0
+Honduras,1994,Potato,107494,24.87,1976.0
+Honduras,1995,Potato,108075,24.95,1976.0
+Honduras,1996,Potato,128591,24.39,1976.0
+Honduras,1997,Potato,132505,25.03,1976.0
+Honduras,1998,Potato,129694,25.37,1976.0
+Honduras,1999,Potato,105190,24.41,1976.0
+Honduras,2000,Potato,163204,24.43,1976.0
+Honduras,2001,Potato,170700,24.4,1976.0
+Honduras,2002,Potato,165543,24.61,1976.0
+Honduras,2004,Potato,172745,24.68,1976.0
+Honduras,2005,Potato,161908,24.77,1976.0
+Honduras,2006,Potato,162963,24.88,1976.0
+Honduras,2007,Potato,181923,24.55,1976.0
+Honduras,2008,Potato,210827,24.25,1976.0
+Honduras,2009,Potato,166654,24.77,1976.0
+Honduras,2010,Potato,146252,24.49,1976.0
+Honduras,2011,Potato,159629,24.63,1976.0
+Honduras,2012,Potato,142073,24.47,1976.0
+Honduras,2013,Potato,163465,24.86,1976.0
+Hungary,1985,Potato,196211,9.11,589.0
+Hungary,1986,Potato,186627,9.88,589.0
+Hungary,1987,Potato,160083,9.58,589.0
+Hungary,1989,Potato,186010,10.64,589.0
+Hungary,1990,Potato,170773,10.96,589.0
+Hungary,1991,Potato,144746,9.66,589.0
+Hungary,1992,Potato,168500,11.01,589.0
+Hungary,1993,Potato,133100,10.22,589.0
+Hungary,1994,Potato,127672,11.58,589.0
+Hungary,1995,Potato,157750,10.34,589.0
+Hungary,1996,Potato,212007,9.44,589.0
+Hungary,1997,Potato,179341,9.89,589.0
+Hungary,1998,Potato,218042,10.35,589.0
+Hungary,1999,Potato,212423,10.64,589.0
+Hungary,2000,Potato,184736,11.69,589.0
+Hungary,2001,Potato,250499,10.47,589.0
+Hungary,2002,Potato,221222,11.43,589.0
+Hungary,2004,Potato,253210,10.37,589.0
+Hungary,2005,Potato,258776,10.05,589.0
+Hungary,2006,Potato,249942,10.67,589.0
+Hungary,2007,Potato,221693,11.82,589.0
+Hungary,2008,Potato,269012,11.55,589.0
+Hungary,2009,Potato,251082,11.48,589.0
+Hungary,2010,Potato,217319,10.35,589.0
+Hungary,2011,Potato,285714,10.92,589.0
+Hungary,2012,Potato,218385,11.31,589.0
+Hungary,2013,Potato,232630,12.44,589.0
+India,1985,Potato,148064,25.83,1940.0
+India,1986,Potato,123639,25.44,1083.0
+India,1987,Potato,153221,26.43,1083.0
+India,1989,Potato,159290,25.47,1083.0
+India,1990,Potato,157136,25.58,1083.0
+India,1991,Potato,162540,25.85,1083.0
+India,1992,Potato,160294,25.69,1083.0
+India,1993,Potato,149024,25.88,1083.0
+India,1994,Potato,166101,25.75,1083.0
+India,1995,Potato,162720,25.86,1083.0
+India,1996,Potato,169913,25.63,1083.0
+India,1997,Potato,193913,24.92,1083.0
+India,1998,Potato,146020,25.91,1083.0
+India,1999,Potato,175712,26.12,1083.0
+India,2000,Potato,186443,25.98,1083.0
+India,2001,Potato,183627,25.76,1083.0
+India,2002,Potato,194173,26.66,1083.0
+India,2004,Potato,188091,26.11,1083.0
+India,2005,Potato,188908,25.85,1083.0
+India,2006,Potato,185920,26.34,1083.0
+India,2007,Potato,164101,26.0,1083.0
+India,2008,Potato,192973,25.57,1083.0
+India,2009,Potato,188103,26.55,1083.0
+India,2010,Potato,199299,26.51,1083.0
+India,2011,Potato,227240,25.53,1083.0
+India,2012,Potato,217530,25.86,1083.0
+India,2013,Potato,227606,26.69,1083.0
+Indonesia,1985,Potato,115247,25.19,2702.0
+Indonesia,1986,Potato,120085,25.0,2702.0
+Indonesia,1987,Potato,115232,25.46,2702.0
+Indonesia,1989,Potato,142598,25.19,2702.0
+Indonesia,1990,Potato,141637,25.37,2702.0
+Indonesia,1991,Potato,132721,25.27,2702.0
+Indonesia,1992,Potato,143819,25.17,2702.0
+Indonesia,1993,Potato,158338,25.46,2702.0
+Indonesia,1994,Potato,156474,25.21,2702.0
+Indonesia,1995,Potato,165939,25.46,2702.0
+Indonesia,1996,Potato,158631,25.41,2702.0
+Indonesia,1997,Potato,162061,25.52,2702.0
+Indonesia,1998,Potato,153432,25.81,2702.0
+Indonesia,1999,Potato,147199,25.26,2702.0
+Indonesia,2000,Potato,133759,25.46,2702.0
+Indonesia,2001,Potato,148495,25.43,2702.0
+Indonesia,2002,Potato,155903,25.64,2702.0
+Indonesia,2004,Potato,163870,25.67,2702.0
+Indonesia,2005,Potato,164014,25.59,2702.0
+Indonesia,2006,Potato,169363,25.66,2702.0
+Indonesia,2007,Potato,160919,25.5,2702.0
+Indonesia,2008,Potato,166719,25.32,2702.0
+Indonesia,2009,Potato,165123,25.54,2702.0
+Indonesia,2010,Potato,159445,25.57,2702.0
+Indonesia,2011,Potato,159562,25.38,2702.0
+Indonesia,2012,Potato,165820,25.59,2702.0
+Indonesia,2013,Potato,160184,25.48,2702.0
+Iraq,1985,Potato,170218,23.02,216.0
+Iraq,1986,Potato,160767,23.15,216.0
+Iraq,1987,Potato,158679,23.54,216.0
+Iraq,1989,Potato,174700,23.05,216.0
+Iraq,1990,Potato,166681,23.41,216.0
+Iraq,1991,Potato,138029,23.21,216.0
+Iraq,1992,Potato,179167,21.52,216.0
+Iraq,1993,Potato,174739,22.86,216.0
+Iraq,1994,Potato,166360,23.47,216.0
+Iraq,1995,Potato,160385,23.32,216.0
+Iraq,1996,Potato,177576,23.96,216.0
+Iraq,1997,Potato,154474,22.74,216.0
+Iraq,1998,Potato,155263,24.33,216.0
+Iraq,1999,Potato,164972,24.42,216.0
+Iraq,2000,Potato,140645,23.9,216.0
+Iraq,2001,Potato,163947,24.45,216.0
+Iraq,2002,Potato,170047,23.76,216.0
+Iraq,2004,Potato,162581,23.72,216.0
+Iraq,2005,Potato,158431,23.58,216.0
+Iraq,2006,Potato,176444,23.82,216.0
+Iraq,2007,Potato,179580,23.92,216.0
+Iraq,2008,Potato,105689,24.09,216.0
+Iraq,2009,Potato,113307,23.87,216.0
+Iraq,2010,Potato,157177,25.49,216.0
+Iraq,2011,Potato,137820,23.44,216.0
+Iraq,2012,Potato,134713,24.34,216.0
+Iraq,2013,Potato,170599,25.14,216.0
+Ireland,1985,Potato,207879,8.34,1118.0
+Ireland,1986,Potato,202951,8.03,1118.0
+Ireland,1987,Potato,230033,8.66,1118.0
+Ireland,1989,Potato,224291,9.57,1118.0
+Ireland,1990,Potato,248971,9.59,1118.0
+Ireland,1991,Potato,278537,9.07,1118.0
+Ireland,1992,Potato,288688,9.07,1118.0
+Ireland,1993,Potato,263426,8.85,1118.0
+Ireland,1994,Potato,300000,9.13,1118.0
+Ireland,1995,Potato,275893,9.75,1118.0
+Ireland,1996,Potato,301646,8.85,1118.0
+Ireland,1997,Potato,259341,9.95,1118.0
+Ireland,1998,Potato,260541,9.71,1118.0
+Ireland,1999,Potato,319429,9.75,1118.0
+Ireland,2000,Potato,336889,9.43,1118.0
+Ireland,2001,Potato,333986,9.27,1118.0
+Ireland,2002,Potato,336753,9.75,1118.0
+Ireland,2004,Potato,415188,9.77,1118.0
+Ireland,2005,Potato,346780,9.91,1118.0
+Ireland,2006,Potato,332957,10.0,1118.0
+Ireland,2007,Potato,341026,10.11,1118.0
+Ireland,2008,Potato,307946,9.42,1118.0
+Ireland,2009,Potato,275492,9.47,1118.0
+Ireland,2010,Potato,343934,8.38,1118.0
+Ireland,2011,Potato,342404,9.76,1118.0
+Ireland,2012,Potato,257778,9.28,1118.0
+Ireland,2013,Potato,383271,9.28,1118.0
+Italy,1985,Potato,174411,6.87,832.0
+Italy,1986,Potato,191003,7.12,832.0
+Italy,1987,Potato,187648,7.19,832.0
+Italy,1989,Potato,197158,7.86,832.0
+Italy,1990,Potato,191624,7.97,832.0
+Italy,1991,Potato,200113,7.28,832.0
+Italy,1992,Potato,226592,7.76,832.0
+Italy,1993,Potato,224567,7.43,832.0
+Italy,1994,Potato,233775,8.39,832.0
+Italy,1995,Potato,232893,7.43,832.0
+Italy,1996,Potato,224667,7.06,832.0
+Italy,1997,Potato,222609,8.18,832.0
+Italy,1998,Potato,243418,7.77,832.0
+Italy,1999,Potato,241843,7.64,832.0
+Italy,2000,Potato,250695,8.13,832.0
+Italy,2001,Potato,250910,7.83,832.0
+Italy,2002,Potato,240997,8.15,832.0
+Italy,2004,Potato,251485,7.74,832.0
+Italy,2005,Potato,250819,7.33,832.0
+Italy,2006,Potato,246070,8.15,832.0
+Italy,2007,Potato,256304,8.4,832.0
+Italy,2008,Potato,227242,7.91,832.0
+Italy,2009,Potato,248352,8.11,832.0
+Italy,2010,Potato,249684,7.05,832.0
+Italy,2011,Potato,249158,8.68,832.0
+Italy,2012,Potato,254511,8.05,832.0
+Italy,2013,Potato,252483,8.04,832.0
+Jamaica,1985,Potato,113381,26.8,2051.0
+Jamaica,1986,Potato,88152,26.89,2051.0
+Jamaica,1987,Potato,119079,27.42,2051.0
+Jamaica,1989,Potato,116448,26.97,2051.0
+Jamaica,1990,Potato,122818,27.28,2051.0
+Jamaica,1991,Potato,91380,27.24,2051.0
+Jamaica,1992,Potato,111138,27.25,2051.0
+Jamaica,1993,Potato,119399,27.02,2051.0
+Jamaica,1994,Potato,143052,27.48,2051.0
+Jamaica,1995,Potato,144129,27.4,2051.0
+Jamaica,1996,Potato,146076,26.98,2051.0
+Jamaica,1997,Potato,147392,27.8,2051.0
+Jamaica,1998,Potato,147897,27.8,2051.0
+Jamaica,1999,Potato,157082,27.12,2051.0
+Jamaica,2000,Potato,141042,26.96,2051.0
+Jamaica,2001,Potato,144634,27.27,2051.0
+Jamaica,2002,Potato,148595,27.51,2051.0
+Jamaica,2004,Potato,156346,27.47,2051.0
+Jamaica,2005,Potato,156141,27.34,2051.0
+Jamaica,2006,Potato,166966,27.58,2051.0
+Jamaica,2007,Potato,164330,27.61,2051.0
+Jamaica,2008,Potato,164849,27.17,2051.0
+Jamaica,2009,Potato,169416,27.42,2051.0
+Jamaica,2010,Potato,142411,27.09,2051.0
+Jamaica,2011,Potato,190236,27.17,2051.0
+Jamaica,2012,Potato,165440,27.51,2051.0
+Jamaica,2013,Potato,165914,27.41,2051.0
+Japan,1985,Potato,286252,15.48,1668.0
+Japan,1986,Potato,313067,14.81,1668.0
+Japan,1987,Potato,310204,15.65,1668.0
+Japan,1989,Potato,299416,15.77,1668.0
+Japan,1990,Potato,306736,16.4,1668.0
+Japan,1991,Potato,322809,15.6,1668.0
+Japan,1992,Potato,313645,15.63,1668.0
+Japan,1993,Potato,304856,14.93,1668.0
+Japan,1994,Potato,312107,16.33,1668.0
+Japan,1995,Potato,323558,15.25,1668.0
+Japan,1996,Potato,299709,15.2,1668.0
+Japan,1997,Potato,307549,15.76,1668.0
+Japan,1998,Potato,307608,16.72,1668.0
+Japan,1999,Potato,303275,15.93,1668.0
+Japan,2000,Potato,306342,15.92,1668.0
+Japan,2001,Potato,318172,15.86,1668.0
+Japan,2002,Potato,334130,16.09,1668.0
+Japan,2004,Potato,330734,16.56,1668.0
+Japan,2005,Potato,316341,15.75,1668.0
+Japan,2006,Potato,304273,15.87,1668.0
+Japan,2007,Potato,340000,16.53,1668.0
+Japan,2008,Potato,323086,15.96,1668.0
+Japan,2009,Potato,295909,15.93,1668.0
+Japan,2010,Potato,277576,16.12,1668.0
+Japan,2011,Potato,294691,15.71,1668.0
+Japan,2012,Potato,307882,15.53,1668.0
+Japan,2013,Potato,302133,16.54,1668.0
+Kazakhstan,1992,Potato,105923,6.2,250.0
+Kazakhstan,1993,Potato,96200,5.51,250.0
+Kazakhstan,1994,Potato,95739,6.04,250.0
+Kazakhstan,1995,Potato,84589,6.53,250.0
+Kazakhstan,1996,Potato,88347,5.98,250.0
+Kazakhstan,1997,Potato,84078,7.53,250.0
+Kazakhstan,1998,Potato,76679,6.94,250.0
+Kazakhstan,1999,Potato,107532,7.09,250.0
+Kazakhstan,2000,Potato,106383,7.26,250.0
+Kazakhstan,2001,Potato,132897,7.23,250.0
+Kazakhstan,2002,Potato,139278,7.4,250.0
+Kazakhstan,2004,Potato,134485,7.52,250.0
+Kazakhstan,2005,Potato,150135,7.07,250.0
+Kazakhstan,2006,Potato,153851,7.65,250.0
+Kazakhstan,2007,Potato,155792,7.78,250.0
+Kazakhstan,2008,Potato,144356,7.25,250.0
+Kazakhstan,2009,Potato,162092,6.77,250.0
+Kazakhstan,2010,Potato,143194,6.96,250.0
+Kazakhstan,2011,Potato,167176,6.54,250.0
+Kazakhstan,2012,Potato,165927,6.07,250.0
+Kazakhstan,2013,Potato,181522,8.71,250.0
+Kenya,1985,Potato,61761,16.24,630.0
+Kenya,1986,Potato,63959,16.53,630.0
+Kenya,1987,Potato,49603,17.19,630.0
+Kenya,1989,Potato,94304,15.91,630.0
+Kenya,1990,Potato,88655,15.94,630.0
+Kenya,1991,Potato,113356,16.26,630.0
+Kenya,1992,Potato,92975,16.34,630.0
+Kenya,1993,Potato,117490,16.36,630.0
+Kenya,1994,Potato,97108,16.58,630.0
+Kenya,1995,Potato,96575,16.52,630.0
+Kenya,1996,Potato,75918,16.44,630.0
+Kenya,1997,Potato,70425,16.77,630.0
+Kenya,1998,Potato,75177,16.53,630.0
+Kenya,1999,Potato,91410,16.7,630.0
+Kenya,2000,Potato,61770,16.73,630.0
+Kenya,2001,Potato,91596,16.1,630.0
+Kenya,2002,Potato,77113,16.61,630.0
+Kenya,2004,Potato,84401,16.92,630.0
+Kenya,2005,Potato,200000,17.28,630.0
+Kenya,2006,Potato,200000,16.92,630.0
+Kenya,2007,Potato,200000,16.6,630.0
+Kenya,2008,Potato,214815,16.66,630.0
+Kenya,2009,Potato,191199,17.3,630.0
+Kenya,2010,Potato,224279,16.82,630.0
+Kenya,2011,Potato,191690,16.9,630.0
+Kenya,2012,Potato,203389,16.84,630.0
+Kenya,2013,Potato,144262,16.91,630.0
+Latvia,1992,Potato,120475,6.89,641.0
+Latvia,1993,Potato,145006,5.58,641.0
+Latvia,1994,Potato,129963,5.87,641.0
+Latvia,1995,Potato,114701,6.54,641.0
+Latvia,1996,Potato,137471,4.9,641.0
+Latvia,1997,Potato,135948,6.17,641.0
+Latvia,1998,Potato,118044,5.95,641.0
+Latvia,1999,Potato,158782,7.07,641.0
+Latvia,2000,Potato,145634,7.47,641.0
+Latvia,2001,Potato,111670,6.5,641.0
+Latvia,2002,Potato,143358,6.83,641.0
+Latvia,2004,Potato,128507,6.28,641.0
+Latvia,2005,Potato,145942,6.3,641.0
+Latvia,2006,Potato,122151,6.95,641.0
+Latvia,2007,Potato,159330,7.25,641.0
+Latvia,2008,Potato,178148,7.67,641.0
+Latvia,2009,Potato,175133,6.51,641.0
+Latvia,2010,Potato,160797,5.67,641.0
+Latvia,2011,Potato,168013,7.25,641.0
+Latvia,2012,Potato,191099,5.96,641.0
+Latvia,2013,Potato,181648,7.25,641.0
+Lebanon,1985,Potato,216139,19.45,661.0
+Lebanon,1986,Potato,224121,19.42,661.0
+Lebanon,1987,Potato,156629,19.09,661.0
+Lebanon,1989,Potato,178472,19.35,661.0
+Lebanon,1990,Potato,180927,19.4,661.0
+Lebanon,1991,Potato,201527,19.31,661.0
+Lebanon,1992,Potato,210345,18.18,661.0
+Lebanon,1993,Potato,203846,19.14,661.0
+Lebanon,1994,Potato,234268,19.93,661.0
+Lebanon,1995,Potato,238774,19.35,661.0
+Lebanon,1996,Potato,241493,19.65,661.0
+Lebanon,1997,Potato,220000,18.99,661.0
+Lebanon,1998,Potato,200000,20.19,661.0
+Lebanon,1999,Potato,190270,20.25,661.0
+Lebanon,2000,Potato,213178,19.65,661.0
+Lebanon,2001,Potato,215966,20.29,661.0
+Lebanon,2002,Potato,234970,19.91,661.0
+Lebanon,2004,Potato,255504,19.72,661.0
+Lebanon,2005,Potato,259594,19.68,661.0
+Lebanon,2006,Potato,200000,19.59,661.0
+Lebanon,2007,Potato,256020,20.04,661.0
+Lebanon,2008,Potato,256020,20.24,661.0
+Lebanon,2009,Potato,224868,20.19,661.0
+Lebanon,2010,Potato,238514,21.26,661.0
+Lebanon,2011,Potato,239130,19.67,661.0
+Lebanon,2012,Potato,233333,20.19,661.0
+Lebanon,2013,Potato,260759,20.08,661.0
+Lesotho,1985,Potato,155556,14.96,788.0
+Lesotho,1986,Potato,150000,14.78,788.0
+Lesotho,1987,Potato,152174,14.89,788.0
+Lesotho,1989,Potato,155172,14.09,788.0
+Lesotho,1990,Potato,176905,14.48,788.0
+Lesotho,1991,Potato,156250,14.66,788.0
+Lesotho,1992,Potato,148649,15.16,788.0
+Lesotho,1993,Potato,150000,14.95,788.0
+Lesotho,1994,Potato,155556,14.22,788.0
+Lesotho,1995,Potato,156169,14.55,788.0
+Lesotho,1996,Potato,157202,13.93,788.0
+Lesotho,1997,Potato,159574,14.28,788.0
+Lesotho,1998,Potato,160000,14.81,788.0
+Lesotho,1999,Potato,163462,15.34,788.0
+Lesotho,2000,Potato,164151,14.37,788.0
+Lesotho,2001,Potato,162963,14.62,788.0
+Lesotho,2002,Potato,162858,14.69,788.0
+Lesotho,2004,Potato,163654,14.91,788.0
+Lesotho,2005,Potato,164086,14.89,788.0
+Lesotho,2006,Potato,164720,14.18,788.0
+Lesotho,2007,Potato,166071,14.81,788.0
+Lesotho,2008,Potato,166379,14.74,788.0
+Lesotho,2009,Potato,159649,14.62,788.0
+Lesotho,2010,Potato,165000,15.23,788.0
+Lesotho,2011,Potato,164706,14.32,788.0
+Lesotho,2012,Potato,164286,14.62,788.0
+Lesotho,2013,Potato,173611,14.03,788.0
+Libya,1985,Potato,68750,19.33,56.0
+Libya,1986,Potato,68750,18.97,56.0
+Libya,1987,Potato,76250,19.07,56.0
+Libya,1989,Potato,74857,19.18,56.0
+Libya,1990,Potato,80556,19.6,56.0
+Libya,1991,Potato,81319,18.96,56.0
+Libya,1992,Potato,78947,19.03,56.0
+Libya,1993,Potato,85822,19.51,56.0
+Libya,1994,Potato,116667,19.86,56.0
+Libya,1995,Potato,165267,19.47,56.0
+Libya,1996,Potato,187273,19.24,56.0
+Libya,1997,Potato,174212,19.3,56.0
+Libya,1998,Potato,180000,19.75,56.0
+Libya,1999,Potato,249910,20.27,56.0
+Libya,2000,Potato,200000,19.59,56.0
+Libya,2001,Potato,195000,20.09,56.0
+Libya,2002,Potato,195000,19.96,56.0
+Libya,2004,Potato,195000,19.76,56.0
+Libya,2005,Potato,157629,19.48,56.0
+Libya,2006,Potato,195440,19.48,56.0
+Libya,2007,Potato,193333,19.87,56.0
+Libya,2008,Potato,193333,20.17,56.0
+Libya,2009,Potato,194380,19.93,56.0
+Libya,2010,Potato,193849,20.51,56.0
+Libya,2011,Potato,189247,19.44,56.0
+Libya,2012,Potato,189474,20.01,56.0
+Libya,2013,Potato,196667,19.93,56.0
+Lithuania,1992,Potato,94916,7.04,656.0
+Lithuania,1993,Potato,145414,5.79,656.0
+Lithuania,1994,Potato,94112,6.3,656.0
+Lithuania,1995,Potato,127992,6.68,656.0
+Lithuania,1996,Potato,163152,5.09,656.0
+Lithuania,1997,Potato,150974,6.29,656.0
+Lithuania,1998,Potato,135771,6.27,656.0
+Lithuania,1999,Potato,141049,7.31,656.0
+Lithuania,2000,Potato,163916,7.69,656.0
+Lithuania,2001,Potato,102868,6.75,656.0
+Lithuania,2002,Potato,154365,7.26,656.0
+Lithuania,2004,Potato,128802,6.43,656.0
+Lithuania,2005,Potato,120987,6.5,656.0
+Lithuania,2006,Potato,79083,6.98,656.0
+Lithuania,2007,Potato,109110,7.44,656.0
+Lithuania,2008,Potato,148017,7.84,656.0
+Lithuania,2009,Potato,142167,6.7,656.0
+Lithuania,2010,Potato,130301,6.14,656.0
+Lithuania,2011,Potato,155889,7.32,656.0
+Lithuania,2012,Potato,170776,6.31,656.0
+Lithuania,2013,Potato,148606,7.42,656.0
+Madagascar,1985,Potato,64647,19.17,1513.0
+Madagascar,1986,Potato,64681,19.13,1513.0
+Madagascar,1987,Potato,64687,19.77,1513.0
+Madagascar,1989,Potato,69666,19.36,1513.0
+Madagascar,1990,Potato,69744,19.62,1513.0
+Madagascar,1991,Potato,55983,19.79,1513.0
+Madagascar,1992,Potato,56560,19.76,1513.0
+Madagascar,1993,Potato,56429,19.95,1513.0
+Madagascar,1994,Potato,58442,19.96,1513.0
+Madagascar,1995,Potato,56853,19.96,1513.0
+Madagascar,1996,Potato,57166,19.71,1513.0
+Madagascar,1997,Potato,57377,19.97,1513.0
+Madagascar,1998,Potato,57377,20.11,1513.0
+Madagascar,1999,Potato,59388,19.82,1513.0
+Madagascar,2000,Potato,58269,19.65,1513.0
+Madagascar,2001,Potato,59661,20.12,1513.0
+Madagascar,2002,Potato,59621,20.14,1513.0
+Madagascar,2004,Potato,56139,19.87,1513.0
+Madagascar,2005,Potato,58561,20.05,1513.0
+Madagascar,2006,Potato,58565,20.09,1513.0
+Madagascar,2007,Potato,59881,20.02,1513.0
+Madagascar,2008,Potato,59912,19.79,1513.0
+Madagascar,2009,Potato,59915,20.13,1513.0
+Madagascar,2010,Potato,58940,20.31,1513.0
+Madagascar,2011,Potato,58963,20.33,1513.0
+Madagascar,2012,Potato,59267,19.78,1513.0
+Madagascar,2013,Potato,59375,19.34,1513.0
+Malawi,1985,Potato,71429,19.84,1181.0
+Malawi,1986,Potato,72093,20.09,1181.0
+Malawi,1987,Potato,99450,20.99,1181.0
+Malawi,1989,Potato,71942,20.15,1181.0
+Malawi,1990,Potato,102044,20.86,1181.0
+Malawi,1991,Potato,66730,20.4,1181.0
+Malawi,1992,Potato,135970,20.89,1181.0
+Malawi,1993,Potato,90947,20.43,1181.0
+Malawi,1994,Potato,85376,20.59,1181.0
+Malawi,1995,Potato,58002,20.86,1181.0
+Malawi,1996,Potato,90293,20.47,1181.0
+Malawi,1997,Potato,95765,20.62,1181.0
+Malawi,1998,Potato,104774,20.92,1181.0
+Malawi,1999,Potato,112207,20.26,1181.0
+Malawi,2000,Potato,114561,20.22,1181.0
+Malawi,2001,Potato,135370,20.59,1181.0
+Malawi,2002,Potato,126773,20.76,1181.0
+Malawi,2004,Potato,120873,20.44,1181.0
+Malawi,2005,Potato,90371,21.37,1181.0
+Malawi,2006,Potato,133445,20.63,1181.0
+Malawi,2007,Potato,151922,20.67,1181.0
+Malawi,2008,Potato,146009,20.42,1181.0
+Malawi,2009,Potato,161923,20.68,1181.0
+Malawi,2010,Potato,160600,21.34,1181.0
+Malawi,2011,Potato,159930,20.92,1181.0
+Malawi,2012,Potato,172009,20.42,1181.0
+Malawi,2013,Potato,175414,19.68,1181.0
+Malaysia,1985,Maize,16667,26.83,2875.0
+Malaysia,1986,Maize,17333,26.93,2875.0
+Malaysia,1987,Maize,17647,27.27,2875.0
+Malaysia,1989,Maize,17895,26.85,2875.0
+Malaysia,1990,Maize,17500,27.21,2875.0
+Malaysia,1991,Maize,17500,27.04,2875.0
+Malaysia,1992,Maize,17143,27.05,2875.0
+Malaysia,1993,Maize,19000,26.99,2875.0
+Malaysia,1994,Maize,20000,27.0,2875.0
+Malaysia,1995,Maize,18696,27.05,2875.0
+Malaysia,1996,Maize,18000,27.04,2875.0
+Malaysia,1997,Maize,18462,27.29,2875.0
+Malaysia,1998,Maize,18519,27.89,2875.0
+Malaysia,1999,Maize,21111,26.95,2875.0
+Malaysia,2000,Maize,24074,27.14,2875.0
+Malaysia,2001,Maize,30455,27.24,2875.0
+Malaysia,2002,Maize,30435,27.57,2875.0
+Malaysia,2004,Maize,30000,27.35,2875.0
+Malaysia,2005,Maize,30000,27.59,2875.0
+Malaysia,2006,Maize,32000,27.29,2875.0
+Malaysia,2007,Maize,48554,27.23,2875.0
+Malaysia,2008,Maize,52192,27.12,2875.0
+Malaysia,2009,Maize,50719,27.47,2875.0
+Malaysia,2010,Maize,55351,27.69,2875.0
+Malaysia,2011,Maize,61320,27.27,2875.0
+Malaysia,2012,Maize,89681,27.36,2875.0
+Malaysia,2013,Maize,88991,27.8,2875.0
+Mali,1985,Wheat,18095,27.36,282.0
+Mali,1986,Maize,16546,26.96,282.0
+Mali,1987,Maize,15118,27.93,282.0
+Mali,1989,Wheat,13053,27.24,282.0
+Mali,1990,Potato,180000,27.61,282.0
+Mali,1991,Potato,175000,27.58,282.0
+Mali,1992,Potato,178057,27.2,282.0
+Mali,1993,Potato,180000,27.55,282.0
+Mali,1994,Potato,181975,27.05,282.0
+Mali,1995,Potato,182175,27.25,282.0
+Mali,1996,Potato,182682,27.64,282.0
+Mali,1997,Potato,183335,27.38,282.0
+Mali,1998,Potato,183333,28.08,282.0
+Mali,1999,Potato,186268,27.26,282.0
+Mali,2000,Potato,187278,27.51,282.0
+Mali,2001,Potato,185714,27.79,282.0
+Mali,2002,Potato,180217,28.18,282.0
+Mali,2004,Potato,163954,28.07,282.0
+Mali,2005,Potato,194956,28.13,282.0
+Mali,2006,Potato,238984,27.62,282.0
+Mali,2007,Potato,240551,27.94,282.0
+Mali,2008,Potato,239915,27.62,282.0
+Mali,2009,Potato,237913,27.89,282.0
+Mali,2010,Potato,220473,28.18,282.0
+Mali,2011,Potato,204721,27.79,282.0
+Mali,2012,Potato,198983,27.39,282.0
+Mali,2013,Potato,193555,28.53,282.0
+Mauritania,1985,Potato,50000,27.21,92.0
+Mauritania,1986,Potato,50000,26.75,92.0
+Mauritania,1987,Potato,51667,28.51,92.0
+Mauritania,1989,Potato,48462,27.66,92.0
+Mauritania,1990,Potato,54628,27.67,92.0
+Mauritania,1991,Potato,46591,27.38,92.0
+Mauritania,1992,Potato,50000,27.52,92.0
+Mauritania,1993,Potato,40000,27.37,92.0
+Mauritania,1994,Potato,50000,27.24,92.0
+Mauritania,1995,Potato,47809,27.7,92.0
+Mauritania,1996,Potato,47985,27.93,92.0
+Mauritania,1997,Potato,50000,28.28,92.0
+Mauritania,1998,Potato,48000,28.52,92.0
+Mauritania,1999,Potato,46667,27.23,92.0
+Mauritania,2000,Potato,50000,27.66,92.0
+Mauritania,2001,Potato,51429,28.28,92.0
+Mauritania,2002,Potato,51282,27.84,92.0
+Mauritania,2004,Potato,51778,27.81,92.0
+Mauritania,2005,Potato,51163,28.14,92.0
+Mauritania,2006,Potato,52752,27.82,92.0
+Mauritania,2007,Potato,53231,27.88,92.0
+Mauritania,2008,Potato,53810,28.14,92.0
+Mauritania,2009,Potato,54030,27.57,92.0
+Mauritania,2010,Potato,51163,28.7,92.0
+Mauritania,2011,Potato,55446,27.87,92.0
+Mauritania,2012,Potato,57143,27.77,92.0
+Mauritania,2013,Potato,62857,28.24,92.0
+Mauritius,1985,Potato,270360,23.65,2041.0
+Mauritius,1986,Potato,211875,23.69,2041.0
+Mauritius,1987,Potato,195471,24.32,2041.0
+Mauritius,1989,Potato,212865,23.76,2041.0
+Mauritius,1990,Potato,181098,23.84,2041.0
+Mauritius,1991,Potato,197419,24.14,2041.0
+Mauritius,1992,Potato,192134,23.81,2041.0
+Mauritius,1993,Potato,200875,23.91,2041.0
+Mauritius,1994,Potato,175716,24.17,2041.0
+Mauritius,1995,Potato,198460,24.02,2041.0
+Mauritius,1996,Potato,195930,23.89,2041.0
+Mauritius,1997,Potato,215755,24.1,2041.0
+Mauritius,1998,Potato,176048,24.41,2041.0
+Mauritius,1999,Potato,239781,24.11,2041.0
+Mauritius,2000,Potato,222556,24.0,2041.0
+Mauritius,2001,Potato,209884,24.49,2041.0
+Mauritius,2002,Potato,220116,24.4,2041.0
+Mauritius,2004,Potato,185272,24.25,2041.0
+Mauritius,2005,Potato,213306,24.16,2041.0
+Mauritius,2006,Potato,238105,24.32,2041.0
+Mauritius,2007,Potato,251918,24.28,2041.0
+Mauritius,2008,Potato,229444,24.19,2041.0
+Mauritius,2009,Potato,231096,24.58,2041.0
+Mauritius,2010,Potato,203649,24.67,2041.0
+Mauritius,2011,Potato,213264,24.52,2041.0
+Mauritius,2012,Potato,233356,24.37,2041.0
+Mauritius,2013,Potato,236026,24.31,2041.0
+Mexico,1985,Potato,137662,15.62,758.0
+Mexico,1986,Potato,140348,15.69,758.0
+Mexico,1987,Potato,134378,15.78,758.0
+Mexico,1989,Potato,146360,15.75,758.0
+Mexico,1990,Potato,158256,16.0,758.0
+Mexico,1991,Potato,162351,16.42,758.0
+Mexico,1992,Potato,168178,15.71,758.0
+Mexico,1993,Potato,168931,16.23,758.0
+Mexico,1994,Potato,190845,16.42,758.0
+Mexico,1995,Potato,199803,16.68,758.0
+Mexico,1996,Potato,204570,16.08,758.0
+Mexico,1997,Potato,208520,16.25,758.0
+Mexico,1998,Potato,204955,17.07,758.0
+Mexico,1999,Potato,223519,16.09,758.0
+Mexico,2000,Potato,239420,16.11,758.0
+Mexico,2001,Potato,237799,15.98,758.0
+Mexico,2002,Potato,237558,16.37,758.0
+Mexico,2004,Potato,242399,16.2,758.0
+Mexico,2005,Potato,259662,16.7,758.0
+Mexico,2006,Potato,248610,16.37,758.0
+Mexico,2007,Potato,270565,16.38,758.0
+Mexico,2008,Potato,277258,16.22,758.0
+Mexico,2009,Potato,277374,16.65,758.0
+Mexico,2010,Potato,277578,15.87,758.0
+Mexico,2011,Potato,262734,16.64,758.0
+Mexico,2012,Potato,268098,16.43,758.0
+Mexico,2013,Potato,267752,17.34,758.0
+Mongolia,1985,Potato,110583,-3.59,241.0
+Mongolia,1986,Potato,119082,-2.65,241.0
+Mongolia,1987,Potato,118821,-3.29,241.0
+Mongolia,1989,Potato,123207,-1.64,241.0
+Mongolia,1990,Potato,107467,-2.02,241.0
+Mongolia,1991,Potato,88636,-2.76,241.0
+Mongolia,1992,Potato,90230,-1.86,241.0
+Mongolia,1993,Potato,67528,-2.52,241.0
+Mongolia,1994,Potato,69231,-1.69,241.0
+Mongolia,1995,Potato,83490,-1.63,241.0
+Mongolia,1996,Potato,66381,-2.65,241.0
+Mongolia,1997,Potato,82881,-1.46,241.0
+Mongolia,1998,Potato,80276,-1.2,241.0
+Mongolia,1999,Potato,72824,-1.59,241.0
+Mongolia,2000,Potato,74727,-2.36,241.0
+Mongolia,2001,Potato,65507,-1.98,241.0
+Mongolia,2002,Potato,50707,-1.48,241.0
+Mongolia,2004,Potato,88327,-1.51,241.0
+Mongolia,2005,Potato,84801,-2.36,241.0
+Mongolia,2006,Potato,101716,-1.56,241.0
+Mongolia,2007,Potato,99887,0.2,241.0
+Mongolia,2008,Potato,109652,-1.05,241.0
+Mongolia,2009,Potato,111801,-2.04,241.0
+Mongolia,2010,Potato,121584,-3.04,241.0
+Mongolia,2011,Potato,131139,-2.41,241.0
+Mongolia,2012,Potato,146207,-3.37,241.0
+Mongolia,2013,Potato,123601,-0.22,241.0
+Montenegro,2006,Potato,130448,10.56,241.0
+Montenegro,2007,Potato,105037,11.59,241.0
+Montenegro,2008,Potato,130981,11.62,241.0
+Montenegro,2009,Potato,150977,11.46,241.0
+Montenegro,2010,Potato,145964,11.25,241.0
+Montenegro,2011,Potato,165000,11.25,241.0
+Montenegro,2012,Potato,118033,11.53,241.0
+Montenegro,2013,Potato,149004,12.87,241.0
+Morocco,1985,Potato,173719,17.93,346.0
+Morocco,1986,Potato,165898,17.27,346.0
+Morocco,1987,Potato,217144,18.26,346.0
+Morocco,1989,Potato,167062,18.14,346.0
+Morocco,1990,Potato,171851,18.17,346.0
+Morocco,1991,Potato,171948,17.25,346.0
+Morocco,1992,Potato,151411,17.38,346.0
+Morocco,1993,Potato,156153,16.94,346.0
+Morocco,1994,Potato,176522,17.88,346.0
+Morocco,1995,Potato,166304,18.56,346.0
+Morocco,1996,Potato,190473,17.75,346.0
+Morocco,1997,Potato,178706,18.31,346.0
+Morocco,1998,Potato,190427,18.21,346.0
+Morocco,1999,Potato,183361,17.68,346.0
+Morocco,2000,Potato,180193,18.16,346.0
+Morocco,2001,Potato,187740,18.73,346.0
+Morocco,2002,Potato,231985,18.25,346.0
+Morocco,2004,Potato,241650,18.07,346.0
+Morocco,2005,Potato,238090,18.18,346.0
+Morocco,2006,Potato,263272,18.38,346.0
+Morocco,2007,Potato,247975,17.93,346.0
+Morocco,2008,Potato,244675,17.8,346.0
+Morocco,2009,Potato,195328,18.56,346.0
+Morocco,2010,Potato,283502,18.83,346.0
+Morocco,2011,Potato,297584,18.53,346.0
+Morocco,2012,Potato,279800,18.24,346.0
+Morocco,2013,Potato,363561,18.79,346.0
+Mozambique,1985,Potato,108333,21.97,1032.0
+Mozambique,1986,Potato,116667,21.79,1032.0
+Mozambique,1987,Potato,120000,21.99,1032.0
+Mozambique,1989,Potato,108333,21.66,1032.0
+Mozambique,1990,Potato,120710,21.51,1032.0
+Mozambique,1991,Potato,124670,21.77,1032.0
+Mozambique,1992,Potato,125440,22.6,1032.0
+Mozambique,1993,Potato,126210,22.04,1032.0
+Mozambique,1994,Potato,126980,21.35,1032.0
+Mozambique,1995,Potato,127749,21.89,1032.0
+Mozambique,1996,Potato,126820,21.53,1032.0
+Mozambique,1997,Potato,123891,21.54,1032.0
+Mozambique,1998,Potato,122951,22.22,1032.0
+Mozambique,1999,Potato,125402,22.19,1032.0
+Mozambique,2000,Potato,126562,21.51,1032.0
+Mozambique,2001,Potato,127711,21.94,1032.0
+Mozambique,2002,Potato,128843,21.96,1032.0
+Mozambique,2004,Potato,129868,21.89,1032.0
+Mozambique,2005,Potato,131341,22.27,1032.0
+Mozambique,2006,Potato,132353,21.68,1032.0
+Mozambique,2007,Potato,133333,21.91,1032.0
+Mozambique,2008,Potato,140000,21.76,1032.0
+Mozambique,2009,Potato,145000,21.7,1032.0
+Mozambique,2010,Potato,142467,22.1,1032.0
+Mozambique,2011,Potato,142473,21.69,1032.0
+Mozambique,2012,Potato,143961,21.92,1032.0
+Mozambique,2013,Potato,135526,21.37,1032.0
+Namibia,1985,Wheat,26667,19.88,285.0
+Namibia,1986,Wheat,29610,20.21,285.0
+Namibia,1987,Wheat,27556,20.49,285.0
+Namibia,1989,Wheat,48667,19.93,285.0
+Namibia,1990,Wheat,44250,20.4,285.0
+Namibia,1991,Wheat,59000,19.92,285.0
+Namibia,1992,Wheat,51933,20.36,285.0
+Namibia,1993,Wheat,43846,20.43,285.0
+Namibia,1994,Wheat,52500,20.14,285.0
+Namibia,1995,Wheat,55172,20.76,285.0
+Namibia,1996,Wheat,43846,19.79,285.0
+Namibia,1997,Wheat,46361,19.97,285.0
+Namibia,1998,Wheat,49336,20.83,285.0
+Namibia,1999,Wheat,36440,20.62,285.0
+Namibia,2000,Potato,125000,20.26,285.0
+Namibia,2001,Potato,129032,20.37,285.0
+Namibia,2002,Potato,130435,20.76,285.0
+Namibia,2004,Potato,110579,21.01,285.0
+Namibia,2005,Potato,113065,20.46,285.0
+Namibia,2006,Potato,69796,19.42,285.0
+Namibia,2007,Potato,127855,20.49,285.0
+Namibia,2008,Potato,131969,20.18,285.0
+Namibia,2009,Potato,130495,20.02,285.0
+Namibia,2010,Potato,121175,20.62,285.0
+Namibia,2011,Potato,119667,19.26,285.0
+Namibia,2012,Potato,120805,20.11,285.0
+Namibia,2013,Potato,120727,20.73,285.0
+Nepal,1985,Potato,64107,15.41,1500.0
+Nepal,1986,Potato,50989,14.78,1500.0
+Nepal,1987,Potato,53171,15.28,1500.0
+Nepal,1989,Potato,78572,14.91,1500.0
+Nepal,1990,Potato,80601,15.11,1500.0
+Nepal,1991,Potato,87569,14.94,1500.0
+Nepal,1992,Potato,85916,14.95,1500.0
+Nepal,1993,Potato,84268,15.16,1500.0
+Nepal,1994,Potato,87539,15.3,1500.0
+Nepal,1995,Potato,85926,15.3,1500.0
+Nepal,1996,Potato,84750,15.37,1500.0
+Nepal,1997,Potato,89820,14.5,1500.0
+Nepal,1998,Potato,84664,15.49,1500.0
+Nepal,1999,Potato,92599,15.78,1500.0
+Nepal,2000,Potato,96436,15.13,1500.0
+Nepal,2001,Potato,101824,15.41,1500.0
+Nepal,2002,Potato,109018,15.44,1500.0
+Nepal,2004,Potato,114898,15.36,1500.0
+Nepal,2005,Potato,118458,15.53,1500.0
+Nepal,2006,Potato,130896,15.92,1500.0
+Nepal,2007,Potato,126568,15.54,1500.0
+Nepal,2008,Potato,131100,15.27,1500.0
+Nepal,2009,Potato,133263,15.91,1500.0
+Nepal,2010,Potato,135841,15.96,1500.0
+Nepal,2011,Potato,137352,15.12,1500.0
+Nepal,2012,Potato,135837,15.2,1500.0
+Nepal,2013,Potato,136408,15.79,1500.0
+Netherlands,1985,Potato,423394,8.42,778.0
+Netherlands,1986,Potato,410738,8.79,778.0
+Netherlands,1987,Potato,448791,8.66,778.0
+Netherlands,1989,Potato,415316,10.57,778.0
+Netherlands,1990,Potato,401380,10.63,778.0
+Netherlands,1991,Potato,386711,9.32,778.0
+Netherlands,1992,Potato,408173,10.39,778.0
+Netherlands,1993,Potato,437663,9.47,778.0
+Netherlands,1994,Potato,414503,10.45,778.0
+Netherlands,1995,Potato,410056,10.25,778.0
+Netherlands,1996,Potato,436811,8.32,778.0
+Netherlands,1997,Potato,443191,10.03,778.0
+Netherlands,1998,Potato,414881,10.18,778.0
+Netherlands,1999,Potato,462833,10.74,778.0
+Netherlands,2000,Potato,456548,10.75,778.0
+Netherlands,2001,Potato,434106,10.24,778.0
+Netherlands,2002,Potato,445686,10.64,778.0
+Netherlands,2004,Potato,456832,10.27,778.0
+Netherlands,2005,Potato,434423,10.48,778.0
+Netherlands,2006,Potato,400488,10.97,778.0
+Netherlands,2007,Potato,437884,11.04,778.0
+Netherlands,2008,Potato,455741,10.42,778.0
+Netherlands,2009,Potato,463376,10.33,778.0
+Netherlands,2010,Potato,435980,8.84,778.0
+Netherlands,2011,Potato,460550,10.73,778.0
+Netherlands,2012,Potato,451734,10.08,778.0
+Netherlands,2013,Potato,422075,9.54,778.0
+New Zealand,1985,Potato,291729,13.26,1732.0
+New Zealand,1986,Potato,311364,13.16,1732.0
+New Zealand,1987,Potato,299436,13.27,1732.0
+New Zealand,1989,Potato,303333,13.56,1732.0
+New Zealand,1990,Potato,325000,13.64,1732.0
+New Zealand,1991,Potato,346667,12.82,1732.0
+New Zealand,1992,Potato,327179,12.14,1732.0
+New Zealand,1993,Potato,451015,12.35,1732.0
+New Zealand,1994,Potato,438786,12.89,1732.0
+New Zealand,1995,Potato,450321,13.15,1732.0
+New Zealand,1996,Potato,450207,13.07,1732.0
+New Zealand,1997,Potato,445545,12.77,1732.0
+New Zealand,1998,Potato,352113,13.97,1732.0
+New Zealand,1999,Potato,416667,13.87,1732.0
+New Zealand,2000,Potato,423155,13.4,1732.0
+New Zealand,2001,Potato,445871,13.58,1732.0
+New Zealand,2002,Potato,451182,13.28,1732.0
+New Zealand,2004,Potato,451264,12.76,1732.0
+New Zealand,2005,Potato,460829,13.63,1732.0
+New Zealand,2006,Potato,427584,13.04,1732.0
+New Zealand,2007,Potato,477612,13.44,1732.0
+New Zealand,2008,Potato,459091,13.55,1732.0
+New Zealand,2009,Potato,478154,12.84,1732.0
+New Zealand,2010,Potato,495751,13.54,1732.0
+New Zealand,2011,Potato,490361,13.46,1732.0
+New Zealand,2012,Potato,484810,12.89,1732.0
+New Zealand,2013,Potato,482926,13.57,1732.0
+Nicaragua,1985,Potato,142405,26.55,2280.0
+Nicaragua,1986,Potato,152704,26.67,2280.0
+Nicaragua,1987,Potato,153793,27.61,2280.0
+Nicaragua,1989,Potato,151333,26.58,2280.0
+Nicaragua,1990,Potato,143750,27.03,2280.0
+Nicaragua,1991,Potato,141176,27.04,2280.0
+Nicaragua,1992,Potato,138889,27.16,2280.0
+Nicaragua,1993,Potato,150000,27.05,2280.0
+Nicaragua,1994,Potato,147368,27.26,2280.0
+Nicaragua,1995,Potato,144737,27.2,2280.0
+Nicaragua,1996,Potato,144737,26.76,2280.0
+Nicaragua,1997,Potato,140000,27.43,2280.0
+Nicaragua,1998,Potato,135000,27.83,2280.0
+Nicaragua,1999,Potato,133333,26.82,2280.0
+Nicaragua,2000,Potato,125000,26.73,2280.0
+Nicaragua,2001,Potato,128571,26.78,2280.0
+Nicaragua,2002,Potato,132558,27.0,2280.0
+Nicaragua,2004,Potato,133333,27.22,2280.0
+Nicaragua,2005,Potato,134783,27.2,2280.0
+Nicaragua,2006,Potato,138298,27.35,2280.0
+Nicaragua,2007,Potato,137500,27.23,2280.0
+Nicaragua,2008,Potato,137500,26.75,2280.0
+Nicaragua,2009,Potato,134615,27.23,2280.0
+Nicaragua,2010,Potato,134615,27.01,2280.0
+Nicaragua,2011,Potato,168339,26.94,2280.0
+Nicaragua,2012,Potato,169329,26.91,2280.0
+Nicaragua,2013,Potato,170847,27.26,2280.0
+Niger,1985,Potato,100000,29.5,151.0
+Niger,1986,Potato,100000,29.45,151.0
+Niger,1987,Potato,100000,30.06,151.0
+Niger,1989,Potato,100000,28.91,151.0
+Niger,1990,Potato,100000,29.71,151.0
+Niger,1991,Potato,204348,29.4,151.0
+Niger,1992,Potato,267308,28.99,151.0
+Niger,1993,Potato,224600,29.64,151.0
+Niger,1994,Potato,206531,29.05,151.0
+Niger,1995,Potato,170789,29.56,151.0
+Niger,1996,Potato,159195,29.71,151.0
+Niger,1997,Potato,124128,29.73,151.0
+Niger,1998,Potato,169913,29.97,151.0
+Niger,1999,Potato,101200,29.65,151.0
+Niger,2000,Potato,104924,29.43,151.0
+Niger,2001,Potato,91045,29.46,151.0
+Niger,2002,Potato,159220,29.71,151.0
+Niger,2004,Potato,104545,29.8,151.0
+Niger,2005,Potato,102308,30.02,151.0
+Niger,2006,Potato,115357,29.78,151.0
+Niger,2007,Potato,147395,29.85,151.0
+Niger,2008,Potato,177412,29.3,151.0
+Niger,2009,Potato,172504,30.32,151.0
+Niger,2010,Potato,170183,30.32,151.0
+Niger,2011,Potato,161890,30.1,151.0
+Niger,2012,Potato,242957,29.61,151.0
+Niger,2013,Potato,256815,30.42,151.0
+Nigeria,1985,Potato,61429,26.32,1150.0
+Nigeria,1986,Potato,60526,26.38,1150.0
+Nigeria,1987,Potato,60000,27.06,1150.0
+Nigeria,1989,Potato,60241,25.82,1150.0
+Nigeria,1990,Potato,70130,26.74,1150.0
+Nigeria,1991,Potato,70213,26.39,1150.0
+Nigeria,1992,Potato,70192,26.08,1150.0
+Nigeria,1993,Potato,70175,26.44,1150.0
+Nigeria,1994,Potato,69767,26.18,1150.0
+Nigeria,1995,Potato,69853,26.62,1150.0
+Nigeria,1996,Potato,49500,26.58,1150.0
+Nigeria,1997,Potato,49048,26.48,1150.0
+Nigeria,1998,Potato,46522,27.04,1150.0
+Nigeria,1999,Potato,27951,26.85,1150.0
+Nigeria,2000,Potato,28255,26.32,1150.0
+Nigeria,2001,Potato,28255,26.58,1150.0
+Nigeria,2002,Potato,28438,26.95,1150.0
+Nigeria,2004,Potato,29512,26.95,1150.0
+Nigeria,2005,Potato,29846,27.09,1150.0
+Nigeria,2006,Potato,31504,27.24,1150.0
+Nigeria,2007,Potato,24610,27.2,1150.0
+Nigeria,2008,Potato,42015,26.75,1150.0
+Nigeria,2009,Potato,40000,27.19,1150.0
+Nigeria,2010,Potato,38509,27.35,1150.0
+Nigeria,2011,Potato,34834,27.09,1150.0
+Nigeria,2012,Potato,36268,26.93,1150.0
+Nigeria,2013,Potato,36555,27.25,1150.0
+Norway,1985,Potato,242747,0.98,1414.0
+Norway,1986,Potato,233803,2.05,1414.0
+Norway,1987,Potato,215793,1.32,1414.0
+Norway,1989,Potato,242294,4.39,1414.0
+Norway,1990,Potato,257507,4.55,1414.0
+Norway,1991,Potato,227489,3.4,1414.0
+Norway,1992,Potato,267729,3.83,1414.0
+Norway,1993,Potato,249602,2.72,1414.0
+Norway,1994,Potato,230846,2.74,1414.0
+Norway,1995,Potato,222358,3.08,1414.0
+Norway,1996,Potato,231321,1.88,1414.0
+Norway,1997,Potato,262343,3.87,1414.0
+Norway,1998,Potato,268418,3.06,1414.0
+Norway,1999,Potato,256262,3.73,1414.0
+Norway,2000,Potato,235890,4.52,1414.0
+Norway,2001,Potato,262878,2.68,1414.0
+Norway,2002,Potato,256141,3.57,1414.0
+Norway,2004,Potato,279430,3.79,1414.0
+Norway,2005,Potato,230523,4.26,1414.0
+Norway,2006,Potato,269329,4.43,1414.0
+Norway,2007,Potato,227983,3.96,1414.0
+Norway,2008,Potato,278193,4.16,1414.0
+Norway,2009,Potato,241836,3.31,1414.0
+Norway,2010,Potato,251662,1.3,1414.0
+Norway,2011,Potato,229141,4.14,1414.0
+Norway,2012,Potato,240527,3.09,1414.0
+Norway,2013,Potato,251702,3.5,1414.0
+Pakistan,1985,Potato,99668,25.02,494.0
+Pakistan,1986,Potato,98245,24.08,494.0
+Pakistan,1987,Potato,98149,25.05,494.0
+Pakistan,1989,Potato,100908,24.23,494.0
+Pakistan,1990,Potato,104002,24.81,494.0
+Pakistan,1991,Potato,104452,24.38,494.0
+Pakistan,1992,Potato,113709,24.31,494.0
+Pakistan,1993,Potato,122809,25.04,494.0
+Pakistan,1994,Potato,133171,24.78,494.0
+Pakistan,1995,Potato,139418,24.58,494.0
+Pakistan,1996,Potato,134795,24.43,494.0
+Pakistan,1997,Potato,112295,23.76,494.0
+Pakistan,1998,Potato,136186,24.91,494.0
+Pakistan,1999,Potato,165413,25.5,494.0
+Pakistan,2000,Potato,169078,25.32,494.0
+Pakistan,2001,Potato,164180,25.18,494.0
+Pakistan,2002,Potato,164486,25.61,494.0
+Pakistan,2004,Potato,176673,25.55,494.0
+Pakistan,2005,Potato,180795,24.66,494.0
+Pakistan,2006,Potato,133447,25.17,494.0
+Pakistan,2007,Potato,193516,25.16,494.0
+Pakistan,2008,Potato,164550,24.89,494.0
+Pakistan,2009,Potato,202848,25.37,494.0
+Pakistan,2010,Potato,226823,25.48,494.0
+Pakistan,2011,Potato,219196,24.98,494.0
+Pakistan,2012,Potato,183405,24.87,494.0
+Pakistan,2013,Potato,218059,25.95,494.0
+Papua New Guinea,1985,Potato,72727,25.15,3142.0
+Papua New Guinea,1986,Potato,48163,25.33,3142.0
+Papua New Guinea,1987,Potato,46752,25.44,3142.0
+Papua New Guinea,1989,Potato,47692,25.3,3142.0
+Papua New Guinea,1990,Potato,45000,25.27,3142.0
+Papua New Guinea,1991,Potato,44331,25.04,3142.0
+Papua New Guinea,1992,Potato,45333,25.3,3142.0
+Papua New Guinea,1993,Potato,47059,25.02,3142.0
+Papua New Guinea,1994,Potato,43750,25.07,3142.0
+Papua New Guinea,1995,Potato,47059,25.44,3142.0
+Papua New Guinea,1996,Maize,45199,25.41,3142.0
+Papua New Guinea,1997,Maize,60000,24.86,3142.0
+Papua New Guinea,1998,Maize,55543,26.05,3142.0
+Papua New Guinea,1999,Maize,54167,25.38,3142.0
+Papua New Guinea,2000,Maize,55385,25.4,3142.0
+Papua New Guinea,2001,Maize,59286,25.43,3142.0
+Papua New Guinea,2002,Maize,52970,25.48,3142.0
+Papua New Guinea,2004,Maize,46154,25.23,3142.0
+Papua New Guinea,2005,Maize,46667,25.51,3142.0
+Papua New Guinea,2006,Potato,46014,25.04,3142.0
+Papua New Guinea,2007,Maize,47059,25.2,3142.0
+Papua New Guinea,2008,Maize,45455,25.17,3142.0
+Papua New Guinea,2009,Maize,47718,25.08,3142.0
+Papua New Guinea,2010,Maize,50000,25.74,3142.0
+Papua New Guinea,2011,Maize,57778,25.17,3142.0
+Papua New Guinea,2012,Potato,52632,25.14,3142.0
+Papua New Guinea,2013,Potato,61538,25.44,3142.0
+Peru,1985,Potato,83864,16.68,1738.0
+Peru,1986,Potato,86250,16.77,1738.0
+Peru,1987,Potato,80360,18.01,1738.0
+Peru,1989,Potato,87904,16.66,1738.0
+Peru,1990,Potato,78805,16.84,1738.0
+Peru,1991,Potato,79465,17.15,1738.0
+Peru,1992,Potato,74276,17.96,1738.0
+Peru,1993,Potato,83920,17.56,1738.0
+Peru,1994,Potato,93738,17.31,1738.0
+Peru,1995,Potato,97817,17.26,1738.0
+Peru,1996,Potato,100629,16.45,1738.0
+Peru,1997,Potato,96703,18.62,1738.0
+Peru,1998,Potato,97887,18.13,1738.0
+Peru,1999,Potato,112513,16.65,1738.0
+Peru,2000,Potato,115040,17.02,1738.0
+Peru,2001,Potato,114862,16.95,1738.0
+Peru,2002,Potato,121751,17.44,1738.0
+Peru,2004,Potato,121901,17.29,1738.0
+Peru,2005,Potato,124584,17.02,1738.0
+Peru,2006,Potato,124533,17.61,1738.0
+Peru,2007,Potato,126342,16.68,1738.0
+Peru,2008,Potato,129138,17.34,1738.0
+Peru,2009,Potato,133353,17.4,1738.0
+Peru,2010,Potato,131588,16.97,1738.0
+Peru,2011,Potato,137379,17.03,1738.0
+Peru,2012,Potato,143316,17.68,1738.0
+Peru,2013,Potato,144125,17.0,1738.0
+Philippines,1985,Potato,110844,26.95,2348.0
+Philippines,1986,Potato,114715,26.79,2348.0
+Philippines,1987,Potato,123677,27.39,2348.0
+Philippines,1989,Potato,120927,26.73,2348.0
+Philippines,1990,Potato,138217,26.85,2348.0
+Philippines,1991,Potato,156469,26.69,2348.0
+Philippines,1992,Potato,151196,26.72,2348.0
+Philippines,1993,Potato,151334,26.87,2348.0
+Philippines,1994,Potato,145792,26.89,2348.0
+Philippines,1995,Potato,159027,26.8,2348.0
+Philippines,1996,Potato,132232,26.95,2348.0
+Philippines,1997,Potato,136675,26.99,2348.0
+Philippines,1998,Potato,128340,27.8,2348.0
+Philippines,1999,Potato,121297,27.07,2348.0
+Philippines,2000,Potato,122823,27.02,2348.0
+Philippines,2001,Potato,124044,27.17,2348.0
+Philippines,2002,Potato,125867,27.1,2348.0
+Philippines,2004,Potato,127536,27.09,2348.0
+Philippines,2005,Potato,127633,27.12,2348.0
+Philippines,2006,Potato,127451,27.23,2348.0
+Philippines,2007,Potato,149259,27.21,2348.0
+Philippines,2008,Potato,151753,26.94,2348.0
+Philippines,2009,Potato,150758,26.92,2348.0
+Philippines,2010,Potato,153366,27.49,2348.0
+Philippines,2011,Potato,147563,26.82,2348.0
+Philippines,2012,Potato,147690,27.34,2348.0
+Philippines,2013,Potato,149204,27.87,2348.0
+Poland,1985,Potato,174438,6.65,600.0
+Poland,1986,Potato,194341,7.3,600.0
+Poland,1987,Potato,187437,6.32,600.0
+Poland,1989,Potato,185048,9.43,600.0
+Poland,1990,Potato,197853,9.2,600.0
+Poland,1991,Potato,167589,7.9,600.0
+Poland,1992,Potato,133086,8.65,600.0
+Poland,1993,Potato,206004,7.67,600.0
+Poland,1994,Potato,135853,8.78,600.0
+Poland,1995,Potato,163505,8.16,600.0
+Poland,1996,Potato,202826,6.71,600.0
+Poland,1997,Potato,159025,7.81,600.0
+Poland,1998,Potato,200375,8.17,600.0
+Poland,1999,Potato,157170,8.96,600.0
+Poland,2000,Potato,193762,9.56,600.0
+Poland,2001,Potato,162270,8.26,600.0
+Poland,2002,Potato,193220,9.14,600.0
+Poland,2004,Potato,196266,8.33,600.0
+Poland,2005,Potato,176293,8.43,600.0
+Poland,2006,Potato,150394,8.64,600.0
+Poland,2007,Potato,207006,9.32,600.0
+Poland,2008,Potato,190607,9.51,600.0
+Poland,2009,Potato,191018,8.5,600.0
+Poland,2010,Potato,210838,7.67,600.0
+Poland,2011,Potato,230338,8.84,600.0
+Poland,2012,Potato,243751,8.48,600.0
+Poland,2013,Potato,210624,9.32,600.0
+Portugal,1985,Potato,91944,15.98,854.0
+Portugal,1986,Potato,128847,15.53,854.0
+Portugal,1987,Potato,130946,16.46,854.0
+Portugal,1989,Potato,112681,16.87,854.0
+Portugal,1990,Potato,111599,16.55,854.0
+Portugal,1991,Potato,126513,16.09,854.0
+Portugal,1992,Potato,143260,15.95,854.0
+Portugal,1993,Potato,139420,15.33,854.0
+Portugal,1994,Potato,144950,16.12,854.0
+Portugal,1995,Potato,148462,17.23,854.0
+Portugal,1996,Potato,145807,16.12,854.0
+Portugal,1997,Potato,123949,17.1,854.0
+Portugal,1998,Potato,137551,16.4,854.0
+Portugal,1999,Potato,156482,16.09,854.0
+Portugal,2000,Potato,138196,16.23,854.0
+Portugal,2001,Potato,149725,16.2,854.0
+Portugal,2002,Potato,161642,16.19,854.0
+Portugal,2004,Potato,169935,16.31,854.0
+Portugal,2005,Potato,147282,16.43,854.0
+Portugal,2006,Potato,161059,16.84,854.0
+Portugal,2007,Potato,167685,16.11,854.0
+Portugal,2008,Potato,157519,16.12,854.0
+Portugal,2009,Potato,164431,16.84,854.0
+Portugal,2010,Potato,150341,16.5,854.0
+Portugal,2011,Potato,147088,16.91,854.0
+Portugal,2012,Potato,177890,16.24,854.0
+Portugal,2013,Potato,182243,16.77,854.0
+Qatar,1985,Potato,96000,27.02,74.0
+Qatar,1986,Potato,89091,27.27,74.0
+Qatar,1987,Potato,100000,27.43,74.0
+Qatar,1989,Maize,150000,26.81,74.0
+Qatar,1990,Maize,135000,27.38,74.0
+Qatar,1991,Maize,121818,26.77,74.0
+Qatar,1992,Maize,124583,26.22,74.0
+Qatar,1993,Maize,126667,27.1,74.0
+Qatar,1994,Maize,124074,27.59,74.0
+Qatar,1995,Maize,125806,27.16,74.0
+Qatar,1996,Maize,125692,27.66,74.0
+Qatar,1997,Maize,125694,27.23,74.0
+Qatar,1998,Maize,124348,28.48,74.0
+Qatar,1999,Maize,124639,28.62,74.0
+Qatar,2000,Maize,125175,28.06,74.0
+Qatar,2001,Maize,125299,28.36,74.0
+Qatar,2002,Maize,124627,28.25,74.0
+Qatar,2004,Maize,126304,28.2,74.0
+Qatar,2005,Maize,124776,28.09,74.0
+Qatar,2006,Maize,118571,28.12,74.0
+Qatar,2007,Maize,181429,28.23,74.0
+Qatar,2008,Maize,181429,27.92,74.0
+Qatar,2009,Maize,192857,28.17,74.0
+Qatar,2010,Maize,207556,28.93,74.0
+Qatar,2011,Potato,180000,28.23,74.0
+Qatar,2012,Maize,124894,28.54,74.0
+Qatar,2013,Maize,124845,28.68,74.0
+Romania,1985,Potato,206579,10.11,637.0
+Romania,1986,Potato,157600,11.01,637.0
+Romania,1987,Potato,130647,10.49,637.0
+Romania,1989,Potato,125783,11.78,637.0
+Romania,1990,Potato,109996,12.26,637.0
+Romania,1991,Potato,79732,10.55,637.0
+Romania,1992,Potato,118962,11.55,637.0
+Romania,1993,Potato,148950,10.78,637.0
+Romania,1994,Potato,118525,12.7,637.0
+Romania,1995,Potato,123608,11.21,637.0
+Romania,1996,Potato,139763,10.71,637.0
+Romania,1997,Potato,126636,10.46,637.0
+Romania,1998,Potato,128302,11.37,637.0
+Romania,1999,Potato,144957,12.34,637.0
+Romania,2000,Potato,123276,12.44,637.0
+Romania,2001,Potato,144769,11.9,637.0
+Romania,2002,Potato,144401,12.24,637.0
+Romania,2004,Potato,166540,11.63,637.0
+Romania,2005,Potato,131035,11.25,637.0
+Romania,2006,Potato,141860,11.63,637.0
+Romania,2007,Potato,136211,12.99,637.0
+Romania,2008,Potato,140485,12.5,637.0
+Romania,2009,Potato,153812,12.47,637.0
+Romania,2010,Potato,132960,11.94,637.0
+Romania,2011,Potato,164154,11.26,637.0
+Romania,2012,Potato,107623,12.33,637.0
+Romania,2013,Potato,158462,13.94,637.0
+Rwanda,1985,Potato,71064,19.29,1212.0
+Rwanda,1986,Potato,75774,19.46,1212.0
+Rwanda,1987,Potato,70667,20.0,1212.0
+Rwanda,1989,Potato,68171,19.01,1212.0
+Rwanda,1990,Potato,67453,19.39,1212.0
+Rwanda,1991,Potato,68462,19.22,1212.0
+Rwanda,1992,Potato,66731,19.54,1212.0
+Rwanda,1993,Potato,68053,19.53,1212.0
+Rwanda,1994,Potato,67588,19.55,1212.0
+Rwanda,1995,Potato,68850,19.81,1212.0
+Rwanda,1996,Potato,55823,19.31,1212.0
+Rwanda,1997,Potato,54673,19.78,1212.0
+Rwanda,1998,Potato,64088,19.79,1212.0
+Rwanda,1999,Potato,59083,19.35,1212.0
+Rwanda,2000,Potato,87830,19.59,1212.0
+Rwanda,2001,Potato,86222,19.5,1212.0
+Rwanda,2002,Potato,83133,19.77,1212.0
+Rwanda,2004,Potato,80407,19.93,1212.0
+Rwanda,2005,Potato,96891,20.29,1212.0
+Rwanda,2006,Potato,91740,20.02,1212.0
+Rwanda,2007,Potato,77618,19.6,1212.0
+Rwanda,2008,Potato,91329,19.56,1212.0
+Rwanda,2009,Potato,102216,19.84,1212.0
+Rwanda,2010,Potato,118679,20.12,1212.0
+Rwanda,2011,Potato,128118,19.59,1212.0
+Rwanda,2012,Potato,141869,19.79,1212.0
+Rwanda,2013,Potato,136056,19.93,1212.0
+Saudi Arabia,1985,Potato,201744,25.36,59.0
+Saudi Arabia,1986,Potato,154846,25.64,59.0
+Saudi Arabia,1987,Potato,194975,26.35,59.0
+Saudi Arabia,1989,Potato,199957,25.47,59.0
+Saudi Arabia,1990,Potato,198311,25.86,59.0
+Saudi Arabia,1991,Potato,175355,25.94,59.0
+Saudi Arabia,1992,Potato,160109,24.74,59.0
+Saudi Arabia,1993,Potato,182880,25.9,59.0
+Saudi Arabia,1994,Potato,189468,26.26,59.0
+Saudi Arabia,1995,Potato,196769,26.33,59.0
+Saudi Arabia,1996,Potato,196701,26.37,59.0
+Saudi Arabia,1997,Potato,173596,25.88,59.0
+Saudi Arabia,1998,Potato,180428,26.48,59.0
+Saudi Arabia,1999,Potato,250876,26.75,59.0
+Saudi Arabia,2000,Potato,262035,26.62,59.0
+Saudi Arabia,2001,Potato,240917,26.6,59.0
+Saudi Arabia,2002,Potato,228648,26.63,59.0
+Saudi Arabia,2004,Potato,260589,26.53,59.0
+Saudi Arabia,2005,Potato,243565,26.47,59.0
+Saudi Arabia,2006,Potato,242031,26.42,59.0
+Saudi Arabia,2007,Potato,235025,26.58,59.0
+Saudi Arabia,2008,Potato,249332,26.64,59.0
+Saudi Arabia,2009,Potato,251423,26.9,59.0
+Saudi Arabia,2010,Potato,260575,27.3,59.0
+Saudi Arabia,2011,Potato,248330,26.57,59.0
+Saudi Arabia,2012,Potato,253233,27.02,59.0
+Saudi Arabia,2013,Potato,256547,27.57,59.0
+Senegal,1985,Potato,142857,24.63,686.0
+Senegal,1986,Potato,142857,24.6,686.0
+Senegal,1987,Potato,185714,25.66,686.0
+Senegal,1989,Potato,185714,25.03,686.0
+Senegal,1990,Potato,145518,25.13,686.0
+Senegal,1991,Potato,168760,25.0,686.0
+Senegal,1992,Potato,165247,25.09,686.0
+Senegal,1993,Potato,159492,24.99,686.0
+Senegal,1994,Potato,154545,24.94,686.0
+Senegal,1995,Potato,213833,25.33,686.0
+Senegal,1996,Potato,200000,25.49,686.0
+Senegal,1997,Potato,187500,25.87,686.0
+Senegal,1998,Potato,162731,26.03,686.0
+Senegal,1999,Potato,157460,24.93,686.0
+Senegal,2000,Potato,111628,25.26,686.0
+Senegal,2001,Potato,157460,25.79,686.0
+Senegal,2002,Potato,258305,25.4,686.0
+Senegal,2004,Potato,149835,25.38,686.0
+Senegal,2005,Potato,136536,25.78,686.0
+Senegal,2006,Potato,200382,25.32,686.0
+Senegal,2007,Potato,200000,25.34,686.0
+Senegal,2008,Potato,113000,25.5,686.0
+Senegal,2009,Potato,200000,25.01,686.0
+Senegal,2010,Potato,200000,26.1,686.0
+Senegal,2011,Potato,215517,25.41,686.0
+Senegal,2012,Potato,267857,25.47,686.0
+Senegal,2013,Potato,225885,24.7,686.0
+Serbia,2006,Potato,110181,10.66,686.0
+Serbia,2007,Potato,91336,11.8,686.0
+Serbia,2008,Potato,103921,11.85,686.0
+Serbia,2009,Potato,114915,11.53,686.0
+Serbia,2010,Potato,115730,11.07,686.0
+Serbia,2011,Potato,113747,10.91,686.0
+Serbia,2012,Potato,111073,11.55,686.0
+Serbia,2013,Potato,151129,12.84,686.0
+Sierra Leone,1985,Sorghum,11111,26.82,2526.0
+Sierra Leone,1986,Sorghum,11111,26.68,2526.0
+Sierra Leone,1987,Sorghum,10611,27.35,2526.0
+Sierra Leone,1989,Maize,11400,26.9,2526.0
+Sierra Leone,1990,Maize,10885,27.08,2526.0
+Sierra Leone,1991,Maize,9091,27.22,2526.0
+Sierra Leone,1992,Maize,8182,27.02,2526.0
+Sierra Leone,1993,Maize,8268,27.25,2526.0
+Sierra Leone,1994,Maize,8958,27.03,2526.0
+Sierra Leone,1995,Maize,10122,27.23,2526.0
+Sierra Leone,1996,Maize,9889,27.33,2526.0
+Sierra Leone,1997,Maize,9400,27.3,2526.0
+Sierra Leone,1998,Maize,10750,27.63,2526.0
+Sierra Leone,1999,Maize,12372,27.12,2526.0
+Sierra Leone,2000,Sorghum,13000,27.12,2526.0
+Sierra Leone,2001,Sorghum,10833,27.36,2526.0
+Sierra Leone,2002,Sorghum,10721,27.53,2526.0
+Sierra Leone,2004,Sorghum,9905,27.56,2526.0
+Sierra Leone,2005,Sorghum,10455,27.66,2526.0
+Sierra Leone,2006,Maize,8136,27.2,2526.0
+Sierra Leone,2007,Sorghum,9091,27.28,2526.0
+Sierra Leone,2008,Sorghum,9388,27.61,2526.0
+Sierra Leone,2009,Sorghum,9264,27.37,2526.0
+Sierra Leone,2010,Maize,14500,27.8,2526.0
+Sierra Leone,2011,Maize,15200,27.51,2526.0
+Sierra Leone,2012,Maize,22000,27.28,2526.0
+Sierra Leone,2013,Maize,20999,27.29,2526.0
+Slovenia,1992,Potato,121000,10.78,1162.0
+Slovenia,1993,Potato,125740,10.19,1162.0
+Slovenia,1994,Potato,172680,11.33,1162.0
+Slovenia,1995,Potato,189910,10.14,1162.0
+Slovenia,1996,Potato,193000,9.24,1162.0
+Slovenia,1997,Potato,204781,10.18,1162.0
+Slovenia,1998,Potato,212682,10.42,1162.0
+Slovenia,1999,Potato,197257,10.51,1162.0
+Slovenia,2000,Potato,207950,11.45,1162.0
+Slovenia,2001,Potato,190468,10.74,1162.0
+Slovenia,2002,Potato,233322,11.18,1162.0
+Slovenia,2004,Potato,250951,10.06,1162.0
+Slovenia,2005,Potato,229486,9.62,1162.0
+Slovenia,2006,Potato,181312,10.56,1162.0
+Slovenia,2007,Potato,228469,11.31,1162.0
+Slovenia,2008,Potato,226607,11.09,1162.0
+Slovenia,2009,Potato,247725,11.06,1162.0
+Slovenia,2010,Potato,245353,10.0,1162.0
+Slovenia,2011,Potato,264228,11.02,1162.0
+Slovenia,2012,Potato,234061,11.12,1162.0
+Slovenia,2013,Potato,187950,11.58,1162.0
+Somalia,1985,Maize,11950,27.24,282.0
+Somalia,1986,Maize,13717,27.37,282.0
+Somalia,1987,Maize,11029,27.7,282.0
+Somalia,1989,Maize,11287,27.27,282.0
+Somalia,1990,Maize,11455,27.35,282.0
+Somalia,1991,Maize,10000,27.54,282.0
+Somalia,1992,Maize,9677,27.73,282.0
+Somalia,1993,Maize,9875,27.21,282.0
+Somalia,1994,Maize,4149,27.43,282.0
+Somalia,1995,Maize,8304,27.39,282.0
+Somalia,1996,Maize,6202,27.34,282.0
+Somalia,1997,Maize,7095,27.41,282.0
+Somalia,1998,Maize,5727,27.7,282.0
+Somalia,1999,Maize,7118,27.61,282.0
+Somalia,2000,Maize,14597,27.79,282.0
+Somalia,2001,Maize,14274,27.68,282.0
+Somalia,2002,Maize,14274,27.77,282.0
+Somalia,2004,Maize,10944,27.85,282.0
+Somalia,2005,Maize,11765,28.08,282.0
+Somalia,2006,Maize,10526,27.78,282.0
+Somalia,2007,Maize,11111,28.08,282.0
+Somalia,2008,Maize,11765,27.75,282.0
+Somalia,2009,Maize,15299,28.23,282.0
+Somalia,2010,Maize,15098,28.03,282.0
+Somalia,2011,Maize,17901,28.28,282.0
+Somalia,2012,Maize,17662,28.19,282.0
+Somalia,2013,Maize,12100,27.94,282.0
+South Africa,1985,Potato,159394,21.34,495.0
+South Africa,1986,Potato,180175,21.08,495.0
+South Africa,1987,Potato,178246,21.02,495.0
+South Africa,1989,Potato,175684,20.82,495.0
+South Africa,1990,Potato,200263,20.56,495.0
+South Africa,1991,Potato,200188,21.06,495.0
+South Africa,1992,Potato,178455,21.53,495.0
+South Africa,1993,Potato,228678,21.32,495.0
+South Africa,1994,Potato,232625,20.65,495.0
+South Africa,1995,Potato,257634,20.73,495.0
+South Africa,1996,Potato,261054,20.49,495.0
+South Africa,1997,Potato,282462,20.57,495.0
+South Africa,1998,Potato,307667,21.22,495.0
+South Africa,1999,Potato,315545,21.64,495.0
+South Africa,2000,Potato,316536,20.74,495.0
+South Africa,2001,Potato,311961,21.25,495.0
+South Africa,2002,Potato,324147,21.07,495.0
+South Africa,2004,Potato,346081,21.11,495.0
+South Africa,2005,Potato,333534,21.14,495.0
+South Africa,2006,Potato,331650,20.86,495.0
+South Africa,2007,Potato,330590,21.07,495.0
+South Africa,2008,Potato,340000,20.89,495.0
+South Africa,2009,Potato,339378,20.71,495.0
+South Africa,2010,Potato,342609,21.54,495.0
+South Africa,2011,Potato,349826,20.72,495.0
+South Africa,2012,Potato,351066,21.24,495.0
+South Africa,2013,Potato,353546,21.31,495.0
+Spain,1985,Potato,179112,16.45,636.0
+Spain,1986,Potato,172689,16.61,636.0
+Spain,1987,Potato,188203,16.8,636.0
+Spain,1989,Potato,192952,17.43,636.0
+Spain,1990,Potato,196487,17.3,636.0
+Spain,1991,Potato,194673,16.37,636.0
+Spain,1992,Potato,201457,16.35,636.0
+Spain,1993,Potato,183745,16.28,636.0
+Spain,1994,Potato,192339,17.51,636.0
+Spain,1995,Potato,189990,17.33,636.0
+Spain,1996,Potato,211919,16.72,636.0
+Spain,1997,Potato,216815,17.66,636.0
+Spain,1998,Potato,234388,17.15,636.0
+Spain,1999,Potato,247421,17.14,636.0
+Spain,2000,Potato,259196,17.15,636.0
+Spain,2001,Potato,259926,17.27,636.0
+Spain,2002,Potato,279460,17.16,636.0
+Spain,2004,Potato,271599,17.12,636.0
+Spain,2005,Potato,269844,16.69,636.0
+Spain,2006,Potato,288421,17.81,636.0
+Spain,2007,Potato,289238,17.24,636.0
+Spain,2008,Potato,262166,16.92,636.0
+Spain,2009,Potato,318545,17.45,636.0
+Spain,2010,Potato,293910,16.51,636.0
+Spain,2011,Potato,307406,17.9,636.0
+Spain,2012,Potato,304387,17.51,636.0
+Spain,2013,Potato,309367,17.0,636.0
+Sri Lanka,1985,Potato,125000,26.32,1712.0
+Sri Lanka,1986,Potato,113005,26.39,1712.0
+Sri Lanka,1987,Potato,116624,26.83,1712.0
+Sri Lanka,1989,Potato,119116,26.26,1712.0
+Sri Lanka,1990,Potato,110520,26.53,1712.0
+Sri Lanka,1991,Potato,104522,26.53,1712.0
+Sri Lanka,1992,Potato,110108,26.26,1712.0
+Sri Lanka,1993,Potato,112006,26.37,1712.0
+Sri Lanka,1994,Potato,110104,26.34,1712.0
+Sri Lanka,1995,Potato,109931,26.59,1712.0
+Sri Lanka,1996,Potato,127136,26.38,1712.0
+Sri Lanka,1997,Potato,102773,26.66,1712.0
+Sri Lanka,1998,Potato,111254,27.13,1712.0
+Sri Lanka,1999,Potato,125207,26.32,1712.0
+Sri Lanka,2000,Potato,132921,26.43,1712.0
+Sri Lanka,2001,Potato,135718,26.63,1712.0
+Sri Lanka,2002,Potato,134206,26.74,1712.0
+Sri Lanka,2004,Potato,148033,26.64,1712.0
+Sri Lanka,2005,Potato,141622,26.73,1712.0
+Sri Lanka,2006,Potato,148094,26.56,1712.0
+Sri Lanka,2007,Potato,145197,26.57,1712.0
+Sri Lanka,2008,Potato,145282,26.42,1712.0
+Sri Lanka,2009,Potato,149034,26.67,1712.0
+Sri Lanka,2010,Potato,135234,26.83,1712.0
+Sri Lanka,2011,Potato,132500,26.65,1712.0
+Sri Lanka,2012,Potato,155269,26.88,1712.0
+Sri Lanka,2013,Potato,153210,27.03,1712.0
+Sudan,2012,Potato,166663,26.42,1712.0
+Sudan,2013,Potato,166669,26.84,1712.0
+Suriname,1985,Maize,16275,26.46,2331.0
+Suriname,1986,Maize,11525,26.74,2331.0
+Suriname,1987,Maize,16071,27.43,2331.0
+Suriname,1989,Maize,17383,26.65,2331.0
+Suriname,1990,Maize,21575,26.87,2331.0
+Suriname,1991,Maize,22289,26.93,2331.0
+Suriname,1992,Maize,18706,27.04,2331.0
+Suriname,1993,Maize,20651,26.83,2331.0
+Suriname,1994,Maize,18162,26.82,2331.0
+Suriname,1995,Maize,22553,27.33,2331.0
+Suriname,1996,Maize,22267,27.09,2331.0
+Suriname,1997,Maize,22833,27.27,2331.0
+Suriname,1998,Maize,22000,27.65,2331.0
+Suriname,1999,Maize,10000,27.07,2331.0
+Suriname,2000,Maize,19048,26.86,2331.0
+Suriname,2001,Maize,19444,27.12,2331.0
+Suriname,2002,Maize,19677,27.14,2331.0
+Suriname,2004,Maize,28077,27.47,2331.0
+Suriname,2005,Maize,18421,27.7,2331.0
+Suriname,2006,Maize,23000,27.34,2331.0
+Suriname,2007,Maize,27222,27.19,2331.0
+Suriname,2008,Maize,22500,27.22,2331.0
+Suriname,2009,Maize,24000,27.45,2331.0
+Suriname,2010,Maize,23333,27.7,2331.0
+Suriname,2011,Maize,22857,27.42,2331.0
+Suriname,2012,Maize,26364,27.4,2331.0
+Suriname,2013,Maize,24737,27.17,2331.0
+Sweden,1985,Potato,327912,4.85,624.0
+Sweden,1986,Potato,310419,6.15,624.0
+Sweden,1987,Potato,247465,4.99,624.0
+Sweden,1989,Potato,349659,8.35,624.0
+Sweden,1990,Potato,348034,8.43,624.0
+Sweden,1991,Potato,291612,7.49,624.0
+Sweden,1992,Potato,331543,7.94,624.0
+Sweden,1993,Potato,375096,6.98,624.0
+Sweden,1994,Potato,322178,7.23,624.0
+Sweden,1995,Potato,306791,7.17,624.0
+Sweden,1996,Potato,328115,6.15,624.0
+Sweden,1997,Potato,339011,7.66,624.0
+Sweden,1998,Potato,355757,6.89,624.0
+Sweden,1999,Potato,301953,8.02,624.0
+Sweden,2000,Potato,297876,8.42,624.0
+Sweden,2001,Potato,286946,7.48,624.0
+Sweden,2002,Potato,287905,7.96,624.0
+Sweden,2004,Potato,309147,7.53,624.0
+Sweden,2005,Potato,311070,7.72,624.0
+Sweden,2006,Potato,276011,8.3,624.0
+Sweden,2007,Potato,276629,8.16,624.0
+Sweden,2008,Potato,317175,8.49,624.0
+Sweden,2009,Potato,318212,7.54,624.0
+Sweden,2010,Potato,301218,6.01,624.0
+Sweden,2011,Potato,319681,8.18,624.0
+Sweden,2012,Potato,325809,7.21,624.0
+Sweden,2013,Potato,337563,7.1,624.0
+Switzerland,1985,Potato,387979,6.64,1537.0
+Switzerland,1986,Potato,365961,6.9,1537.0
+Switzerland,1987,Potato,323990,6.87,1537.0
+Switzerland,1989,Potato,385000,8.05,1537.0
+Switzerland,1990,Potato,379017,8.19,1537.0
+Switzerland,1991,Potato,398785,7.24,1537.0
+Switzerland,1992,Potato,422849,7.98,1537.0
+Switzerland,1993,Potato,439261,7.48,1537.0
+Switzerland,1994,Potato,331744,8.78,1537.0
+Switzerland,1995,Potato,352941,7.65,1537.0
+Switzerland,1996,Potato,487219,6.66,1537.0
+Switzerland,1997,Potato,459163,7.96,1537.0
+Switzerland,1998,Potato,403371,7.81,1537.0
+Switzerland,1999,Potato,352256,7.76,1537.0
+Switzerland,2000,Potato,424362,8.54,1537.0
+Switzerland,2001,Potato,375698,7.82,1537.0
+Switzerland,2002,Potato,390936,8.42,1537.0
+Switzerland,2004,Potato,394976,7.67,1537.0
+Switzerland,2005,Potato,387450,7.49,1537.0
+Switzerland,2006,Potato,326986,8.19,1537.0
+Switzerland,2007,Potato,417029,8.43,1537.0
+Switzerland,2008,Potato,427835,7.98,1537.0
+Switzerland,2009,Potato,465002,8.15,1537.0
+Switzerland,2010,Potato,386978,7.06,1537.0
+Switzerland,2011,Potato,457778,8.68,1537.0
+Switzerland,2012,Potato,411034,7.96,1537.0
+Switzerland,2013,Potato,325935,7.94,1537.0
+Tajikistan,1992,Potato,128769,7.9,691.0
+Tajikistan,1993,Potato,120492,7.29,691.0
+Tajikistan,1994,Potato,111667,8.01,691.0
+Tajikistan,1995,Potato,279000,8.49,691.0
+Tajikistan,1996,Potato,107700,7.55,691.0
+Tajikistan,1997,Potato,100289,8.69,691.0
+Tajikistan,1998,Potato,104926,8.34,691.0
+Tajikistan,1999,Potato,117128,8.74,691.0
+Tajikistan,2000,Potato,119046,8.78,691.0
+Tajikistan,2001,Potato,132600,9.16,691.0
+Tajikistan,2002,Potato,158022,8.63,691.0
+Tajikistan,2004,Potato,183006,9.24,691.0
+Tajikistan,2005,Potato,196227,8.61,691.0
+Tajikistan,2006,Potato,198508,8.97,691.0
+Tajikistan,2007,Potato,218368,8.69,691.0
+Tajikistan,2008,Potato,237053,8.29,691.0
+Tajikistan,2009,Potato,231535,8.42,691.0
+Tajikistan,2010,Potato,239308,8.98,691.0
+Tajikistan,2011,Potato,235049,8.45,691.0
+Tajikistan,2012,Potato,237444,7.71,691.0
+Tajikistan,2013,Potato,251396,10.1,691.0
+Thailand,1985,Potato,122841,27.44,1622.0
+Thailand,1986,Potato,124558,27.27,1622.0
+Thailand,1987,Potato,78410,27.84,1622.0
+Thailand,1989,Potato,83333,27.66,1622.0
+Thailand,1990,Potato,90000,27.96,1622.0
+Thailand,1991,Potato,83333,27.85,1622.0
+Thailand,1992,Potato,128571,27.55,1622.0
+Thailand,1993,Potato,125000,27.58,1622.0
+Thailand,1994,Potato,133333,27.76,1622.0
+Thailand,1995,Potato,140000,27.68,1622.0
+Thailand,1996,Potato,171249,27.37,1622.0
+Thailand,1997,Potato,166699,28.01,1622.0
+Thailand,1998,Potato,123473,28.44,1622.0
+Thailand,1999,Potato,130776,27.34,1622.0
+Thailand,2000,Potato,130776,27.52,1622.0
+Thailand,2001,Potato,120904,27.81,1622.0
+Thailand,2002,Potato,120717,27.98,1622.0
+Thailand,2004,Potato,143224,27.8,1622.0
+Thailand,2005,Potato,151076,27.92,1622.0
+Thailand,2006,Potato,152815,27.92,1622.0
+Thailand,2007,Potato,157503,27.79,1622.0
+Thailand,2008,Potato,150459,27.48,1622.0
+Thailand,2009,Potato,165948,27.79,1622.0
+Thailand,2010,Potato,142016,28.54,1622.0
+Thailand,2011,Potato,146421,27.56,1622.0
+Thailand,2012,Potato,153378,28.48,1622.0
+Thailand,2013,Potato,150014,28.98,1622.0
+Tunisia,1985,Potato,107143,18.87,207.0
+Tunisia,1986,Potato,113333,18.85,207.0
+Tunisia,1987,Potato,122078,19.22,207.0
+Tunisia,1989,Potato,111875,19.11,207.0
+Tunisia,1990,Potato,136478,19.34,207.0
+Tunisia,1991,Potato,129412,18.41,207.0
+Tunisia,1992,Potato,136250,18.54,207.0
+Tunisia,1993,Potato,140141,18.9,207.0
+Tunisia,1994,Potato,117318,19.93,207.0
+Tunisia,1995,Potato,137059,19.22,207.0
+Tunisia,1996,Potato,119469,18.88,207.0
+Tunisia,1997,Potato,125652,19.54,207.0
+Tunisia,1998,Potato,137850,19.19,207.0
+Tunisia,1999,Potato,164103,19.97,207.0
+Tunisia,2000,Potato,140097,19.76,207.0
+Tunisia,2001,Potato,154930,20.04,207.0
+Tunisia,2002,Potato,140399,19.74,207.0
+Tunisia,2004,Potato,154959,19.37,207.0
+Tunisia,2005,Potato,123604,19.12,207.0
+Tunisia,2006,Potato,146586,19.82,207.0
+Tunisia,2007,Potato,145418,19.71,207.0
+Tunisia,2008,Potato,149194,19.76,207.0
+Tunisia,2009,Potato,144321,19.64,207.0
+Tunisia,2010,Potato,155462,19.76,207.0
+Tunisia,2011,Potato,148760,19.53,207.0
+Tunisia,2012,Potato,150215,20.12,207.0
+Tunisia,2013,Potato,160417,20.0,207.0
+Turkey,1985,Potato,198154,19.13,593.0
+Turkey,1986,Potato,204102,19.27,593.0
+Turkey,1987,Potato,221726,18.77,593.0
+Turkey,1989,Potato,217112,19.23,593.0
+Turkey,1990,Potato,224367,19.22,593.0
+Turkey,1991,Potato,230653,18.94,593.0
+Turkey,1992,Potato,236046,17.68,593.0
+Turkey,1993,Potato,242315,18.82,593.0
+Turkey,1994,Potato,229189,19.76,593.0
+Turkey,1995,Potato,237707,19.15,593.0
+Turkey,1996,Potato,235756,19.47,593.0
+Turkey,1997,Potato,241821,18.65,593.0
+Turkey,1998,Potato,258890,19.92,593.0
+Turkey,1999,Potato,272975,20.02,593.0
+Turkey,2000,Potato,263762,19.33,593.0
+Turkey,2001,Potato,250409,20.09,593.0
+Turkey,2002,Potato,262966,19.54,593.0
+Turkey,2004,Potato,268306,19.48,593.0
+Turkey,2005,Potato,266540,19.44,593.0
+Turkey,2006,Potato,276077,19.44,593.0
+Turkey,2007,Potato,276422,19.82,593.0
+Turkey,2008,Potato,282947,19.92,593.0
+Turkey,2009,Potato,305986,19.94,593.0
+Turkey,2010,Potato,323303,21.02,593.0
+Turkey,2011,Potato,324041,19.36,593.0
+Turkey,2012,Potato,280384,19.92,593.0
+Turkey,2013,Potato,315329,20.22,593.0
+Uganda,1985,Potato,67200,23.45,1180.0
+Uganda,1986,Potato,51579,23.71,1180.0
+Uganda,1987,Potato,71154,24.2,1180.0
+Uganda,1989,Potato,69276,23.16,1180.0
+Uganda,1990,Potato,70000,23.36,1180.0
+Uganda,1991,Potato,71885,23.3,1180.0
+Uganda,1992,Potato,72432,23.46,1180.0
+Uganda,1993,Potato,80000,23.62,1180.0
+Uganda,1994,Potato,83636,23.6,1180.0
+Uganda,1995,Potato,80400,23.72,1180.0
+Uganda,1996,Potato,60000,23.49,1180.0
+Uganda,1997,Potato,64286,24.04,1180.0
+Uganda,1998,Potato,64000,23.97,1180.0
+Uganda,1999,Potato,70156,23.52,1180.0
+Uganda,2000,Potato,70294,23.75,1180.0
+Uganda,2001,Potato,69589,23.47,1180.0
+Uganda,2002,Potato,70000,23.99,1180.0
+Uganda,2004,Potato,69036,24.02,1180.0
+Uganda,2005,Potato,68023,24.29,1180.0
+Uganda,2006,Potato,69778,23.95,1180.0
+Uganda,2007,Potato,69892,23.68,1180.0
+Uganda,2008,Potato,47419,23.68,1180.0
+Uganda,2009,Potato,46286,24.18,1180.0
+Uganda,2010,Potato,47714,24.14,1180.0
+Uganda,2011,Potato,49920,23.89,1180.0
+Uganda,2012,Potato,49440,24.03,1180.0
+Uganda,2013,Potato,45013,24.13,1180.0
+Ukraine,1992,Potato,118906,8.07,565.0
+Ukraine,1993,Potato,136956,6.89,565.0
+Ukraine,1994,Potato,105449,7.98,565.0
+Ukraine,1995,Potato,96233,8.26,565.0
+Ukraine,1996,Potato,118859,7.0,565.0
+Ukraine,1997,Potato,105875,7.21,565.0
+Ukraine,1998,Potato,101804,7.74,565.0
+Ukraine,1999,Potato,82026,8.97,565.0
+Ukraine,2000,Potato,121632,8.82,565.0
+Ukraine,2001,Potato,108079,8.42,565.0
+Ukraine,2002,Potato,104374,8.87,565.0
+Ukraine,2004,Potato,133386,8.32,565.0
+Ukraine,2005,Potato,128388,8.39,565.0
+Ukraine,2006,Potato,133199,7.88,565.0
+Ukraine,2007,Potato,131439,9.46,565.0
+Ukraine,2008,Potato,138728,9.24,565.0
+Ukraine,2009,Potato,139298,8.82,565.0
+Ukraine,2010,Potato,132481,8.97,565.0
+Ukraine,2011,Potato,168039,8.48,565.0
+Ukraine,2012,Potato,161001,8.56,565.0
+Ukraine,2013,Potato,159664,10.33,565.0
+United Arab Emirates,1985,Potato,100823,26.63,78.0
+United Arab Emirates,1986,Potato,115385,26.7,78.0
+United Arab Emirates,1987,Potato,117184,26.91,78.0
+United Arab Emirates,1989,Potato,206516,26.38,78.0
+United Arab Emirates,1990,Potato,218846,27.11,78.0
+United Arab Emirates,1991,Maize,204303,26.46,78.0
+United Arab Emirates,1992,Maize,202518,26.1,78.0
+United Arab Emirates,1993,Maize,200203,27.02,78.0
+United Arab Emirates,1994,Potato,203736,27.25,78.0
+United Arab Emirates,1995,Maize,190476,26.75,78.0
+United Arab Emirates,1996,Potato,209902,27.2,78.0
+United Arab Emirates,1997,Potato,201296,26.87,78.0
+United Arab Emirates,1998,Maize,204530,28.19,78.0
+United Arab Emirates,1999,Maize,206590,28.16,78.0
+United Arab Emirates,2000,Maize,208670,27.67,78.0
+United Arab Emirates,2001,Potato,224971,27.82,78.0
+United Arab Emirates,2002,Maize,215030,28.0,78.0
+United Arab Emirates,2004,Potato,262593,28.07,78.0
+United Arab Emirates,2005,Potato,262593,27.9,78.0
+United Arab Emirates,2006,Potato,262593,27.94,78.0
+United Arab Emirates,2007,Maize,268266,28.08,78.0
+United Arab Emirates,2008,Maize,268301,27.59,78.0
+United Arab Emirates,2009,Maize,268249,28.04,78.0
+United Arab Emirates,2010,Potato,243570,28.69,78.0
+United Arab Emirates,2011,Potato,234936,28.25,78.0
+United Arab Emirates,2012,Potato,232644,28.46,78.0
+United Arab Emirates,2013,Maize,367619,28.01,78.0
+United Kingdom,1985,Potato,358585,8.3,1220.0
+United Kingdom,1986,Potato,358413,8.1,1220.0
+United Kingdom,1987,Potato,378288,8.53,1220.0
+United Kingdom,1989,Potato,358262,9.46,1220.0
+United Kingdom,1990,Potato,365161,9.56,1220.0
+United Kingdom,1991,Potato,354068,9.11,1220.0
+United Kingdom,1992,Potato,433870,9.11,1220.0
+United Kingdom,1993,Potato,415790,8.75,1220.0
+United Kingdom,1994,Potato,399956,9.01,1220.0
+United Kingdom,1995,Potato,374503,9.52,1220.0
+United Kingdom,1996,Potato,407441,8.8,1220.0
+United Kingdom,1997,Potato,429656,9.94,1220.0
+United Kingdom,1998,Potato,391347,9.59,1220.0
+United Kingdom,1999,Potato,401515,9.67,1220.0
+United Kingdom,2000,Potato,399759,9.47,1220.0
+United Kingdom,2001,Potato,402970,9.25,1220.0
+United Kingdom,2002,Potato,440886,9.78,1220.0
+United Kingdom,2004,Potato,424781,9.86,1220.0
+United Kingdom,2005,Potato,435153,9.9,1220.0
+United Kingdom,2006,Potato,415887,10.02,1220.0
+United Kingdom,2007,Potato,401926,10.11,1220.0
+United Kingdom,2008,Potato,416597,9.48,1220.0
+United Kingdom,2009,Potato,444167,9.59,1220.0
+United Kingdom,2010,Potato,438841,8.4,1220.0
+United Kingdom,2011,Potato,432192,9.82,1220.0
+United Kingdom,2012,Potato,305570,9.27,1220.0
+United Kingdom,2013,Potato,408993,8.76,1220.0
+Uruguay,1985,Potato,74991,17.04,1300.0
+Uruguay,1986,Potato,63255,17.13,1300.0
+Uruguay,1987,Potato,83475,16.85,1300.0
+Uruguay,1989,Potato,85786,17.33,1300.0
+Uruguay,1990,Potato,95000,16.91,1300.0
+Uruguay,1991,Potato,101741,16.95,1300.0
+Uruguay,1992,Potato,92262,16.7,1300.0
+Uruguay,1993,Potato,85938,16.81,1300.0
+Uruguay,1994,Potato,93306,17.17,1300.0
+Uruguay,1995,Potato,100603,16.66,1300.0
+Uruguay,1996,Potato,109417,17.03,1300.0
+Uruguay,1997,Potato,150885,17.46,1300.0
+Uruguay,1998,Potato,157532,16.77,1300.0
+Uruguay,1999,Potato,163866,16.62,1300.0
+Uruguay,2000,Potato,124074,16.95,1300.0
+Uruguay,2001,Potato,146493,17.61,1300.0
+Uruguay,2002,Potato,129399,17.06,1300.0
+Uruguay,2004,Potato,159905,17.22,1300.0
+Uruguay,2005,Potato,189330,17.13,1300.0
+Uruguay,2006,Potato,172693,17.13,1300.0
+Uruguay,2007,Potato,149353,16.53,1300.0
+Uruguay,2008,Potato,169299,17.43,1300.0
+Uruguay,2009,Potato,161006,16.96,1300.0
+Uruguay,2010,Potato,200915,17.11,1300.0
+Uruguay,2011,Potato,177610,16.9,1300.0
+Uruguay,2012,Potato,219891,17.53,1300.0
+Uruguay,2013,Potato,224434,15.92,1300.0
+Uzbekistan,1992,Potato,85115,10.97,206.0
+Uzbekistan,1993,Potato,106157,10.11,206.0
+Uzbekistan,1994,Potato,107000,10.95,206.0
+Uzbekistan,1995,Potato,95839,11.54,206.0
+Uzbekistan,1996,Potato,115937,10.45,206.0
+Uzbekistan,1997,Potato,120122,11.77,206.0
+Uzbekistan,1998,Potato,126399,11.32,206.0
+Uzbekistan,1999,Potato,135629,11.65,206.0
+Uzbekistan,2000,Potato,140057,11.85,206.0
+Uzbekistan,2001,Potato,146535,11.99,206.0
+Uzbekistan,2002,Potato,158937,11.65,206.0
+Uzbekistan,2004,Potato,171793,12.24,206.0
+Uzbekistan,2005,Potato,185541,11.75,206.0
+Uzbekistan,2006,Potato,194141,11.86,206.0
+Uzbekistan,2007,Potato,213831,11.79,206.0
+Uzbekistan,2008,Potato,233506,11.43,206.0
+Uzbekistan,2009,Potato,243710,11.49,206.0
+Uzbekistan,2010,Potato,239717,11.94,206.0
+Uzbekistan,2011,Potato,253071,11.35,206.0
+Uzbekistan,2012,Potato,270329,10.87,206.0
+Uzbekistan,2013,Potato,287407,13.66,206.0
+Zambia,1985,Potato,89552,20.46,1020.0
+Zambia,1986,Potato,90278,20.27,1020.0
+Zambia,1987,Potato,90909,21.56,1020.0
+Zambia,1989,Potato,90909,20.82,1020.0
+Zambia,1990,Potato,90000,21.43,1020.0
+Zambia,1991,Potato,90909,20.84,1020.0
+Zambia,1992,Potato,88889,21.85,1020.0
+Zambia,1993,Potato,90909,21.0,1020.0
+Zambia,1994,Potato,90000,21.2,1020.0
+Zambia,1995,Potato,88889,21.86,1020.0
+Zambia,1996,Potato,90909,21.19,1020.0
+Zambia,1997,Potato,90000,20.9,1020.0
+Zambia,1998,Potato,88889,21.32,1020.0
+Zambia,1999,Potato,90909,20.53,1020.0
+Zambia,2000,Potato,90909,20.66,1020.0
+Zambia,2001,Potato,107450,20.9,1020.0
+Zambia,2002,Potato,115006,21.55,1020.0
+Zambia,2004,Potato,127573,20.79,1020.0
+Zambia,2005,Potato,144245,21.97,1020.0
+Zambia,2006,Potato,140000,21.05,1020.0
+Zambia,2007,Potato,131818,20.87,1020.0
+Zambia,2008,Potato,101051,20.66,1020.0
+Zambia,2009,Potato,172628,20.76,1020.0
+Zambia,2010,Potato,162228,21.34,1020.0
+Zambia,2011,Potato,156005,20.88,1020.0
+Zambia,2012,Potato,155862,20.8,1020.0
+Zambia,2013,Potato,158337,20.14,1020.0
+Zimbabwe,1985,Potato,158824,20.21,657.0
+Zimbabwe,1986,Potato,160000,20.21,657.0
+Zimbabwe,1987,Potato,161111,21.37,657.0
+Zimbabwe,1989,Potato,157895,20.49,657.0
+Zimbabwe,1990,Potato,158974,21.19,657.0
+Zimbabwe,1991,Potato,156839,20.95,657.0
+Zimbabwe,1992,Potato,156250,21.93,657.0
+Zimbabwe,1993,Potato,157895,20.88,657.0
+Zimbabwe,1994,Potato,158974,20.64,657.0
+Zimbabwe,1995,Potato,157895,21.57,657.0
+Zimbabwe,1996,Potato,157062,20.7,657.0
+Zimbabwe,1997,Potato,156673,20.63,657.0
+Zimbabwe,1998,Potato,152632,21.3,657.0
+Zimbabwe,1999,Potato,157697,20.44,657.0
+Zimbabwe,2000,Potato,160000,20.28,657.0
+Zimbabwe,2001,Potato,157143,20.86,657.0
+Zimbabwe,2002,Potato,159091,21.08,657.0
+Zimbabwe,2004,Potato,161413,20.31,657.0
+Zimbabwe,2005,Potato,162464,21.49,657.0
+Zimbabwe,2006,Potato,163494,20.7,657.0
+Zimbabwe,2007,Potato,164490,20.75,657.0
+Zimbabwe,2008,Potato,165333,20.68,657.0
+Zimbabwe,2009,Potato,166136,20.52,657.0
+Zimbabwe,2010,Potato,166825,21.17,657.0
+Zimbabwe,2011,Potato,167336,20.78,657.0
+Zimbabwe,2012,Potato,171875,20.52,657.0
+Zimbabwe,2013,Potato,165714,19.76,657.0

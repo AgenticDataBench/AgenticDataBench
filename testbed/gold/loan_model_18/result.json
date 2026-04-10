@@ -1,0 +1,10 @@
+{
+  "all_methods": ["evaluate_auc_ks", "evaluate_auc_ks_group", "evaluate_lift_group", "evaluate_psi", "stable_psi_ner"],
+  "dataframe_methods": ["evaluate_auc_ks_group", "stable_psi_ner"],
+  "dataframe_columns": {
+    "evaluate_auc_ks_group": ["period", "sample", "labels", "bad_sum", "good_sum", "bad_rate", "AUC", "KS", "lift"],
+    "stable_psi_ner": ["apply_month", "psi_base", "psi_comp", "psi_timestamp", "psi_neighbor"]
+  },
+  "common_columns": [],
+  "dict_methods": ["evaluate_lift_group", "evaluate_psi"]
+}

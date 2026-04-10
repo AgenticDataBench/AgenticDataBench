@@ -1,0 +1,41 @@
+{
+  "overall": {
+    "MAE": 10905.9528,
+    "RMSE": 24882.0091,
+    "R\u00b2": 0.3699,
+    "correlation": 0.6298
+  },
+  "per_borough": {
+    "Queens": {
+      "MAE": 5745.6992,
+      "RMSE": 24346.4451,
+      "R\u00b2": 0.0126,
+      "correlation": 0.1778
+    },
+    "Bronx": {
+      "MAE": 2302.5733,
+      "RMSE": 5730.4134,
+      "R\u00b2": -691.5146,
+      "correlation": -0.2234
+    },
+    "Manhattan": {
+      "MAE": 26679.5821,
+      "RMSE": 39619.2858,
+      "R\u00b2": 0.0866,
+      "correlation": 0.5364
+    },
+    "Staten Island": {
+      "MAE": 660.4223,
+      "RMSE": 1488.0766,
+      "R\u00b2": -9538.5669,
+      "correlation": -0.1842
+    },
+    "Brooklyn": {
+      "MAE": 8604.7534,
+      "RMSE": 14341.6773,
+      "R\u00b2": -240.3194,
+      "correlation": 0.3243
+    }
+  },
+  "best_silhouette_score": 0.3675
+}

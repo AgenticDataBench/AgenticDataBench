@@ -1,0 +1,54 @@
+{
+  "selected_features": [
+    "airline_retweet_count",
+    "bot_Mention Count",
+    "bot_Retweet Count"
+  ],
+  "n_components_per_dataset": {
+    "bot_detection": 3,
+    "gender_classification": 4,
+    "airline_sentiment": 2
+  },
+  "explained_variance_per_dataset": {
+    "bot_detection": [
+      0.3361004174495215,
+      0.33332841220486786,
+      0.33057117034561057
+    ],
+    "gender_classification": [
+      0.26337385042921546,
+      0.24707191417638596,
+      0.24676040544434,
+      0.22978168786852554
+    ],
+    "airline_sentiment": [
+      0.8753221770067066,
+      0.09915745686439963
+    ]
+  },
+  "feature_importance_per_dataset": {
+    "bot_detection": {
+      "Retweet Count": 0.3693506231202687,
+      "Mention Count": 0.32187187219921176,
+      "Follower Count": 0.30877750468051957
+    },
+    "gender_classification": {
+      "retweet_count": 0.24109960970871086,
+      "fav_number": 0.25515719848531027,
+      "tweet_count": 0.25646602730638635,
+      "_trusted_judgments": 0.24504824682014356,
+      "gender:confidence": 0.0017370132890921909,
+      "profile_yn:confidence": 0.0004919043903566545
+    },
+    "airline_sentiment": {
+      "retweet_count": 0.8557360962955808,
+      "airline_sentiment_confidence": 0.06174223174710343,
+      "negativereason_confidence": 0.08252167195731566
+    }
+  },
+  "overall_top_features": [
+    "airline_retweet_count",
+    "bot_Retweet Count",
+    "bot_Mention Count"
+  ]
+}

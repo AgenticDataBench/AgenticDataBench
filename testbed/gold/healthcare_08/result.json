@@ -1,0 +1,36 @@
+{
+  "dataset_performance": {
+    "diabetes": {
+      "roc_auc": 0.9998,
+      "brier_score": 0.0103,
+      "accuracy": 0.9946,
+      "calibrated_auc": 0.9946
+    },
+    "stroke": {
+      "roc_auc": 0.7264,
+      "brier_score": 0.0445,
+      "accuracy": 0.9552,
+      "calibrated_auc": 0.7102
+    },
+    "heart_disease": {
+      "roc_auc": 0.82,
+      "brier_score": 0.1746,
+      "accuracy": 0.7778,
+      "calibrated_auc": 0.7484
+    },
+    "insurance": {
+      "roc_auc": 0.9474,
+      "brier_score": 0.0572,
+      "accuracy": 0.9366,
+      "calibrated_auc": 0.9203
+    },
+    "chronic_kidney_disease": {
+      "roc_auc": 1.0,
+      "brier_score": 0.0096,
+      "accuracy": 0.9851,
+      "calibrated_auc": 0.9952
+    }
+  },
+  "best_dataset": "chronic_kidney_disease",
+  "best_calibrated_auc": 0.9952
+}

@@ -1,0 +1,7 @@
+comparison,metric,t_statistic,p_value,cohens_d,significant
+Olympics vs NBA,Height,-92.8036325122561,0.0,-2.3532292421285668,Yes
+Olympics vs Soccer,Height,-100.36464947567629,0.0,-0.6275675452125882,Yes
+NBA vs Soccer,Height,66.98128309708838,0.0,2.7831907606096373,Yes
+Olympics vs NBA,Weight,-73.3382734291223,0.0,-1.8628716558968081,Yes
+Olympics vs Soccer,Weight,-669.2948585328314,0.0,-6.801639535211758,Yes
+NBA vs Soccer,Weight,-182.43054511073507,0.0,-4.821923583063998,Yes

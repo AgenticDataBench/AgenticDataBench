@@ -1,0 +1,2333 @@
+[
+  {
+    "zone":"Upper East Side South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":126986,
+    "PT_P":29.69,
+    "WFH_P":24.45,
+    "urban_mobility_stress_index":3125.5501,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Midtown Center",
+    "borough":"Manhattan",
+    "monthly_pickup_count":100211,
+    "PT_P":25.59,
+    "WFH_P":24.2,
+    "urban_mobility_stress_index":2856.4736,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Upper East Side North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":154464,
+    "PT_P":40.26,
+    "WFH_P":26.74,
+    "urban_mobility_stress_index":2742.454,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Murray Hill",
+    "borough":"Manhattan",
+    "monthly_pickup_count":77352,
+    "PT_P":24.22,
+    "WFH_P":26.0,
+    "urban_mobility_stress_index":2269.7763,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Midtown North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":76952,
+    "PT_P":26.18,
+    "WFH_P":22.84,
+    "urban_mobility_stress_index":2184.695,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Midtown East",
+    "borough":"Manhattan",
+    "monthly_pickup_count":60917,
+    "PT_P":24.88,
+    "WFH_P":22.96,
+    "urban_mobility_stress_index":1813.4409,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"JFK Airport",
+    "borough":"Queens",
+    "monthly_pickup_count":54115,
+    "PT_P":30.88,
+    "WFH_P":8.82,
+    "urban_mobility_stress_index":1547.5289,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Midtown South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":60730,
+    "PT_P":30.04,
+    "WFH_P":23.56,
+    "urban_mobility_stress_index":1495.5485,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Penn Station\/Madison Sq West",
+    "borough":"Manhattan",
+    "monthly_pickup_count":67501,
+    "PT_P":38.83,
+    "WFH_P":19.92,
+    "urban_mobility_stress_index":1357.1131,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Lenox Hill West",
+    "borough":"Manhattan",
+    "monthly_pickup_count":59758,
+    "PT_P":33.33,
+    "WFH_P":23.7,
+    "urban_mobility_stress_index":1328.2288,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"UN\/Turtle Bay South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":43050,
+    "PT_P":23.94,
+    "WFH_P":28.05,
+    "urban_mobility_stress_index":1241.9079,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Times Sq\/Theatre District",
+    "borough":"Manhattan",
+    "monthly_pickup_count":59425,
+    "PT_P":36.55,
+    "WFH_P":22.95,
+    "urban_mobility_stress_index":1219.3932,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Chelsea",
+    "borough":"Manhattan",
+    "monthly_pickup_count":57664,
+    "PT_P":37.89,
+    "WFH_P":24.88,
+    "urban_mobility_stress_index":1113.8233,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Upper West Side South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":75468,
+    "PT_P":44.76,
+    "WFH_P":33.78,
+    "urban_mobility_stress_index":1092.1968,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Village",
+    "borough":"Manhattan",
+    "monthly_pickup_count":62492,
+    "PT_P":43.39,
+    "WFH_P":23.37,
+    "urban_mobility_stress_index":1078.7499,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"LaGuardia Airport",
+    "borough":"Queens",
+    "monthly_pickup_count":50630,
+    "PT_P":40.58,
+    "WFH_P":13.47,
+    "urban_mobility_stress_index":1053.5411,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Sutton Place\/Turtle Bay North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":37957,
+    "PT_P":26.38,
+    "WFH_P":25.54,
+    "urban_mobility_stress_index":1032.3265,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Upper West Side North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":71315,
+    "PT_P":48.17,
+    "WFH_P":30.23,
+    "urban_mobility_stress_index":1011.9687,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Lincoln Square East",
+    "borough":"Manhattan",
+    "monthly_pickup_count":58156,
+    "PT_P":41.47,
+    "WFH_P":27.8,
+    "urban_mobility_stress_index":988.6143,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Kips Bay",
+    "borough":"Manhattan",
+    "monthly_pickup_count":37825,
+    "PT_P":27.32,
+    "WFH_P":28.91,
+    "urban_mobility_stress_index":949.3912,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Union Sq",
+    "borough":"Manhattan",
+    "monthly_pickup_count":47598,
+    "PT_P":36.85,
+    "WFH_P":25.06,
+    "urban_mobility_stress_index":942.4439,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Lenox Hill East",
+    "borough":"Manhattan",
+    "monthly_pickup_count":41347,
+    "PT_P":34.09,
+    "WFH_P":22.9,
+    "urban_mobility_stress_index":908.4002,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Gramercy",
+    "borough":"Manhattan",
+    "monthly_pickup_count":42967,
+    "PT_P":35.98,
+    "WFH_P":28.05,
+    "urban_mobility_stress_index":835.9042,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Garment District",
+    "borough":"Manhattan",
+    "monthly_pickup_count":40275,
+    "PT_P":37.55,
+    "WFH_P":21.27,
+    "urban_mobility_stress_index":822.6143,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Yorkville East",
+    "borough":"Manhattan",
+    "monthly_pickup_count":50498,
+    "PT_P":46.71,
+    "WFH_P":22.9,
+    "urban_mobility_stress_index":816.0422,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Clinton East",
+    "borough":"Manhattan",
+    "monthly_pickup_count":38578,
+    "PT_P":37.13,
+    "WFH_P":21.73,
+    "urban_mobility_stress_index":791.897,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Greenwich Village North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":37611,
+    "PT_P":33.04,
+    "WFH_P":28.35,
+    "urban_mobility_stress_index":791.6907,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Central Park",
+    "borough":"Manhattan",
+    "monthly_pickup_count":43297,
+    "PT_P":40.04,
+    "WFH_P":25.12,
+    "urban_mobility_stress_index":789.8942,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Flatiron",
+    "borough":"Manhattan",
+    "monthly_pickup_count":42566,
+    "PT_P":42.26,
+    "WFH_P":23.71,
+    "urban_mobility_stress_index":750.7181,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"West Village",
+    "borough":"Manhattan",
+    "monthly_pickup_count":41459,
+    "PT_P":41.03,
+    "WFH_P":25.17,
+    "urban_mobility_stress_index":738.1686,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"West Chelsea\/Hudson Yards",
+    "borough":"Manhattan",
+    "monthly_pickup_count":38025,
+    "PT_P":37.69,
+    "WFH_P":26.37,
+    "urban_mobility_stress_index":723.6945,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"TriBeCa\/Civic Center",
+    "borough":"Manhattan",
+    "monthly_pickup_count":38164,
+    "PT_P":46.13,
+    "WFH_P":22.54,
+    "urban_mobility_stress_index":627.2771,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Yorkville West",
+    "borough":"Manhattan",
+    "monthly_pickup_count":39953,
+    "PT_P":48.61,
+    "WFH_P":23.69,
+    "urban_mobility_stress_index":614.5911,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Greenwich Village South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":30220,
+    "PT_P":36.52,
+    "WFH_P":27.16,
+    "urban_mobility_stress_index":586.6195,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Lower East Side",
+    "borough":"Manhattan",
+    "monthly_pickup_count":29306,
+    "PT_P":43.89,
+    "WFH_P":18.76,
+    "urban_mobility_stress_index":530.4227,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Lincoln Square West",
+    "borough":"Manhattan",
+    "monthly_pickup_count":30640,
+    "PT_P":41.81,
+    "WFH_P":26.29,
+    "urban_mobility_stress_index":527.5302,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Meatpacking\/West Village West",
+    "borough":"Manhattan",
+    "monthly_pickup_count":28350,
+    "PT_P":41.17,
+    "WFH_P":27.07,
+    "urban_mobility_stress_index":490.3283,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Little Italy\/NoLiTa",
+    "borough":"Manhattan",
+    "monthly_pickup_count":27046,
+    "PT_P":43.4,
+    "WFH_P":22.75,
+    "urban_mobility_stress_index":470.6117,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"SoHo",
+    "borough":"Manhattan",
+    "monthly_pickup_count":21920,
+    "PT_P":37.04,
+    "WFH_P":26.76,
+    "urban_mobility_stress_index":422.0295,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Battery Park City",
+    "borough":"Manhattan",
+    "monthly_pickup_count":22891,
+    "PT_P":41.28,
+    "WFH_P":22.46,
+    "urban_mobility_stress_index":419.7495,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Manhattan Valley",
+    "borough":"Manhattan",
+    "monthly_pickup_count":29455,
+    "PT_P":52.62,
+    "WFH_P":26.69,
+    "urban_mobility_stress_index":402.6821,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Financial District North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":21554,
+    "PT_P":44.07,
+    "WFH_P":23.44,
+    "urban_mobility_stress_index":366.1521,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Clinton West",
+    "borough":"Manhattan",
+    "monthly_pickup_count":17340,
+    "PT_P":37.25,
+    "WFH_P":23.59,
+    "urban_mobility_stress_index":346.4282,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Harlem South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":23257,
+    "PT_P":55.52,
+    "WFH_P":17.42,
+    "urban_mobility_stress_index":339.8377,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"World Trade Center",
+    "borough":"Manhattan",
+    "monthly_pickup_count":19122,
+    "PT_P":42.83,
+    "WFH_P":22.45,
+    "urban_mobility_stress_index":338.3614,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Morningside Heights",
+    "borough":"Manhattan",
+    "monthly_pickup_count":18933,
+    "PT_P":42.99,
+    "WFH_P":22.68,
+    "urban_mobility_stress_index":332.7348,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Hudson Sq",
+    "borough":"Manhattan",
+    "monthly_pickup_count":18409,
+    "PT_P":39.33,
+    "WFH_P":27.5,
+    "urban_mobility_stress_index":330.9363,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Elmhurst",
+    "borough":"Queens",
+    "monthly_pickup_count":14374,
+    "PT_P":56.1,
+    "WFH_P":6.58,
+    "urban_mobility_stress_index":235.1563,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Financial District South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":11473,
+    "PT_P":45.53,
+    "WFH_P":23.06,
+    "urban_mobility_stress_index":189.7126,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Central Harlem",
+    "borough":"Manhattan",
+    "monthly_pickup_count":11157,
+    "PT_P":54.37,
+    "WFH_P":20.44,
+    "urban_mobility_stress_index":160.3295,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bloomingdale",
+    "borough":"Manhattan",
+    "monthly_pickup_count":9952,
+    "PT_P":49.57,
+    "WFH_P":21.97,
+    "urban_mobility_stress_index":153.5641,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Seaport",
+    "borough":"Manhattan",
+    "monthly_pickup_count":7730,
+    "PT_P":42.8,
+    "WFH_P":22.07,
+    "urban_mobility_stress_index":137.5466,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Harlem North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":9865,
+    "PT_P":62.38,
+    "WFH_P":14.18,
+    "urban_mobility_stress_index":133.5821,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Stuy Town\/Peter Cooper Village",
+    "borough":"Manhattan",
+    "monthly_pickup_count":5831,
+    "PT_P":41.56,
+    "WFH_P":22.6,
+    "urban_mobility_stress_index":106.0427,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Alphabet City",
+    "borough":"Manhattan",
+    "monthly_pickup_count":6401,
+    "PT_P":49.86,
+    "WFH_P":16.59,
+    "urban_mobility_stress_index":104.9732,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Two Bridges\/Seward Park",
+    "borough":"Manhattan",
+    "monthly_pickup_count":5740,
+    "PT_P":45.37,
+    "WFH_P":15.78,
+    "urban_mobility_stress_index":104.2371,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Chinatown",
+    "borough":"Manhattan",
+    "monthly_pickup_count":5552,
+    "PT_P":45.84,
+    "WFH_P":16.4,
+    "urban_mobility_stress_index":99.0935,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Central Harlem North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":5635,
+    "PT_P":61.2,
+    "WFH_P":16.32,
+    "urban_mobility_stress_index":75.8098,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Long Island City\/Hunters Point",
+    "borough":"Queens",
+    "monthly_pickup_count":3835,
+    "PT_P":60.16,
+    "WFH_P":20.44,
+    "urban_mobility_stress_index":49.8879,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Hamilton Heights",
+    "borough":"Manhattan",
+    "monthly_pickup_count":3792,
+    "PT_P":61.03,
+    "WFH_P":19.09,
+    "urban_mobility_stress_index":49.4613,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Washington Heights South",
+    "borough":"Manhattan",
+    "monthly_pickup_count":3347,
+    "PT_P":58.22,
+    "WFH_P":16.26,
+    "urban_mobility_stress_index":47.3293,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Sunnyside",
+    "borough":"Queens",
+    "monthly_pickup_count":3269,
+    "PT_P":58.41,
+    "WFH_P":14.5,
+    "urban_mobility_stress_index":47.0477,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Manhattanville",
+    "borough":"Manhattan",
+    "monthly_pickup_count":3153,
+    "PT_P":56.23,
+    "WFH_P":19.15,
+    "urban_mobility_stress_index":44.5451,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Williamsburg (North Side)",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2986,
+    "PT_P":47.9,
+    "WFH_P":28.89,
+    "urban_mobility_stress_index":43.417,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Brooklyn Heights",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2749,
+    "PT_P":43.65,
+    "WFH_P":31.81,
+    "urban_mobility_stress_index":41.9817,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Downtown Brooklyn\/MetroTech",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2915,
+    "PT_P":50.22,
+    "WFH_P":27.86,
+    "urban_mobility_stress_index":41.0533,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Astoria",
+    "borough":"Queens",
+    "monthly_pickup_count":2638,
+    "PT_P":55.12,
+    "WFH_P":17.83,
+    "urban_mobility_stress_index":38.6251,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Williamsburg (South Side)",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2193,
+    "PT_P":45.74,
+    "WFH_P":21.34,
+    "urban_mobility_stress_index":36.9019,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Crown Heights North",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2369,
+    "PT_P":56.02,
+    "WFH_P":17.33,
+    "urban_mobility_stress_index":34.3452,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"South Ozone Park",
+    "borough":"Queens",
+    "monthly_pickup_count":1339,
+    "PT_P":38.0,
+    "WFH_P":6.8,
+    "urban_mobility_stress_index":31.9972,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Baisley Park",
+    "borough":"Queens",
+    "monthly_pickup_count":1359,
+    "PT_P":39.28,
+    "WFH_P":6.06,
+    "urban_mobility_stress_index":31.6975,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"DUMBO\/Vinegar Hill",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1931,
+    "PT_P":44.82,
+    "WFH_P":24.91,
+    "urban_mobility_stress_index":31.6476,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Fort Greene",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2196,
+    "PT_P":49.69,
+    "WFH_P":29.29,
+    "urban_mobility_stress_index":30.6328,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Boerum Hill",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":2058,
+    "PT_P":50.48,
+    "WFH_P":30.48,
+    "urban_mobility_stress_index":27.791,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East New York",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1627,
+    "PT_P":53.43,
+    "WFH_P":9.01,
+    "urban_mobility_stress_index":27.2004,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Williamsburg",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1753,
+    "PT_P":50.9,
+    "WFH_P":21.19,
+    "urban_mobility_stress_index":26.619,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Long Island City\/Queens Plaza",
+    "borough":"Queens",
+    "monthly_pickup_count":1833,
+    "PT_P":57.56,
+    "WFH_P":16.73,
+    "urban_mobility_stress_index":26.0657,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Park Slope",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1850,
+    "PT_P":47.64,
+    "WFH_P":32.18,
+    "urban_mobility_stress_index":25.797,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Battery Park",
+    "borough":"Manhattan",
+    "monthly_pickup_count":1514,
+    "PT_P":44.17,
+    "WFH_P":23.74,
+    "urban_mobility_stress_index":25.5637,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Canarsie",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1355,
+    "PT_P":48.66,
+    "WFH_P":7.53,
+    "urban_mobility_stress_index":25.2289,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Jackson Heights",
+    "borough":"Queens",
+    "monthly_pickup_count":1457,
+    "PT_P":52.64,
+    "WFH_P":9.58,
+    "urban_mobility_stress_index":24.5598,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Greenpoint",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1547,
+    "PT_P":45.12,
+    "WFH_P":27.5,
+    "urban_mobility_stress_index":24.3216,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Queensbridge\/Ravenswood",
+    "borough":"Queens",
+    "monthly_pickup_count":1498,
+    "PT_P":56.91,
+    "WFH_P":15.52,
+    "urban_mobility_stress_index":21.8527,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Prospect-Lefferts Gardens",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1432,
+    "PT_P":55.91,
+    "WFH_P":13.97,
+    "urban_mobility_stress_index":21.6499,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Flatbush\/Ditmas Park",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1233,
+    "PT_P":49.38,
+    "WFH_P":12.98,
+    "urban_mobility_stress_index":21.2999,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bedford",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1194,
+    "PT_P":45.65,
+    "WFH_P":18.12,
+    "urban_mobility_stress_index":20.9565,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Jamaica",
+    "borough":"Queens",
+    "monthly_pickup_count":1049,
+    "PT_P":47.27,
+    "WFH_P":8.46,
+    "urban_mobility_stress_index":19.8931,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Clinton Hill",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1157,
+    "PT_P":42.08,
+    "WFH_P":26.82,
+    "urban_mobility_stress_index":19.6549,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Woodside",
+    "borough":"Queens",
+    "monthly_pickup_count":1083,
+    "PT_P":52.24,
+    "WFH_P":10.33,
+    "urban_mobility_stress_index":18.2403,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Richmond Hill",
+    "borough":"Queens",
+    "monthly_pickup_count":888,
+    "PT_P":44.45,
+    "WFH_P":8.46,
+    "urban_mobility_stress_index":17.8845,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Flatlands",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":868,
+    "PT_P":43.24,
+    "WFH_P":8.92,
+    "urban_mobility_stress_index":17.8695,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Mott Haven\/Port Morris",
+    "borough":"Bronx",
+    "monthly_pickup_count":1209,
+    "PT_P":61.08,
+    "WFH_P":8.53,
+    "urban_mobility_stress_index":17.8144,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bushwick South",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1197,
+    "PT_P":57.25,
+    "WFH_P":15.39,
+    "urban_mobility_stress_index":17.3866,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Stuyvesant Heights",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":1187,
+    "PT_P":55.69,
+    "WFH_P":18.04,
+    "urban_mobility_stress_index":17.1602,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Forest Hills",
+    "borough":"Queens",
+    "monthly_pickup_count":914,
+    "PT_P":44.51,
+    "WFH_P":18.99,
+    "urban_mobility_stress_index":16.2715,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Steinway",
+    "borough":"Queens",
+    "monthly_pickup_count":978,
+    "PT_P":48.5,
+    "WFH_P":19.42,
+    "urban_mobility_stress_index":15.921,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"South Jamaica",
+    "borough":"Queens",
+    "monthly_pickup_count":751,
+    "PT_P":43.29,
+    "WFH_P":6.83,
+    "urban_mobility_stress_index":15.7994,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Washington Heights North",
+    "borough":"Manhattan",
+    "monthly_pickup_count":1054,
+    "PT_P":56.53,
+    "WFH_P":16.06,
+    "urban_mobility_stress_index":15.3771,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Red Hook",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":702,
+    "PT_P":28.5,
+    "WFH_P":37.51,
+    "urban_mobility_stress_index":14.8727,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Springfield Gardens South",
+    "borough":"Queens",
+    "monthly_pickup_count":541,
+    "PT_P":32.65,
+    "WFH_P":7.61,
+    "urban_mobility_stress_index":14.8547,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Flatbush\/Remsen Village",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":940,
+    "PT_P":59.74,
+    "WFH_P":6.7,
+    "urban_mobility_stress_index":14.4376,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Flushing Meadows-Corona Park",
+    "borough":"Queens",
+    "monthly_pickup_count":693,
+    "PT_P":43.32,
+    "WFH_P":9.98,
+    "urban_mobility_stress_index":14.0765,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Brownsville",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":994,
+    "PT_P":67.48,
+    "WFH_P":6.64,
+    "urban_mobility_stress_index":13.5519,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Flatbush\/Farragut",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":779,
+    "PT_P":53.53,
+    "WFH_P":7.52,
+    "urban_mobility_stress_index":13.2108,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Cobble Hill",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":889,
+    "PT_P":44.06,
+    "WFH_P":34.01,
+    "urban_mobility_stress_index":13.0203,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Old Astoria",
+    "borough":"Queens",
+    "monthly_pickup_count":920,
+    "PT_P":54.13,
+    "WFH_P":21.98,
+    "urban_mobility_stress_index":13.0187,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Elmhurst",
+    "borough":"Queens",
+    "monthly_pickup_count":805,
+    "PT_P":56.22,
+    "WFH_P":8.79,
+    "urban_mobility_stress_index":12.8308,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Crown Heights South",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":794,
+    "PT_P":52.41,
+    "WFH_P":14.98,
+    "urban_mobility_stress_index":12.6394,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Maspeth",
+    "borough":"Queens",
+    "monthly_pickup_count":541,
+    "PT_P":39.45,
+    "WFH_P":8.97,
+    "urban_mobility_stress_index":12.175,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Queens Village",
+    "borough":"Queens",
+    "monthly_pickup_count":436,
+    "PT_P":31.95,
+    "WFH_P":9.8,
+    "urban_mobility_stress_index":11.9346,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Co-Op City",
+    "borough":"Bronx",
+    "monthly_pickup_count":546,
+    "PT_P":41.36,
+    "WFH_P":7.64,
+    "urban_mobility_stress_index":11.905,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Carroll Gardens",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":708,
+    "PT_P":37.27,
+    "WFH_P":35.87,
+    "urban_mobility_stress_index":11.8642,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Far Rockaway",
+    "borough":"Queens",
+    "monthly_pickup_count":339,
+    "PT_P":26.12,
+    "WFH_P":8.2,
+    "urban_mobility_stress_index":11.4753,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bushwick North",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":759,
+    "PT_P":56.56,
+    "WFH_P":15.12,
+    "urban_mobility_stress_index":11.1923,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Saint Albans",
+    "borough":"Queens",
+    "monthly_pickup_count":483,
+    "PT_P":38.83,
+    "WFH_P":7.82,
+    "urban_mobility_stress_index":11.1776,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Ocean Hill",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":737,
+    "PT_P":60.81,
+    "WFH_P":10.89,
+    "urban_mobility_stress_index":10.626,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Springfield Gardens North",
+    "borough":"Queens",
+    "monthly_pickup_count":430,
+    "PT_P":38.06,
+    "WFH_P":5.49,
+    "urban_mobility_stress_index":10.4028,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bay Ridge",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":543,
+    "PT_P":41.18,
+    "WFH_P":19.53,
+    "urban_mobility_stress_index":10.3585,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Coney Island",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":497,
+    "PT_P":43.51,
+    "WFH_P":11.4,
+    "urban_mobility_stress_index":9.8932,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"West Concourse",
+    "borough":"Bronx",
+    "monthly_pickup_count":694,
+    "PT_P":65.49,
+    "WFH_P":6.54,
+    "urban_mobility_stress_index":9.7562,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Marine Park\/Mill Basin",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":360,
+    "PT_P":32.0,
+    "WFH_P":11.22,
+    "urban_mobility_stress_index":9.6853,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Soundview\/Castle Hill",
+    "borough":"Bronx",
+    "monthly_pickup_count":511,
+    "PT_P":49.89,
+    "WFH_P":5.08,
+    "urban_mobility_stress_index":9.5311,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Borough Park",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":357,
+    "PT_P":32.44,
+    "WFH_P":11.86,
+    "urban_mobility_stress_index":9.4087,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Kew Gardens",
+    "borough":"Queens",
+    "monthly_pickup_count":495,
+    "PT_P":44.13,
+    "WFH_P":14.85,
+    "urban_mobility_stress_index":9.3395,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Midwood",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":401,
+    "PT_P":36.67,
+    "WFH_P":13.31,
+    "urban_mobility_stress_index":9.2291,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Prospect Heights",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":678,
+    "PT_P":48.16,
+    "WFH_P":33.1,
+    "urban_mobility_stress_index":9.226,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Briarwood\/Jamaica Hills",
+    "borough":"Queens",
+    "monthly_pickup_count":487,
+    "PT_P":46.61,
+    "WFH_P":12.06,
+    "urban_mobility_stress_index":8.9953,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Starrett City",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":469,
+    "PT_P":46.93,
+    "WFH_P":8.18,
+    "urban_mobility_stress_index":8.9847,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Concourse\/Concourse Village",
+    "borough":"Bronx",
+    "monthly_pickup_count":571,
+    "PT_P":62.62,
+    "WFH_P":5.39,
+    "urban_mobility_stress_index":8.4911,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Flushing",
+    "borough":"Queens",
+    "monthly_pickup_count":336,
+    "PT_P":34.91,
+    "WFH_P":9.26,
+    "urban_mobility_stress_index":8.4908,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Hammels\/Arverne",
+    "borough":"Queens",
+    "monthly_pickup_count":357,
+    "PT_P":39.27,
+    "WFH_P":8.49,
+    "urban_mobility_stress_index":8.1122,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Sunset Park West",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":465,
+    "PT_P":46.6,
+    "WFH_P":18.25,
+    "urban_mobility_stress_index":7.9859,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Melrose South",
+    "borough":"Bronx",
+    "monthly_pickup_count":508,
+    "PT_P":58.7,
+    "WFH_P":8.73,
+    "urban_mobility_stress_index":7.7671,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Sheepshead Bay",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":356,
+    "PT_P":41.44,
+    "WFH_P":13.93,
+    "urban_mobility_stress_index":7.2198,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Rosedale",
+    "borough":"Queens",
+    "monthly_pickup_count":223,
+    "PT_P":27.2,
+    "WFH_P":10.84,
+    "urban_mobility_stress_index":7.0509,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Erasmus",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":497,
+    "PT_P":62.38,
+    "WFH_P":11.6,
+    "urban_mobility_stress_index":6.9321,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Rego Park",
+    "borough":"Queens",
+    "monthly_pickup_count":381,
+    "PT_P":47.11,
+    "WFH_P":14.92,
+    "urban_mobility_stress_index":6.7388,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Ridgewood",
+    "borough":"Queens",
+    "monthly_pickup_count":403,
+    "PT_P":51.46,
+    "WFH_P":12.46,
+    "urban_mobility_stress_index":6.7253,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Schuylerville\/Edgewater Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":218,
+    "PT_P":29.22,
+    "WFH_P":7.64,
+    "urban_mobility_stress_index":6.6639,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bellerose",
+    "borough":"Queens",
+    "monthly_pickup_count":165,
+    "PT_P":21.08,
+    "WFH_P":11.47,
+    "urban_mobility_stress_index":6.6167,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Williamsbridge\/Olinville",
+    "borough":"Bronx",
+    "monthly_pickup_count":361,
+    "PT_P":49.42,
+    "WFH_P":8.12,
+    "urban_mobility_stress_index":6.5783,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Hillcrest\/Pomonok",
+    "borough":"Queens",
+    "monthly_pickup_count":259,
+    "PT_P":33.23,
+    "WFH_P":13.09,
+    "urban_mobility_stress_index":6.5769,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Inwood",
+    "borough":"Manhattan",
+    "monthly_pickup_count":470,
+    "PT_P":58.45,
+    "WFH_P":17.76,
+    "urban_mobility_stress_index":6.5017,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"South Williamsburg",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":249,
+    "PT_P":31.96,
+    "WFH_P":14.26,
+    "urban_mobility_stress_index":6.4773,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Morrisania\/Melrose",
+    "borough":"Bronx",
+    "monthly_pickup_count":384,
+    "PT_P":54.45,
+    "WFH_P":6.87,
+    "urban_mobility_stress_index":6.4496,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Corona",
+    "borough":"Queens",
+    "monthly_pickup_count":405,
+    "PT_P":59.59,
+    "WFH_P":5.64,
+    "urban_mobility_stress_index":6.3069,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Cypress Hills",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":341,
+    "PT_P":49.38,
+    "WFH_P":7.87,
+    "urban_mobility_stress_index":6.2364,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Laurelton",
+    "borough":"Queens",
+    "monthly_pickup_count":206,
+    "PT_P":28.86,
+    "WFH_P":9.77,
+    "urban_mobility_stress_index":6.2244,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Howard Beach",
+    "borough":"Queens",
+    "monthly_pickup_count":255,
+    "PT_P":37.58,
+    "WFH_P":7.53,
+    "urban_mobility_stress_index":6.1122,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Parkchester",
+    "borough":"Bronx",
+    "monthly_pickup_count":373,
+    "PT_P":55.7,
+    "WFH_P":7.13,
+    "urban_mobility_stress_index":6.1098,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Elmhurst\/Maspeth",
+    "borough":"Queens",
+    "monthly_pickup_count":344,
+    "PT_P":50.66,
+    "WFH_P":8.34,
+    "urban_mobility_stress_index":6.1039,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East New York\/Pennsylvania Avenue",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":394,
+    "PT_P":59.33,
+    "WFH_P":7.76,
+    "urban_mobility_stress_index":6.0245,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Cambria Heights",
+    "borough":"Queens",
+    "monthly_pickup_count":181,
+    "PT_P":26.97,
+    "WFH_P":8.72,
+    "urban_mobility_stress_index":5.9079,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Homecrest",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":264,
+    "PT_P":38.0,
+    "WFH_P":12.98,
+    "urban_mobility_stress_index":5.8912,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Saint Michaels Cemetery\/Woodside",
+    "borough":"Queens",
+    "monthly_pickup_count":275,
+    "PT_P":40.76,
+    "WFH_P":12.96,
+    "urban_mobility_stress_index":5.7314,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Brighton Beach",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":257,
+    "PT_P":40.0,
+    "WFH_P":11.8,
+    "urban_mobility_stress_index":5.5282,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Jamaica Estates",
+    "borough":"Queens",
+    "monthly_pickup_count":239,
+    "PT_P":37.72,
+    "WFH_P":11.04,
+    "urban_mobility_stress_index":5.4906,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Middle Village",
+    "borough":"Queens",
+    "monthly_pickup_count":226,
+    "PT_P":36.54,
+    "WFH_P":10.89,
+    "urban_mobility_stress_index":5.3648,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"University Heights\/Morris Heights",
+    "borough":"Bronx",
+    "monthly_pickup_count":372,
+    "PT_P":64.81,
+    "WFH_P":7.6,
+    "urban_mobility_stress_index":5.2235,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Glen Oaks",
+    "borough":"Queens",
+    "monthly_pickup_count":96,
+    "PT_P":15.18,
+    "WFH_P":12.17,
+    "urban_mobility_stress_index":5.2122,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Kensington",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":281,
+    "PT_P":42.95,
+    "WFH_P":19.07,
+    "urban_mobility_stress_index":5.1735,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bensonhurst West",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":271,
+    "PT_P":45.29,
+    "WFH_P":12.18,
+    "urban_mobility_stress_index":5.1414,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Woodhaven",
+    "borough":"Queens",
+    "monthly_pickup_count":275,
+    "PT_P":48.38,
+    "WFH_P":9.67,
+    "urban_mobility_stress_index":5.0301,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Woodlawn\/Wakefield",
+    "borough":"Bronx",
+    "monthly_pickup_count":211,
+    "PT_P":37.95,
+    "WFH_P":7.8,
+    "urban_mobility_stress_index":4.9945,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Kew Gardens Hills",
+    "borough":"Queens",
+    "monthly_pickup_count":196,
+    "PT_P":34.66,
+    "WFH_P":10.92,
+    "urban_mobility_stress_index":4.8956,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Tremont",
+    "borough":"Bronx",
+    "monthly_pickup_count":305,
+    "PT_P":56.81,
+    "WFH_P":8.24,
+    "urban_mobility_stress_index":4.8412,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Van Nest\/Morris Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":235,
+    "PT_P":44.14,
+    "WFH_P":8.33,
+    "urban_mobility_stress_index":4.7727,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Spuyten Duyvil\/Kingsbridge",
+    "borough":"Bronx",
+    "monthly_pickup_count":263,
+    "PT_P":46.29,
+    "WFH_P":15.26,
+    "urban_mobility_stress_index":4.7126,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Gowanus",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":315,
+    "PT_P":47.59,
+    "WFH_P":27.46,
+    "urban_mobility_stress_index":4.7029,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Eastchester",
+    "borough":"Bronx",
+    "monthly_pickup_count":192,
+    "PT_P":38.29,
+    "WFH_P":6.18,
+    "urban_mobility_stress_index":4.585,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Whitestone",
+    "borough":"Queens",
+    "monthly_pickup_count":112,
+    "PT_P":21.24,
+    "WFH_P":9.15,
+    "urban_mobility_stress_index":4.5743,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Mount Hope",
+    "borough":"Bronx",
+    "monthly_pickup_count":329,
+    "PT_P":67.34,
+    "WFH_P":5.45,
+    "urban_mobility_stress_index":4.5514,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Westchester Village\/Unionport",
+    "borough":"Bronx",
+    "monthly_pickup_count":227,
+    "PT_P":46.11,
+    "WFH_P":6.4,
+    "urban_mobility_stress_index":4.5102,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Highbridge",
+    "borough":"Bronx",
+    "monthly_pickup_count":321,
+    "PT_P":66.38,
+    "WFH_P":6.68,
+    "urban_mobility_stress_index":4.4461,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Claremont\/Bathgate",
+    "borough":"Bronx",
+    "monthly_pickup_count":264,
+    "PT_P":55.54,
+    "WFH_P":5.84,
+    "urban_mobility_stress_index":4.3971,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Madison",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":203,
+    "PT_P":38.68,
+    "WFH_P":14.22,
+    "urban_mobility_stress_index":4.388,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Ozone Park",
+    "borough":"Queens",
+    "monthly_pickup_count":185,
+    "PT_P":40.51,
+    "WFH_P":7.53,
+    "urban_mobility_stress_index":4.1208,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Riverdale\/North Riverdale\/Fieldston",
+    "borough":"Bronx",
+    "monthly_pickup_count":161,
+    "PT_P":30.48,
+    "WFH_P":19.57,
+    "urban_mobility_stress_index":4.1132,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Gravesend",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":204,
+    "PT_P":43.21,
+    "WFH_P":11.89,
+    "urban_mobility_stress_index":4.0656,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Brooklyn Navy Yard",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":230,
+    "PT_P":42.56,
+    "WFH_P":23.92,
+    "urban_mobility_stress_index":4.0169,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Allerton\/Pelham Gardens",
+    "borough":"Bronx",
+    "monthly_pickup_count":168,
+    "PT_P":38.66,
+    "WFH_P":6.07,
+    "urban_mobility_stress_index":3.9794,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Roosevelt Island",
+    "borough":"Manhattan",
+    "monthly_pickup_count":208,
+    "PT_P":39.48,
+    "WFH_P":22.81,
+    "urban_mobility_stress_index":3.9658,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Van Cortlandt Village",
+    "borough":"Bronx",
+    "monthly_pickup_count":270,
+    "PT_P":61.51,
+    "WFH_P":8.7,
+    "urban_mobility_stress_index":3.9432,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Glendale",
+    "borough":"Queens",
+    "monthly_pickup_count":182,
+    "PT_P":40.82,
+    "WFH_P":11.47,
+    "urban_mobility_stress_index":3.8533,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Longwood",
+    "borough":"Bronx",
+    "monthly_pickup_count":226,
+    "PT_P":52.64,
+    "WFH_P":9.19,
+    "urban_mobility_stress_index":3.8264,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Hunts Point",
+    "borough":"Bronx",
+    "monthly_pickup_count":234,
+    "PT_P":55.78,
+    "WFH_P":7.91,
+    "urban_mobility_stress_index":3.7949,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"West Farms\/Bronx River",
+    "borough":"Bronx",
+    "monthly_pickup_count":246,
+    "PT_P":59.88,
+    "WFH_P":6.67,
+    "urban_mobility_stress_index":3.7713,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Soundview\/Bruckner",
+    "borough":"Bronx",
+    "monthly_pickup_count":233,
+    "PT_P":56.73,
+    "WFH_P":7.02,
+    "urban_mobility_stress_index":3.7524,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Rockaway Park",
+    "borough":"Queens",
+    "monthly_pickup_count":107,
+    "PT_P":25.3,
+    "WFH_P":7.82,
+    "urban_mobility_stress_index":3.7499,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bayside",
+    "borough":"Queens",
+    "monthly_pickup_count":108,
+    "PT_P":25.64,
+    "WFH_P":12.8,
+    "urban_mobility_stress_index":3.5354,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bensonhurst East",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":187,
+    "PT_P":44.98,
+    "WFH_P":13.12,
+    "urban_mobility_stress_index":3.533,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Pelham Parkway",
+    "borough":"Bronx",
+    "monthly_pickup_count":157,
+    "PT_P":40.04,
+    "WFH_P":9.19,
+    "urban_mobility_stress_index":3.4736,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bedford Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":234,
+    "PT_P":62.33,
+    "WFH_P":9.18,
+    "urban_mobility_stress_index":3.3559,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Fresh Meadows",
+    "borough":"Queens",
+    "monthly_pickup_count":102,
+    "PT_P":24.64,
+    "WFH_P":17.2,
+    "urban_mobility_stress_index":3.2937,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Manhattan Beach",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":137,
+    "PT_P":35.8,
+    "WFH_P":12.4,
+    "urban_mobility_stress_index":3.2614,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"College Point",
+    "borough":"Queens",
+    "monthly_pickup_count":110,
+    "PT_P":31.08,
+    "WFH_P":6.87,
+    "urban_mobility_stress_index":3.193,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Sunset Park East",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":165,
+    "PT_P":45.13,
+    "WFH_P":10.81,
+    "urban_mobility_stress_index":3.19,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Hollis",
+    "borough":"Queens",
+    "monthly_pickup_count":145,
+    "PT_P":41.52,
+    "WFH_P":7.38,
+    "urban_mobility_stress_index":3.1589,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Crotona Park East",
+    "borough":"Bronx",
+    "monthly_pickup_count":195,
+    "PT_P":57.5,
+    "WFH_P":7.65,
+    "urban_mobility_stress_index":3.0783,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bronxdale",
+    "borough":"Bronx",
+    "monthly_pickup_count":188,
+    "PT_P":56.37,
+    "WFH_P":8.93,
+    "urban_mobility_stress_index":2.9845,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Norwood",
+    "borough":"Bronx",
+    "monthly_pickup_count":194,
+    "PT_P":57.63,
+    "WFH_P":11.67,
+    "urban_mobility_stress_index":2.9227,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Columbia Street",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":154,
+    "PT_P":34.05,
+    "WFH_P":34.36,
+    "urban_mobility_stress_index":2.8839,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Dyker Heights",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":136,
+    "PT_P":38.92,
+    "WFH_P":17.08,
+    "urban_mobility_stress_index":2.8249,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Murray Hill-Queens",
+    "borough":"Queens",
+    "monthly_pickup_count":99,
+    "PT_P":30.77,
+    "WFH_P":10.38,
+    "urban_mobility_stress_index":2.7926,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Queensboro Hill",
+    "borough":"Queens",
+    "monthly_pickup_count":96,
+    "PT_P":30.01,
+    "WFH_P":10.57,
+    "urban_mobility_stress_index":2.7685,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Belmont",
+    "borough":"Bronx",
+    "monthly_pickup_count":169,
+    "PT_P":55.25,
+    "WFH_P":10.19,
+    "urban_mobility_stress_index":2.6982,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Oakland Gardens",
+    "borough":"Queens",
+    "monthly_pickup_count":91,
+    "PT_P":28.88,
+    "WFH_P":11.8,
+    "urban_mobility_stress_index":2.686,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Windsor Terrace",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":177,
+    "PT_P":48.34,
+    "WFH_P":26.65,
+    "urban_mobility_stress_index":2.6317,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bay Terrace\/Fort Totten",
+    "borough":"Queens",
+    "monthly_pickup_count":62,
+    "PT_P":19.53,
+    "WFH_P":14.4,
+    "urban_mobility_stress_index":2.5857,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Kingsbridge Heights",
+    "borough":"Bronx",
+    "monthly_pickup_count":184,
+    "PT_P":65.72,
+    "WFH_P":6.58,
+    "urban_mobility_stress_index":2.5766,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"North Corona",
+    "borough":"Queens",
+    "monthly_pickup_count":174,
+    "PT_P":64.19,
+    "WFH_P":3.96,
+    "urban_mobility_stress_index":2.5635,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Auburndale",
+    "borough":"Queens",
+    "monthly_pickup_count":75,
+    "PT_P":25.56,
+    "WFH_P":12.12,
+    "urban_mobility_stress_index":2.4817,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Pelham Bay",
+    "borough":"Bronx",
+    "monthly_pickup_count":86,
+    "PT_P":32.16,
+    "WFH_P":4.99,
+    "urban_mobility_stress_index":2.4641,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Ocean Parkway South",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":101,
+    "PT_P":35.72,
+    "WFH_P":12.17,
+    "urban_mobility_stress_index":2.4155,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Douglaston",
+    "borough":"Queens",
+    "monthly_pickup_count":70,
+    "PT_P":24.5,
+    "WFH_P":15.46,
+    "urban_mobility_stress_index":2.3204,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bath Beach",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":110,
+    "PT_P":44.45,
+    "WFH_P":14.92,
+    "urban_mobility_stress_index":2.0593,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Randalls Island",
+    "borough":"Manhattan",
+    "monthly_pickup_count":162,
+    "PT_P":69.95,
+    "WFH_P":11.88,
+    "urban_mobility_stress_index":2.0121,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Prospect Park",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":144,
+    "PT_P":50.78,
+    "WFH_P":27.67,
+    "urban_mobility_stress_index":2.0113,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Fordham South",
+    "borough":"Bronx",
+    "monthly_pickup_count":131,
+    "PT_P":62.92,
+    "WFH_P":6.5,
+    "urban_mobility_stress_index":1.9165,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Marine Park\/Floyd Bennett Field",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":62,
+    "PT_P":27.73,
+    "WFH_P":13.67,
+    "urban_mobility_stress_index":1.8629,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Arrochar\/Fort Wadsworth",
+    "borough":"Staten Island",
+    "monthly_pickup_count":50,
+    "PT_P":29.64,
+    "WFH_P":6.89,
+    "urban_mobility_stress_index":1.5194,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"City Island",
+    "borough":"Bronx",
+    "monthly_pickup_count":27,
+    "PT_P":18.21,
+    "WFH_P":7.8,
+    "urban_mobility_stress_index":1.2959,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"East Flushing",
+    "borough":"Queens",
+    "monthly_pickup_count":48,
+    "PT_P":34.89,
+    "WFH_P":11.53,
+    "urban_mobility_stress_index":1.1831,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Breezy Point\/Fort Tilden\/Riis Beach",
+    "borough":"Queens",
+    "monthly_pickup_count":14,
+    "PT_P":10.22,
+    "WFH_P":5.32,
+    "urban_mobility_stress_index":1.1814,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Marble Hill",
+    "borough":"Manhattan",
+    "monthly_pickup_count":65,
+    "PT_P":61.18,
+    "WFH_P":8.75,
+    "urban_mobility_stress_index":0.9538,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bloomfield\/Emerson Hill",
+    "borough":"Staten Island",
+    "monthly_pickup_count":16,
+    "PT_P":19.43,
+    "WFH_P":10.0,
+    "urban_mobility_stress_index":0.705,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Inwood Hill Park",
+    "borough":"Manhattan",
+    "monthly_pickup_count":43,
+    "PT_P":50.23,
+    "WFH_P":26.24,
+    "urban_mobility_stress_index":0.6191,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Bronx Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":37,
+    "PT_P":57.19,
+    "WFH_P":9.39,
+    "urban_mobility_stress_index":0.5761,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Forest Park\/Highland Park",
+    "borough":"Queens",
+    "monthly_pickup_count":27,
+    "PT_P":43.04,
+    "WFH_P":9.82,
+    "urban_mobility_stress_index":0.5529,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Willets Point",
+    "borough":"Queens",
+    "monthly_pickup_count":21,
+    "PT_P":33.46,
+    "WFH_P":9.76,
+    "urban_mobility_stress_index":0.55,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Broad Channel",
+    "borough":"Queens",
+    "monthly_pickup_count":8,
+    "PT_P":13.26,
+    "WFH_P":11.67,
+    "urban_mobility_stress_index":0.4955,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Van Cortlandt Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":25,
+    "PT_P":45.54,
+    "WFH_P":11.27,
+    "urban_mobility_stress_index":0.4767,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Pelham Bay Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":19,
+    "PT_P":38.98,
+    "WFH_P":7.82,
+    "urban_mobility_stress_index":0.4381,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Corona",
+    "borough":"Queens",
+    "monthly_pickup_count":25,
+    "PT_P":60.8,
+    "WFH_P":3.22,
+    "urban_mobility_stress_index":0.3915,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Country Club",
+    "borough":"Bronx",
+    "monthly_pickup_count":12,
+    "PT_P":28.36,
+    "WFH_P":6.9,
+    "urban_mobility_stress_index":0.3805,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Astoria Park",
+    "borough":"Queens",
+    "monthly_pickup_count":25,
+    "PT_P":52.79,
+    "WFH_P":18.77,
+    "urban_mobility_stress_index":0.3775,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Stapleton",
+    "borough":"Staten Island",
+    "monthly_pickup_count":14,
+    "PT_P":35.29,
+    "WFH_P":6.56,
+    "urban_mobility_stress_index":0.3605,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"South Beach\/Dongan Hills",
+    "borough":"Staten Island",
+    "monthly_pickup_count":12,
+    "PT_P":29.6,
+    "WFH_P":8.57,
+    "urban_mobility_stress_index":0.3586,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Highbridge Park",
+    "borough":"Manhattan",
+    "monthly_pickup_count":23,
+    "PT_P":58.23,
+    "WFH_P":13.69,
+    "urban_mobility_stress_index":0.3351,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Heartland Village\/Todt Hill",
+    "borough":"Staten Island",
+    "monthly_pickup_count":8,
+    "PT_P":21.15,
+    "WFH_P":11.49,
+    "urban_mobility_stress_index":0.3196,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Grymes Hill\/Clifton",
+    "borough":"Staten Island",
+    "monthly_pickup_count":10,
+    "PT_P":33.99,
+    "WFH_P":7.71,
+    "urban_mobility_stress_index":0.2638,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"New Dorp\/Midland Beach",
+    "borough":"Staten Island",
+    "monthly_pickup_count":8,
+    "PT_P":28.09,
+    "WFH_P":10.49,
+    "urban_mobility_stress_index":0.2462,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Crotona Park",
+    "borough":"Bronx",
+    "monthly_pickup_count":13,
+    "PT_P":53.18,
+    "WFH_P":8.14,
+    "urban_mobility_stress_index":0.2204,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Jamaica Bay",
+    "borough":"Queens",
+    "monthly_pickup_count":4,
+    "PT_P":19.22,
+    "WFH_P":8.38,
+    "urban_mobility_stress_index":0.1813,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Westerleigh",
+    "borough":"Staten Island",
+    "monthly_pickup_count":4,
+    "PT_P":19.42,
+    "WFH_P":12.39,
+    "urban_mobility_stress_index":0.1716,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Mariners Harbor",
+    "borough":"Staten Island",
+    "monthly_pickup_count":6,
+    "PT_P":33.02,
+    "WFH_P":6.12,
+    "urban_mobility_stress_index":0.1656,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"West Brighton",
+    "borough":"Staten Island",
+    "monthly_pickup_count":4,
+    "PT_P":23.92,
+    "WFH_P":9.98,
+    "urban_mobility_stress_index":0.1445,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Saint George\/New Brighton",
+    "borough":"Staten Island",
+    "monthly_pickup_count":4,
+    "PT_P":25.16,
+    "WFH_P":9.96,
+    "urban_mobility_stress_index":0.1377,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Charleston\/Tottenville",
+    "borough":"Staten Island",
+    "monthly_pickup_count":2,
+    "PT_P":13.15,
+    "WFH_P":7.52,
+    "urban_mobility_stress_index":0.1308,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Rossville\/Woodrow",
+    "borough":"Staten Island",
+    "monthly_pickup_count":2,
+    "PT_P":14.39,
+    "WFH_P":9.29,
+    "urban_mobility_stress_index":0.1178,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Port Richmond",
+    "borough":"Staten Island",
+    "monthly_pickup_count":3,
+    "PT_P":25.23,
+    "WFH_P":8.13,
+    "urban_mobility_stress_index":0.1051,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Green-Wood Cemetery",
+    "borough":"Brooklyn",
+    "monthly_pickup_count":6,
+    "PT_P":50.0,
+    "WFH_P":18.88,
+    "urban_mobility_stress_index":0.0954,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Eltingville\/Annadale\/Prince's Bay",
+    "borough":"Staten Island",
+    "monthly_pickup_count":2,
+    "PT_P":17.75,
+    "WFH_P":10.73,
+    "urban_mobility_stress_index":0.0952,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Great Kills",
+    "borough":"Staten Island",
+    "monthly_pickup_count":2,
+    "PT_P":20.48,
+    "WFH_P":12.15,
+    "urban_mobility_stress_index":0.0818,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Oakwood",
+    "borough":"Staten Island",
+    "monthly_pickup_count":2,
+    "PT_P":24.17,
+    "WFH_P":13.18,
+    "urban_mobility_stress_index":0.069,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Arden Heights",
+    "borough":"Staten Island",
+    "monthly_pickup_count":1,
+    "PT_P":16.6,
+    "WFH_P":7.54,
+    "urban_mobility_stress_index":0.0525,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Rikers Island",
+    "borough":"Bronx",
+    "monthly_pickup_count":1,
+    "PT_P":27.12,
+    "WFH_P":10.5,
+    "urban_mobility_stress_index":0.0318,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Newark Airport",
+    "borough":"EWR",
+    "monthly_pickup_count":528,
+    "PT_P":null,
+    "WFH_P":null,
+    "urban_mobility_stress_index":null,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  },
+  {
+    "zone":"Governor's Island\/Ellis Island\/Liberty Island",
+    "borough":"Manhattan",
+    "monthly_pickup_count":1,
+    "PT_P":null,
+    "WFH_P":null,
+    "urban_mobility_stress_index":null,
+    "ncr_high_cancel_vehicle":"Go Sedan"
+  }
+]

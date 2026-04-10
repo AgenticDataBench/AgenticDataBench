@@ -1,0 +1,79 @@
+AttractionType,Continent,Avg_Rating,Country_GDP_per_Capita,Visa_Free_Score
+Ancient Ruins,Africa,4.4,3200.0,74
+Ancient Ruins,America,3.9921875,3200.0,74
+Ancient Ruins,Asia,4.126050420168068,3200.0,74
+Ancient Ruins,Australia & Oceania,4.461538461538462,3200.0,74
+Ancient Ruins,Europe,3.984771573604061,3200.0,74
+Ballets,Africa,3.5,3200.0,74
+Ballets,America,3.958677685950413,3200.0,74
+Ballets,Asia,4.258741258741258,3200.0,74
+Ballets,Australia & Oceania,4.571428571428571,3200.0,74
+Ballets,Europe,4.333333333333333,3200.0,74
+Beaches,Africa,3.8325991189427313,3200.0,74
+Beaches,America,3.6928386540120792,3200.0,74
+Beaches,Asia,3.984370303576796,3200.0,74
+Beaches,Australia & Oceania,3.853804347826087,3200.0,74
+Beaches,Europe,3.722662440570523,3200.0,74
+Caverns & Caves,America,4.576923076923077,3200.0,74
+Caverns & Caves,Asia,4.391304347826087,3200.0,74
+Caverns & Caves,Australia & Oceania,4.0,3200.0,74
+Caverns & Caves,Europe,4.571428571428571,3200.0,74
+Flea & Street Markets,America,3.8136882129277567,3200.0,74
+Flea & Street Markets,Asia,3.981651376146789,3200.0,74
+Flea & Street Markets,Australia & Oceania,3.86,3200.0,74
+Flea & Street Markets,Europe,3.7058823529411766,3200.0,74
+Historic Sites,America,3.65,3200.0,74
+Historic Sites,Asia,3.55663430420712,3200.0,74
+Historic Sites,Australia & Oceania,3.3333333333333335,3200.0,74
+Historic Sites,Europe,3.458498023715415,3200.0,74
+History Museums,Africa,5.0,3200.0,74
+History Museums,America,4.3429752066115705,3200.0,74
+History Museums,Asia,4.221995926680244,3200.0,74
+History Museums,Australia & Oceania,4.384615384615385,3200.0,74
+History Museums,Europe,4.226086956521739,3200.0,74
+National Parks,Africa,3.5,3200.0,74
+National Parks,America,4.183673469387755,3200.0,74
+National Parks,Asia,4.538681948424069,3200.0,74
+National Parks,Australia & Oceania,4.5625,3200.0,74
+National Parks,Europe,4.08421052631579,3200.0,74
+Nature & Wildlife Areas,Africa,4.141078838174274,3200.0,74
+Nature & Wildlife Areas,America,4.391891891891892,3200.0,74
+Nature & Wildlife Areas,Asia,4.183233532934132,3200.0,74
+Nature & Wildlife Areas,Australia & Oceania,4.210088691796009,3200.0,74
+Nature & Wildlife Areas,Europe,4.291416205818707,3200.0,74
+Neighborhoods,America,4.666666666666667,3200.0,74
+Neighborhoods,Asia,4.16,3200.0,74
+Neighborhoods,Australia & Oceania,4.25,3200.0,74
+Neighborhoods,Europe,4.75,3200.0,74
+Points of Interest & Landmarks,Africa,4.210884353741497,3200.0,74
+Points of Interest & Landmarks,America,4.190388170055453,3200.0,74
+Points of Interest & Landmarks,Asia,4.040926225094238,3200.0,74
+Points of Interest & Landmarks,Australia & Oceania,4.170133729569094,3200.0,74
+Points of Interest & Landmarks,Europe,4.152747252747253,3200.0,74
+Religious Sites,Africa,3.9421487603305785,3200.0,74
+Religious Sites,America,4.194669756662804,3200.0,74
+Religious Sites,Asia,4.322361359570662,3200.0,74
+Religious Sites,Australia & Oceania,4.154416306361952,3200.0,74
+Religious Sites,Europe,4.0594059405940595,3200.0,74
+Spas,Asia,4.454545454545454,3200.0,74
+Spas,Australia & Oceania,5.0,3200.0,74
+Spas,Europe,5.0,3200.0,74
+Speciality Museums,America,5.0,3200.0,74
+Speciality Museums,Asia,4.0,3200.0,74
+Speciality Museums,Australia & Oceania,4.5,3200.0,74
+Speciality Museums,Europe,3.8,3200.0,74
+Volcanos,Africa,4.0,3200.0,74
+Volcanos,America,4.1050955414012735,3200.0,74
+Volcanos,Asia,4.099343955014058,3200.0,74
+Volcanos,Australia & Oceania,3.8958333333333335,3200.0,74
+Volcanos,Europe,4.120353982300885,3200.0,74
+Water Parks,Africa,4.73469387755102,3200.0,74
+Water Parks,America,4.686567164179104,3200.0,74
+Water Parks,Asia,4.582587469487388,3200.0,74
+Water Parks,Australia & Oceania,4.6561931965723184,3200.0,74
+Water Parks,Europe,4.668122270742358,3200.0,74
+Waterfalls,Africa,3.8095238095238093,3200.0,74
+Waterfalls,America,3.848297213622291,3200.0,74
+Waterfalls,Asia,3.9853181076672106,3200.0,74
+Waterfalls,Australia & Oceania,3.885869565217391,3200.0,74
+Waterfalls,Europe,3.8587896253602305,3200.0,74

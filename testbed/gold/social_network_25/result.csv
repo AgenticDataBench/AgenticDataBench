@@ -1,0 +1,3 @@
+user_type,avg_retweets,avg_likes,avg_engagement_rate,avg_account_age_days,engagement_per_1000,total_tweets,unique_user_count,efficiency_category
+human,50.7378,49.9274,1286370.6647,1650.3155,1286370664.6969,3265,1677,low
+bot,50.251,49.4447,1530312.0252,1650.4768,1530312025.1655,3398,1769,low

@@ -1,0 +1,7 @@
+metric_type,n,mean,median,std,skew,ks_pvalue,significant
+stats_Airbnb,1460,3.3301,3.0,1.2978,-0.1623,,
+stats_FISETIO_Indoor,558,4.5781,4.61,0.2265,-0.1914,,
+stats_TripAdvisor,16800,4.5641,5.0,0.4959,-0.2586,,
+ks_Airbnb_vs_FISETIO_Indoor,,,,,,0.0,Yes
+ks_Airbnb_vs_TripAdvisor,,,,,,0.0,Yes
+ks_FISETIO_Indoor_vs_TripAdvisor,,,,,,0.0,Yes

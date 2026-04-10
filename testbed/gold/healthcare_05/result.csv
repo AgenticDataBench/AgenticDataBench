@@ -1,0 +1,5 @@
+test,comparison,statistic,p_value,significant
+Kruskal-Wallis,all,628.1297,0.0,True
+Dunn post-hoc,Diabetes vs Stroke,,0.0,True
+Dunn post-hoc,Diabetes vs CKD,,1.0,False
+Dunn post-hoc,Stroke vs CKD,,0.0,True

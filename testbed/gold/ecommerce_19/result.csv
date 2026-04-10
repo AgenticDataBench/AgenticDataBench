@@ -1,0 +1,5 @@
+cluster_id,platform_distribution,top_brands,mean_log_price,mean_review_score
+0,"{'Olist': 238, 'Amazon': 69}","['samsung', 'lg', 'unbranded']",3.3667,3.6603
+1,"{'Olist': 288, 'Amazon': 25}","['samsung', 'lg', 'panasonic']",5.4935,4.5709
+2,{'Olist': 169},[],4.6169,1.1775
+3,"{'Olist': 432, 'Amazon': 27}","['samsung', 'lg', 'apple']",3.5708,4.9812

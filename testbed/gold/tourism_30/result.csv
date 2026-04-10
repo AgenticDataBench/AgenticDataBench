@@ -1,0 +1,15 @@
+metric_type,value
+airbnb_mean_rating,3.2791
+indoor_mean_rating,4.3765
+tripadvisor_mean_rating,4.1577
+indoor_tmax_corr,0.1548
+indoor_rain_corr,-0.1316
+indoor_sunny_hr_corr,0.0852
+outdoor_temp_corr,0.257
+outdoor_pcp_corr,0.0052
+outdoor_tempdif_corr,0.0016
+anova_f_stat,10285.4918
+anova_p_value,0.0
+seasonal_amplitude,3516712.2241
+gdp_coefficient,0.0482
+visa_coefficient,-0.0636

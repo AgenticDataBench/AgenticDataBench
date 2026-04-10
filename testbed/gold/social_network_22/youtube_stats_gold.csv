@@ -1,0 +1,9 @@
+time_period,metric_name,metric_value
+afternoon,percentage,41.67
+afternoon,video_count,17062
+early_morning,percentage,17.46
+early_morning,video_count,7149
+evening,percentage,31.05
+evening,video_count,12715
+morning,percentage,9.82
+morning,video_count,4023

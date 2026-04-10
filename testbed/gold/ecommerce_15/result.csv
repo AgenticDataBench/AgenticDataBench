@@ -1,0 +1,7 @@
+platform,correlation_pair,coefficient
+amazon,price_review,-0.0047
+ebay,price_ram,0.1178
+ebay,price_ssd,0.4451
+olist,price_review,0.0036
+olist,price_delay,-0.0042
+olist,delay_review,-0.2284

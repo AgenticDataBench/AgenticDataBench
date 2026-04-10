@@ -1,0 +1,47 @@
+{
+  "posterior_effects": {
+    "glucose": 0.07082439161343392,
+    "bmi": 0.04993019710896104,
+    "bp": 0.08471873012213074
+  },
+  "dataset_intercepts": {
+    "Diabetes": 0.18770465192061422,
+    "Heart Disease": 0.03988478825935004,
+    "Stroke": -0.2275894401649418
+  },
+  "posterior_predictions": {
+    "Diabetes": 0.15605603469396592,
+    "Heart Disease": 0.47164376356386395,
+    "Stroke": 0.2764290443612954
+  },
+  "model_comparison": {
+    "waic": 5747.4661790822865,
+    "aic": 5747.4661790822865
+  },
+  "odds_ratios": [
+    {
+      "biomarker": "glucose",
+      "coefficient": 0.07082439161343392,
+      "odds_ratio": 1.073392712554179,
+      "ci_lower": 1.0655299113290455,
+      "ci_upper": 1.0813135352787078,
+      "p_value": 1.6457189220662435e-79
+    },
+    {
+      "biomarker": "bmi",
+      "coefficient": 0.04993019710896104,
+      "odds_ratio": 1.0511977171753013,
+      "ci_lower": 1.0376891239019395,
+      "ci_upper": 1.0648821647464695,
+      "p_value": 3.8418213544746657e-14
+    },
+    {
+      "biomarker": "bp",
+      "coefficient": 0.08471873012213074,
+      "odds_ratio": 1.0884108864436743,
+      "ci_lower": 1.0668427834810401,
+      "ci_upper": 1.110415026536249,
+      "p_value": 1.0766279069102954e-16
+    }
+  ]
+}

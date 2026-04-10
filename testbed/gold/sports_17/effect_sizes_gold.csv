@@ -1,0 +1,7 @@
+metric,group1,group2,cohens_d,effect_size
+Height,NBA,Olympics,0.7632809925802009,Medium
+Height,NBA,Soccer,2.85339535973691,Large
+Height,Olympics,Soccer,1.2205680248292121,Large
+Weight,NBA,Olympics,0.7620530270505773,Medium
+Weight,NBA,Soccer,-5.106763139171835,Large
+Weight,Olympics,Soccer,-5.751306309230348,Large

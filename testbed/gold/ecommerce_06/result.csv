@@ -1,0 +1,8 @@
+metric_name,metric_value,platform
+ebay_hardware_score_mean,0.1671,eBay
+ebay_price_mean,308.6272,eBay
+amazon_rating_mean,4.1319,Amazon
+amazon_price_mean,15.5149,Amazon
+olist_review_score_mean,4.0231,Olist
+olist_delivery_delay_median,-12.0,Olist
+olist_median_delay_score_1,-8.0,Olist

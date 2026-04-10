@@ -1,0 +1,37 @@
+[
+  {
+    "pickup_location": "Shastri Park",
+    "vehicle_type": "Uber XL",
+    "cancellation_rate": 66.66666666666666,
+    "cancelled_count": 14,
+    "total_count": 21
+  },
+  {
+    "pickup_location": "Meerut",
+    "vehicle_type": "Uber XL",
+    "cancellation_rate": 55.00000000000001,
+    "cancelled_count": 11,
+    "total_count": 20
+  },
+  {
+    "pickup_location": "Ghaziabad",
+    "vehicle_type": "Uber XL",
+    "cancellation_rate": 54.54545454545454,
+    "cancelled_count": 18,
+    "total_count": 33
+  },
+  {
+    "pickup_location": "DLF Phase 3",
+    "vehicle_type": "Uber XL",
+    "cancellation_rate": 53.333333333333336,
+    "cancelled_count": 8,
+    "total_count": 15
+  },
+  {
+    "pickup_location": "Bhikaji Cama Place",
+    "vehicle_type": "Uber XL",
+    "cancellation_rate": 52.94117647058824,
+    "cancelled_count": 9,
+    "total_count": 17
+  }
+]

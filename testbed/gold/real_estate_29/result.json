@@ -1,0 +1,111 @@
+{
+  "analysis_metadata": {
+    "time_range": "2010-01 to 2019-12",
+    "lag_range_months": [
+      -24,
+      24
+    ],
+    "correlation_threshold": 0.1,
+    "window_size": 12,
+    "total_states_analyzed": 51,
+    "significant_relationships_found": 51
+  },
+  "top_10_relationships": [
+    {
+      "state": "DC",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.9826,
+      "lag_months": 0,
+      "abs_correlation": 0.9826,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "CA",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.965,
+      "lag_months": 0,
+      "abs_correlation": 0.965,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "NV",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.9468,
+      "lag_months": 0,
+      "abs_correlation": 0.9468,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "HI",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.942,
+      "lag_months": 0,
+      "abs_correlation": 0.942,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "AZ",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.9185,
+      "lag_months": -3,
+      "abs_correlation": 0.9185,
+      "relationship": "Unemployment leads ZHVI"
+    },
+    {
+      "state": "CO",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.9106,
+      "lag_months": 0,
+      "abs_correlation": 0.9106,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "MA",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.9076,
+      "lag_months": 0,
+      "abs_correlation": 0.9076,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "VA",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.9025,
+      "lag_months": 0,
+      "abs_correlation": 0.9025,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "AK",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.901,
+      "lag_months": 0,
+      "abs_correlation": 0.901,
+      "relationship": "Synchronous"
+    },
+    {
+      "state": "IA",
+      "variable1": "ZHVI_Rolling_Mean",
+      "variable2": "Unemployment_Rolling_Mean",
+      "correlation": -0.8981,
+      "lag_months": 0,
+      "abs_correlation": 0.8981,
+      "relationship": "Synchronous"
+    }
+  ],
+  "summary_statistics": {
+    "mean_correlation": -0.9275,
+    "max_correlation": -0.8981,
+    "min_correlation": -0.9826,
+    "mean_lag_months": -0.3
+  }
+}

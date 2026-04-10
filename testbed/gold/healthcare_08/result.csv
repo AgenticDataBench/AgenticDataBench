@@ -1,0 +1,6 @@
+dataset,roc_auc,brier_score,accuracy,calibrated_auc
+diabetes,0.9998,0.0103,0.9946,0.9946
+stroke,0.7264,0.0445,0.9552,0.7102
+heart_disease,0.82,0.1746,0.7778,0.7484
+insurance,0.9474,0.0572,0.9366,0.9203
+chronic_kidney_disease,1.0,0.0096,0.9851,0.9952

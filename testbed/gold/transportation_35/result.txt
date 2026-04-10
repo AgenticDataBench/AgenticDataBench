@@ -1,0 +1,13 @@
+Maximum 7-day rolling average hourly pickups: 4844.56
+
+Top 10 highest values:
+Manhattan | 2024-05-16 15:00 | 4844.56
+Manhattan | 2024-05-16 16:00 | 4844.14
+Manhattan | 2024-05-16 14:00 | 4843.78
+Manhattan | 2024-05-15 17:00 | 4842.77
+Manhattan | 2024-05-15 18:00 | 4842.72
+Manhattan | 2024-05-16 17:00 | 4842.33
+Manhattan | 2024-05-16 13:00 | 4842.19
+Manhattan | 2024-05-15 19:00 | 4840.47
+Manhattan | 2024-05-16 12:00 | 4838.90
+Manhattan | 2024-05-15 16:00 | 4837.11

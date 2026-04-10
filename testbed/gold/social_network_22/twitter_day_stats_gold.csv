@@ -1,0 +1,9 @@
+user_type,day_type,metric_name,metric_value
+bot,weekday,percentage,73.45
+bot,weekday,tweet_count,2496
+bot,weekend,percentage,26.55
+bot,weekend,tweet_count,902
+human,weekday,percentage,73.91
+human,weekday,tweet_count,2413
+human,weekend,percentage,26.09
+human,weekend,tweet_count,852

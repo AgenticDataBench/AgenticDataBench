@@ -1,0 +1,14 @@
+file,column,check_type,anomaly_count,description
+Crop Recommendation using Soil Properties and Weather Prediction.csv,Ph,range_validity,0,pH值必须在0-14范围内
+Crop Recommendation using Soil Properties and Weather Prediction.csv,K,non_negative,0,K必须为非负数
+Crop Recommendation using Soil Properties and Weather Prediction.csv,P,non_negative,0,P必须为非负数
+Crop Recommendation using Soil Properties and Weather Prediction.csv,N,non_negative,0,N必须为非负数
+Crop Recommendation using Soil Properties and Weather Prediction.csv,Zn,non_negative,0,Zn必须为非负数
+Crop Recommendation using Soil Properties and Weather Prediction.csv,S,non_negative,0,S必须为非负数
+Crop Recommendation using Soil Properties and Weather Prediction.csv,T2M_MAX-W/T2M_MIN-W,temp_consistency,0,季节W最高温度必须>=最低温度
+Crop Recommendation using Soil Properties and Weather Prediction.csv,T2M_MAX-Sp/T2M_MIN-Sp,temp_consistency,0,季节Sp最高温度必须>=最低温度
+Crop Recommendation using Soil Properties and Weather Prediction.csv,T2M_MAX-Su/T2M_MIN-Su,temp_consistency,0,季节Su最高温度必须>=最低温度
+Crop Recommendation using Soil Properties and Weather Prediction.csv,T2M_MAX-Au/T2M_MIN-Au,temp_consistency,0,季节Au最高温度必须>=最低温度
+yield.csv,Value,non_negative,0,产量必须为非负数
+pesticides.csv,Value,non_negative,0,农药使用量必须为非负数
+temp.csv,avg_temp,temp_range,0,年平均温度必须在-50°C到60°C范围内

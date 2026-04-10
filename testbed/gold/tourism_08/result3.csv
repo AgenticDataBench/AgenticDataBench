@@ -1,0 +1,7 @@
+﻿Comparison,ks_statistic,p_value
+Airbnb vs Indoor Attractions,0.5999790567573933,0.0
+Airbnb vs Outdoor Attractions,0.7376344080841983,0.0
+Airbnb vs TripAdvisor,0.33504789913292765,0.0
+Indoor Attractions vs Outdoor Attractions,0.31481454491898947,7.342600215356772e-123
+Indoor Attractions vs TripAdvisor,0.39093441234537984,0.0
+Outdoor Attractions vs TripAdvisor,0.513910774556911,0.0

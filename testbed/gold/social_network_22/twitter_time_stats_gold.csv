@@ -1,0 +1,17 @@
+user_type,time_period,metric_name,metric_value
+bot,afternoon,percentage,25.99
+bot,afternoon,tweet_count,883
+bot,early_morning,percentage,25.37
+bot,early_morning,tweet_count,862
+bot,evening,percentage,24.34
+bot,evening,tweet_count,827
+bot,morning,percentage,24.31
+bot,morning,tweet_count,826
+human,afternoon,percentage,26.09
+human,afternoon,tweet_count,852
+human,early_morning,percentage,24.53
+human,early_morning,tweet_count,801
+human,evening,percentage,24.13
+human,evening,tweet_count,788
+human,morning,percentage,25.24
+human,morning,tweet_count,824

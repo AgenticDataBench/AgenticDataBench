@@ -1,0 +1,11 @@
+platform,bot_label,gender,toxicity_class,mean,std,count
+Instagram,-1,unknown,2,0.028745,0.042315,200
+Twitter,-1,unknown,0,0.0,0.0,3
+Twitter,-1,unknown,1,0.0,0.0,366
+Twitter,-1,unknown,2,0.0,0.0,6536
+Twitter,0,unknown,0,0.00989,,1
+Twitter,0,unknown,1,0.055423,0.160618,218
+Twitter,0,unknown,2,0.068333,0.326256,3046
+Twitter,1,unknown,1,0.079408,0.269362,182
+Twitter,1,unknown,2,0.076822,0.423735,3216
+YouTube,-1,unknown,2,0.038866,0.029916,40949

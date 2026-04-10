@@ -1,0 +1,6 @@
+cluster_id,dominant_borough,centroid_longitude,centroid_latitude
+0,Queens,-73.896666,40.684577
+1,Manhattan,-73.964397,40.751554
+2,Bronx,-73.913864,40.764049
+3,Brooklyn,-73.945362,40.722416
+4,Manhattan,-73.981534,40.751925

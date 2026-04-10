@@ -1,0 +1,22 @@
+[
+  {
+    "dataset_comparison": "gender_male_vs_female",
+    "test_type": "Mann-Whitney U",
+    "p_value": 0.0005255677773787688
+  },
+  {
+    "dataset_comparison": "hate_hate_vs_offensive",
+    "test_type": "Mann-Whitney U",
+    "p_value": 6.131960361013437e-13
+  },
+  {
+    "dataset_comparison": "hate_hate_vs_neither",
+    "test_type": "Mann-Whitney U",
+    "p_value": 0.00017618917007197198
+  },
+  {
+    "dataset_comparison": "hate_offensive_vs_neither",
+    "test_type": "Mann-Whitney U",
+    "p_value": 4.0365871523325624e-10
+  }
+]

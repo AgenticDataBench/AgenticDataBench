@@ -1,0 +1,14 @@
+{
+  "class_names": ["Enhancer", "FineTuneEnhancer"],
+  "enhancer_params": ["enhance_dataset_path", "feature_cols", "enhance_scene_num", "n_trials", "n_jobs"],
+  "finetune_enhancer_params": ["feature_pool", "model_file_path"],
+  "shared_params": [],
+  "enhancer_only_params": ["enhance_dataset_path", "feature_cols", "enhance_scene_num", "n_trials", "n_jobs"],
+  "finetune_only_params": ["feature_pool", "model_file_path"],
+  "data_required_for_enhancer": ["X_train", "y_train", "X_valid", "y_valid"],
+  "data_required_for_finetune": ["X_train", "y_train", "X_valid", "y_valid", "pretrained_model"],
+  "strategy_recommendation": {
+    "has_pretrained_model": "FineTuneEnhancer",
+    "no_pretrained_model": "Enhancer"
+  }
+}

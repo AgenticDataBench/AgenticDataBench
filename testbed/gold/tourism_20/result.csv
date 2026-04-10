@@ -1,0 +1,449 @@
+entity_id,source_type,rating,visit_volume,country
+1004650,Airbnb,5.0,49.0,United States
+1353151,Airbnb,5.0,147.0,United States
+1353703,Airbnb,5.0,43.0,United States
+1407277,Airbnb,5.0,89.0,United States
+1465268,Airbnb,5.0,73.0,United States
+1564130,Airbnb,5.0,36.0,United States
+1566339,Airbnb,5.0,145.0,United States
+1656916,Airbnb,5.0,57.0,United States
+1720431,Airbnb,5.0,115.0,United States
+1915945,Airbnb,5.0,113.0,United States
+1933618,Airbnb,5.0,91.0,United States
+1986087,Airbnb,5.0,39.0,United States
+1992715,Airbnb,5.0,36.0,United States
+2011493,Airbnb,5.0,73.0,United States
+2067827,Airbnb,5.0,46.0,United States
+2163928,Airbnb,5.0,114.0,United States
+2196513,Airbnb,5.0,447.0,United States
+2269969,Airbnb,5.0,36.0,United States
+2279358,Airbnb,5.0,36.0,United States
+2366069,Airbnb,5.0,130.0,United States
+2406387,Airbnb,5.0,173.0,United States
+2486471,Airbnb,5.0,208.0,United States
+2528998,Airbnb,5.0,84.0,United States
+2545015,Airbnb,5.0,73.0,United States
+2549433,Airbnb,5.0,105.0,United States
+2623441,Airbnb,5.0,146.0,United States
+2638906,Airbnb,5.0,135.0,United States
+2705182,Airbnb,5.0,53.0,United States
+2718437,Airbnb,5.0,130.0,United States
+2732244,Airbnb,5.0,93.0,United States
+2750470,Airbnb,5.0,158.0,United States
+2780294,Airbnb,5.0,57.0,United States
+2993482,Airbnb,5.0,159.0,United States
+3221582,Airbnb,5.0,96.0,United States
+3239808,Airbnb,5.0,40.0,United States
+3404946,Airbnb,5.0,71.0,United States
+3408812,Airbnb,5.0,65.0,United States
+3412126,Airbnb,5.0,209.0,United States
+3426485,Airbnb,5.0,34.0,United States
+3538602,Airbnb,5.0,119.0,United States
+3721966,Airbnb,5.0,73.0,United States
+3779405,Airbnb,5.0,103.0,United States
+4093664,Airbnb,5.0,102.0,United States
+4129011,Airbnb,5.0,191.0,United States
+4338885,Airbnb,5.0,323.0,United States
+4416759,Airbnb,5.0,109.0,United States
+4442717,Airbnb,5.0,37.0,United States
+4811654,Airbnb,5.0,163.0,United States
+4867436,Airbnb,5.0,49.0,United States
+5098297,Airbnb,5.0,72.0,United States
+5127017,Airbnb,5.0,282.0,United States
+5334682,Airbnb,5.0,42.0,United States
+5339653,Airbnb,5.0,119.0,United States
+5761610,Airbnb,5.0,33.0,United States
+5935584,Airbnb,5.0,106.0,United States
+6085258,Airbnb,5.0,34.0,United States
+6125575,Airbnb,5.0,41.0,United States
+6263650,Airbnb,5.0,42.0,United States
+6374110,Airbnb,5.0,38.0,United States
+6540353,Airbnb,5.0,96.0,United States
+6612152,Airbnb,5.0,36.0,United States
+6622093,Airbnb,5.0,148.0,United States
+6856268,Airbnb,5.0,43.0,United States
+6985507,Airbnb,5.0,147.0,United States
+7198694,Airbnb,5.0,68.0,United States
+7430108,Airbnb,5.0,60.0,United States
+7678643,Airbnb,5.0,125.0,United States
+7736635,Airbnb,5.0,81.0,United States
+8571712,Airbnb,5.0,138.0,United States
+8600984,Airbnb,5.0,71.0,United States
+8658976,Airbnb,5.0,81.0,United States
+8704264,Airbnb,5.0,35.0,United States
+8922975,Airbnb,5.0,37.0,United States
+9342171,Airbnb,5.0,70.0,United States
+9458706,Airbnb,5.0,46.0,United States
+9460363,Airbnb,5.0,39.0,United States
+9487426,Airbnb,5.0,132.0,United States
+9497367,Airbnb,5.0,103.0,United States
+9613350,Airbnb,5.0,49.0,United States
+9622739,Airbnb,5.0,108.0,United States
+9634890,Airbnb,5.0,81.0,United States
+9658086,Airbnb,5.0,39.0,United States
+9781801,Airbnb,5.0,132.0,United States
+10035307,Airbnb,5.0,72.0,United States
+10054085,Airbnb,5.0,54.0,United States
+10155709,Airbnb,5.0,87.0,United States
+10212043,Airbnb,5.0,84.0,United States
+10276110,Airbnb,5.0,139.0,United States
+10299859,Airbnb,5.0,110.0,United States
+10471072,Airbnb,5.0,174.0,United States
+10526302,Airbnb,5.0,58.0,United States
+10653331,Airbnb,5.0,220.0,United States
+11058719,Airbnb,5.0,83.0,United States
+11292894,Airbnb,5.0,97.0,United States
+11721479,Airbnb,5.0,86.0,United States
+11746885,Airbnb,5.0,116.0,United States
+11810399,Airbnb,5.0,66.0,United States
+11817027,Airbnb,5.0,48.0,United States
+12134599,Airbnb,5.0,54.0,United States
+12213578,Airbnb,5.0,34.0,United States
+12736606,Airbnb,5.0,103.0,United States
+12937091,Airbnb,5.0,55.0,United States
+13040924,Airbnb,5.0,76.0,United States
+13215451,Airbnb,5.0,61.0,United States
+13504303,Airbnb,5.0,79.0,United States
+13526395,Airbnb,5.0,60.0,United States
+13604270,Airbnb,5.0,43.0,United States
+13662814,Airbnb,5.0,52.0,United States
+13686010,Airbnb,5.0,116.0,United States
+13808621,Airbnb,5.0,58.0,United States
+13838445,Airbnb,5.0,141.0,United States
+13901407,Airbnb,5.0,118.0,United States
+13916872,Airbnb,5.0,34.0,United States
+14015181,Airbnb,5.0,144.0,United States
+14049424,Airbnb,5.0,36.0,United States
+14750845,Airbnb,5.0,136.0,United States
+14776803,Airbnb,5.0,40.0,United States
+15276634,Airbnb,5.0,35.0,United States
+15348985,Airbnb,5.0,77.0,United States
+15415261,Airbnb,5.0,37.0,United States
+15424651,Airbnb,5.0,48.0,United States
+15519646,Airbnb,5.0,44.0,United States
+15597520,Airbnb,5.0,34.0,United States
+15621269,Airbnb,5.0,50.0,United States
+15654960,Airbnb,5.0,40.0,United States
+15767629,Airbnb,5.0,52.0,United States
+15778675,Airbnb,5.0,70.0,United States
+16133804,Airbnb,5.0,63.0,United States
+16291209,Airbnb,5.0,92.0,United States
+16534221,Airbnb,5.0,74.0,United States
+16571225,Airbnb,5.0,38.0,United States
+16583928,Airbnb,5.0,42.0,United States
+16820865,Airbnb,5.0,34.0,United States
+17056145,Airbnb,5.0,40.0,United States
+17163843,Airbnb,5.0,33.0,United States
+17472579,Airbnb,5.0,36.0,United States
+17577516,Airbnb,5.0,53.0,United States
+17850352,Airbnb,5.0,78.0,United States
+18674384,Airbnb,5.0,37.0,United States
+18965998,Airbnb,5.0,48.0,United States
+19110148,Airbnb,5.0,44.0,United States
+19123404,Airbnb,5.0,76.0,United States
+19681779,Airbnb,5.0,32.0,United States
+19719335,Airbnb,5.0,55.0,United States
+19750816,Airbnb,5.0,37.0,United States
+19825377,Airbnb,5.0,39.0,United States
+20329075,Airbnb,5.0,41.0,United States
+20340121,Airbnb,5.0,112.0,United States
+20395903,Airbnb,5.0,32.0,United States
+20764287,Airbnb,5.0,37.0,United States
+21465156,Airbnb,5.0,59.0,United States
+21498846,Airbnb,5.0,40.0,United States
+23145252,Airbnb,5.0,36.0,United States
+28486546,Airbnb,5.0,152.0,United States
+28500905,Airbnb,5.0,89.0,United States
+28528520,Airbnb,5.0,44.0,United States
+28611918,Airbnb,5.0,77.0,United States
+28669909,Airbnb,5.0,53.0,United States
+28718512,Airbnb,5.0,122.0,United States
+28760486,Airbnb,5.0,43.0,United States
+28791415,Airbnb,5.0,104.0,United States
+28829524,Airbnb,5.0,38.0,United States
+28862662,Airbnb,5.0,34.0,United States
+28880335,Airbnb,5.0,33.0,United States
+28953239,Airbnb,5.0,41.0,United States
+29036636,Airbnb,5.0,207.0,United States
+29091866,Airbnb,5.0,115.0,United States
+29104569,Airbnb,5.0,58.0,United States
+29128870,Airbnb,5.0,31.0,United States
+29141573,Airbnb,5.0,49.0,United States
+29390661,Airbnb,5.0,116.0,United States
+29433188,Airbnb,5.0,83.0,United States
+29538125,Airbnb,5.0,269.0,United States
+29574577,Airbnb,5.0,67.0,United States
+29907613,Airbnb,5.0,131.0,United States
+29925287,Airbnb,5.0,60.0,United States
+30003714,Airbnb,5.0,70.0,United States
+30327914,Airbnb,5.0,60.0,United States
+30335094,Airbnb,5.0,32.0,United States
+30393085,Airbnb,5.0,63.0,United States
+30404683,Airbnb,5.0,212.0,United States
+30426775,Airbnb,5.0,145.0,United States
+30494156,Airbnb,5.0,255.0,United States
+30524533,Airbnb,5.0,84.0,United States
+30527846,Airbnb,5.0,76.0,United States
+30547177,Airbnb,5.0,32.0,United States
+30554909,Airbnb,5.0,92.0,United States
+30588047,Airbnb,5.0,118.0,United States
+30595779,Airbnb,5.0,142.0,United States
+30636649,Airbnb,5.0,68.0,United States
+30746005,Airbnb,5.0,68.0,United States
+30837134,Airbnb,5.0,228.0,United States
+31018841,Airbnb,5.0,56.0,United States
+31045351,Airbnb,5.0,37.0,United States
+31107761,Airbnb,5.0,50.0,United States
+31274556,Airbnb,5.0,281.0,United States
+31275108,Airbnb,5.0,245.0,United States
+31294439,Airbnb,5.0,57.0,United States
+31331995,Airbnb,5.0,124.0,United States
+31441351,Airbnb,5.0,218.0,United States
+31453501,Airbnb,5.0,114.0,United States
+31478907,Airbnb,5.0,33.0,United States
+31523643,Airbnb,5.0,64.0,United States
+31718605,Airbnb,5.0,93.0,United States
+31721367,Airbnb,5.0,37.0,United States
+31778254,Airbnb,5.0,68.0,United States
+31803107,Airbnb,5.0,72.0,United States
+31860546,Airbnb,5.0,161.0,United States
+32055508,Airbnb,5.0,225.0,United States
+32096378,Airbnb,5.0,124.0,United States
+32106320,Airbnb,5.0,51.0,United States
+32125098,Airbnb,5.0,111.0,United States
+32405114,Airbnb,5.0,162.0,United States
+32427206,Airbnb,5.0,121.0,United States
+32427758,Airbnb,5.0,160.0,United States
+32429415,Airbnb,5.0,47.0,United States
+32557549,Airbnb,5.0,35.0,United States
+33240192,Airbnb,5.0,61.0,United States
+33424660,Airbnb,5.0,168.0,United States
+33430735,Airbnb,5.0,136.0,United States
+34004023,Airbnb,5.0,47.0,United States
+34180206,Airbnb,5.0,97.0,United States
+34288457,Airbnb,5.0,56.0,United States
+34508825,Airbnb,5.0,49.0,United States
+34578967,Airbnb,5.0,62.0,United States
+34596088,Airbnb,5.0,58.0,United States
+34668439,Airbnb,5.0,78.0,United States
+34760121,Airbnb,5.0,231.0,United States
+34871134,Airbnb,5.0,61.0,United States
+34882180,Airbnb,5.0,49.0,United States
+35025778,Airbnb,5.0,44.0,United States
+35044556,Airbnb,5.0,55.0,United States
+35248907,Airbnb,5.0,83.0,United States
+35274313,Airbnb,5.0,221.0,United States
+35354396,Airbnb,5.0,120.0,United States
+35375936,Airbnb,5.0,74.0,United States
+35945909,Airbnb,5.0,117.0,United States
+36069625,Airbnb,5.0,52.0,United States
+36153574,Airbnb,5.0,33.0,United States
+36239733,Airbnb,5.0,118.0,United States
+36282260,Airbnb,5.0,490.0,United States
+36440218,Airbnb,5.0,177.0,United States
+36530243,Airbnb,5.0,87.0,United States
+36706426,Airbnb,5.0,91.0,United States
+36798661,Airbnb,5.0,215.0,United States
+36885924,Airbnb,5.0,31.0,United States
+36917957,Airbnb,5.0,46.0,United States
+37206258,Airbnb,5.0,110.0,United States
+37387412,Airbnb,5.0,39.0,United States
+37677370,Airbnb,5.0,36.0,United States
+37698357,Airbnb,5.0,41.0,United States
+37801637,Airbnb,5.0,31.0,United States
+37979478,Airbnb,5.0,56.0,United States
+38077235,Airbnb,5.0,47.0,United States
+38134674,Airbnb,5.0,42.0,United States
+38192666,Airbnb,5.0,140.0,United States
+38258942,Airbnb,5.0,204.0,United States
+38555527,Airbnb,5.0,52.0,United States
+38889116,Airbnb,5.0,81.0,United States
+38989082,Airbnb,5.0,78.0,United States
+39085735,Airbnb,5.0,78.0,United States
+39217735,Airbnb,5.0,36.0,United States
+39219944,Airbnb,5.0,145.0,United States
+39310521,Airbnb,5.0,57.0,United States
+39374035,Airbnb,5.0,115.0,United States
+39569550,Airbnb,5.0,113.0,United States
+39587223,Airbnb,5.0,91.0,United States
+39639692,Airbnb,5.0,39.0,United States
+39646319,Airbnb,5.0,36.0,United States
+39665098,Airbnb,5.0,73.0,United States
+39721432,Airbnb,5.0,46.0,United States
+39817532,Airbnb,5.0,114.0,United States
+39850118,Airbnb,5.0,447.0,United States
+39923574,Airbnb,5.0,36.0,United States
+39932963,Airbnb,5.0,36.0,United States
+40019674,Airbnb,5.0,130.0,United States
+40059992,Airbnb,5.0,173.0,United States
+40140076,Airbnb,5.0,208.0,United States
+40182603,Airbnb,5.0,84.0,United States
+40198619,Airbnb,5.0,73.0,United States
+40203038,Airbnb,5.0,105.0,United States
+40277046,Airbnb,5.0,146.0,United States
+40292510,Airbnb,5.0,135.0,United States
+40358786,Airbnb,5.0,53.0,United States
+40372042,Airbnb,5.0,130.0,United States
+40414016,Airbnb,5.0,42.0,United States
+40524476,Airbnb,5.0,38.0,United States
+40690719,Airbnb,5.0,96.0,United States
+40762518,Airbnb,5.0,36.0,United States
+40772459,Airbnb,5.0,148.0,United States
+41006634,Airbnb,5.0,43.0,United States
+41135872,Airbnb,5.0,147.0,United States
+41349060,Airbnb,5.0,68.0,United States
+41576056,Airbnb,5.0,78.0,United States
+42864571,Airbnb,5.0,97.0,United States
+43293156,Airbnb,5.0,86.0,United States
+43318562,Airbnb,5.0,116.0,United States
+43382077,Airbnb,5.0,66.0,United States
+43388704,Airbnb,5.0,48.0,United States
+43706277,Airbnb,5.0,54.0,United States
+43785256,Airbnb,5.0,34.0,United States
+44308284,Airbnb,5.0,103.0,United States
+44508769,Airbnb,5.0,55.0,United States
+44612601,Airbnb,5.0,76.0,United States
+44787128,Airbnb,5.0,61.0,United States
+45075981,Airbnb,5.0,79.0,United States
+45098073,Airbnb,5.0,60.0,United States
+45175947,Airbnb,5.0,43.0,United States
+45234491,Airbnb,5.0,52.0,United States
+45257687,Airbnb,5.0,116.0,United States
+45380298,Airbnb,5.0,58.0,United States
+45410122,Airbnb,5.0,141.0,United States
+45473084,Airbnb,5.0,118.0,United States
+45488549,Airbnb,5.0,34.0,United States
+45586858,Airbnb,5.0,144.0,United States
+45621101,Airbnb,5.0,36.0,United States
+46322522,Airbnb,5.0,136.0,United States
+46348480,Airbnb,5.0,40.0,United States
+46848311,Airbnb,5.0,35.0,United States
+46920663,Airbnb,5.0,77.0,United States
+46986939,Airbnb,5.0,37.0,United States
+46996328,Airbnb,5.0,48.0,United States
+47091323,Airbnb,5.0,44.0,United States
+47169198,Airbnb,5.0,34.0,United States
+47192947,Airbnb,5.0,50.0,United States
+47226637,Airbnb,5.0,40.0,United States
+47339306,Airbnb,5.0,52.0,United States
+47350352,Airbnb,5.0,70.0,United States
+47485666,Airbnb,5.0,37.0,United States
+47904861,Airbnb,5.0,70.0,United States
+48021397,Airbnb,5.0,46.0,United States
+48023053,Airbnb,5.0,39.0,United States
+48050116,Airbnb,5.0,132.0,United States
+48060058,Airbnb,5.0,103.0,United States
+48176041,Airbnb,5.0,49.0,United States
+48185430,Airbnb,5.0,108.0,United States
+48197580,Airbnb,5.0,81.0,United States
+48220777,Airbnb,5.0,39.0,United States
+48344492,Airbnb,5.0,132.0,United States
+48597998,Airbnb,5.0,72.0,United States
+48616776,Airbnb,5.0,54.0,United States
+48718399,Airbnb,5.0,87.0,United States
+48774734,Airbnb,5.0,84.0,United States
+48838801,Airbnb,5.0,139.0,United States
+48862549,Airbnb,5.0,110.0,United States
+49033762,Airbnb,5.0,174.0,United States
+49088992,Airbnb,5.0,58.0,United States
+49216021,Airbnb,5.0,220.0,United States
+49621410,Airbnb,5.0,83.0,United States
+49855585,Airbnb,5.0,97.0,United States
+50284170,Airbnb,5.0,86.0,United States
+50309575,Airbnb,5.0,116.0,United States
+50373090,Airbnb,5.0,66.0,United States
+50379718,Airbnb,5.0,48.0,United States
+50697290,Airbnb,5.0,54.0,United States
+50776269,Airbnb,5.0,34.0,United States
+51299297,Airbnb,5.0,103.0,United States
+51499782,Airbnb,5.0,55.0,United States
+51603614,Airbnb,5.0,76.0,United States
+51778141,Airbnb,5.0,61.0,United States
+51921739,Airbnb,5.0,33.0,United States
+52230475,Airbnb,5.0,36.0,United States
+52335412,Airbnb,5.0,53.0,United States
+52608248,Airbnb,5.0,78.0,United States
+53432280,Airbnb,5.0,37.0,United States
+53723894,Airbnb,5.0,48.0,United States
+53868044,Airbnb,5.0,44.0,United States
+53881300,Airbnb,5.0,76.0,United States
+54439675,Airbnb,5.0,32.0,United States
+54477231,Airbnb,5.0,55.0,United States
+55086970,Airbnb,5.0,41.0,United States
+55098016,Airbnb,5.0,112.0,United States
+55153799,Airbnb,5.0,32.0,United States
+55522183,Airbnb,5.0,37.0,United States
+56042449,Airbnb,5.0,66.0,United States
+56049077,Airbnb,5.0,48.0,United States
+56366650,Airbnb,5.0,54.0,United States
+56445628,Airbnb,5.0,34.0,United States
+56968657,Airbnb,5.0,103.0,United States
+57169141,Airbnb,5.0,55.0,United States
+57272974,Airbnb,5.0,76.0,United States
+20329075,Airbnb,5.0,41.0,United States
+20340121,Airbnb,5.0,112.0,United States
+20395903,Airbnb,5.0,32.0,United States
+6085258,Airbnb,5.0,34.0,United States
+(NATURAL HISTORY MUSEUM) SOUTH KENSINGTON,indoors,4.33,325006.0,United Kingdom
+SCIENCE MUSEUM GROUP SOUTH KENSINGTON ,indoors,5.0,207812.0,United Kingdom
+TATE BRITAIN ,indoors,4.69,230582.0,United Kingdom
+TATE MODERN  ,indoors,4.0,366603.0,United Kingdom
+BRITISH MUSEUM,indoors,5.0,402611.0,United Kingdom
+NATIONAL GALLERY,indoors,5.0,370000.0,United Kingdom
+NATIONAL MUSEUMS LIVERPOOL,indoors,4.2,391545.0,United Kingdom
+NATIONAL PORTRAIT GALLERY,indoors,4.8,213201.0,United Kingdom
+(ROYAL ARMOURIES) WHITE TOWER (BASED AT THE TOWER OF LONDON) ,indoors,4.64,203276.0,United Kingdom
+(VICTORIA & ALBERT MUSEUM) TOTAL,indoors,4.0,302291.0,United Kingdom
+Canaveral,outdoors,4.666666666666667,105657.0,United Kingdom
+Cape Cod,outdoors,4.888888888888889,580466.0,United Kingdom
+Cape Hatteras,outdoors,4.8,269403.0,United Kingdom
+Capitol Reef,outdoors,4.666666666666667,102187.0,United Kingdom
+Cedar Breaks,outdoors,4.64,141800.0,United Kingdom
+Crater Lake,outdoors,4.873239436619718,121701.0,United Kingdom
+Cumberland Gap,outdoors,4.888888888888889,114342.0,United Kingdom
+Cuyahoga Valley,outdoors,4.166666666666667,239958.0,United Kingdom
+Denali,outdoors,4.787878787878788,127291.0,United Kingdom
+Devils Tower,outdoors,4.743589743589744,116467.0,United Kingdom
+Everglades,outdoors,4.882352941176471,127371.0,United Kingdom
+Ford's Theatre,outdoors,4.584615384615384,100471.0,United Kingdom
+Assateague Island,outdoors,4.733333333333333,257410.0,United Kingdom
+Fort Matanzas,outdoors,4.725,107380.0,United Kingdom
+Fort McHenry,outdoors,4.682539682539683,124710.0,United Kingdom
+Fort Sumter,outdoors,4.666666666666667,113952.0,United Kingdom
+Gettysburg,outdoors,4.858267716535433,117255.0,United Kingdom
+Glen Canyon,outdoors,4.666666666666667,232535.0,United Kingdom
+Grand Teton,outdoors,4.863636363636363,420542.0,United Kingdom
+Haleakala,outdoors,4.875,103977.0,United Kingdom
+Hawaii Volcanoes,outdoors,4.723404255319149,121625.0,United Kingdom
+Hot Springs,outdoors,4.0,134039.0,United Kingdom
+Independence,outdoors,4.7407407407407405,313592.0,United Kingdom
+Joshua Tree,outdoors,4.666666666666667,120911.0,United Kingdom
+Kenai Fjords,outdoors,4.852941176470588,107851.0,United Kingdom
+Kennesaw Mountain,outdoors,4.6,209028.0,United Kingdom
+Kings Canyon,outdoors,4.68,120909.0,United Kingdom
+Lake Mead,outdoors,4.666666666666667,615300.0,United Kingdom
+Mammoth Cave,outdoors,4.5256410256410255,103454.0,United Kingdom
+Minute Man,outdoors,4.857142857142857,115009.0,United Kingdom
+Mount Rainier,outdoors,4.828571428571428,154566.0,United Kingdom
+Mount Rushmore,outdoors,4.7727272727272725,290369.0,United Kingdom
+Muir Woods,outdoors,4.7560975609756095,108851.0,United Kingdom
+Padre Island,outdoors,4.464285714285714,99526.0,United Kingdom
+Pictured Rocks,outdoors,4.96078431372549,116159.0,United Kingdom
+San Antonio Missions,outdoors,4.818181818181818,123905.0,United Kingdom
+San Francisco Maritime,outdoors,5.0,335840.0,United Kingdom
+Sleeping Bear Dunes,outdoors,4.921052631578948,130319.0,United Kingdom
+Big Cypress,outdoors,4.833333333333333,112583.0,United Kingdom
+Statue of Liberty,outdoors,4.565891472868217,302179.0,United Kingdom
+Theodore Roosevelt NP,outdoors,4.647058823529412,120562.0,United Kingdom
+Valley Forge,outdoors,4.533333333333333,159054.0,United Kingdom
+Wolf Trap,outdoors,4.555555555555555,125710.0,United Kingdom
+Bryce Canyon,outdoors,4.905405405405405,203491.0,United Kingdom
+Cabrillo,outdoors,4.363636363636363,98672.0,United Kingdom
+640,TripAdvisor,5.0,1.0,Indonesia
+841,TripAdvisor,5.0,1.0,Indonesia
+673,TripAdvisor,4.0,1.0,Indonesia
+650,TripAdvisor,4.0,1.0,Indonesia
+824,TripAdvisor,5.0,1.0,Indonesia
+748,TripAdvisor,4.0,1.0,Indonesia
+737,TripAdvisor,5.0,1.0,Indonesia
+369,TripAdvisor,4.0,1.0,Indonesia

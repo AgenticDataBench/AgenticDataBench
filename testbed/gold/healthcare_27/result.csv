@@ -1,0 +1,36 @@
+dataset_source,biomarker_type,age_bin_start,age_bin_end,first_diff,second_diff,is_accelerating
+Diabetes,glucose,40,44,-3.2368,-7.711,True
+Diabetes,glucose,50,54,16.4608,17.9994,True
+Diabetes,glucose,55,59,-3.2506,-19.7114,True
+Diabetes,glucose,70,74,-10.5,-13.6111,True
+Diabetes,glucose,80,84,2.0,12.5,True
+Diabetes,bmi,30,34,-1.3045,-3.8581,True
+Diabetes,bmi,35,39,0.8689,2.1734,True
+Diabetes,bmi,40,44,2.0289,1.16,True
+Diabetes,bmi,45,49,-1.4835,-3.5124,True
+Diabetes,bmi,50,54,-0.3385,1.1451,True
+Diabetes,bmi,55,59,-3.101,-2.7626,True
+Diabetes,bmi,60,64,-0.8802,2.2208,True
+Diabetes,bmi,65,69,1.1839,2.0641,True
+Diabetes,bmi,70,74,-4.5654,-5.7493,True
+Diabetes,bmi,80,84,-0.15,4.4154,True
+Diabetes,systolic_bp,55,59,-6.7039,-9.2825,True
+Diabetes,systolic_bp,60,64,1.9086,8.6125,True
+Diabetes,systolic_bp,70,74,-3.5385,-6.8177,True
+Stroke,glucose,10,14,3.8811,6.0585,True
+Stroke,glucose,15,19,-1.5419,-5.423,True
+Stroke,glucose,35,39,9.8909,12.6297,True
+Stroke,glucose,40,44,-3.6402,-13.5311,True
+Stroke,glucose,45,49,4.0304,7.6707,True
+Stroke,glucose,50,54,9.2665,5.2361,True
+Stroke,glucose,55,59,1.0568,-8.2098,True
+Stroke,glucose,75,79,-3.0077,-5.8588,True
+Stroke,bmi,10,14,3.4355,2.9164,True
+Stroke,bmi,20,24,0.8111,-3.12,True
+Stroke,bmi,30,34,2.3282,1.238,True
+Stroke,bmi,35,39,0.1843,-2.1439,True
+Stroke,bmi,80,84,-0.3394,1.1863,True
+Heart Disease,systolic_bp,35,39,5.3127,15.7833,True
+Heart Disease,systolic_bp,75,79,-4.9,-8.0903,True
+General Population,bmi,30,34,1.2302,1.8697,True
+General Population,bmi,35,39,-0.5166,-1.7468,True

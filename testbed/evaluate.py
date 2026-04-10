@@ -40,7 +40,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description="Run evaluations for NLP models.")
     parser.add_argument("--output_dir", type=str, required=True, help="Directory for output files")
     parser.add_argument("--gold_dir", type=str, default="gold", help="Directory containing gold standard files")
-    parser.add_argument("--eval_json", type=str, default="tasks/examples.jsonl", help="JSON file with evaluation configurations")
+    parser.add_argument("--eval_json", type=str, default="tasks/dev.jsonl", help="JSON file with evaluation configurations")
     parser.add_argument("--result_dir", type=str, default="results", help="Directory to write evaluation results to")
     parser.add_argument("--timeout_seconds", type=int, default=120, help="Timeout for each evaluation in seconds")
     return parser.parse_args()

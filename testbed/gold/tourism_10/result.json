@@ -1,0 +1,32 @@
+[
+  {
+    "subdomain":"NY_Accommodation",
+    "mean_value":625.7418,
+    "median_value":625.0,
+    "std_value":331.4126,
+    "iqr_value":572.0,
+    "total_count":82894,
+    "has_significant_peak":true,
+    "peak_month":"July"
+  },
+  {
+    "subdomain":"UK_Indoor_Attractions",
+    "mean_value":102713.117,
+    "median_value":36328.0,
+    "std_value":129276.5557,
+    "iqr_value":132583.0,
+    "total_count":2564,
+    "has_significant_peak":true,
+    "peak_month":"July"
+  },
+  {
+    "subdomain":"Outdoor_Attractions",
+    "mean_value":49780.4683,
+    "median_value":31465.5,
+    "std_value":50174.7828,
+    "iqr_value":63742.25,
+    "total_count":2648,
+    "has_significant_peak":true,
+    "peak_month":"July"
+  }
+]

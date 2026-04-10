@@ -1,0 +1,3 @@
+apply_date,tenant_top1,tenant_top1_cnt,tenant_top1_match_rate,tenant_top2,tenant_top2_cnt,tenant_top2_match_rate
+2026-03-14,TENANT_000004,870074,0.3522,TENANT_000002,281628,0.114
+2026-03-15,TENANT_000004,796370,0.3304,TENANT_000002,296439,0.123

@@ -1,0 +1,59 @@
+{
+  "descriptive_statistics": {
+    "Airbnb": {
+      "mean": 3.279105922384207,
+      "median": 3.0,
+      "std": 1.2846569239029515,
+      "skewness": -0.13864622323547124
+    },
+    "Indoor Attractions": {
+      "mean": 4.376489162929746,
+      "median": 4.55,
+      "std": 0.5606447921445087,
+      "skewness": -2.5006063976812243
+    },
+    "Outdoor Attractions": {
+      "mean": 4.670493935898915,
+      "median": 4.714285714285714,
+      "std": 0.26142259317860794,
+      "skewness": -1.439637346372649
+    },
+    "TripAdvisor": {
+      "mean": 4.15769884753448,
+      "median": 4.0,
+      "std": 0.9705431902514537,
+      "skewness": -1.198025807215184
+    }
+  },
+  "kolmogorov_smirnov_tests": {
+    "Airbnb vs Indoor Attractions": {
+      "ks_statistic": 0.5999790567573933,
+      "p_value": 0.0
+    },
+    "Airbnb vs Outdoor Attractions": {
+      "ks_statistic": 0.7376344080841983,
+      "p_value": 0.0
+    },
+    "Airbnb vs TripAdvisor": {
+      "ks_statistic": 0.33504789913292765,
+      "p_value": 0.0
+    },
+    "Indoor Attractions vs Outdoor Attractions": {
+      "ks_statistic": 0.31481454491898947,
+      "p_value": 7.342600215356772e-123
+    },
+    "Indoor Attractions vs TripAdvisor": {
+      "ks_statistic": 0.39093441234537984,
+      "p_value": 0.0
+    },
+    "Outdoor Attractions vs TripAdvisor": {
+      "ks_statistic": 0.513910774556911,
+      "p_value": 0.0
+    }
+  },
+  "accommodation_vs_attraction_test": {
+    "ks_statistic": 0.3528434415042668,
+    "p_value": 0.0
+  },
+  "conclusion": "在α=0.05的显著性水平下，有充分的统计学证据表明住宿评分分布与景点评分分布存在显著差异。"
+}

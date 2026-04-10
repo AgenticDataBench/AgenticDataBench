@@ -1,0 +1,283 @@
+{
+  "top_5_healthiest": {
+    "CT": {
+      "Liquidity": 32.57,
+      "Affordability": 86.75,
+      "Stability": 48.34,
+      "Safety": 96.0,
+      "Education": 69.42,
+      "HMHI": 64.31,
+      "Rank": 1
+    },
+    "NH": {
+      "Liquidity": 31.99,
+      "Affordability": 73.58,
+      "Stability": 92.66,
+      "Safety": 74.64,
+      "Education": 44.25,
+      "HMHI": 62.76,
+      "Rank": 2
+    },
+    "ND": {
+      "Liquidity": 10.09,
+      "Affordability": 84.22,
+      "Stability": 100.0,
+      "Safety": 81.18,
+      "Education": 38.39,
+      "HMHI": 61.51,
+      "Rank": 3
+    },
+    "NE": {
+      "Liquidity": 8.33,
+      "Affordability": 89.03,
+      "Stability": 88.33,
+      "Safety": 95.55,
+      "Education": 27.58,
+      "HMHI": 60.48,
+      "Rank": 4
+    },
+    "NJ": {
+      "Liquidity": 37.7,
+      "Affordability": 71.21,
+      "Stability": 47.01,
+      "Safety": 90.58,
+      "Education": 67.17,
+      "HMHI": 60.29,
+      "Rank": 5
+    }
+  },
+  "bottom_5_least_healthy": {
+    "TN": {
+      "Liquidity": 10.57,
+      "Affordability": 76.67,
+      "Stability": 56.77,
+      "Safety": 48.62,
+      "Education": 7.13,
+      "HMHI": 41.53,
+      "Rank": 40
+    },
+    "NC": {
+      "Liquidity": 10.21,
+      "Affordability": 74.69,
+      "Stability": 43.87,
+      "Safety": 37.35,
+      "Education": 4.88,
+      "HMHI": 36.34,
+      "Rank": 41
+    },
+    "MS": {
+      "Liquidity": 8.02,
+      "Affordability": 89.12,
+      "Stability": 17.1,
+      "Safety": 47.93,
+      "Education": 7.25,
+      "HMHI": 35.98,
+      "Rank": 42
+    },
+    "NM": {
+      "Liquidity": 20.7,
+      "Affordability": 70.91,
+      "Stability": 9.85,
+      "Safety": 37.12,
+      "Education": 17.51,
+      "HMHI": 33.07,
+      "Rank": 43
+    },
+    "LA": {
+      "Liquidity": 7.24,
+      "Affordability": 81.36,
+      "Stability": 23.62,
+      "Safety": 0.0,
+      "Education": 22.61,
+      "HMHI": 30.26,
+      "Rank": 44
+    }
+  },
+  "all_states_ranking": {
+    "CT": {
+      "HMHI": 64.31,
+      "Rank": 1
+    },
+    "NH": {
+      "HMHI": 62.76,
+      "Rank": 2
+    },
+    "ND": {
+      "HMHI": 61.51,
+      "Rank": 3
+    },
+    "NE": {
+      "HMHI": 60.48,
+      "Rank": 4
+    },
+    "NJ": {
+      "HMHI": 60.29,
+      "Rank": 5
+    },
+    "ME": {
+      "HMHI": 58.92,
+      "Rank": 6
+    },
+    "RI": {
+      "HMHI": 58.47,
+      "Rank": 7
+    },
+    "IA": {
+      "HMHI": 56.82,
+      "Rank": 8
+    },
+    "MD": {
+      "HMHI": 56.61,
+      "Rank": 9
+    },
+    "WY": {
+      "HMHI": 56.53,
+      "Rank": 10
+    },
+    "WI": {
+      "HMHI": 55.93,
+      "Rank": 11
+    },
+    "MI": {
+      "HMHI": 55.0,
+      "Rank": 12
+    },
+    "IL": {
+      "HMHI": 53.94,
+      "Rank": 13
+    },
+    "VA": {
+      "HMHI": 53.76,
+      "Rank": 14
+    },
+    "FL": {
+      "HMHI": 52.99,
+      "Rank": 15
+    },
+    "NV": {
+      "HMHI": 52.98,
+      "Rank": 16
+    },
+    "KS": {
+      "HMHI": 52.59,
+      "Rank": 17
+    },
+    "AZ": {
+      "HMHI": 52.43,
+      "Rank": 18
+    },
+    "MA": {
+      "HMHI": 52.15,
+      "Rank": 19
+    },
+    "ID": {
+      "HMHI": 51.26,
+      "Rank": 20
+    },
+    "OH": {
+      "HMHI": 51.13,
+      "Rank": 21
+    },
+    "MO": {
+      "HMHI": 50.46,
+      "Rank": 22
+    },
+    "PA": {
+      "HMHI": 49.94,
+      "Rank": 23
+    },
+    "UT": {
+      "HMHI": 49.81,
+      "Rank": 24
+    },
+    "NY": {
+      "HMHI": 49.79,
+      "Rank": 25
+    },
+    "IN": {
+      "HMHI": 49.11,
+      "Rank": 26
+    },
+    "OK": {
+      "HMHI": 49.0,
+      "Rank": 27
+    },
+    "SD": {
+      "HMHI": 48.17,
+      "Rank": 28
+    },
+    "CO": {
+      "HMHI": 47.59,
+      "Rank": 29
+    },
+    "TX": {
+      "HMHI": 47.04,
+      "Rank": 30
+    },
+    "MT": {
+      "HMHI": 46.31,
+      "Rank": 31
+    },
+    "KY": {
+      "HMHI": 46.27,
+      "Rank": 32
+    },
+    "GA": {
+      "HMHI": 46.08,
+      "Rank": 33
+    },
+    "OR": {
+      "HMHI": 45.99,
+      "Rank": 34
+    },
+    "AL": {
+      "HMHI": 43.91,
+      "Rank": 35
+    },
+    "AR": {
+      "HMHI": 42.98,
+      "Rank": 36
+    },
+    "SC": {
+      "HMHI": 42.29,
+      "Rank": 37
+    },
+    "CA": {
+      "HMHI": 41.77,
+      "Rank": 38
+    },
+    "WA": {
+      "HMHI": 41.66,
+      "Rank": 39
+    },
+    "TN": {
+      "HMHI": 41.53,
+      "Rank": 40
+    },
+    "NC": {
+      "HMHI": 36.34,
+      "Rank": 41
+    },
+    "MS": {
+      "HMHI": 35.98,
+      "Rank": 42
+    },
+    "NM": {
+      "HMHI": 33.07,
+      "Rank": 43
+    },
+    "LA": {
+      "HMHI": 30.26,
+      "Rank": 44
+    }
+  },
+  "weights_used": {
+    "liquidity": 0.25,
+    "affordability": 0.25,
+    "stability": 0.2,
+    "safety": 0.15,
+    "education": 0.15
+  },
+  "methodology": "HMHI = 0.25*Liquidity + 0.25*Affordability + 0.20*Stability + 0.15*Safety + 0.15*Education",
+  "calculation_date": "2026-03-27"
+}

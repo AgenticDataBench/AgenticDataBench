@@ -1,0 +1,7 @@
+type,time_period,metric_name,metric_value
+hate,all,percentage,5.77
+hate,all,tweet_count,1430
+neural,all,percentage,16.80
+neural,all,tweet_count,4163
+offensive,all,percentage,77.43
+offensive,all,tweet_count,19190

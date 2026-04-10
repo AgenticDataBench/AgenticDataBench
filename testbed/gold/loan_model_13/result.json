@@ -1,0 +1,12 @@
+{
+  "best_log_dir": "20260320_124532_click-rgst",
+  "best_scene_id": 1,
+  "best_test_auc": 0.797989,
+  "best_params": {
+    "num_leaves": 56,
+    "max_depth": 7,
+    "learning_rate": 0.029624624818943558,
+    "num_iterations": 1564,
+    "feature_fraction": 0.603017996636334
+  }
+}

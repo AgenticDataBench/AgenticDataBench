@@ -1,0 +1,43 @@
+airline,reasons,count
+American,other,834
+American,delay,387
+American,service,321
+American,cancel,257
+American,baggage,192
+American,seat,74
+American,food,35
+Delta,other,510
+Delta,delay,244
+Delta,service,102
+Delta,baggage,86
+Delta,cancel,43
+Delta,seat,34
+Delta,food,8
+Southwest,other,555
+Southwest,delay,246
+Southwest,cancel,188
+Southwest,service,170
+Southwest,baggage,136
+Southwest,seat,38
+Southwest,food,9
+US Airways,other,1056
+US Airways,delay,588
+US Airways,service,356
+US Airways,baggage,244
+US Airways,cancel,193
+US Airways,seat,79
+US Airways,food,33
+United,other,1185
+United,delay,624
+United,service,434
+United,baggage,403
+United,cancel,166
+United,seat,159
+United,food,32
+Virgin America,other,99
+Virgin America,delay,23
+Virgin America,baggage,19
+Virgin America,seat,19
+Virgin America,cancel,17
+Virgin America,service,12
+Virgin America,food,3

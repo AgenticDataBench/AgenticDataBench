@@ -1,0 +1,5 @@
+source,total_records,anomalous_records,outlier_percentage
+Airbnb,71819,7182,10.0
+FISETIO Indoor,1927,193,10.02
+FISETIO Outdoor,2046,205,10.02
+TripAdvisor,37051,3705,10.0

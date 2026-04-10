@@ -1,0 +1,250 @@
+State,Year,Cluster,AnomalyScore
+New York,2012,2,6.998740
+New York,2013,1,4.706881
+Nevada,2013,0,4.378895
+Alabama,2011,3,4.109642
+New York,2015,3,3.908589
+New York,2011,3,3.887787
+New York,2016,3,3.817358
+New York,2014,3,3.765869
+Maryland,2011,2,3.446351
+South Dakota,2014,1,3.414404
+Hawaii,2016,2,3.265511
+California,2013,2,3.134663
+Oklahoma,2014,3,3.082989
+California,2011,1,3.072974
+District of Columbia,2014,2,2.985175
+Nevada,2011,1,2.936031
+Rhode Island,2014,2,2.921356
+Florida,2011,1,2.917377
+District of Columbia,2013,2,2.913895
+New Jersey,2011,2,2.854239
+Kansas,2012,1,2.834298
+District of Columbia,2016,2,2.795321
+New Jersey,2012,2,2.735710
+South Carolina,2011,1,2.612647
+Hawaii,2012,2,2.501321
+Rhode Island,2013,2,2.488436
+Hawaii,2015,2,2.466900
+Arizona,2013,0,2.449693
+Massachusetts,2011,2,2.431165
+Ohio,2012,3,2.398853
+South Dakota,2015,0,2.396076
+District of Columbia,2015,2,2.388952
+Nevada,2014,0,2.377434
+Mississippi,2015,3,2.314220
+Hawaii,2014,2,2.265154
+Wisconsin,2016,0,2.262931
+District of Columbia,2011,2,2.253121
+Florida,2013,0,2.219390
+Wyoming,2016,0,2.212930
+Montana,2016,0,2.211499
+California,2014,2,2.199011
+California,2012,1,2.172601
+Arizona,2011,1,2.161442
+Alabama,2012,1,2.160847
+Connecticut,2011,1,2.149258
+Illinois,2013,3,2.136040
+Colorado,2015,0,2.129567
+Iowa,2015,3,2.047550
+Maryland,2012,0,2.042404
+Montana,2015,0,2.028274
+New Hampshire,2012,0,2.011442
+Utah,2013,0,1.999164
+Ohio,2013,3,1.993095
+Utah,2016,0,1.985547
+Alabama,2015,3,1.974243
+Delaware,2012,1,1.967104
+Nebraska,2015,3,1.954561
+Virginia,2011,3,1.952705
+Oregon,2011,1,1.922295
+Massachusetts,2012,2,1.907509
+Michigan,2013,3,1.899211
+New Hampshire,2014,0,1.892379
+Connecticut,2012,1,1.880345
+Arizona,2012,3,1.874390
+Colorado,2016,0,1.865613
+Massachusetts,2016,2,1.840300
+Florida,2014,0,1.828784
+Kansas,2016,3,1.799433
+Nevada,2012,1,1.797609
+Hawaii,2013,2,1.793324
+Michigan,2014,3,1.786114
+Mississippi,2013,1,1.776985
+Colorado,2012,0,1.770287
+Idaho,2012,0,1.769654
+South Dakota,2016,0,1.768829
+Ohio,2014,3,1.751362
+West Virginia,2015,1,1.748418
+Nebraska,2014,3,1.743739
+Idaho,2016,0,1.735985
+Alaska,2013,0,1.717865
+Georgia,2013,3,1.699491
+Oklahoma,2015,3,1.672079
+Connecticut,2013,0,1.667353
+Alaska,2014,0,1.665882
+District of Columbia,2012,2,1.665018
+Mississippi,2014,3,1.665008
+Tennessee,2012,3,1.643824
+New Hampshire,2013,0,1.638790
+Georgia,2011,1,1.633999
+Utah,2015,0,1.633089
+Alabama,2014,3,1.621595
+Alaska,2012,0,1.605234
+Kentucky,2014,3,1.602410
+Texas,2014,3,1.599799
+Kansas,2014,3,1.598888
+Delaware,2013,0,1.592295
+Utah,2014,0,1.587538
+Alabama,2013,3,1.577796
+Maryland,2016,0,1.574863
+New Jersey,2013,2,1.572530
+New Hampshire,2016,0,1.557017
+Florida,2012,1,1.552119
+Oregon,2012,1,1.547171
+Massachusetts,2013,2,1.545428
+New Hampshire,2015,0,1.542708
+Illinois,2011,1,1.540547
+Rhode Island,2015,2,1.536185
+Colorado,2011,1,1.533795
+Michigan,2011,1,1.528107
+Virginia,2016,3,1.524137
+Ohio,2016,3,1.522609
+Alaska,2015,0,1.521224
+Idaho,2013,0,1.521079
+Georgia,2014,3,1.519506
+Massachusetts,2015,2,1.514813
+Virginia,2012,3,1.503432
+Alaska,2016,0,1.497502
+Idaho,2015,0,1.496051
+Connecticut,2016,0,1.493114
+Iowa,2016,3,1.491950
+Oklahoma,2016,3,1.488083
+Idaho,2014,0,1.485987
+Ohio,2015,3,1.472830
+Indiana,2012,1,1.470440
+Oregon,2014,0,1.457407
+Connecticut,2015,0,1.454081
+Kentucky,2013,1,1.453284
+Nebraska,2016,3,1.447385
+New Jersey,2016,2,1.443661
+Arkansas,2016,3,1.427040
+Mississippi,2016,3,1.412603
+Rhode Island,2016,0,1.408668
+Tennessee,2014,3,1.384849
+Maryland,2015,0,1.381338
+Colorado,2014,0,1.378123
+Illinois,2016,3,1.374405
+New Jersey,2015,2,1.373708
+Virginia,2015,3,1.373568
+Nevada,2015,0,1.369286
+Texas,2016,3,1.369112
+California,2016,2,1.353217
+Pennsylvania,2011,1,1.339713
+New Jersey,2014,2,1.338571
+Iowa,2013,3,1.337942
+Arizona,2014,0,1.332315
+Georgia,2012,1,1.326752
+Connecticut,2014,0,1.322146
+Oregon,2013,0,1.322101
+Maryland,2013,0,1.315651
+Kentucky,2012,1,1.314329
+Texas,2015,3,1.301358
+Nebraska,2013,3,1.294856
+Minnesota,2016,3,1.290530
+Wisconsin,2012,1,1.281212
+Kansas,2013,3,1.279491
+Minnesota,2015,3,1.274410
+North Carolina,2013,3,1.271569
+Florida,2015,0,1.256625
+Illinois,2014,3,1.245402
+Tennessee,2016,3,1.235986
+Iowa,2014,3,1.229265
+Missouri,2012,1,1.224593
+Virginia,2014,3,1.217493
+Massachusetts,2014,2,1.217290
+Texas,2011,1,1.213516
+Wisconsin,2015,3,1.212913
+Mississippi,2012,1,1.186060
+New Mexico,2016,0,1.185963
+Arkansas,2012,3,1.183588
+South Carolina,2012,1,1.173543
+Oklahoma,2012,3,1.166375
+Illinois,2012,1,1.165630
+Virginia,2013,3,1.159527
+Washington,2016,0,1.152913
+New Mexico,2014,0,1.149895
+Wisconsin,2013,3,1.146304
+West Virginia,2014,3,1.137600
+Minnesota,2014,3,1.128805
+Illinois,2015,3,1.125074
+Minnesota,2012,3,1.113229
+Florida,2016,0,1.111989
+West Virginia,2013,3,1.107458
+Arkansas,2013,3,1.106265
+Oklahoma,2013,3,1.101254
+Maryland,2014,0,1.100682
+Michigan,2012,1,1.089315
+Kansas,2015,3,1.088828
+Delaware,2015,0,1.088402
+North Carolina,2012,1,1.080943
+Indiana,2013,3,1.075106
+New Mexico,2012,1,1.074577
+Tennessee,2013,3,1.064203
+New Mexico,2013,3,1.058333
+Oregon,2016,0,1.039798
+Washington,2015,0,1.034575
+New Mexico,2015,3,1.028580
+Texas,2012,3,1.012238
+Pennsylvania,2012,1,1.005619
+Minnesota,2013,3,0.981738
+South Carolina,2013,3,0.977352
+Missouri,2016,3,0.973201
+Missouri,2013,3,0.964389
+Georgia,2016,3,0.964268
+Georgia,2015,3,0.959680
+Indiana,2016,3,0.954178
+North Carolina,2011,1,0.953965
+Kentucky,2015,3,0.943413
+California,2015,2,0.938559
+Washington,2014,0,0.925064
+Washington,2013,0,0.921440
+Kentucky,2016,3,0.917527
+Missouri,2015,3,0.915329
+Pennsylvania,2013,3,0.914715
+Arkansas,2015,3,0.909112
+Michigan,2015,3,0.906222
+West Virginia,2016,3,0.904198
+Wyoming,2015,0,0.903504
+Washington,2012,1,0.899039
+Colorado,2013,0,0.894349
+Indiana,2015,3,0.894309
+Arkansas,2014,3,0.889283
+Delaware,2016,0,0.886755
+Nevada,2016,0,0.879079
+Arizona,2015,0,0.871126
+Indiana,2014,3,0.806670
+Louisiana,2013,3,0.782677
+Delaware,2014,0,0.779302
+Missouri,2014,3,0.761663
+Texas,2013,3,0.756235
+South Carolina,2016,3,0.744022
+Louisiana,2012,3,0.734912
+Tennessee,2011,1,0.727219
+Michigan,2016,3,0.719319
+Oregon,2015,0,0.708360
+Wisconsin,2014,3,0.706105
+Tennessee,2015,3,0.657973
+North Carolina,2015,3,0.650978
+Pennsylvania,2016,3,0.634208
+Alabama,2016,3,0.627002
+Louisiana,2016,3,0.625012
+Arizona,2016,0,0.613293
+North Carolina,2016,3,0.603575
+North Carolina,2014,3,0.583731
+Louisiana,2015,3,0.543990
+Pennsylvania,2015,3,0.521575
+Pennsylvania,2014,3,0.495133
+Louisiana,2014,3,0.441756
+South Carolina,2015,3,0.419378
+South Carolina,2014,3,0.403044

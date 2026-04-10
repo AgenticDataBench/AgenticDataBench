@@ -1,0 +1,4 @@
+{
+  "train_positive_ratio_after_smote": 0.5,
+  "test_ks": 0.09769324929498954
+}
