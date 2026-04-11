@@ -77,7 +77,7 @@ python3 evaluate.py --output_dir output/da-agent-qwen-{experiment_id}
 
 ## 📊 Result Uploading
 
-Benchmark results are stored in `testbed/results`. Initial experiments cover [Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B), [Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5), and [Claude Sonnet 4.6](https://platform.claude.com/docs/en/about-claude/models/overview) across [DA-Agent](https://github.com/yiyihum/da-code/tree/main) and [smolagents](https://github.com/huggingface/smolagents) frameworks.
+Benchmark results are stored in [`testbed/results`](./testbed/results). Initial experiments cover [Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B), [Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5), and [Claude Sonnet 4.6](https://platform.claude.com/docs/en/about-claude/models/overview) across [DA-Agent](https://github.com/yiyihum/da-code/tree/main) and [Smolagents](https://github.com/huggingface/smolagents) frameworks.
 
 <div align="center">
 <img src="docs/img/cost_score_scatter.png" width="400px">

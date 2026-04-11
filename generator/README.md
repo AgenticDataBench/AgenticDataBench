@@ -55,7 +55,7 @@ python parallel_synthesizer.py --workers 8 --cases_per_domain 20
 Creates `output/roundN/` with one JSONL file per domain. Key options:
 - `--domains healthcare energy` — restrict to specific domains
 - `--rare_skill_ratio 0.3` — fraction of tasks that inject rare skills (default: 0.3)
-- `--append` — incremental fill mode. Scans all existing `output/roundN/` directories and counts tasks already generated per domain. Only the shortfall (target minus existing) is generated; new tasks are written to a new `output/roundN+1/` directory without touching existing files. 
+- `--append` — incremental fill mode. Scans all existing `output/round<N>/` directories and counts tasks already generated per domain. Only the shortfall (target minus existing) is generated; new tasks are written to a new `output/round<N+1>/` directory without touching existing files. 
 - `--min_steps 3` / `--max_steps 8` — step count range per task (defaults: 3 and 8)
 
 **Prune to minimal coverage (optional)**
