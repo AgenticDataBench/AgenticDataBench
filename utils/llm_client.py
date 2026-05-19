@@ -6,7 +6,7 @@ import json
 import re
 from typing import Dict, Optional
 
-from config import DASHSCOPE_API_KEY, DASHSCOPE_API_BASE, QWEN_MODEL
+from utils.config import DASHSCOPE_API_KEY, DASHSCOPE_API_BASE, QWEN_MODEL
 
 
 class QwenClient:
