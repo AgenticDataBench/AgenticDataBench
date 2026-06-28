@@ -1,16 +1,16 @@
 [
   {
     "country_name":"United States",
-    "domain_rating_zscore":6.257519498e-17,
-    "visit_volume_proxy":101741,
+    "domain_rating_zscore":0.0001760957,
+    "visit_volume_proxy":108002,
     "gdp_per_capita":37800.0,
     "visa_free_score":182.0,
     "trend_cluster":1
   },
   {
     "country_name":"United Kingdom",
-    "domain_rating_zscore":-9.312753493e-16,
-    "visit_volume_proxy":5585,
+    "domain_rating_zscore":0.0034887913,
+    "visit_volume_proxy":12307,
     "gdp_per_capita":27700.0,
     "visa_free_score":186.0,
     "trend_cluster":2
@@ -501,7 +501,7 @@
     "visit_volume_proxy":4842,
     "gdp_per_capita":3200.0,
     "visa_free_score":74.0,
-    "trend_cluster":2
+    "trend_cluster":0
   },
   {
     "country_name":"Iran",
@@ -1150,22 +1150,6 @@
     "gdp_per_capita":23200.0,
     "visa_free_score":184.0,
     "trend_cluster":0
-  },
-  {
-    "country_name":"United Kingdom",
-    "domain_rating_zscore":0.0063874672,
-    "visit_volume_proxy":6722,
-    "gdp_per_capita":27700.0,
-    "visa_free_score":186.0,
-    "trend_cluster":2
-  },
-  {
-    "country_name":"United States",
-    "domain_rating_zscore":0.0030376444,
-    "visit_volume_proxy":6261,
-    "gdp_per_capita":37800.0,
-    "visa_free_score":182.0,
-    "trend_cluster":2
   },
   {
     "country_name":"Uruguay",

@@ -1,29 +1,29 @@
 user_type,metric_type,metric_value,description
-human,avg_likes,49.74,Average likes for human users
-bot,avg_likes,50.03,Average likes for bot users
-human,avg_retweets,49.77,Average retweets for human users
-bot,avg_retweets,49.86,Average retweets for bot users
-human,ratio,1.00,Likes to retweets ratio for human users
+human,avg_likes,50.23,Average likes for human users
+bot,avg_likes,49.48,Average likes for bot users
+human,avg_retweets,49.94,Average retweets for human users
+bot,avg_retweets,49.67,Average retweets for bot users
+human,ratio,1.01,Likes to retweets ratio for human users
 bot,ratio,1.00,Likes to retweets ratio for bot users
-human,avg_length,226.46,Average tweet length for human users
-bot,avg_length,227.40,Average tweet length for bot users
+human,avg_length,226.35,Average tweet length for human users
+bot,avg_length,227.69,Average tweet length for bot users
 bot,top_users,pjohnson(713),Top 10 bot users by engagement
-bot,top_users,awilliams(531),Top 10 bot users by engagement
-bot,top_users,amiller(524),Top 10 bot users by engagement
-bot,top_users,fsmith(471),Top 10 bot users by engagement
 bot,top_users,nbrown(470),Top 10 bot users by engagement
 bot,top_users,christopher64(451),Top 10 bot users by engagement
-bot,top_users,udavis(431),Top 10 bot users by engagement
-bot,top_users,nwhite(429),Top 10 bot users by engagement
 bot,top_users,ehernandez(391),Top 10 bot users by engagement
-bot,top_users,davidsmith(373),Top 10 bot users by engagement
+bot,top_users,osmith(378),Top 10 bot users by engagement
+bot,top_users,hsmith(373),Top 10 bot users by engagement
+bot,top_users,ismith(371),Top 10 bot users by engagement
+bot,top_users,qsmith(371),Top 10 bot users by engagement
+bot,top_users,tyler10(354),Top 10 bot users by engagement
+bot,top_users,iwalker(345),Top 10 bot users by engagement
+human,top_users,awilliams(531),Top 10 human users by engagement
+human,top_users,amiller(524),Top 10 human users by engagement
+human,top_users,fsmith(471),Top 10 human users by engagement
 human,top_users,jessicawilliams(467),Top 10 human users by engagement
+human,top_users,udavis(431),Top 10 human users by engagement
+human,top_users,nwhite(429),Top 10 human users by engagement
 human,top_users,wmitchell(392),Top 10 human users by engagement
 human,top_users,marksmith(383),Top 10 human users by engagement
-human,top_users,osmith(378),Top 10 human users by engagement
 human,top_users,xjohnson(377),Top 10 human users by engagement
-human,top_users,hsmith(373),Top 10 human users by engagement
-human,top_users,jessica57(349),Top 10 human users by engagement
-human,top_users,jennifer57(341),Top 10 human users by engagement
-human,top_users,bedwards(338),Top 10 human users by engagement
-human,top_users,lrogers(333),Top 10 human users by engagement
+human,top_users,davidsmith(373),Top 10 human users by engagement

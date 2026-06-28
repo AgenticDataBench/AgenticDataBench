@@ -1,8 +1,8 @@
 {
-  "diabetes": 0.9973,
+  "diabetes": 0.9972,
   "stroke": 0.8445,
-  "heart_disease": 0.8252,
-  "sleep_disorder": NaN,
+  "heart_disease": 0.8256,
+  "sleep_disorder": 0.9383,
   "cancer": 0.9747,
   "insurance": 0.9371
 }

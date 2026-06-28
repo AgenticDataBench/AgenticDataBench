@@ -6,20 +6,20 @@
     "random_state": 42,
     "objective": "reg:squarederror"
   },
-  "cross_validated_r2": 0.0216,
-  "test_r2": -0.2355,
-  "test_mae": 69.8652,
+  "cross_validated_r2": 0.0143,
+  "test_r2": -0.3482,
+  "test_mae": 73.4758,
   "feature_importances": {
-    "hour_of_day": 0.077,
-    "day_of_week": 0.0366,
-    "month": 0.0148,
+    "hour_of_day": 0.0781,
+    "day_of_week": 0.0385,
+    "month": 0.0143,
     "is_weekend": 0.0,
-    "hour_sin": 0.0931,
-    "hour_cos": 0.1168,
-    "dow_sin": 0.0506,
-    "dow_cos": 0.0307,
-    "PT_P": 0.163,
-    "WFH_P": 0.2728,
-    "CA_P": 0.1446
+    "hour_sin": 0.0941,
+    "hour_cos": 0.1026,
+    "dow_sin": 0.0508,
+    "dow_cos": 0.0325,
+    "PT_P": 0.1661,
+    "WFH_P": 0.2765,
+    "CA_P": 0.1465
   }
 }

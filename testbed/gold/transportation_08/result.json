@@ -2,18 +2,18 @@
   {
     "borough":"Bronx",
     "taxi_revenue":3209475.0600000001,
-    "tract_count":42,
+    "tract_count":387,
     "ncr_booking_value":51846183.0,
     "ncr_cancellation_rate":7.0,
-    "mobility_metric":-1158016.8600000001
+    "mobility_metric":-125676.25
   },
   {
     "borough":"Brooklyn",
     "taxi_revenue":13031581.7100000009,
-    "tract_count":61,
+    "tract_count":839,
     "ncr_booking_value":51846183.0,
     "ncr_cancellation_rate":7.0,
-    "mobility_metric":-636304.9399999999
+    "mobility_metric":-46262.93
   },
   {
     "borough":"EWR",
@@ -26,25 +26,25 @@
   {
     "borough":"Manhattan",
     "taxi_revenue":615726816.8500000238,
-    "tract_count":68,
+    "tract_count":314,
     "ncr_booking_value":51846183.0,
     "ncr_cancellation_rate":7.0,
-    "mobility_metric":8292362.2599999998
+    "mobility_metric":1795798.2
   },
   {
     "borough":"Queens",
     "taxi_revenue":195275167.8000000119,
-    "tract_count":69,
+    "tract_count":772,
     "ncr_booking_value":51846183.0,
     "ncr_cancellation_rate":7.0,
-    "mobility_metric":2078680.9399999999
+    "mobility_metric":185788.84
   },
   {
     "borough":"Staten Island",
     "taxi_revenue":56883.85,
-    "tract_count":20,
+    "tract_count":125,
     "ncr_booking_value":51846183.0,
     "ncr_cancellation_rate":7.0,
-    "mobility_metric":-2589464.96
+    "mobility_metric":-414314.39
   }
 ]

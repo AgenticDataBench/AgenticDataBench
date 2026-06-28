@@ -1,9 +1,9 @@
 income_group,alignment_status,count,correlation
-1. High income: OECD,misaligned,746,0.02275242508599908
-2. High income: nonOECD,aligned,25,0.02275242508599908
-2. High income: nonOECD,misaligned,429,0.02275242508599908
-3. Upper middle income,aligned,39,0.02275242508599908
-3. Upper middle income,misaligned,1025,0.02275242508599908
-4. Lower middle income,aligned,24,0.02275242508599908
-4. Lower middle income,misaligned,902,0.02275242508599908
-5. Low income,misaligned,662,0.02275242508599908
+1. High income: OECD,misaligned,714,0.023189756638191686
+2. High income: nonOECD,aligned,25,0.023189756638191686
+2. High income: nonOECD,misaligned,405,0.023189756638191686
+3. Upper middle income,aligned,39,0.023189756638191686
+3. Upper middle income,misaligned,1009,0.023189756638191686
+4. Lower middle income,aligned,24,0.023189756638191686
+4. Lower middle income,misaligned,904,0.023189756638191686
+5. Low income,misaligned,662,0.023189756638191686
