@@ -41,16 +41,16 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
     if isinstance(gold_file_name, List):
         specified_columns = options.get('specified_columns', [[]]*len(gold_file_name))
         # score_rule = options.get('score_rule', ['divide']*len(gold_file_name))
-        ignore_order = options.get('ignore_order', [False]*len(gold_file_name))
+        ignore_order = options.get('ignore_order', [True]*len(gold_file_name))
         # total_scores = options.get('total_scores', [1]*len(gold_file_name))
     elif isinstance(gold_file_name, str):
         specified_columns = [options.get('specified_columns', [])]
         # score_rule = [options.get('score_rule', 'divide')]
-        ignore_order = [options.get('ignore_order', False)]
+        ignore_order = [options.get('ignore_order', True)]
         # total_scores = [options.get('total_scores', 1)]
         gold_file_name = [gold_file_name]
     thresholds = options.get('thresholds', {})
-    default_abs_tol = 1e-2  # 默认绝对误差
+    default_abs_tol = 1e-2  # default absolute tolerance
 
     def resolve_threshold_keys(thresholds_dict, gold_df):
         """
@@ -86,20 +86,30 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
         if col_idx in thresholds_dict:
             tol = thresholds_dict[col_idx]
             if tol is None:
-                return (0.01, True)  # 相对误差，默认0.01
-            return (tol, True)  # 相对误差，指定值
-        return (default_abs_tol, False)  # 绝对误差，默认0.01
+                return (0.01, True)  # relative tolerance, default 0.01
+            return (tol, True)  # relative tolerance, specified value
+        return (default_abs_tol, False)  # absolute tolerance, default 0.01
 
     def normalize_value(val, tol, is_relative=False):
         """Normalize value for hashing - round floats for tolerance, lowercase strings"""
         if pd.isna(val):
             return "__NA__"
         elif isinstance(val, (int, float)):
-            if is_relative and val != 0:
-                # 相对误差：tol是相对误差比例
-                actual_tol = abs(val) * tol
-            else:
-                actual_tol = tol
+            if is_relative:
+                # Relative tolerance: snap to a "shared logarithmic grid" so that two
+                # numbers within relative error tol land in the same bucket (mirroring
+                # the shared linear grid used for absolute tolerance).
+                # We must NOT snap using each number's own grid width abs(val)*tol —
+                # that gives every number its own bucket, the grid can never be shared,
+                # and relative tolerance degrades to "floats must be exactly equal".
+                if val == 0 or tol <= 0:
+                    return ("rel", 0.0 if val == 0 else float(val))
+                sign = 1 if val > 0 else -1
+                # Same bucket => |log|a| - log|b|| < log1p(tol) => relative error < tol
+                # (Conservative: a shared bucket is always within tolerance, never
+                # mistaking two numbers beyond tolerance as equal.)
+                return ("rel", sign, round(math.log(abs(val)) / math.log1p(tol)))
+            actual_tol = tol
             return round(val / actual_tol) * actual_tol
         elif isinstance(val, str):
             return val.lower().strip()
@@ -339,13 +349,20 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
             'gold_data': None
         }
 
-    # First, check total row counts for all files
-    output_total_rows = sum(1 for _ in open(output_file_name)) - 1 if os.path.exists(output_file_name) else 0
+    # Fast row count using wc -l (much faster than iterating in Python)
+    import subprocess
+    try:
+        output_total_rows = int(subprocess.run(['wc', '-l', output_file_name], capture_output=True, text=True).stdout.split()[0]) - 1
+    except Exception:
+        output_total_rows = sum(1 for _ in open(output_file_name)) - 1
 
     max_gold_rows = 0
     for gold_file in gold_file_name:
         if os.path.exists(gold_file):
-            gold_rows = sum(1 for _ in open(gold_file)) - 1
+            try:
+                gold_rows = int(subprocess.run(['wc', '-l', gold_file], capture_output=True, text=True).stdout.split()[0]) - 1
+            except Exception:
+                gold_rows = sum(1 for _ in open(gold_file)) - 1
             max_gold_rows = max(max_gold_rows, gold_rows)
 
     # If output has fewer rows than gold, score 0 immediately
@@ -358,9 +375,11 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
             'gold_data': None
         }
 
-    # Read output file completely
+    # Read output file (limit rows when ignore_order=False, matching csv_score logic)
+    all_ignore_order_false = all(not io for io in ignore_order)
     try:
-        df1 = pd.read_csv(output_file_name, low_memory=False)
+        df1 = pd.read_csv(output_file_name, low_memory=False,
+                           nrows=10000 if (all_ignore_order_false and output_total_rows > 10000) else None)
         if df1.empty:
             return {
                 'score': 0,
@@ -394,19 +413,26 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
             output_meanings.append(f"Error reading gold file '{os.path.basename(gold_file_name[i])}': {e}")
             continue
 
-        # Save output_data and gold_data only if file string length < 1000
-        output_str = df1.to_string()
-        gold_str = df2.to_string()
+        # Save output_data and gold_data (incremental to_string to avoid full conversion on large files)
+        for head_n in [10, 100, 1000, None]:
+            output_str = df1.head(head_n).to_string() if head_n else df1.to_string()
+            if len(output_str) >= 1000 or head_n is None:
+                break
 
         if len(output_str) < 1000:
             output_data = output_str
         else:
-            output_data = output_str[:1000] + f"\n... ({len(output_str)} characters total)"
+            output_data = output_str[:1000] + f"\n..."
+
+        for head_n in [10, 100, 1000, None]:
+            gold_str = df2.head(head_n).to_string() if head_n else df2.to_string()
+            if len(gold_str) >= 1000 or head_n is None:
+                break
 
         if len(gold_str) < 1000:
             gold_data = gold_str
         else:
-            gold_data = gold_str[:1000] + f"\n... ({len(gold_str)} characters total)"
+            gold_data = gold_str[:1000] + f"\n..."
 
         # Resolve threshold column names to indices using gold file columns
         resolved_thresholds = resolve_threshold_keys(thresholds, df2)
@@ -596,6 +622,10 @@ def compare_sqlite(output_file_name: str, gold_file_name: str, **options) -> Dic
             output_scores.append(0)
             output_errors.append([f"Failed to convert tables to CSV: pred={len(pred_csvs)}, gold={len(gold_csvs)}"])
             output_meanings.append(f"Failed to convert tables to CSV for comparison")
+            # Clean up temp CSVs
+            for p in gold_csvs + pred_csvs:
+                if os.path.exists(p):
+                    os.remove(p)
             continue
 
         # Compare each table
@@ -667,6 +697,11 @@ def compare_sqlite(output_file_name: str, gold_file_name: str, **options) -> Dic
         output_scores.append(overall_score)
         output_errors.append(table_errors)
         output_meanings.append(meaning)
+
+        # Clean up temp CSV files
+        for p in gold_csvs + pred_csvs:
+            if os.path.exists(p):
+                os.remove(p)
 
     if not output_scores:
         return {

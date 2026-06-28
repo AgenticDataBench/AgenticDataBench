@@ -218,8 +218,24 @@ class CalculateML:
         output = {'errors': []}
         
         label_encoder = LabelEncoder()
-        def is_label_encoder_fitted(le):
-            return hasattr(le, 'classes_')
+
+        def is_string_like(values):
+            dtype = str(getattr(values, 'dtype', '')).lower()
+            return not ('float' in dtype or 'int' in dtype or 'bool' in dtype)
+
+        def normalize_strings(values):
+            return [str(x).lower().strip() for x in list(values)]
+
+        def collect_string_tokens(values):
+            # Gather the normalized string labels from a Series/array/DataFrame so
+            # the encoder can be fit on the union of gold and result labels.
+            cols = [values[c] for c in values.columns] if isinstance(values, pd.DataFrame) else [values]
+            tokens = []
+            for col in cols:
+                if is_string_like(col):
+                    tokens.extend(normalize_strings(col))
+            return tokens
+
         def convert_to_numeric(input):
             if isinstance(input, pd.DataFrame):
                 return {col: convert_to_numeric(input[col]) for col in input.columns}
@@ -232,17 +248,21 @@ class CalculateML:
                 return list(input.astype(int))
             else:
                 try:
-                    input = list(input)
-                    input = list(map(lambda x: x.lower().strip(), input))
-                    if not is_label_encoder_fitted(label_encoder):
-                        input = label_encoder.fit_transform(input)
-                    else:
-                        input =  label_encoder.transform(input)
+                    return list(label_encoder.transform(normalize_strings(input)))
                 except Exception as e:
                     output['errors'].append(f'fail to encoder label, because {str(e)}')
-                    return None       
-                return input
-        
+                    return None
+
+        # Fit the label encoder on the UNION of gold and result labels. Previously
+        # the encoder was fit on gold alone and then used to transform the result,
+        # so a single prediction whose class never appears in gold raised
+        # "previously unseen labels" and collapsed the whole submission's score to
+        # 0. Fitting on the union encodes such an out-of-vocabulary prediction as a
+        # distinct value, so it merely counts as a wrong row.
+        union_tokens = collect_string_tokens(gold) + collect_string_tokens(result)
+        if union_tokens:
+            label_encoder.fit(union_tokens)
+
         gold = convert_to_numeric(gold)
         result = convert_to_numeric(result)
         

@@ -24,9 +24,10 @@ jsonlines
 tqdm
 
 # Smolagents (alternative agent implementation)
-smolagents
+smolagents==1.23.0
 websocket-client
 openai
 
 # Evaluation utilities
 python-Levenshtein  # For fuzzywuzzy performance
+opencv-python

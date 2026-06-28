@@ -6,8 +6,14 @@ import os
 import sys
 import nbformat
 import re
+from pathlib import Path
+
+# Make the project root importable so `utils.config` can be resolved.
+project_root = Path(__file__).resolve().parents[1]
+sys.path.append(str(project_root))
 
 from da_agent.envs.da_agent import DA_Agent_Env
+from utils.config import ANTHROPIC_API_KEY, ANTHROPIC_BASE_URL
 
 
 
@@ -16,7 +22,7 @@ def config() -> argparse.Namespace:
         description="Run end-to-end evaluation on the benchmark"
     )
     
-    parser.add_argument("--max_steps", type=int, default=20)
+    parser.add_argument("--max_steps", type=int, default=40)
     
     parser.add_argument("--max_memory_length", type=int, default=15)
     parser.add_argument("--suffix", '-s', type=str, default="")
@@ -32,6 +38,7 @@ def config() -> argparse.Namespace:
     parser.add_argument("--source_dir", type=str, default="datasets")
     parser.add_argument("--example_index", "-i", type=str, default="all", help="index range of the examples to run, e.g., '0-10', '2,3', 'all'")
     parser.add_argument("--example_name", "-n", type=str, default="", help="name of the example to run")
+    parser.add_argument("--example_names", type=str, default="", help="comma-separated names of the examples to run, e.g., 'example1,example2'")
     parser.add_argument("--overwriting", action="store_true", default=False)
     parser.add_argument("--retry_failed", action="store_true", default=False)
 
@@ -75,6 +82,20 @@ def generate_ipynb(trajectory):
     # Assign all cells to notebook
     nb['cells'] = cells
     return nb
+
+def _get_agent_env(args):
+    """Build environment variables dict for the agent's Docker container.
+    Credentials come from utils.config (LLM config), with environment
+    variables acting as the override layer.
+    """
+    env = {}
+    if args.agent == "claude-code":
+        # Claude Code needs Anthropic API config (read from utils.config).
+        env["ANTHROPIC_API_KEY"] = ANTHROPIC_API_KEY
+        env["ANTHROPIC_BASE_URL"] = ANTHROPIC_BASE_URL
+    if env:
+        return {"environment": env}
+    return {}
 
 def test(
     args: argparse.Namespace,
@@ -147,7 +168,8 @@ def test(
         "init_args": {
             "name": experiment_id,
             "work_dir": "/workspace",
-            "ports": {'8888/tcp': args.port} if args.agent == "smolagents" else None
+            "ports": {'8888/tcp': args.port} if args.agent == "smolagents" else None,
+            **_get_agent_env(args)
         }
     }
     
@@ -155,8 +177,10 @@ def test(
         from da_agent.agent.agents import PromptAgent
     elif args.agent == "smolagents":
         from da_agent.agent.smolagents import PromptAgent
-    elif args.agent == "data-interpreter":
-        from da_agent.agent.data_interpreter import PromptAgent
+    elif args.agent == "claude-code":
+        from da_agent.agent.claude_code import PromptAgent
+    elif args.agent == "codex":
+        from da_agent.agent.codex import PromptAgent
     else:
         raise ValueError(f"Unsupported agent: {args.agent}")
     agent = PromptAgent(
@@ -172,7 +196,10 @@ def test(
     assert os.path.exists(args.task_config) and args.task_config.endswith(".jsonl"), f"Invalid task_config, must be a valid jsonl file: {args.task_config}"
     with open(args.task_config, "r", encoding="utf-8") as f:
         task_configs = [json.loads(line) for line in f]
-    if args.example_name != "":
+    if args.example_names != "":
+        example_name_list = [name.strip() for name in args.example_names.split(",")]
+        task_configs = [task for task in task_configs if any(name == task["id"] for name in example_name_list)]
+    elif args.example_name != "":
         task_configs = [task for task in task_configs if args.example_name in task["id"]]
     else:
         if args.example_index != "all":
@@ -281,9 +308,10 @@ def test(
             with open(os.path.join(output_dir, "dabench/result.json"), "w") as f:
                 json.dump(dabench_result, f, indent=2)
 
-            nb = generate_ipynb(trajectory["trajectory"])
-            with open(os.path.join(output_dir, "code.ipynb"), "w") as f:
-                nbformat.write(nb, f)        
+            if args.agent == 'smolagents':
+                nb = generate_ipynb(trajectory["trajectory"])
+                with open(os.path.join(output_dir, "code.ipynb"), "w") as f:
+                    nbformat.write(nb, f)        
 
         
         

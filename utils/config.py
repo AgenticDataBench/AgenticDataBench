@@ -17,6 +17,23 @@ DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
 DASHSCOPE_API_BASE = 'https://dashscope.aliyuncs.com/compatible-mode/v1'
 QWEN_MODEL = "qwen3-max-2026-01-23"
 
+# Agent LLM settings ---------------------------------------------------------
+# These back the coding-agent wrappers under testbed/da_agent/agent/. Each
+# agent reads its own provider's settings from here so credentials live in one
+# place (with environment variables as override).
+
+# Claude Code agent (Anthropic API). Passed into the agent's Docker container
+# as environment variables and consumed by the `claude` CLI.
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+ANTHROPIC_BASE_URL = os.getenv("ANTHROPIC_BASE_URL", "")
+
+# Codex agent (OpenAI-compatible API, e.g. DashScope's compatible mode).
+# The `codex` CLI reads the key via the `env_key` set in ~/.codex/config.toml.
+# Defaults fall back to the DashScope endpoint/key since that is the intended
+# provider; override with the dedicated environment variables if needed.
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", DASHSCOPE_API_KEY)
+OPENAI_API_BASE = os.getenv("OPENAI_API_BASE", DASHSCOPE_API_BASE)
+
 DATASETS_DIR = "./datasets"
 OUTPUT_DIR = "./output"
 

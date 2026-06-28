@@ -24,46 +24,39 @@ import sys
 project_root = Path(__file__).resolve().parents[3]
 sys.path.append(str(project_root))
 from utils.llm_client import QwenClient
+from da_agent.agent.base import BaseAgent
 
-MAX_OBSERVATION_LENGTH = 2000
-TIME_OUT_ACTION = 600
 
 
 logger = logging.getLogger("da_agent")
 
 
-class PromptAgent:
+class PromptAgent(BaseAgent):
     def __init__(
         self,
-        model="gpt-4",
-        max_tokens=1500,
-        top_p=0.9,
-        temperature=0.5,
-        max_memory_length=10,
-        max_steps=15,
+        model,
+        max_tokens,
+        top_p,
+        temperature,
+        max_memory_length,
+        max_steps,
     ):
-        
-        self.model = model
-        self.max_tokens = max_tokens
-        self.top_p = top_p
-        self.temperature = temperature
-        self.max_memory_length = max_memory_length
-        self.max_steps = max_steps
-        
-        self.thoughts = []
-        self.responses = []
-        self.actions = []
-        self.observations = []
-        self.system_message = ""
-        self.history_messages = []
-        self.env = None
-        self.codes = []
+        super().__init__(
+            model=model,
+            max_tokens=max_tokens,
+            top_p=top_p,
+            temperature=temperature,
+            max_memory_length=max_memory_length,
+            max_steps=max_steps,
+        )
+        # Cross-task state (reused across tasks); per-task state is set in
+        # set_env_and_task.
         self._AVAILABLE_ACTION_CLASSES = [Bash, Python, SQL, Terminate]
-        self.work_dir = "/workspace"
         self.client = QwenClient()
-        
+
     def set_env_and_task(self, env: DA_Agent_Env):
         self.env = env
+        self.instruction = self.env.task_config['question']
         self.thoughts = []
         self.responses = []
         self.actions = []
@@ -72,7 +65,6 @@ class PromptAgent:
         self.timings = []
         self.codes = []
         self.history_messages = []
-        self.instruction = self.env.task_config['question']
         action_space = "".join([action_cls.get_action_description() for action_cls in self._AVAILABLE_ACTION_CLASSES])
         self.system_message = SYS_PROMPT_IN_OUR_CODE.format(work_dir=self.work_dir, action_space=action_space, task=self.instruction, max_steps=self.max_steps)
         self.history_messages.append({
@@ -80,7 +72,7 @@ class PromptAgent:
             "content": [
                 {
                     "type": "text",
-                    "text": self.system_message 
+                    "text": self.system_message
                 },
             ]
         })
@@ -277,10 +269,3 @@ class PromptAgent:
         }
         return trajectory_log
 
-
-if __name__ == "__main__":
-    agent = PromptAgent()
-    response = """Bash(code=\"\"ls -a\"):\n\n(Note: I am using the 'ls -a' command to list all files, including hidden ones, in the working directory. This will help me ensure that I am in the correct directory and provide a reference for the file paths.\")"""
-    import pdb; pdb.set_trace()
-    action = agent.parse_action(response)
-    print(action)

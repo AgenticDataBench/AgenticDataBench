@@ -495,6 +495,19 @@ def compare_json(
             if not matched_keys:
                 logging.warning(f"{obj_path}: both output and gold are lists but no matched_keys provided, cannot compare these lists")
                 return
+            # Throttle repeated warnings by pattern (strip item details)
+            _warn_pattern_counts = {}
+            _WARN_LIMIT = 5
+            def throttled_warn(msg):
+                # Extract pattern: keep prefix before item details
+                pattern = msg.split('{')[0] if '{' in msg else msg
+                _warn_pattern_counts[pattern] = _warn_pattern_counts.get(pattern, 0) + 1
+                count = _warn_pattern_counts[pattern]
+                if count <= _WARN_LIMIT:
+                    logging.warning(msg)
+                elif count == _WARN_LIMIT + 1:
+                    logging.warning(f"{pattern}{{...}} (more suppressed)")
+
             # Track which output items have been matched
             output_used = [False] * len(output_obj)
             # Match items by matched_keys
@@ -522,11 +535,11 @@ def compare_json(
                     is_match = True
                     for mk in matched_keys:
                         if mk not in gold_item:
-                            logging.warning(f"{obj_path}: matched key '{mk}' not found in gold item {gold_item}, cannot match this item")
+                            throttled_warn(f"{obj_path}: matched key '{mk}' not found in gold item {gold_item}, cannot match this item")
                             is_match = False
                             break
                         if mk not in output_item:
-                            logging.warning(f"{obj_path}: matched key '{mk}' not found in output item {output_item}, cannot match this item")
+                            throttled_warn(f"{obj_path}: matched key '{mk}' not found in output item {output_item}, cannot match this item")
                             is_match = False
                             break
                         if gold_item[mk] != output_item[mk]:

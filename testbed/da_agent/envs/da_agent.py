@@ -12,6 +12,7 @@ Reference: https://github.com/yiyihum/da-code/tree/main/da_agent/envs/da_agent.p
 
 import logging
 import os
+import getpass
 import time
 from typing import Callable, Any, Optional
 import glob
@@ -177,7 +178,14 @@ class DA_Agent_Env(gym.Env):
             dockerfile_path = os.path.join(DEFAULT_IMAGE_DIR, self.image_name)
             if os.path.exists(dockerfile_path):
                 logger.info(f"Image {self.image_name} not found, try to build from dockerfile {dockerfile_path} ...")
-                image = client.images.build(path=dockerfile_path, tag=self.image_name, rm=True)[0]
+                # Match the container's non-root user to the host user (name + uid)
+                # so bind-mounted volumes keep correct ownership. Dockerfiles that
+                # don't declare these ARGs ignore them harmlessly.
+                buildargs = {
+                    "HOST_USER": getpass.getuser(),
+                    "HOST_UID": str(os.getuid()),
+                }
+                image = client.images.build(path=dockerfile_path, tag=self.image_name, rm=True, buildargs=buildargs)[0]
             else:
                 logger.info(f"Image {self.image_name} not found, try to pull from Dockerhub ...")
                 image = client.images.pull(self.image_name)[0]

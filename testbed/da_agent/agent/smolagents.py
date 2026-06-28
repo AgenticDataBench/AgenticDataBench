@@ -28,6 +28,7 @@ from smolagents.models import ApiModel, ChatMessage, Tool, ChatMessageStreamDelt
 from smolagents import Generator, RunResult
 
 from da_agent.envs.da_agent import DA_Agent_Env
+from da_agent.agent.base import BaseAgent
 
 from pathlib import Path
 import sys
@@ -35,7 +36,7 @@ project_root = Path(__file__).resolve().parents[3]
 sys.path.append(str(project_root))
 from utils.config import DASHSCOPE_API_KEY, DASHSCOPE_API_BASE
 
-TIMEOUT = 300
+DEFAULT_TIME_OUT = 300
 
 def _websocket_run_code_raise_errors(code: str, ws: WebSocket, logger) -> CodeOutput:
     """Run code over a websocket."""
@@ -51,7 +52,7 @@ def _websocket_run_code_raise_errors(code: str, ws: WebSocket, logger) -> CodeOu
         start_time = time.time()
 
         while True:
-            if time.time() - start_time > TIMEOUT + 5:
+            if time.time() - start_time > DEFAULT_TIME_OUT + 5:
                 raise TimeoutError("No response from kernel (timeout)")
             
             rlist, _, _ = select.select([ws.sock], [], [], 0.1)
@@ -131,7 +132,7 @@ def handler(signum, frame):
     raise TimeoutError("Execution timeout")
 
 signal.signal(signal.SIGALRM, handler)
-signal.alarm({TIMEOUT})
+signal.alarm({DEFAULT_TIME_OUT})
 
 try:
 {indent_code(code, 4)}
@@ -278,35 +279,11 @@ class MyServerModel(ApiModel):
             ),
         )
     
-class PromptAgent:
-    def __init__(
-        self,
-        model="gpt-4",
-        max_tokens=1500,
-        top_p=0.9,
-        temperature=0.5,
-        max_memory_length=10,
-        max_steps=15
-    ):
-        
-        self.model = model
-        self.max_tokens = max_tokens
-        self.top_p = top_p
-        self.temperature = temperature
-        self.max_memory_length = max_memory_length
-        self.max_steps = max_steps
-        
-        self.thoughts = []
-        self.responses = []
-        self.actions = []
-        self.observations = []
-        self.system_message = ""
-        self.history_messages = []
-        self.env = None
-        self.codes = []
-        # self._AVAILABLE_ACTION_CLASSES = [Bash, Terminate]
-        self.work_dir = "/workspace"
-        
+class PromptAgent(BaseAgent):
+    # smolagents only uses model and max_steps; the other knobs are accepted
+    # to keep the construction interface uniform with the other agents. No
+    # cross-task state, so __init__ is inherited from BaseAgent.
+
     def set_env_and_task(self, env: DA_Agent_Env):
         self.env = env
         self.instruction = self.env.task_config['question']

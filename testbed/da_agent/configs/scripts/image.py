@@ -1,10 +1,14 @@
 """
 Image Processing Module - Utilities for parsing and analyzing matplotlib plots.
 
-This module provides tools for:
-- Identifying plot types (bar, line, pie, scatter, heatmap, kde, violin)
-- Extracting data and visual parameters from plots
-- Saving plot data to numpy arrays and metadata to JSON
+The module exposes the ``Plotprocess`` class, which provides tools for:
+- Identifying plot types (pie, bar, scatter, heatmap, kde, violin, line), including
+  step histograms (``histtype='step'/'stepfilled'``) detected via Polygon patches
+- Extracting plot data and visual parameters (colors, titles, axis labels, tick
+  labels, legend labels) through per-type ``parse_*`` methods
+- Processing single or multiple subplots via ``plot_process``, which filters out
+  colorbar/inset axes, saves extracted data to a ``.npy`` array, and writes figure
+  parameters to a ``.json`` file
 
 Reference: https://github.com/yiyihum/da-code/tree/main/da_agent/configs/scripts/image.py
 """
@@ -15,7 +19,8 @@ import os
 import random, string
 import numpy as np
 import matplotlib.colors as mcolors
-from matplotlib.patches import Wedge, Rectangle
+from matplotlib.image import AxesImage
+from matplotlib.patches import Wedge, Rectangle, Polygon
 from matplotlib.collections import PathCollection, QuadMesh, PolyCollection, LineCollection
 from matplotlib.contour import QuadContourSet
 
@@ -64,6 +69,16 @@ class Plotprocess:
         for line in lines:
             if len(line.get_xdata()) > 1 and len(line.get_ydata()) > 1:
                 return 'line'
+        # Step histograms (histtype='step'/'stepfilled') are stored as Polygon patches.
+        for patch in ax.patches:
+            if isinstance(patch, Polygon) and cls._get_step_hist_heights(patch):
+                return 'bar'
+        # heatmap/image matrix (plt.imshow, ax.imshow, matshow). 
+        for image in ax.images:
+            if isinstance(image, AxesImage):
+                data = image.get_array()
+                if data is not None and np.asarray(data).ndim >= 2:
+                    return 'heatmap'
         return ''
     
     @classmethod
@@ -142,6 +157,20 @@ class Plotprocess:
         if result:
             results.append(result)
 
+        for patch in ax.patches:
+            if not isinstance(patch, Polygon):
+                continue
+
+            heights = cls._get_step_hist_heights(patch)
+            if not heights:
+                continue
+
+            results.append(heights)
+            facecolor = patch.get_facecolor()
+            edgecolor = patch.get_edgecolor()
+            color = edgecolor if facecolor[-1] == 0 else facecolor
+            colors.add(tuple(color))
+
         return results, colors
     
     @classmethod
@@ -211,6 +240,16 @@ class Plotprocess:
 
                 cmap = collection.cmap
                 colors.add(str(cmap.name))
+
+        for image in ax.images:
+            if isinstance(image, AxesImage):
+                data = image.get_array()
+                if data is not None:
+                    results.append(data)
+
+                cmap = image.get_cmap()
+                if cmap is not None:
+                    colors.add(str(cmap.name))
         return results, colors
     
     @classmethod
@@ -262,6 +301,36 @@ class Plotprocess:
     def generate_random_string(cls, length=4):
         letters = string.ascii_letters
         return ''.join(random.choice(letters) for _ in range(length))
+
+    @staticmethod
+    def _get_step_hist_heights(patch):
+        try:
+            xy = np.asarray(patch.get_xy())
+        except Exception:
+            return []
+
+        if xy.ndim != 2 or xy.shape[0] < 4 or xy.shape[1] < 2:
+            return []
+
+        x = xy[:, 0]
+        y = xy[:, 1]
+        dx = np.diff(x)
+        dy = np.diff(y)
+
+        # Matplotlib step histograms are axis-aligned polygons.
+        if not np.all(np.isclose(dx, 0) | np.isclose(dy, 0)):
+            return []
+
+        baseline = y[0]
+        heights = []
+        for idx in range(len(dx)):
+            if np.isclose(dx[idx], 0) or not np.isclose(dy[idx], 0):
+                continue
+            if np.isclose(y[idx], baseline):
+                continue
+            heights.append(y[idx])
+
+        return heights
     
     @staticmethod
     def _is_colorbar_axes(ax):
@@ -271,10 +340,24 @@ class Plotprocess:
             return True
         return False
 
+    @staticmethod
+    def _is_inset_axes(ax):
+        locator = ax.get_axes_locator()
+        if locator is None:
+            return False
+        try:
+            subplotspec = ax.get_subplotspec()
+        except Exception:
+            subplotspec = None
+        return subplotspec is None
+
     @classmethod
     def plot_process(cls, fig, image_file_name):
         """处理单个或多个子图的图形"""
-        axes = [ax for ax in fig.get_axes() if not cls._is_colorbar_axes(ax)]
+        axes = [
+            ax for ax in fig.get_axes()
+            if not cls._is_colorbar_axes(ax) and not cls._is_inset_axes(ax)
+        ]
 
         if not axes:
             return None
