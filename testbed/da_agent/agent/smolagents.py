@@ -37,6 +37,7 @@ sys.path.append(str(project_root))
 from utils.config import DASHSCOPE_API_KEY, DASHSCOPE_API_BASE
 
 DEFAULT_TIME_OUT = 300
+MAX_OBS_LENGTH = 1000
 
 def _websocket_run_code_raise_errors(code: str, ws: WebSocket, logger) -> CodeOutput:
     """Run code over a websocket."""
@@ -299,7 +300,7 @@ class PromptAgent(BaseAgent):
             max_steps=self.max_steps,
             planning_interval=3,
             return_full_result=True,
-            max_print_outputs_length=1000,
+            max_print_outputs_length=MAX_OBS_LENGTH,
             executor_type="docker",
             executor_kwargs={"env": self.env}
         )
