@@ -24,8 +24,8 @@ QWEN_MODEL = "qwen3-max-2026-01-23"
 
 # Claude Code agent (Anthropic API). Passed into the agent's Docker container
 # as environment variables and consumed by the `claude` CLI.
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
-ANTHROPIC_BASE_URL = os.getenv("ANTHROPIC_BASE_URL", "")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", DASHSCOPE_API_KEY)
+ANTHROPIC_BASE_URL = 'https://dashscope.aliyuncs.com/apps/anthropic'
 
 # Codex agent (OpenAI-compatible API, e.g. DashScope's compatible mode).
 # The `codex` CLI reads the key via the `env_key` set in ~/.codex/config.toml.

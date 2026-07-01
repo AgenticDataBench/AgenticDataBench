@@ -3,6 +3,13 @@
 </div>
 
 
+<p align="center">
+  <a href="#-leaderboard">Leaderboard</a> •
+  <a href="#-data">Benchmark Data</a> •
+  <a href="#-quickstart">QuickStart</a> •
+  <a href="#-contact">Contact</a>
+</p>
+
 <br>
 
 <div align="center">
@@ -23,6 +30,20 @@ We deeply appreciate the invaluable effort contributed by our dedicated team of 
 
 - [Tsinghua University](https://www.tsinghua.edu.cn/en)
 - [Ant Digital Technologies, Ant Group](https://intl.antdigital.com/en)
+
+<span id="-leaderboard"></span>
+
+## 🏆 Leaderboard
+
+Benchmark results are stored in [`testbed/results`](./testbed/results). Initial experiments cover [Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B), [Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5), and [Claude Sonnet 4.6](https://platform.claude.com/docs/en/about-claude/models/overview) across [Smolagents](https://github.com/huggingface/smolagents), [DA-Agent](https://github.com/yiyihum/da-code/tree/main), [Claude Code](https://claude.com/product/claude-code), and [CodeX](https://github.com/openai/codex) harnesses.
+
+<div align="center">
+<img src="docs/img/cost_score_scatter.png" width="400px">
+</div>
+
+> **Submit your results.** To contribute to the leaderboard, kindly follow our [submission guidelines](https://agenticdatabench.github.io) and email your results to **agenticdatabench@163.com**. We appreciate your contribution!
+
+<span id="-data"></span>
 
 ## 📁 Benchmark Data
 
@@ -62,6 +83,12 @@ cd testbed && ./run_da_agent.sh
 
 # For smolagents
 cd testbed && ./run_smolagents.sh
+
+# For claude code
+cd testbed && ./run_claude_code.sh
+
+# For codex
+cd testbed && ./run_codex.sh
 ```
 
 After running, evaluate the results:
@@ -75,10 +102,9 @@ python3 evaluate.py --output_dir output/da-agent-qwen-{experiment_id}
 <img src="docs/img/pipeline.png" width="400px">
 </div>
 
-## 📊 Result Uploading
+<span id="-contact"></span>
 
-Benchmark results are stored in [`testbed/results`](./testbed/results). Initial experiments cover [Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B), [Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5), and [Claude Sonnet 4.6](https://platform.claude.com/docs/en/about-claude/models/overview) across [DA-Agent](https://github.com/yiyihum/da-code/tree/main) and [Smolagents](https://github.com/huggingface/smolagents) frameworks.
+## ✉️ Contact
 
-<div align="center">
-<img src="docs/img/cost_score_scatter.png" width="400px">
-</div>
+- You may use the [Github Issues](https://github.com/AgenticDataBench/AgenticDataBench/issues) to leave feedback or anything you want to discuss
+- Email: agenticdatabench@163.com
