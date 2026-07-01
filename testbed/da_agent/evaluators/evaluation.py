@@ -97,7 +97,7 @@ class Evaluator:
             except Exception as e:
                 logging.warning(f"Failed to read code file {code_file}: {e}")
             if code_content:
-                trajectory_info['code'] = code_content
+                trajectory_info['actions'] = code_content
 
         config = {'domain': eval_config['domain'].split('/')[0]}
         gold_file_name = eval_config['gold_file_name'] if isinstance(eval_config['gold_file_name'], list) \
@@ -136,26 +136,7 @@ class Evaluator:
         actions = []
         total_token_usage = {'input_tokens': 0, 'output_tokens': 0, 'total_tokens': 0}
         if 'smolagents' in result_file:
-            for step in trajectory:
-                if not 'model_output_message' in step:
-                    continue
-                if 'plan' in step:
-                    actions.append({
-                        "action": "Plan",
-                        "content": step['plan'],
-                        "token_usage": step.get('token_usage'),
-                        "timing": step.get('timing')
-                    })
-                elif 'code_action' in step:
-                    actions.append({
-                        "action": "Code",
-                        "content": len(step['code_action'].split('\n')) if step['code_action'] else 0,
-                        "error": step.get('error'),
-                        "token_usage": step.get('token_usage'),
-                        "timing": step.get('timing')
-                    })
-                else:
-                    logging.warning(f"Unknown step format in smolagents trajectory: {step}")
+            pass
         elif 'da-agent' in result_file:
             for i, step in enumerate(trajectory):
                 if i+1 < len(trajectory):
