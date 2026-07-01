@@ -11,13 +11,12 @@ SQLite database with 7 tables covering European club football (2008–2016). ~11
 - **League / Country**: 11 European leagues (England, Spain, Germany, Italy, France, etc.) with country mapping.
 
 ### NBA Database/
-16 CSVs covering NBA basketball. ~4.8K players, 30 teams, ~65K games. Internal join keys: team_id, player_id, game_id.
+15 CSVs covering NBA basketball. ~4.8K players, 30 teams, ~65K games. Internal join keys: team_id, player_id, game_id.
 
 - **player.csv / common_player_info.csv**: Player roster (name, birthdate, height, weight, country, school, position, draft_year, team_id).
 - **team.csv / team_details.csv / team_history.csv / team_info_common.csv**: Team info (name, city, state, arena, conference, division, win/loss record).
 - **game.csv / game_info.csv / game_summary.csv / line_score.csv / other_stats.csv**: Game results with detailed box score stats (FG, 3PT, FT, rebounds, assists, steals, blocks, turnovers), quarter-by-quarter scores, attendance, and broadcast info.
 - **draft_history.csv / draft_combine_stats.csv**: Draft picks and pre-draft physical/athletic measurements (height, weight, wingspan, vertical leap, sprint, bench press).
-- **play_by_play.csv**: ~13.6M play-level event log with timestamps, player actions, and running score.
 - **officials.csv / inactive_players.csv**: Referee assignments and inactive player lists per game.
 
 ### athlete_events.csv + noc_regions.csv
