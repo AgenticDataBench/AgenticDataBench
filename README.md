@@ -41,7 +41,7 @@ Benchmark results are stored in [`testbed/results`](./testbed/results). Initial 
 <img src="docs/img/cost_score_scatter.png" width="400px">
 </div>
 
-> **Submit your results.** To contribute to the leaderboard, kindly follow our [submission guidelines](https://agenticdatabench.github.io) and email your results to **agenticdatabench@163.com**. We appreciate your contribution!
+> **Submit your results.** To contribute to the leaderboard, kindly follow our [submission guidelines](https://agenticdatabench.github.io) and email your results to agenticdatabench@163.com. We appreciate your contribution!
 
 <span id="-data"></span>
 
@@ -52,7 +52,7 @@ Benchmark results are stored in [`testbed/results`](./testbed/results). Initial 
 - **Tasks**: [`testbed/tasks`](./testbed/tasks)
 - **Ground-truth**: [`testbed/gold`](./testbed/gold)
 
-For leaderboard integrity, we withhold 100 tasks as a private test set. These tasks will be publicly released once the benchmark loses its evaluation significance.
+For leaderboard integrity, we withhold 98 tasks as a private test set. These tasks will be publicly released once the benchmark loses its evaluation significance.
 
 <span id="-quickstart"></span>
 
@@ -101,6 +101,20 @@ python3 evaluate.py --output_dir output/da-agent-qwen-{experiment_id}
 <div align="center">
 <img src="docs/img/pipeline.png" width="400px">
 </div>
+
+## 📎 Citation
+Feel free to cite us ([paper link](https://arxiv.org/abs/2607.01647)) if you like this project.
+
+```bibtex
+@article{sun2026agenticdatabench,
+      title={AgenticDataBench: A Comprehensive Benchmark for Data Agents}, 
+      author={Zhaoyan Sun and Shan Zhong and Daizhou Wen and Jiaxing Han and Guoliang Li and Ying Yan and Peng Zhang and Yu Su and Xiang Qi and Baolin Sun and Chengyuan Yang and Tao Fang and Huaiyu Ruan},
+      year={2026},
+      eprint={2607.01647},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB}
+}
+```
 
 <span id="-contact"></span>
 
