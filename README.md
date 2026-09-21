@@ -110,9 +110,7 @@ Feel free to cite us ([paper link](https://arxiv.org/abs/2607.01647)) if you lik
       title={AgenticDataBench: A Comprehensive Benchmark for Data Agents}, 
       author={Zhaoyan Sun and Shan Zhong and Daizhou Wen and Jiaxing Han and Guoliang Li and Ying Yan and Peng Zhang and Yu Su and Xiang Qi and Baolin Sun and Chengyuan Yang and Tao Fang and Huaiyu Ruan},
       year={2026},
-      eprint={2607.01647},
-      archivePrefix={arXiv},
-      primaryClass={cs.DB}
+      journal={VLDB}
 }
 ```
 
