@@ -10,6 +10,7 @@ This module compares tabular data:
 Reference: https://github.com/yiyihum/da-code/tree/main/da_agent/evaluators/metrics/table.py
 """
 
+import bisect
 import logging
 import os.path
 # import operator
@@ -90,24 +91,32 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
             return (tol, True)  # relative tolerance, specified value
         return (default_abs_tol, False)  # absolute tolerance, default 0.01
 
+    def values_close(a, b, tol, is_relative):
+        """Shared tolerance check for both ordered and ignore_order paths"""
+        if is_relative:
+            if abs(a) < 1e-12 and abs(b) < 1e-12:
+                return True  # both near zero
+            if abs(a) < 1e-12 or abs(b) < 1e-12:
+                return False  # one is zero, the other is not
+            return abs(a - b) / max(abs(a), abs(b)) <= tol
+        return math.isclose(a, b, abs_tol=tol)
+
     def normalize_value(val, tol, is_relative=False):
         """Normalize value for hashing - round floats for tolerance, lowercase strings"""
         if pd.isna(val):
             return "__NA__"
         elif isinstance(val, (int, float)):
             if is_relative:
-                # Relative tolerance: snap to a "shared logarithmic grid" so that two
-                # numbers within relative error tol land in the same bucket (mirroring
-                # the shared linear grid used for absolute tolerance).
-                # We must NOT snap using each number's own grid width abs(val)*tol —
-                # that gives every number its own bucket, the grid can never be shared,
-                # and relative tolerance degrades to "floats must be exactly equal".
+                # Relative tolerance: snap onto a shared log-scale grid so two
+                # values within tol land in the same bucket (mirrors the shared
+                # linear grid used for absolute tolerance). Snapping with each
+                # value's own step abs(val)*tol would give every value its own
+                # grid, degrading relative tolerance to exact float equality.
                 if val == 0 or tol <= 0:
                     return ("rel", 0.0 if val == 0 else float(val))
                 sign = 1 if val > 0 else -1
-                # Same bucket => |log|a| - log|b|| < log1p(tol) => relative error < tol
-                # (Conservative: a shared bucket is always within tolerance, never
-                # mistaking two numbers beyond tolerance as equal.)
+                # Same bucket => |log|a| - log|b|| < log1p(tol) => rel error < tol
+                # (conservative: sharing a bucket implies within tolerance)
                 return ("rel", sign, round(math.log(abs(val)) / math.log1p(tol)))
             actual_tol = tol
             return round(val / actual_tol) * actual_tol
@@ -125,12 +134,23 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
     def vectors_match(v1, v2, col_idx, ignore_order_=False, thresholds_dict={}):
         tol, is_relative = get_tolerance_info(col_idx, thresholds_dict)
         if ignore_order_:
-            # For ignore_order mode, check if all values in v1 exist in v2
-            # Build normalized sets
-            set_v1 = set(normalize_value(x, tol, is_relative) for x in v1)
-            set_v2 = set(normalize_value(x, tol, is_relative) for x in v2)
-            # All elements in v1 must be in v2
-            return set_v1.issubset(set_v2)
+            # For ignore_order mode, check if all values in v1 exist in v2.
+            # Numbers: bisect sorted pred values and tolerance-check the two
+            # nearest neighbors of each gold value. Others: normalized set lookup.
+            is_num = lambda x: isinstance(x, (int, float)) and not pd.isna(x)
+            pred_numeric = sorted(float(x) for x in v2 if is_num(x))
+            pred_other = {normalize_value(x, tol, is_relative) for x in v2 if not is_num(x)}
+            for x in v1:
+                if is_num(x):
+                    xf = float(x)
+                    i = bisect.bisect_left(pred_numeric, xf)
+                    neighbors = (pred_numeric[j] for j in (i - 1, i) if 0 <= j < len(pred_numeric))
+                    if not any(values_close(xf, b, tol, is_relative) for b in neighbors):
+                        return False
+                else:
+                    if normalize_value(x, tol, is_relative) not in pred_other:
+                        return False
+            return True
         else:
             # Exact match mode: lengths and order must match
             if len(v1) != len(v2):
@@ -139,19 +159,8 @@ def compare_csv(output_file_name: str, gold_file_name, **options) -> Dict[str, A
                 if pd.isna(a) and pd.isna(b):
                     continue
                 elif isinstance(a, (int, float)) and isinstance(b, (int, float)):
-                    if is_relative:
-                        # 相对误差
-                        if abs(a) < 1e-12 and abs(b) < 1e-12:
-                            continue  # 两个都接近0，认为匹配
-                        if abs(a) < 1e-12 or abs(b) < 1e-12:
-                            return False  # 一个为0一个不为0
-                        rel_error = abs(a - b) / max(abs(a), abs(b))
-                        if rel_error > tol:
-                            return False
-                    else:
-                        # 绝对误差
-                        if not math.isclose(float(a), float(b), abs_tol=tol):
-                            return False
+                    if not values_close(float(a), float(b), tol, is_relative):
+                        return False
                 elif isinstance(a, str) and isinstance(b, str):
                     # Case-insensitive string comparison
                     if a.lower().strip() != b.lower().strip():

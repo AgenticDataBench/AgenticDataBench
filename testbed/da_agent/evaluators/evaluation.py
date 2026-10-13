@@ -112,18 +112,25 @@ class Evaluator:
             else [eval_config["eval_func"]]
         exe_eval_func = []
         for func in eval_func:
+            # Use a callable replacement so re.sub does not parse backslashes in
+            # Windows paths as template escapes (\t, \1, bad escape errors).
+            # as_posix() converts backslashes to forward slashes so the path is
+            # also safe inside the eval'ed string literal; forward-slash paths
+            # work fine on Windows.
             for k, v in gold_file_dict.items():
-                pattern = rf"(['\"]){k}\1"
+                pattern = rf"(['\"]){re.escape(k)}\1"
                 matches = list(re.finditer(pattern, func))
                 if len(matches) > 1:
                     raise ValueError(f"Found multiple matches for {k}")
-                func = re.sub(pattern, rf"\1{v}\1", func)
+                replacement = Path(v).as_posix()
+                func = re.sub(pattern, lambda m, r=replacement: m.group(1) + r + m.group(1), func)
             for k, v in output_file_dict.items():
-                pattern = rf"(['\"]){k}\1"
+                pattern = rf"(['\"]){re.escape(k)}\1"
                 matches = list(re.finditer(pattern, func))
                 if len(matches) > 1:
                     raise ValueError(f"Found multiple matches for {k}")
-                func = re.sub(rf"(['\"]){k}\1", rf"\1{v}\1", func)
+                replacement = Path(v).as_posix()
+                func = re.sub(pattern, lambda m, r=replacement: m.group(1) + r + m.group(1), func)
             exe_eval_func.append(func)
         
         
